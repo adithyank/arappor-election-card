@@ -1,0 +1,134 @@
+<style>
+
+.vcdesign {
+    width: 32rem;
+    height: 36rem;
+    background-color: white;
+    color: #960001;
+}
+
+.vcinnerrect {
+    margin: 1.5rem;
+    height: 37rem;
+}
+
+.photorow {
+    height: 14rem;
+    margin: 1.5rem 1.5rem 1.5rem 1.5rem;
+    /*border: 1px solid blue;*/
+}
+
+.photo {
+    margin: 0rem;
+    height: 14rem;
+    width: 100%;
+    padding: 0px;
+}
+
+.photo img {
+    height: auto;
+    width: auto;
+    max-width: 100%`;
+    max-height: 100%;
+    margin: auto;
+    object-fit:cover;
+}
+
+.photoname h4 {
+    font-size: 2.2rem;
+}
+
+.partyrow {
+    /*height: 10rem;*/
+    margin: 1.5rem 1.5rem 1.5rem 1.5rem;
+}
+
+.symbol {
+    margin: 0rem;
+    height: 10rem;
+    width: 100%;
+    padding: 0px;
+}
+
+.symbol img {
+    height: auto;
+    width: auto;
+    max-width: 100%`;
+    max-height: 100%;
+    margin: auto;
+    object-fit:cover;
+}
+
+
+.constituencyrow p {
+    color: gray;
+    margin-bottom: 0px;
+}
+
+.constituencyrow h2 {
+    color: white;
+    padding: 1rem;
+    background-color: #960001;
+}
+
+</style>
+
+<div class="d-flex justify-content-center">
+    <div class="vcdesign border shadow">
+
+<!--        <div class="vcinnerrect border shadow">-->
+            <div class="row titlerow ml-4 mt-2">
+                <h1 class="my-0">#KnowYourCandidates</h1>
+            </div>
+
+            <hr class="mx-4">
+
+            <div class="row photoname ml-4">
+                <h1>{{:name}}</h1>
+            </div>
+
+        <div class="row partyrow mt-0 justify-content-center">
+            <div class="col p-0 align-self-center">
+                <h4>{{:partyName}}</h4>
+            </div>
+        </div>
+
+        <div class="row photorow">
+                <div class= "col-6 p-0">
+                    <div class="photo" style="border: 1px solid green">
+                        {{if soPhotoUrl}}
+                        <img src="{{:soPhotoUrl}}">
+                        {{/if}}
+                    </div>
+                </div>
+
+                <div class="col-6">
+<!--                    <p class="mb-0 text-muted text-center">Symbol</p>-->
+                    <div class="symbol" style="border: 0px solid green">
+
+                        {{if soSymbolUrl}}
+                        <img src="{{:soSymbolUrl}}">
+                        {{/if}}
+                    </div>
+                    <div class="symbolname text-center">{{:symbolName}}</div>
+                </div>
+            </div>
+
+            <div class="row fillerrow">
+                <div class="col">
+                </div>
+            </div>
+
+            <div class="row constituencyrow justify-content-center d-none">
+                <div class="col-auto">
+<!--                    <p class="mb-0">Consituency | தொகுதி</p>-->
+                    <h2>{{:constituency}}</h2>
+                </div>
+            </div>
+
+<!--        </div>-->
+
+    </div>
+
+</div>
+

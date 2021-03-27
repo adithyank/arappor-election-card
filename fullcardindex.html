@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="_csrf" content="${_csrf.token}"/>
+    <meta name="_csrf_header" content="${_csrf.headerName}"/>
+
+    <title></title>
+
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@2.0.7/css/boxicons.min.css" integrity="sha256-H8c0yAkzdmZ1/anJofhnKJ3ljR5t3IViHho361BqIro=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.css" integrity="sha256-aa0xaJgmK/X74WM224KMQeNQC2xYKwlAt08oZqjeF0E=" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/my/main/style.css">
+    <link rel="stylesheet" href="assets/my/main/election.css">
+
+</head>
+
+<body>
+
+<header id="header" class="fixed-top p-1">
+
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="/"><img src="assets/img/kv-logo-tiny.png" alt="" class="img-fluid m-0" style="height: 3rem; padding-right: 3rem;"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul id = "topmenuparent" class="navbar-nav mr-auto">
+            </ul>
+
+            <div class="form-inline my-2 my-lg-0">
+
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <img src="assets/img/user-logo.png" style="height: 2rem;">
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown2">
+                            <a class="dropdown-item"><strong class="badge badge-info">${username}</strong></a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Profile</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Change Password</a>
+                            <a class="dropdown-item" href="#" onclick="logoutWithConfirmation()">Logout</a>
+                        </div>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+</header>
+
+<main>
+    <div class="maindiv">
+        <input type="button" onclick="saveDivAsImage()" value="Save">
+
+        <div id="contentdiv" class="container election-card-parent border">
+            <div class="election-card-bg">
+                <div class="election-card border shadow">
+
+                        <div class="row row-main-details">
+                        <div class="col col-3 col-photo">
+                            <img src="assets/adr/photo/jayalalitha.png">
+                        </div>
+
+                        <div class="col col-9 col-photo-details">
+                            <div class="row">
+
+                                <div class="col col-photo-details-tamil">
+                                    <div class="label">Name</div>
+                                    <div class="value">Jayalalitha. J</div>
+
+                                    <div class="label">Party</div>
+                                    <div class="value">A.I.A.D.M.K.</div>
+
+                                    <div class="label">Constituency</div>
+                                    <div class="value">R. K. Nagar</div>
+
+                                </div>
+
+                                <div class="col col-photo-details-english border-left">
+                                    <div class="label">பெயர்</div>
+                                    <div class="value">ஜெயலலிதா J</div>
+
+                                    <div class="label">கட்சி</div>
+                                    <div class="value">அ.இ.அ.தி.மு.க</div>
+
+                                    <div class="label">தொகுதி</div>
+                                    <div class="value">ஆர். கே. நகர்</div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="row m-0 border"></div>
+
+                    <div class="row row-kvs">
+                        <div class="col">
+                            <div class="row row-kv border-bottom">
+                                <div class="col col-kv-key">கிரிமினல் வழக்குகள்</div>
+                                <div class="col col-kv-value">4</div>
+                            </div>
+
+                            <div class="row row-kv  border-bottom">
+                                <div class="col col-kv-key">கல்வி</div>
+                                <div class="col col-kv-value">10 ஆம் வகுப்பு</div>
+                            </div>
+
+                            <div class="row  row-kv border-bottom">
+                                <div class="col col-kv-key">அசையும் சொத்து</div>
+                                <div class="col col-kv-value">41 கோடி 63 லட்சம்</div>
+                            </div>
+
+                            <div class="row  row-kv border-bottom">
+                                <div class="col col-kv-key">அசையா சொத்து</div>
+                                <div class="col col-kv-value">72 கோடி 9 லட்சம்</div>
+                            </div>
+
+                            <div class="row  row-kv border-bottom">
+                                <div class="col col-kv-key">அசையா சொத்து</div>
+                                <div class="col col-kv-value">2 கோடி 4 லட்சம்</div>
+                            </div>
+
+                            <div class="row row-kv border-bottom">
+                                <div class="col col-kv-key">மொத்த நிகர சொத்து</div>
+                                <div class="col col-kv-value">111 கோடி 69 லட்சம்</div>
+                            </div>
+
+                            <div class="row  row-kv border-bottom">
+                                <div class="col col-kv-key">தொழில்</div>
+                                <div class="col col-kv-value">விவசாயம்</div>
+                            </div>
+
+                            <div class="row  row-kv">
+                                <div class="col col-kv-key">துணைவர் தொழில்</div>
+                                <div class="col col-kv-value">NA</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="row row-property-comparison">
+                        <div class="col-3"></div>
+                        <div class="col-6 col-property-comparison">
+                            <canvas id="propertyChart"></canvas>
+                        </div>
+                        <div class="col-3"></div>
+                    </div>
+
+                    <div class="row row-footer">
+                        * தேர்தல் ஆணையத்திற்கு சமர்ப்பிக்கப்பட்ட தகவல்
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main><!-- End #main -->
+
+<div id="preloader"></div>
+<a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+
+<script src="assets/my/base/base.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jsrender/1.0.11/jsrender.min.js" integrity="sha512-bKlNlbTH3duwZ28zoqEhXui/yuaPuQVci6OAVu0zh2WfYbEKD39HszVR8byP4/L4YyBo3b5CGIY+4ldVN93uCg==" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/gh/adithyank/forcdn@a19b47275d47b950f8fb63d2e58acbbbf2b6afd7/my/jsrender/jsrenderutil.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha256-t9UJPrESBeG2ojKTIcFLPGF7nHi2vEc7f5A2KpH/UBU=" crossorigin="anonymous"></script>
+<script src="http://html2canvas.hertzen.com/dist/html2canvas.js"></script>
+<script src="assets/my/main/main.js"></script>
+
+<script>
+
+var saveDivAsImage = function() {
+    html2canvas(document.querySelector(".election-card-parent")).then(canvas => {
+        //document.body.appendChild(canvas)
+
+      var link = document.createElement('a');
+      link.download = 'filename.png';
+      link.href = canvas.toDataURL()
+      link.click();
+    });
+}
+
+
+function showPropertyChart()
+{
+    var ctx = document.getElementById('propertyChart').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['2011', '2016'],
+        datasets: [{
+            label: 'மொத்த நிகர சொத்து மதிப்பு (கோடி)',
+            data: [55, 112],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+        title: {
+            display: true,
+            text: ''
+        },
+        scales: {
+            yAxes: [{
+                scaleLabel: {
+                    display: true,
+                    labelString: 'சொத்து மதிப்பு (கோடி)'
+                },
+                label: 'y label',
+                ticks: {
+                    beginAtZero: true
+                }
+            }]
+        }
+    }
+});
+}
+
+showPropertyChart();
+</script>
+
+</body>
+</html>

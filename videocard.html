@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="_csrf" content="${_csrf.token}"/>
+    <meta name="_csrf_header" content="${_csrf.headerName}"/>
+
+    <title></title>
+
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@2.0.7/css/boxicons.min.css" integrity="sha256-H8c0yAkzdmZ1/anJofhnKJ3ljR5t3IViHho361BqIro=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.css" integrity="sha256-aa0xaJgmK/X74WM224KMQeNQC2xYKwlAt08oZqjeF0E=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/adithyank/forcdn/w2ui/1.5/w2ui-1.5.min.css" />
+    <link rel="stylesheet" href="assets/my/main/style.css">
+    <link rel="stylesheet" href="assets/my/main/election.css">
+
+</head>
+
+<body>
+
+<!-- ======= Top Bar ======= -->
+<!--div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
+    <div class="container d-flex align-items-center justify-content-between">
+        <div class="d-flex align-items-center">
+            <i class="icofont-clock-time"></i> Monday - Saturday, 8AM to 10PM
+        </div>
+        <div class="d-flex align-items-center">
+            <i class="icofont-phone"></i> Call us now +1 5589 55488 55
+        </div>
+    </div>
+</div-->
+
+<main>
+    <div class="maindiv" style="height: calc(100vh - 8rem);">
+
+        <div class="container-fluid h-100">
+
+            <div class="row">
+                <div class="col-3">
+
+                    <div class="w2ui-field w2ui-span5">
+                        <label>Constituency</label>
+                        <div> <input style="font-size: 0.8rem; width: 100%" id="constituencyList" type="list"></div>
+                    </div>
+                </div>
+
+                <div class="col-auto">
+                    <input type="button" id="btnLoadConstituency" class="btn btn-primary" value="Load">
+                </div>
+                <div class="col-auto">
+                    <input type="button" onclick="saveDivAsImage()" class="btn btn-primary" value="Save">
+                </div>
+                <div class="col-auto">
+                    <input type="button" onclick="saveAllVideoCards()" class="btn btn-primary" value="Save All Video Cards">
+                </div>
+                <div class="col-auto">
+                    <label id = "labelProgress"></label>
+                </div>
+            </div>
+
+            <div class="row h-100">
+
+                <div id="tablediv" class="col-sm-4 h-100">
+                </div>
+
+                <div id="carddiv" class="col-sm-8 h-100">
+
+                    <div class="election-videocard-parent">
+                        <div id="videocardcontentdiv">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</main><!-- End #main -->
+
+<div id="preloader"></div>
+<a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+
+<script src="assets/my/base/base.js"></script>
+<!--<script src="https://cdn.jsdelivr.net/npm/jquery@2.1.0/dist/jquery.min.js" integrity="sha256-iFHnhEQT7JhgU9fUl8qTKGG4Yi0jabspF3cynCpxPHI=" crossorigin="anonymous"></script>-->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jsrender/1.0.11/jsrender.min.js" integrity="sha512-bKlNlbTH3duwZ28zoqEhXui/yuaPuQVci6OAVu0zh2WfYbEKD39HszVR8byP4/L4YyBo3b5CGIY+4ldVN93uCg==" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/gh/adithyank/forcdn@a19b47275d47b950f8fb63d2e58acbbbf2b6afd7/my/jsrender/jsrenderutil.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha256-t9UJPrESBeG2ojKTIcFLPGF7nHi2vEc7f5A2KpH/UBU=" crossorigin="anonymous"></script>
+<script src="http://html2canvas.hertzen.com/dist/html2canvas.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/adithyank/forcdn/w2ui/1.5/w2ui-1.5.min.js"></script>
+<script src="assets/my/main/main.js"></script>
+<script src="assets/my/main/videocard.js"></script>
+
+<script>
+
+var saveDivAsImage = function(cons, name) {
+    html2canvas(document.querySelector(".vcdesign")).then(canvas => {
+        //document.body.appendChild(canvas)
+
+      var link = document.createElement('a');
+      link.download = cons + '-' + name + '.png';
+      link.href = canvas.toDataURL()
+      link.click();
+    });
+}
+
+var saveDivAsImage2 = function() {
+
+
+    html2canvas(document.querySelector(".vcdesign"), {
+        onrendered: function(canvas) {
+            console.log("inside save fn")
+              var link = document.createElement('a');
+              link.download = 'filename.png';
+              link.href = canvas.toDataURL()
+              link.click();
+        }
+    })
+}
+
+function showPropertyChart()
+{
+    var ctx = document.getElementById('propertyChart').getContext('2d');
+    var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['2011', '2016'],
+        datasets: [{
+            label: 'மொத்த நிகர சொத்து மதிப்பு (கோடி)',
+            data: [55, 112],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+        title: {
+            display: true,
+            text: ''
+        },
+        scales: {
+            yAxes: [{
+                scaleLabel: {
+                    display: true,
+                    labelString: 'சொத்து மதிப்பு (கோடி)'
+                },
+                label: 'y label',
+                ticks: {
+                    beginAtZero: true
+                }
+            }]
+        }
+    }
+});
+}
+
+</script>
+
+</body>
+</html>
