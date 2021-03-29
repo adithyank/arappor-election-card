@@ -174,9 +174,13 @@ div.col-photo img {
 }
 
 .logo-col img {
-    height: 6rem;
+    height: 10rem;
 }
 
 .card-content {
     color: #960001;
+}
+
+.disclaimer {
+    font-size: 0.9rem;
 }
