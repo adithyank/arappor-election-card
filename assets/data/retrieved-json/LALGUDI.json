@@ -1,1 +1,2038 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"92fec7c3-01f3-4771-9947-018f799dd1fd","name":"A.SOUNDARAPANDIAN","education":"12th standard ","occupation":"Agriculture and Business","age":"56","annual_income":"901,894","source_of_income":"Agriculture and Business","moveable_assets":"9,890,507","immoveable_assets":"7,400,000","total_assets":"17,290,507","liabilities":"2,935,250","net_assets":"14,355,257","no_of_criminal_cases":12,"cases_description":"Protest cases, (Unlawful assumbly,disobidience to order duly promulgated by public servant,wrongful restraint). ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_17.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"262,474","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"586,201","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"654,276","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"901,894","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fec7c3-01f3-4771-9947-018f799dd1fd","name":"A.\u0b9a\u0bcc\u0ba8\u0bcd\u0ba4\u0bb0\u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0ba9\u0bcd","education":"12th standard ","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","age":"56","annual_income":"901,894","source_of_income":"Agriculture and Business","moveable_assets":"9,890,507","immoveable_assets":"7,400,000","total_assets":"17,290,507","liabilities":"2,935,250","net_assets":"14,355,257","no_of_criminal_cases":12,"cases_description":"\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0b95\u0bcd \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1, \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bb5\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bc1 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_17.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"262,474","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"586,201","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"654,276","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"901,894","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","cases_pending_description":"\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0b95\u0bcd \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1, \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bb5\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bc1 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fe9952-3331-4509-8b0b-bd23649ebf7a","name":"D.R.DHARMARAJ","education":"B.com.,B.L.,M.B.A.,","occupation":"Agriculture and Transport","age":"57","annual_income":"1,209,460","source_of_income":"Agriculture and Transport","moveable_assets":"11,217,034","immoveable_assets":"23,500,000","total_assets":"34,717,034","liabilities":"2,168,579","net_assets":"32,548,455","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_13.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"756,880","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"2,630,940","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"1,049,780","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"867,970","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"1,209,460","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fe9952-3331-4509-8b0b-bd23649ebf7a","name":"D.R..\u0ba4\u0bb0\u0bcd\u0bae\u0bb0\u0bbe\u0b9c\u0bcd ","education":"B.com.,B.L.,M.B.A.,","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1","age":"57","annual_income":"1,209,460","source_of_income":"Agriculture and Transport","moveable_assets":"11,217,034","immoveable_assets":"23,500,000","total_assets":"34,717,034","liabilities":"2,168,579","net_assets":"32,548,455","no_of_criminal_cases":0,"cases_description":"\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_13.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"756,880","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"2,630,940","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"1,049,780","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"867,970","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"1,209,460","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd ","cases_pending_description":"\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1","cases_convicted_description":"\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "}},{"en":{"candidate_id":"930274b4-d668-4ccb-8d6c-b802b66fd6cc","name":"K.KAMARAJ","education":"10th std","occupation":"COOLIE","age":"54","annual_income":"0","source_of_income":"COOLIE","moveable_assets":"100,000","immoveable_assets":"0","total_assets":"100,000","liabilities":"0","net_assets":"100,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_20.jpg","party":{"id":"SAMANIYA MAKKAL NALA KATCHI","en_label":"SAMANIYA MAKKAL NALA KATCHI","ta_label":"\u0b9a\u0bbe\u0bae\u0ba3\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bb2 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"930274b4-d668-4ccb-8d6c-b802b66fd6cc","name":"K.\u0b95\u0bbe\u0bae\u0bb0\u0bbe\u0b9c\u0bcd ","education":"10th std","occupation":"\u0b95\u0bc2\u0bb2\u0bbf ","age":"54","annual_income":"0","source_of_income":"COOLIE","moveable_assets":"100,000","immoveable_assets":"0","total_assets":"100,000","liabilities":"0","net_assets":"100,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_20.jpg","party":{"id":"SAMANIYA MAKKAL NALA KATCHI","en_label":"SAMANIYA MAKKAL NALA KATCHI","ta_label":"\u0b9a\u0bbe\u0bae\u0ba3\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bb2 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b9a\u0bbe\u0bae\u0ba3\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bb2 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","self_source_of_income":"\u0b95\u0bc2\u0bb2\u0bbf ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b95\u0bc2\u0bb2\u0bbf ","cases_convicted_description":""}},{"en":{"candidate_id":"9304d1b2-fa6e-408f-9084-74ff311a46f5","name":"R.SILAMBARASAN","education":"10th Standard ","occupation":"AGRICULTURAL LABOURER","age":"31","annual_income":"0","source_of_income":"WAGES","moveable_assets":"385,000","immoveable_assets":"150,000","total_assets":"535,000","liabilities":"0","net_assets":"535,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/R_SILAMBARASAN_Lalgudi.jpg","party":{"id":"ANNA MGR DRAVIDA MAKKAL KAZHAGAM","en_label":"ANNA MGR DRAVIDA MAKKAL KAZHAGAM","ta_label":"\u0b85\u0ba3\u0bcd\u0ba3\u0bbe MGR \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":null},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9304d1b2-fa6e-408f-9084-74ff311a46f5","name":"R.\u0b9a\u0bbf\u0bb2\u0bae\u0bcd\u0baa\u0bb0\u0b9a\u0ba9\u0bcd\t","education":"10th Standard ","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bc2\u0bb2\u0bbf","age":"31","annual_income":"0","source_of_income":"WAGES","moveable_assets":"385,000","immoveable_assets":"150,000","total_assets":"535,000","liabilities":"0","net_assets":"535,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/R_SILAMBARASAN_Lalgudi.jpg","party":{"id":"ANNA MGR DRAVIDA MAKKAL KAZHAGAM","en_label":"ANNA MGR DRAVIDA MAKKAL KAZHAGAM","ta_label":"\u0b85\u0ba3\u0bcd\u0ba3\u0bbe MGR \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":null},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0ba3\u0bcd\u0ba3\u0bbe MGR \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd ","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bc2\u0bb2\u0bbf","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bc2\u0bb2\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"93026ffe-fac7-44f1-a9e7-113389ec3adc","name":"P.NAMBIRAJAN","education":"10th Standard ","occupation":"AGRICULTURAL WAGES","age":"51","annual_income":"0","source_of_income":"NIL","moveable_assets":"645,000","immoveable_assets":"200,000","total_assets":"845,000","liabilities":"0","net_assets":"845,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_18.jpg","party":{"id":"PUDHIYA TAMIZHAGAM KATCHI","en_label":"PUDHIYA TAMIZHAGAM KATCHI","ta_label":"\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":null},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93026ffe-fac7-44f1-a9e7-113389ec3adc","name":"P.\u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0bb0\u0bbe\u0b9c\u0ba9\u0bcd ","education":"10th Standard ","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf","age":"51","annual_income":"0","source_of_income":"NIL","moveable_assets":"645,000","immoveable_assets":"200,000","total_assets":"845,000","liabilities":"0","net_assets":"845,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_18.jpg","party":{"id":"PUDHIYA TAMIZHAGAM KATCHI","en_label":"PUDHIYA TAMIZHAGAM KATCHI","ta_label":"\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":null},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","self_source_of_income":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92f6ae52-cf63-42e5-ac18-41352fce1fce","name":"K.MALAR TAMIL PRABHA","education":"M.E(Communication Systems)","occupation":"Housewife","age":"28","annual_income":"0","source_of_income":"Housewife","moveable_assets":"624,000","immoveable_assets":"0","total_assets":"624,000","liabilities":"144,000","net_assets":"480,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_1.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f6ae52-cf63-42e5-ac18-41352fce1fce","name":"K.\u0bae\u0bb2\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0baa\u0bbf\u0bb0\u0baa\u0bbe","education":"M.E(Communication Systems)","occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","age":"28","annual_income":"0","source_of_income":"Housewife","moveable_assets":"624,000","immoveable_assets":"0","total_assets":"624,000","liabilities":"144,000","net_assets":"480,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_1.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"self_source_of_income":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"930272e2-7008-4ad2-b418-5e14965cc7cf","name":"V.MUTHUKUMAR","education":"M.B.A.,","occupation":"INSURANCE AGENT","age":"47","annual_income":"0","source_of_income":"INSURANCE AGENT","moveable_assets":"4,542,000","immoveable_assets":"1,200,000","total_assets":"5,742,000","liabilities":"1,286,000","net_assets":"4,456,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_19.jpg","party":{"id":"SHIVSENA","en_label":"SHIVSENA","ta_label":"\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe ","party_image":null},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"472,853","spouse":"299,648","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"480,599","spouse":"522,178","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"543,520","spouse":"383,190","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"930272e2-7008-4ad2-b418-5e14965cc7cf","name":"V.\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ","education":"M.B.A.,","occupation":"\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd\t","age":"47","annual_income":"0","source_of_income":"INSURANCE AGENT","moveable_assets":"4,542,000","immoveable_assets":"1,200,000","total_assets":"5,742,000","liabilities":"1,286,000","net_assets":"4,456,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_19.jpg","party":{"id":"SHIVSENA","en_label":"SHIVSENA","ta_label":"\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe ","party_image":null},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"472,853","spouse":"299,648","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"480,599","spouse":"522,178","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"543,520","spouse":"383,190","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe ","self_source_of_income":"\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd\t","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd\t","cases_convicted_description":""}},{"en":{"candidate_id":"9304d8a9-8481-429f-a1ff-4529329da57c","name":"M.VIJAYAMURTHY","education":"B.COM","occupation":"AGRICULTURE","age":"64","annual_income":"657,640","source_of_income":"AGRICULTURE","moveable_assets":"5,384,500","immoveable_assets":"49,760,000","total_assets":"55,144,500","liabilities":"7,725,422","net_assets":"47,419,078","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/M_VIJAYAMURTHY_Lalgudi.jpg","party":{"id":"Amma Makkal Munnettra Kazagam","en_label":"Amma Makkal Munnettra Kazagam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":null},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"657,640","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9304d8a9-8481-429f-a1ff-4529329da57c","name":"M.\u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bc2\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\t","education":"B.COM","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","age":"64","annual_income":"657,640","source_of_income":"AGRICULTURE","moveable_assets":"5,384,500","immoveable_assets":"49,760,000","total_assets":"55,144,500","liabilities":"7,725,422","net_assets":"47,419,078","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/M_VIJAYAMURTHY_Lalgudi.jpg","party":{"id":"Amma Makkal Munnettra Kazagam","en_label":"Amma Makkal Munnettra Kazagam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":null},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"657,640","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fcd8ba-ad3f-42cc-8124-ebce3272bf6c","name":"K.Anantha Babu","education":"9th pass","occupation":"Agriculture","age":"40","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"465,000","immoveable_assets":"250,000","total_assets":"715,000","liabilities":"0","net_assets":"715,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_10.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fcd8ba-ad3f-42cc-8124-ebce3272bf6c","name":"K.\u0b86\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bbe\u0baa\u0bc1","education":"9th pass","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"40","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"465,000","immoveable_assets":"250,000","total_assets":"715,000","liabilities":"0","net_assets":"715,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_10.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"930277e3-ded8-4fcd-b71a-752888c8801c","name":"A.ANANDHKUMAR","education":"M.B.A.,","occupation":"NA","age":"26","annual_income":"0","source_of_income":"NA","moveable_assets":"20,000","immoveable_assets":"0","total_assets":"20,000","liabilities":"0","net_assets":"20,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_21.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"930277e3-ded8-4fcd-b71a-752888c8801c","name":"A.\u0b86\u0ba9\u0ba8\u0bcd\u0ba4\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ","education":"M.B.A.,","occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","age":"26","annual_income":"0","source_of_income":"NA","moveable_assets":"20,000","immoveable_assets":"0","total_assets":"20,000","liabilities":"0","net_assets":"20,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_21.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","cases_convicted_description":""}},{"en":{"candidate_id":"92feb89b-36ef-42e0-86ee-90a5be5006b1","name":"P.M.SAHADEVAN","education":"9th Standard","occupation":"Agriculture","age":"55","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"797,876","immoveable_assets":"1,600,000","total_assets":"2,397,876","liabilities":"0","net_assets":"2,397,876","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_16.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92feb89b-36ef-42e0-86ee-90a5be5006b1","name":"P.M..\u0b9a\u0b95\u0bbe\u0ba4\u0bc7\u0bb5\u0ba9\u0bcd ","education":"9th Standard","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","age":"55","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"797,876","immoveable_assets":"1,600,000","total_assets":"2,397,876","liabilities":"0","net_assets":"2,397,876","no_of_criminal_cases":0,"cases_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_16.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd ","cases_pending_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_convicted_description":"\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "}},{"en":{"candidate_id":"9304d4dc-e3ca-4f9b-9321-e8069d85c075","name":"K.THANGAMANI","education":"M.A., M.ED.,","occupation":"RETIRED TEACHER","age":"78","annual_income":"0","source_of_income":"RETIRED TEACHER","moveable_assets":"10,000","immoveable_assets":"6,000,000","total_assets":"6,010,000","liabilities":"1,900,000","net_assets":"4,110,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANBILK_THANGAMANI_Lalgudi.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9304d4dc-e3ca-4f9b-9321-e8069d85c075","name":"K.\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0ba3\u0bbf","education":"M.A., M.ED.,","occupation":"\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\t\n","age":"78","annual_income":"0","source_of_income":"RETIRED TEACHER","moveable_assets":"10,000","immoveable_assets":"6,000,000","total_assets":"6,010,000","liabilities":"1,900,000","net_assets":"4,110,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANBILK_THANGAMANI_Lalgudi.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\t","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\t\n","cases_convicted_description":""}},{"en":{"candidate_id":"92fabc9f-f6ea-4bdc-8146-92eeb9839561","name":"K.DHARMARAJ","education":"8th standard","occupation":"Driver","age":"49","annual_income":"0","source_of_income":"Driver income","moveable_assets":"1,192,000","immoveable_assets":"400,000","total_assets":"1,592,000","liabilities":"0","net_assets":"1,592,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_3.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fabc9f-f6ea-4bdc-8146-92eeb9839561","name":"K.\u0ba4\u0bb0\u0bcd\u0bae\u0bb0\u0bbe\u0b9c\u0bcd","education":"8th standard","occupation":"\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd","age":"49","annual_income":"0","source_of_income":"Driver income","moveable_assets":"1,192,000","immoveable_assets":"400,000","total_assets":"1,592,000","liabilities":"0","net_assets":"1,592,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_3.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"self_source_of_income":"\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fcda5a-c113-455d-a91d-583d651f2416","name":"U.Johnson","education":"PUC.,","occupation":"Own business","age":"67","annual_income":"0","source_of_income":"own business","moveable_assets":"413,000","immoveable_assets":"1,500,000","total_assets":"1,913,000","liabilities":"30,000","net_assets":"1,883,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_11.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fcda5a-c113-455d-a91d-583d651f2416","name":"U.\u0b9c\u0bbe\u0ba9\u0bcd\u0b9a\u0ba9\u0bcd","education":"PUC.,","occupation":"\u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","age":"67","annual_income":"0","source_of_income":"own business","moveable_assets":"413,000","immoveable_assets":"1,500,000","total_assets":"1,913,000","liabilities":"30,000","net_assets":"1,883,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/LALGUDI_11.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"LALGUDI","constituency_en_label":"Lalgudi","constituency_ta_label":"\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "92fec7c3-01f3-4771-9947-018f799dd1fd",
+                "name": "A.SOUNDARAPANDIAN",
+                "education": "12th standard ",
+                "occupation": "Agriculture and Business",
+                "age": "56",
+                "annual_income": "901,894",
+                "source_of_income": "Agriculture and Business",
+                "moveable_assets": "9,890,507",
+                "immoveable_assets": "7,400,000",
+                "total_assets": "17,290,507",
+                "liabilities": "2,935,250",
+                "net_assets": "14,355,257",
+                "no_of_criminal_cases": 12,
+                "cases_description": "Protest cases, (Unlawful assumbly,disobidience to order duly promulgated by public servant,wrongful restraint). ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_17.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "262,474",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "586,201",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "654,276",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "901,894",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fec7c3-01f3-4771-9947-018f799dd1fd",
+                "name": "A.\u0b9a\u0bcc\u0ba8\u0bcd\u0ba4\u0bb0\u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0ba9\u0bcd",
+                "education": "12th standard ",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "age": "56",
+                "annual_income": "901,894",
+                "source_of_income": "Agriculture and Business",
+                "moveable_assets": "9,890,507",
+                "immoveable_assets": "7,400,000",
+                "total_assets": "17,290,507",
+                "liabilities": "2,935,250",
+                "net_assets": "14,355,257",
+                "no_of_criminal_cases": 12,
+                "cases_description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0b95\u0bcd \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1, \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bb5\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bc1 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_17.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "262,474",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "586,201",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "654,276",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "901,894",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0b95\u0bcd \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1, \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bb5\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe9952-3331-4509-8b0b-bd23649ebf7a",
+                "name": "D.R.DHARMARAJ",
+                "education": "B.com.,B.L.,M.B.A.,",
+                "occupation": "Agriculture and Transport",
+                "age": "57",
+                "annual_income": "1,209,460",
+                "source_of_income": "Agriculture and Transport",
+                "moveable_assets": "11,217,034",
+                "immoveable_assets": "23,500,000",
+                "total_assets": "34,717,034",
+                "liabilities": "2,168,579",
+                "net_assets": "32,548,455",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_13.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "756,880",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "2,630,940",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "1,049,780",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "867,970",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,209,460",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe9952-3331-4509-8b0b-bd23649ebf7a",
+                "name": "D.R..\u0ba4\u0bb0\u0bcd\u0bae\u0bb0\u0bbe\u0b9c\u0bcd ",
+                "education": "B.com.,B.L.,M.B.A.,",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1",
+                "age": "57",
+                "annual_income": "1,209,460",
+                "source_of_income": "Agriculture and Transport",
+                "moveable_assets": "11,217,034",
+                "immoveable_assets": "23,500,000",
+                "total_assets": "34,717,034",
+                "liabilities": "2,168,579",
+                "net_assets": "32,548,455",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_13.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "756,880",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "2,630,940",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "1,049,780",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "867,970",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,209,460",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd ",
+                "cases_pending_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1",
+                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "930274b4-d668-4ccb-8d6c-b802b66fd6cc",
+                "name": "K.KAMARAJ",
+                "education": "10th std",
+                "occupation": "COOLIE",
+                "age": "54",
+                "annual_income": "0",
+                "source_of_income": "COOLIE",
+                "moveable_assets": "100,000",
+                "immoveable_assets": "0",
+                "total_assets": "100,000",
+                "liabilities": "0",
+                "net_assets": "100,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_20.jpg",
+                "party": {
+                    "id": "SAMANIYA MAKKAL NALA KATCHI",
+                    "en_label": "SAMANIYA MAKKAL NALA KATCHI",
+                    "ta_label": "\u0b9a\u0bbe\u0bae\u0ba3\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bb2 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WALKING_STICK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "930274b4-d668-4ccb-8d6c-b802b66fd6cc",
+                "name": "K.\u0b95\u0bbe\u0bae\u0bb0\u0bbe\u0b9c\u0bcd ",
+                "education": "10th std",
+                "occupation": "\u0b95\u0bc2\u0bb2\u0bbf ",
+                "age": "54",
+                "annual_income": "0",
+                "source_of_income": "COOLIE",
+                "moveable_assets": "100,000",
+                "immoveable_assets": "0",
+                "total_assets": "100,000",
+                "liabilities": "0",
+                "net_assets": "100,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_20.jpg",
+                "party": {
+                    "id": "SAMANIYA MAKKAL NALA KATCHI",
+                    "en_label": "SAMANIYA MAKKAL NALA KATCHI",
+                    "ta_label": "\u0b9a\u0bbe\u0bae\u0ba3\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bb2 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WALKING_STICK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b9a\u0bbe\u0bae\u0ba3\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bb2 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304d1b2-fa6e-408f-9084-74ff311a46f5",
+                "name": "R.SILAMBARASAN",
+                "education": "10th Standard ",
+                "occupation": "AGRICULTURAL LABOURER",
+                "age": "31",
+                "annual_income": "0",
+                "source_of_income": "WAGES",
+                "moveable_assets": "385,000",
+                "immoveable_assets": "150,000",
+                "total_assets": "535,000",
+                "liabilities": "0",
+                "net_assets": "535,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/R_SILAMBARASAN_Lalgudi.jpg",
+                "party": {
+                    "id": "ANNA MGR DRAVIDA MAKKAL KAZHAGAM",
+                    "en_label": "ANNA MGR DRAVIDA MAKKAL KAZHAGAM",
+                    "ta_label": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe MGR \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304d1b2-fa6e-408f-9084-74ff311a46f5",
+                "name": "R.\u0b9a\u0bbf\u0bb2\u0bae\u0bcd\u0baa\u0bb0\u0b9a\u0ba9\u0bcd\t",
+                "education": "10th Standard ",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bc2\u0bb2\u0bbf",
+                "age": "31",
+                "annual_income": "0",
+                "source_of_income": "WAGES",
+                "moveable_assets": "385,000",
+                "immoveable_assets": "150,000",
+                "total_assets": "535,000",
+                "liabilities": "0",
+                "net_assets": "535,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/R_SILAMBARASAN_Lalgudi.jpg",
+                "party": {
+                    "id": "ANNA MGR DRAVIDA MAKKAL KAZHAGAM",
+                    "en_label": "ANNA MGR DRAVIDA MAKKAL KAZHAGAM",
+                    "ta_label": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe MGR \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe MGR \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93026ffe-fac7-44f1-a9e7-113389ec3adc",
+                "name": "P.NAMBIRAJAN",
+                "education": "10th Standard ",
+                "occupation": "AGRICULTURAL WAGES",
+                "age": "51",
+                "annual_income": "0",
+                "source_of_income": "NIL",
+                "moveable_assets": "645,000",
+                "immoveable_assets": "200,000",
+                "total_assets": "845,000",
+                "liabilities": "0",
+                "net_assets": "845,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_18.jpg",
+                "party": {
+                    "id": "PUDHIYA TAMIZHAGAM KATCHI",
+                    "en_label": "PUDHIYA TAMIZHAGAM KATCHI",
+                    "ta_label": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93026ffe-fac7-44f1-a9e7-113389ec3adc",
+                "name": "P.\u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0bb0\u0bbe\u0b9c\u0ba9\u0bcd ",
+                "education": "10th Standard ",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf",
+                "age": "51",
+                "annual_income": "0",
+                "source_of_income": "NIL",
+                "moveable_assets": "645,000",
+                "immoveable_assets": "200,000",
+                "total_assets": "845,000",
+                "liabilities": "0",
+                "net_assets": "845,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_18.jpg",
+                "party": {
+                    "id": "PUDHIYA TAMIZHAGAM KATCHI",
+                    "en_label": "PUDHIYA TAMIZHAGAM KATCHI",
+                    "ta_label": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f6ae52-cf63-42e5-ac18-41352fce1fce",
+                "name": "K.MALAR TAMIL PRABHA",
+                "education": "M.E(Communication Systems)",
+                "occupation": "Housewife",
+                "age": "28",
+                "annual_income": "0",
+                "source_of_income": "Housewife",
+                "moveable_assets": "624,000",
+                "immoveable_assets": "0",
+                "total_assets": "624,000",
+                "liabilities": "144,000",
+                "net_assets": "480,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_1.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f6ae52-cf63-42e5-ac18-41352fce1fce",
+                "name": "K.\u0bae\u0bb2\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0baa\u0bbf\u0bb0\u0baa\u0bbe",
+                "education": "M.E(Communication Systems)",
+                "occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "age": "28",
+                "annual_income": "0",
+                "source_of_income": "Housewife",
+                "moveable_assets": "624,000",
+                "immoveable_assets": "0",
+                "total_assets": "624,000",
+                "liabilities": "144,000",
+                "net_assets": "480,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_1.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "930272e2-7008-4ad2-b418-5e14965cc7cf",
+                "name": "V.MUTHUKUMAR",
+                "education": "M.B.A.,",
+                "occupation": "INSURANCE AGENT",
+                "age": "47",
+                "annual_income": "0",
+                "source_of_income": "INSURANCE AGENT",
+                "moveable_assets": "4,542,000",
+                "immoveable_assets": "1,200,000",
+                "total_assets": "5,742,000",
+                "liabilities": "1,286,000",
+                "net_assets": "4,456,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_19.jpg",
+                "party": {
+                    "id": "SHIVSENA",
+                    "en_label": "SHIVSENA",
+                    "ta_label": "\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BISCUIT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "472,853",
+                        "spouse": "299,648",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "480,599",
+                        "spouse": "522,178",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "543,520",
+                        "spouse": "383,190",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "930272e2-7008-4ad2-b418-5e14965cc7cf",
+                "name": "V.\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ",
+                "education": "M.B.A.,",
+                "occupation": "\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd\t",
+                "age": "47",
+                "annual_income": "0",
+                "source_of_income": "INSURANCE AGENT",
+                "moveable_assets": "4,542,000",
+                "immoveable_assets": "1,200,000",
+                "total_assets": "5,742,000",
+                "liabilities": "1,286,000",
+                "net_assets": "4,456,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_19.jpg",
+                "party": {
+                    "id": "SHIVSENA",
+                    "en_label": "SHIVSENA",
+                    "ta_label": "\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BISCUIT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "472,853",
+                        "spouse": "299,648",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "480,599",
+                        "spouse": "522,178",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "543,520",
+                        "spouse": "383,190",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe ",
+                "self_source_of_income": "\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd\t",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd\t",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304d8a9-8481-429f-a1ff-4529329da57c",
+                "name": "M.VIJAYAMURTHY",
+                "education": "B.COM",
+                "occupation": "AGRICULTURE",
+                "age": "64",
+                "annual_income": "657,640",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "5,384,500",
+                "immoveable_assets": "49,760,000",
+                "total_assets": "55,144,500",
+                "liabilities": "7,725,422",
+                "net_assets": "47,419,078",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/M_VIJAYAMURTHY_Lalgudi.jpg",
+                "party": {
+                    "id": "Amma Makkal Munnettra Kazagam",
+                    "en_label": "Amma Makkal Munnettra Kazagam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "657,640",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304d8a9-8481-429f-a1ff-4529329da57c",
+                "name": "M.\u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bc2\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\t",
+                "education": "B.COM",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "64",
+                "annual_income": "657,640",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "5,384,500",
+                "immoveable_assets": "49,760,000",
+                "total_assets": "55,144,500",
+                "liabilities": "7,725,422",
+                "net_assets": "47,419,078",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/M_VIJAYAMURTHY_Lalgudi.jpg",
+                "party": {
+                    "id": "Amma Makkal Munnettra Kazagam",
+                    "en_label": "Amma Makkal Munnettra Kazagam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "657,640",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fcd8ba-ad3f-42cc-8124-ebce3272bf6c",
+                "name": "K.Anantha Babu",
+                "education": "9th pass",
+                "occupation": "Agriculture",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "465,000",
+                "immoveable_assets": "250,000",
+                "total_assets": "715,000",
+                "liabilities": "0",
+                "net_assets": "715,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_10.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BUCKET.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fcd8ba-ad3f-42cc-8124-ebce3272bf6c",
+                "name": "K.\u0b86\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bbe\u0baa\u0bc1",
+                "education": "9th pass",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "465,000",
+                "immoveable_assets": "250,000",
+                "total_assets": "715,000",
+                "liabilities": "0",
+                "net_assets": "715,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_10.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BUCKET.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "930277e3-ded8-4fcd-b71a-752888c8801c",
+                "name": "A.ANANDHKUMAR",
+                "education": "M.B.A.,",
+                "occupation": "NA",
+                "age": "26",
+                "annual_income": "0",
+                "source_of_income": "NA",
+                "moveable_assets": "20,000",
+                "immoveable_assets": "0",
+                "total_assets": "20,000",
+                "liabilities": "0",
+                "net_assets": "20,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_21.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "930277e3-ded8-4fcd-b71a-752888c8801c",
+                "name": "A.\u0b86\u0ba9\u0ba8\u0bcd\u0ba4\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ",
+                "education": "M.B.A.,",
+                "occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "age": "26",
+                "annual_income": "0",
+                "source_of_income": "NA",
+                "moveable_assets": "20,000",
+                "immoveable_assets": "0",
+                "total_assets": "20,000",
+                "liabilities": "0",
+                "net_assets": "20,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_21.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feb89b-36ef-42e0-86ee-90a5be5006b1",
+                "name": "P.M.SAHADEVAN",
+                "education": "9th Standard",
+                "occupation": "Agriculture",
+                "age": "55",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "797,876",
+                "immoveable_assets": "1,600,000",
+                "total_assets": "2,397,876",
+                "liabilities": "0",
+                "net_assets": "2,397,876",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_16.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feb89b-36ef-42e0-86ee-90a5be5006b1",
+                "name": "P.M..\u0b9a\u0b95\u0bbe\u0ba4\u0bc7\u0bb5\u0ba9\u0bcd ",
+                "education": "9th Standard",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "55",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "797,876",
+                "immoveable_assets": "1,600,000",
+                "total_assets": "2,397,876",
+                "liabilities": "0",
+                "net_assets": "2,397,876",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_16.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304d4dc-e3ca-4f9b-9321-e8069d85c075",
+                "name": "K.THANGAMANI",
+                "education": "M.A., M.ED.,",
+                "occupation": "RETIRED TEACHER",
+                "age": "78",
+                "annual_income": "0",
+                "source_of_income": "RETIRED TEACHER",
+                "moveable_assets": "10,000",
+                "immoveable_assets": "6,000,000",
+                "total_assets": "6,010,000",
+                "liabilities": "1,900,000",
+                "net_assets": "4,110,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANBILK_THANGAMANI_Lalgudi.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DIAMOND.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304d4dc-e3ca-4f9b-9321-e8069d85c075",
+                "name": "K.\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0ba3\u0bbf",
+                "education": "M.A., M.ED.,",
+                "occupation": "\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\t\n",
+                "age": "78",
+                "annual_income": "0",
+                "source_of_income": "RETIRED TEACHER",
+                "moveable_assets": "10,000",
+                "immoveable_assets": "6,000,000",
+                "total_assets": "6,010,000",
+                "liabilities": "1,900,000",
+                "net_assets": "4,110,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANBILK_THANGAMANI_Lalgudi.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DIAMOND.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\t",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\t\n",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fabc9f-f6ea-4bdc-8146-92eeb9839561",
+                "name": "K.DHARMARAJ",
+                "education": "8th standard",
+                "occupation": "Driver",
+                "age": "49",
+                "annual_income": "0",
+                "source_of_income": "Driver income",
+                "moveable_assets": "1,192,000",
+                "immoveable_assets": "400,000",
+                "total_assets": "1,592,000",
+                "liabilities": "0",
+                "net_assets": "1,592,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_3.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SCISSORS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fabc9f-f6ea-4bdc-8146-92eeb9839561",
+                "name": "K.\u0ba4\u0bb0\u0bcd\u0bae\u0bb0\u0bbe\u0b9c\u0bcd",
+                "education": "8th standard",
+                "occupation": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
+                "age": "49",
+                "annual_income": "0",
+                "source_of_income": "Driver income",
+                "moveable_assets": "1,192,000",
+                "immoveable_assets": "400,000",
+                "total_assets": "1,592,000",
+                "liabilities": "0",
+                "net_assets": "1,592,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_3.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SCISSORS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "self_source_of_income": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fcda5a-c113-455d-a91d-583d651f2416",
+                "name": "U.Johnson",
+                "education": "PUC.,",
+                "occupation": "Own business",
+                "age": "67",
+                "annual_income": "0",
+                "source_of_income": "own business",
+                "moveable_assets": "413,000",
+                "immoveable_assets": "1,500,000",
+                "total_assets": "1,913,000",
+                "liabilities": "30,000",
+                "net_assets": "1,883,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_11.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fcda5a-c113-455d-a91d-583d651f2416",
+                "name": "U.\u0b9c\u0bbe\u0ba9\u0bcd\u0b9a\u0ba9\u0bcd",
+                "education": "PUC.,",
+                "occupation": "\u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "age": "67",
+                "annual_income": "0",
+                "source_of_income": "own business",
+                "moveable_assets": "413,000",
+                "immoveable_assets": "1,500,000",
+                "total_assets": "1,913,000",
+                "liabilities": "30,000",
+                "net_assets": "1,883,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/LALGUDI_11.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "LALGUDI",
+                    "constituency_en_label": "Lalgudi",
+                    "constituency_ta_label": "\u0bb2\u0bbe\u0bb2\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

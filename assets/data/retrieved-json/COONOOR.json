@@ -1,1 +1,1462 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"93050d73-2309-48be-ae22-c7db044fb788","name":"S.Prabhu Inbadass","education":"9th","occupation":"Agriculture","age":"39","annual_income":"0","source_of_income":"Agriculture, rent, pension","moveable_assets":"1,291,129","immoveable_assets":"0","total_assets":"1,291,129","liabilities":"0","net_assets":"1,291,129","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PrabhuInbadass_S__Coonoor.jpg","party":{"id":"All India Trinamool Congress","en_label":"All India Trinamool Congress","ta_label":"","party_image":null},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93050d73-2309-48be-ae22-c7db044fb788","name":"S.\u0baa\u0bbf\u0bb0\u0baa\u0bc1\u0b87\u0ba9\u0bcd\u0baa\u0ba4\u0bbe\u0bb8\u0bcd ","education":"9th","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","age":"39","annual_income":"0","source_of_income":"Agriculture, rent, pension","moveable_assets":"1,291,129","immoveable_assets":"0","total_assets":"1,291,129","liabilities":"0","net_assets":"1,291,129","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PrabhuInbadass_S__Coonoor.jpg","party":{"id":"All India Trinamool Congress","en_label":"All India Trinamool Congress","ta_label":"","party_image":null},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd,  \u0bb5\u0bbe\u0b9f\u0b95\u0bc8 ,\u0b93\u0baf\u0bcd\u0bb5\u0bc1\u0ba4\u0bbf\u0baf\u0bae\u0bcd .","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"93051f59-0e6b-46b7-8a4a-2a396965d186","name":"K.Ramachandran","education":"PUC","occupation":"Agriculture & business","age":"69","annual_income":"4,397,894","source_of_income":"Agriculture & business","moveable_assets":"56,796,336","immoveable_assets":"48,645,000","total_assets":"105,441,336","liabilities":"15,015,677","net_assets":"90,425,659","no_of_criminal_cases":3,"cases_description":"Alleged Unlawful assembly and Damaged the public property.\nAlleged unlawful assembly\nalleged fixing of banner without permission.. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Ramachandran_K__Coonoor.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/RISING_SUN.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"2,884,836","spouse":"3,629,556","overall":"1,712,325"},{"y_from":2016,"y_to":2017,"candidate":"2,498,119","spouse":"3,375,684","overall":"708,538"},{"y_from":2017,"y_to":2018,"candidate":"2,577,625","spouse":"3,777,067","overall":"750,547"},{"y_from":2018,"y_to":2019,"candidate":"2,876,129","spouse":"3,905,313","overall":"913,224"},{"y_from":2019,"y_to":2020,"candidate":"4,397,894","spouse":"4,018,793","overall":"882,240"}]},"ta":{"candidate_id":"93051f59-0e6b-46b7-8a4a-2a396965d186","name":"K.\u0bb0\u0bbe\u0bae\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd ","education":"PUC","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd & \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","age":"69","annual_income":"4,397,894","source_of_income":"Agriculture & business","moveable_assets":"56,796,336","immoveable_assets":"48,645,000","total_assets":"105,441,336","liabilities":"15,015,677","net_assets":"90,425,659","no_of_criminal_cases":3,"cases_description":"1.\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0baa\u0bc8 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1. 2.\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0baa\u0bc8 3.\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0baa\u0bc7\u0ba9\u0bb0\u0bc8 \u0b9a\u0bb0\u0bbf\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Ramachandran_K__Coonoor.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/RISING_SUN.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"2,884,836","spouse":"3,629,556","overall":"1,712,325"},{"y_from":2016,"y_to":2017,"candidate":"2,498,119","spouse":"3,375,684","overall":"708,538"},{"y_from":2017,"y_to":2018,"candidate":"2,577,625","spouse":"3,777,067","overall":"750,547"},{"y_from":2018,"y_to":2019,"candidate":"2,876,129","spouse":"3,905,313","overall":"913,224"},{"y_from":2019,"y_to":2020,"candidate":"4,397,894","spouse":"4,018,793","overall":"882,240"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd & \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_pending_description":"1.\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0baa\u0bc8 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1. 2.\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0baa\u0bc8 3.\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0baa\u0bc7\u0ba9\u0bb0\u0bc8 \u0b9a\u0bb0\u0bbf\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd & \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fa82e5-6d83-48fa-a1f6-6384b92b1885","name":"D.Vinoth","education":"12th pass, B.Sc ( Discontinued)","occupation":"Agriculturalist","age":"38","annual_income":"1,144,730","source_of_income":"Agriculture","moveable_assets":"3,696,076","immoveable_assets":"700,000","total_assets":"4,396,076","liabilities":"339,000","net_assets":"4,057,076","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/COONOOR_5.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TWO_LEAVES.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"927,150","spouse":"635,474","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"1,144,730","spouse":"857,640","overall":"0"}]},"ta":{"candidate_id":"92fa82e5-6d83-48fa-a1f6-6384b92b1885","name":"D.\u0bb5\u0bbf\u0ba9\u0bcb\u0ba4\u0bcd","education":"12th pass, B.Sc ( Discontinued)","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf","age":"38","annual_income":"1,144,730","source_of_income":"Agriculture","moveable_assets":"3,696,076","immoveable_assets":"700,000","total_assets":"4,396,076","liabilities":"339,000","net_assets":"4,057,076","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/COONOOR_5.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TWO_LEAVES.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"927,150","spouse":"635,474","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"1,144,730","spouse":"857,640","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"930045fc-46e2-41a7-9801-74ad98cb736b","name":"R.Arumugam","education":"8th pass","occupation":"N\/A","age":"63","annual_income":"0","source_of_income":"Pension","moveable_assets":"140,000","immoveable_assets":"400,000","total_assets":"540,000","liabilities":"0","net_assets":"540,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/COONOOR_14.jpg","party":{"id":"Anaithu Makkal Puratchi Katchi","short_name":"AMPK","ta_label":"\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Anaithu Makkal Puratchi Katchi","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GLASS_TUMBLER.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"930045fc-46e2-41a7-9801-74ad98cb736b","name":"R.\u0b86\u0bb1\u0bc1\u0bae\u0bc1\u0b95\u0bae\u0bcd","education":"8th pass","occupation":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8  \n","age":"63","annual_income":"0","source_of_income":"Pension","moveable_assets":"140,000","immoveable_assets":"400,000","total_assets":"540,000","liabilities":"0","net_assets":"540,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/COONOOR_14.jpg","party":{"id":"Anaithu Makkal Puratchi Katchi","short_name":"AMPK","ta_label":"\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Anaithu Makkal Puratchi Katchi","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GLASS_TUMBLER.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":" \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd   ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8  \n","cases_convicted_description":""}},{"en":{"candidate_id":"93050931-862e-43c2-b3aa-5435972f7dc4","name":"S.Kalaiselvan","education":"SSLC","occupation":"Agriculture","age":"51","annual_income":"220,000","source_of_income":"Agriculture","moveable_assets":"2,004,292","immoveable_assets":"1,200,000","total_assets":"3,204,292","liabilities":"0","net_assets":"3,204,292","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Kalaiselvan_S__Coonoor.jpg","party":{"id":"Amma Makkal Munnettra Kazagam","en_label":"Amma Makkal Munnettra Kazagam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PRESSURE_COOKER.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"620,000","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"357,333","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"330,000","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"280,000","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"220,000","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93050931-862e-43c2-b3aa-5435972f7dc4","name":"S.\u0b95\u0bb2\u0bc8\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba9\u0bcd ","education":"SSLC","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","age":"51","annual_income":"220,000","source_of_income":"Agriculture","moveable_assets":"2,004,292","immoveable_assets":"1,200,000","total_assets":"3,204,292","liabilities":"0","net_assets":"3,204,292","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Kalaiselvan_S__Coonoor.jpg","party":{"id":"Amma Makkal Munnettra Kazagam","en_label":"Amma Makkal Munnettra Kazagam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PRESSURE_COOKER.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"620,000","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"357,333","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"330,000","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"280,000","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"220,000","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fdce58-1464-4617-9847-5f1cdeef86c3","name":"H B.Raja kumar","education":"St. Joseph Higher Secondary School, Ooty, 1982-1983","occupation":"Agriculture","age":"55","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"650,000","immoveable_assets":"5,000,000","total_assets":"5,650,000","liabilities":"0","net_assets":"5,650,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/COONOOR_9.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATTERY_TORCH.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fdce58-1464-4617-9847-5f1cdeef86c3","name":"H B.\u0bb0\u0bbe\u0b9c\u0bbe \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ","education":"St. Joseph Higher Secondary School, Ooty, 1982-1983","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","age":"55","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"650,000","immoveable_assets":"5,000,000","total_assets":"5,650,000","liabilities":"0","net_assets":"5,650,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/COONOOR_9.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATTERY_TORCH.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"93051828-0eb8-466b-b3d5-ffaed51af1b7","name":"M.Lavanya","education":"BCA","occupation":"House Wife","age":"28","annual_income":"0","source_of_income":"House Wife","moveable_assets":"1,739,400","immoveable_assets":"0","total_assets":"1,739,400","liabilities":"352,606","net_assets":"1,386,794","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Lavanya_M__Coonoor.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GANNA_KISAN.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"600,000","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"600,000","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"665,000","overall":"0"}]},"ta":{"candidate_id":"93051828-0eb8-466b-b3d5-ffaed51af1b7","name":"M.\u0bb2\u0bbe\u0bb5\u0ba3\u0bcd\u0baf\u0bbe ","education":"BCA","occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf ","age":"28","annual_income":"0","source_of_income":"House Wife","moveable_assets":"1,739,400","immoveable_assets":"0","total_assets":"1,739,400","liabilities":"352,606","net_assets":"1,386,794","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Lavanya_M__Coonoor.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GANNA_KISAN.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"600,000","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"600,000","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"665,000","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf ","cases_convicted_description":""}},{"en":{"candidate_id":"92fdcaa2-c712-4494-a1a4-ed52b9725179","name":"K.Chandran","education":"10th Std, Arignar Anna Government High school, Coonoor - Nilgris District","occupation":"Business","age":"50","annual_income":"0","source_of_income":"Business","moveable_assets":"12,000","immoveable_assets":"0","total_assets":"12,000","liabilities":"0","net_assets":"12,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/COONOOR_8.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/POT.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fdcaa2-c712-4494-a1a4-ed52b9725179","name":"K.\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd ","education":"10th Std, Arignar Anna Government High school, Coonoor - Nilgris District","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"50","annual_income":"0","source_of_income":"Business","moveable_assets":"12,000","immoveable_assets":"0","total_assets":"12,000","liabilities":"0","net_assets":"12,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/COONOOR_8.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/POT.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"93051ae2-8b71-4787-a6b0-8d6762c9e3f8","name":"A.Basha","education":"S.S.L.C","occupation":"JOURNALIST","age":"58","annual_income":"0","source_of_income":"Journalist","moveable_assets":"420,000","immoveable_assets":"0","total_assets":"420,000","liabilities":"10,000","net_assets":"410,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Basha_A__Coonoor.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GAS_CYLINDER.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93051ae2-8b71-4787-a6b0-8d6762c9e3f8","name":"A.\u0baa\u0bbe\u0bb7\u0bbe ","education":"S.S.L.C","occupation":"\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd ","age":"58","annual_income":"0","source_of_income":"Journalist","moveable_assets":"420,000","immoveable_assets":"0","total_assets":"420,000","liabilities":"10,000","net_assets":"410,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Basha_A__Coonoor.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GAS_CYLINDER.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"930047dc-0b6a-4791-97f9-55a93e969fcc","name":"D.Jayaprakash","education":"B.A. B.L., Salem Law College","occupation":"Advocate","age":"39","annual_income":"400,000","source_of_income":"Profession","moveable_assets":"379,500","immoveable_assets":"0","total_assets":"379,500","liabilities":"0","net_assets":"379,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/COONOOR_15.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/DIAMOND.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"300,000","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"350,000","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"400,000","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"930047dc-0b6a-4791-97f9-55a93e969fcc","name":"D.\u0b9c\u0bc6\u0baf\u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb7\u0bcd","education":"B.A. B.L., Salem Law College","occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd    ","age":"39","annual_income":"400,000","source_of_income":"Profession","moveable_assets":"379,500","immoveable_assets":"0","total_assets":"379,500","liabilities":"0","net_assets":"379,500","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/COONOOR_15.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/DIAMOND.JPG"},"thokuthi":{"constituency_id":"COONOOR","constituency_en_label":"Coonoor","constituency_ta_label":"\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd","district_id":"THE_NILGIRIS","district_en_label":"The Nilgiris","district_ta_label":"\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"300,000","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"350,000","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"400,000","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"  \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd     ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd    ","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "93050d73-2309-48be-ae22-c7db044fb788",
+                "name": "S.Prabhu Inbadass",
+                "education": "9th",
+                "occupation": "Agriculture",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "Agriculture, rent, pension",
+                "moveable_assets": "1,291,129",
+                "immoveable_assets": "0",
+                "total_assets": "1,291,129",
+                "liabilities": "0",
+                "net_assets": "1,291,129",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PrabhuInbadass_S__Coonoor.jpg",
+                "party": {
+                    "id": "All India Trinamool Congress",
+                    "en_label": "All India Trinamool Congress",
+                    "ta_label": "",
+                    "party_image": null
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93050d73-2309-48be-ae22-c7db044fb788",
+                "name": "S.\u0baa\u0bbf\u0bb0\u0baa\u0bc1\u0b87\u0ba9\u0bcd\u0baa\u0ba4\u0bbe\u0bb8\u0bcd ",
+                "education": "9th",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "Agriculture, rent, pension",
+                "moveable_assets": "1,291,129",
+                "immoveable_assets": "0",
+                "total_assets": "1,291,129",
+                "liabilities": "0",
+                "net_assets": "1,291,129",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PrabhuInbadass_S__Coonoor.jpg",
+                "party": {
+                    "id": "All India Trinamool Congress",
+                    "en_label": "All India Trinamool Congress",
+                    "ta_label": "",
+                    "party_image": null
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd,  \u0bb5\u0bbe\u0b9f\u0b95\u0bc8 ,\u0b93\u0baf\u0bcd\u0bb5\u0bc1\u0ba4\u0bbf\u0baf\u0bae\u0bcd .",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93051f59-0e6b-46b7-8a4a-2a396965d186",
+                "name": "K.Ramachandran",
+                "education": "PUC",
+                "occupation": "Agriculture & business",
+                "age": "69",
+                "annual_income": "4,397,894",
+                "source_of_income": "Agriculture & business",
+                "moveable_assets": "56,796,336",
+                "immoveable_assets": "48,645,000",
+                "total_assets": "105,441,336",
+                "liabilities": "15,015,677",
+                "net_assets": "90,425,659",
+                "no_of_criminal_cases": 3,
+                "cases_description": "Alleged Unlawful assembly and Damaged the public property.\nAlleged unlawful assembly\nalleged fixing of banner without permission.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Ramachandran_K__Coonoor.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "2,884,836",
+                        "spouse": "3,629,556",
+                        "overall": "1,712,325"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "2,498,119",
+                        "spouse": "3,375,684",
+                        "overall": "708,538"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "2,577,625",
+                        "spouse": "3,777,067",
+                        "overall": "750,547"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "2,876,129",
+                        "spouse": "3,905,313",
+                        "overall": "913,224"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "4,397,894",
+                        "spouse": "4,018,793",
+                        "overall": "882,240"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93051f59-0e6b-46b7-8a4a-2a396965d186",
+                "name": "K.\u0bb0\u0bbe\u0bae\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd ",
+                "education": "PUC",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd & \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "age": "69",
+                "annual_income": "4,397,894",
+                "source_of_income": "Agriculture & business",
+                "moveable_assets": "56,796,336",
+                "immoveable_assets": "48,645,000",
+                "total_assets": "105,441,336",
+                "liabilities": "15,015,677",
+                "net_assets": "90,425,659",
+                "no_of_criminal_cases": 3,
+                "cases_description": "1.\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0baa\u0bc8 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1. 2.\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0baa\u0bc8 3.\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0baa\u0bc7\u0ba9\u0bb0\u0bc8 \u0b9a\u0bb0\u0bbf\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Ramachandran_K__Coonoor.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "2,884,836",
+                        "spouse": "3,629,556",
+                        "overall": "1,712,325"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "2,498,119",
+                        "spouse": "3,375,684",
+                        "overall": "708,538"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "2,577,625",
+                        "spouse": "3,777,067",
+                        "overall": "750,547"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "2,876,129",
+                        "spouse": "3,905,313",
+                        "overall": "913,224"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "4,397,894",
+                        "spouse": "4,018,793",
+                        "overall": "882,240"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd & \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_pending_description": "1.\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0baa\u0bc8 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1. 2.\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0baa\u0bc8 3.\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0baa\u0bc7\u0ba9\u0bb0\u0bc8 \u0b9a\u0bb0\u0bbf\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd & \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fa82e5-6d83-48fa-a1f6-6384b92b1885",
+                "name": "D.Vinoth",
+                "education": "12th pass, B.Sc ( Discontinued)",
+                "occupation": "Agriculturalist",
+                "age": "38",
+                "annual_income": "1,144,730",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "3,696,076",
+                "immoveable_assets": "700,000",
+                "total_assets": "4,396,076",
+                "liabilities": "339,000",
+                "net_assets": "4,057,076",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/COONOOR_5.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "927,150",
+                        "spouse": "635,474",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,144,730",
+                        "spouse": "857,640",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fa82e5-6d83-48fa-a1f6-6384b92b1885",
+                "name": "D.\u0bb5\u0bbf\u0ba9\u0bcb\u0ba4\u0bcd",
+                "education": "12th pass, B.Sc ( Discontinued)",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf",
+                "age": "38",
+                "annual_income": "1,144,730",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "3,696,076",
+                "immoveable_assets": "700,000",
+                "total_assets": "4,396,076",
+                "liabilities": "339,000",
+                "net_assets": "4,057,076",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/COONOOR_5.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "927,150",
+                        "spouse": "635,474",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,144,730",
+                        "spouse": "857,640",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "930045fc-46e2-41a7-9801-74ad98cb736b",
+                "name": "R.Arumugam",
+                "education": "8th pass",
+                "occupation": "N/A",
+                "age": "63",
+                "annual_income": "0",
+                "source_of_income": "Pension",
+                "moveable_assets": "140,000",
+                "immoveable_assets": "400,000",
+                "total_assets": "540,000",
+                "liabilities": "0",
+                "net_assets": "540,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/COONOOR_14.jpg",
+                "party": {
+                    "id": "Anaithu Makkal Puratchi Katchi",
+                    "short_name": "AMPK",
+                    "ta_label": "\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Anaithu Makkal Puratchi Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GLASS_TUMBLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "930045fc-46e2-41a7-9801-74ad98cb736b",
+                "name": "R.\u0b86\u0bb1\u0bc1\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+                "education": "8th pass",
+                "occupation": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8  \n",
+                "age": "63",
+                "annual_income": "0",
+                "source_of_income": "Pension",
+                "moveable_assets": "140,000",
+                "immoveable_assets": "400,000",
+                "total_assets": "540,000",
+                "liabilities": "0",
+                "net_assets": "540,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/COONOOR_14.jpg",
+                "party": {
+                    "id": "Anaithu Makkal Puratchi Katchi",
+                    "short_name": "AMPK",
+                    "ta_label": "\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Anaithu Makkal Puratchi Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GLASS_TUMBLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": " \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd   ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8  \n",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93050931-862e-43c2-b3aa-5435972f7dc4",
+                "name": "S.Kalaiselvan",
+                "education": "SSLC",
+                "occupation": "Agriculture",
+                "age": "51",
+                "annual_income": "220,000",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "2,004,292",
+                "immoveable_assets": "1,200,000",
+                "total_assets": "3,204,292",
+                "liabilities": "0",
+                "net_assets": "3,204,292",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Kalaiselvan_S__Coonoor.jpg",
+                "party": {
+                    "id": "Amma Makkal Munnettra Kazagam",
+                    "en_label": "Amma Makkal Munnettra Kazagam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "620,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "357,333",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "330,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "280,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "220,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93050931-862e-43c2-b3aa-5435972f7dc4",
+                "name": "S.\u0b95\u0bb2\u0bc8\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba9\u0bcd ",
+                "education": "SSLC",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "51",
+                "annual_income": "220,000",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "2,004,292",
+                "immoveable_assets": "1,200,000",
+                "total_assets": "3,204,292",
+                "liabilities": "0",
+                "net_assets": "3,204,292",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Kalaiselvan_S__Coonoor.jpg",
+                "party": {
+                    "id": "Amma Makkal Munnettra Kazagam",
+                    "en_label": "Amma Makkal Munnettra Kazagam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "620,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "357,333",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "330,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "280,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "220,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fdce58-1464-4617-9847-5f1cdeef86c3",
+                "name": "H B.Raja kumar",
+                "education": "St. Joseph Higher Secondary School, Ooty, 1982-1983",
+                "occupation": "Agriculture",
+                "age": "55",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "650,000",
+                "immoveable_assets": "5,000,000",
+                "total_assets": "5,650,000",
+                "liabilities": "0",
+                "net_assets": "5,650,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/COONOOR_9.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fdce58-1464-4617-9847-5f1cdeef86c3",
+                "name": "H B.\u0bb0\u0bbe\u0b9c\u0bbe \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ",
+                "education": "St. Joseph Higher Secondary School, Ooty, 1982-1983",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "55",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "650,000",
+                "immoveable_assets": "5,000,000",
+                "total_assets": "5,650,000",
+                "liabilities": "0",
+                "net_assets": "5,650,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/COONOOR_9.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93051828-0eb8-466b-b3d5-ffaed51af1b7",
+                "name": "M.Lavanya",
+                "education": "BCA",
+                "occupation": "House Wife",
+                "age": "28",
+                "annual_income": "0",
+                "source_of_income": "House Wife",
+                "moveable_assets": "1,739,400",
+                "immoveable_assets": "0",
+                "total_assets": "1,739,400",
+                "liabilities": "352,606",
+                "net_assets": "1,386,794",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Lavanya_M__Coonoor.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "600,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "600,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "665,000",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93051828-0eb8-466b-b3d5-ffaed51af1b7",
+                "name": "M.\u0bb2\u0bbe\u0bb5\u0ba3\u0bcd\u0baf\u0bbe ",
+                "education": "BCA",
+                "occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf ",
+                "age": "28",
+                "annual_income": "0",
+                "source_of_income": "House Wife",
+                "moveable_assets": "1,739,400",
+                "immoveable_assets": "0",
+                "total_assets": "1,739,400",
+                "liabilities": "352,606",
+                "net_assets": "1,386,794",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Lavanya_M__Coonoor.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "600,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "600,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "665,000",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fdcaa2-c712-4494-a1a4-ed52b9725179",
+                "name": "K.Chandran",
+                "education": "10th Std, Arignar Anna Government High school, Coonoor - Nilgris District",
+                "occupation": "Business",
+                "age": "50",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "12,000",
+                "immoveable_assets": "0",
+                "total_assets": "12,000",
+                "liabilities": "0",
+                "net_assets": "12,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/COONOOR_8.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fdcaa2-c712-4494-a1a4-ed52b9725179",
+                "name": "K.\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd ",
+                "education": "10th Std, Arignar Anna Government High school, Coonoor - Nilgris District",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "50",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "12,000",
+                "immoveable_assets": "0",
+                "total_assets": "12,000",
+                "liabilities": "0",
+                "net_assets": "12,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/COONOOR_8.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93051ae2-8b71-4787-a6b0-8d6762c9e3f8",
+                "name": "A.Basha",
+                "education": "S.S.L.C",
+                "occupation": "JOURNALIST",
+                "age": "58",
+                "annual_income": "0",
+                "source_of_income": "Journalist",
+                "moveable_assets": "420,000",
+                "immoveable_assets": "0",
+                "total_assets": "420,000",
+                "liabilities": "10,000",
+                "net_assets": "410,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Basha_A__Coonoor.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GAS_CYLINDER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93051ae2-8b71-4787-a6b0-8d6762c9e3f8",
+                "name": "A.\u0baa\u0bbe\u0bb7\u0bbe ",
+                "education": "S.S.L.C",
+                "occupation": "\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd ",
+                "age": "58",
+                "annual_income": "0",
+                "source_of_income": "Journalist",
+                "moveable_assets": "420,000",
+                "immoveable_assets": "0",
+                "total_assets": "420,000",
+                "liabilities": "10,000",
+                "net_assets": "410,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Basha_A__Coonoor.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GAS_CYLINDER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "930047dc-0b6a-4791-97f9-55a93e969fcc",
+                "name": "D.Jayaprakash",
+                "education": "B.A. B.L., Salem Law College",
+                "occupation": "Advocate",
+                "age": "39",
+                "annual_income": "400,000",
+                "source_of_income": "Profession",
+                "moveable_assets": "379,500",
+                "immoveable_assets": "0",
+                "total_assets": "379,500",
+                "liabilities": "0",
+                "net_assets": "379,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/COONOOR_15.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DIAMOND.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "300,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "350,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "400,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "930047dc-0b6a-4791-97f9-55a93e969fcc",
+                "name": "D.\u0b9c\u0bc6\u0baf\u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb7\u0bcd",
+                "education": "B.A. B.L., Salem Law College",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd    ",
+                "age": "39",
+                "annual_income": "400,000",
+                "source_of_income": "Profession",
+                "moveable_assets": "379,500",
+                "immoveable_assets": "0",
+                "total_assets": "379,500",
+                "liabilities": "0",
+                "net_assets": "379,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/COONOOR_15.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DIAMOND.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "COONOOR",
+                    "constituency_en_label": "Coonoor",
+                    "constituency_ta_label": "\u0b95\u0bc1\u0ba9\u0bcd\u0ba9\u0bc2\u0bb0\u0bcd",
+                    "district_id": "THE_NILGIRIS",
+                    "district_en_label": "The Nilgiris",
+                    "district_ta_label": "\u0ba8\u0bc0\u0bb2\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "300,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "350,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "400,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "  \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd     ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd    ",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

@@ -1,1 +1,2480 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"93051ad8-3dc6-4613-baef-79c322827926","name":"M.Suriyaprakash","education":"I.T.I ","occupation":"Driver","age":"25","annual_income":"0","source_of_income":"N\/A","moveable_assets":"0","immoveable_assets":"0","total_assets":"0","liabilities":"0","net_assets":"0","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Suriyaprakash_M_Kallakurichi.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93051ad8-3dc6-4613-baef-79c322827926","name":"M.\u0b9a\u0bc2\u0bb0\u0bcd\u0baf\u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb7\u0bcd","education":"I.T.I ","occupation":"\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd","age":"25","annual_income":"0","source_of_income":"N\/A","moveable_assets":"0","immoveable_assets":"0","total_assets":"0","liabilities":"0","net_assets":"0","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Suriyaprakash_M_Kallakurichi.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92f6e0c1-d3f6-41b1-9e97-36356318c133","name":"Dhravida Muthamizh selvi","education":"M.Phil.","occupation":"House wife","age":"37","annual_income":"0","source_of_income":"House wife","moveable_assets":"1,330,526","immoveable_assets":"598,200","total_assets":"1,928,726","liabilities":"0","net_assets":"1,928,726","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_3.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"78,000","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f6e0c1-d3f6-41b1-9e97-36356318c133","name":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bbf ","education":"M.Phil.","occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","age":"37","annual_income":"0","source_of_income":"House wife","moveable_assets":"1,330,526","immoveable_assets":"598,200","total_assets":"1,928,726","liabilities":"0","net_assets":"1,928,726","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_3.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"78,000","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92fa9bfc-baa0-4310-a689-bf48f01fa28a","name":"K.I.Manirathinam","education":"Ph.D ","occupation":"social service,business","age":"62","annual_income":"218,000","source_of_income":"business","moveable_assets":"53,601,333","immoveable_assets":"10,073,680","total_assets":"63,675,013","liabilities":"0","net_assets":"63,675,013","no_of_criminal_cases":4,"cases_description":"cheating,illegal land acquisition,rioting,Assault or use of criminal force,Criminal intimdation. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_5.jpg","party":{"id":"Indian National Congress","short_name":"INC","ta_label":"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd","en_label":"Indian National Congress","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"212,000","spouse":"572,610","overall":"265,000"},{"y_from":2017,"y_to":2018,"candidate":"215,000","spouse":"583,320","overall":"292,000"},{"y_from":2018,"y_to":2019,"candidate":"217,500","spouse":"594,060","overall":"349,000"},{"y_from":2019,"y_to":2020,"candidate":"218,000","spouse":"540,620","overall":"338,000"}]},"ta":{"candidate_id":"92fa9bfc-baa0-4310-a689-bf48f01fa28a","name":"K.I.\u0bae\u0ba3\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bae\u0bcd","education":"Ph.D ","occupation":"\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8, \u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd","age":"62","annual_income":"218,000","source_of_income":"business","moveable_assets":"53,601,333","immoveable_assets":"10,073,680","total_assets":"63,675,013","liabilities":"0","net_assets":"63,675,013","no_of_criminal_cases":4,"cases_description":"\u0ba8\u0bbf\u0bb2\u0bae\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bc7\u0b9f\u0bc1, \u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd,\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd,,\u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd,\u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_5.jpg","party":{"id":"Indian National Congress","short_name":"INC","ta_label":"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd","en_label":"Indian National Congress","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"212,000","spouse":"572,610","overall":"265,000"},{"y_from":2017,"y_to":2018,"candidate":"215,000","spouse":"583,320","overall":"292,000"},{"y_from":2018,"y_to":2019,"candidate":"217,500","spouse":"594,060","overall":"349,000"},{"y_from":2019,"y_to":2020,"candidate":"218,000","spouse":"540,620","overall":"338,000"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd","cases_pending_description":"\u0ba8\u0bbf\u0bb2\u0bae\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bc7\u0b9f\u0bc1, \u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd,\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd,,\u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd,\u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd","self_education_description":"","self_profession_occupation":"\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8, \u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fa9e2f-25ed-4303-bf50-99581d9b534b","name":"N.Vijaya kumar","education":"B.sc,B.Ed","occupation":"Farmer","age":"39","annual_income":"0","source_of_income":"Daily Wages","moveable_assets":"437,500","immoveable_assets":"200,000","total_assets":"637,500","liabilities":"0","net_assets":"637,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_6.jpg","party":{"id":"Desiya Murpokku Dravida Kazhagam","short_name":"DMDK","ta_label":"\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Desiya Murpokku Dravida Kazhagam","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fa9e2f-25ed-4303-bf50-99581d9b534b","name":"N.\u0bb5\u0bbf\u0b9c\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ","education":"B.sc,B.Ed","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"39","annual_income":"0","source_of_income":"Daily Wages","moveable_assets":"437,500","immoveable_assets":"200,000","total_assets":"637,500","liabilities":"0","net_assets":"637,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_6.jpg","party":{"id":"Desiya Murpokku Dravida Kazhagam","short_name":"DMDK","ta_label":"\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Desiya Murpokku Dravida Kazhagam","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0b8a\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fc9dc0-bcd2-4be7-9b1b-86b30dd309d8","name":"M.Senthilkumar","education":"12th pass","occupation":"Business","age":"43","annual_income":"486,320","source_of_income":"Business Income","moveable_assets":"3,631,198","immoveable_assets":"1,860,000","total_assets":"5,491,198","liabilities":"1,084,359","net_assets":"4,406,839","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_16.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"486,320","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fc9dc0-bcd2-4be7-9b1b-86b30dd309d8","name":"M.\u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ","education":"12th pass","occupation":"\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd ","age":"43","annual_income":"486,320","source_of_income":"Business Income","moveable_assets":"3,631,198","immoveable_assets":"1,860,000","total_assets":"5,491,198","liabilities":"1,084,359","net_assets":"4,406,839","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_16.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"486,320","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0ba3\u0bbf\u0b95 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fca66e-072d-4468-b821-4cab4928b090","name":"M.Dinesh","education":"D.E.E.E","occupation":"Farmer","age":"44","annual_income":"0","source_of_income":"Farmer","moveable_assets":"1,151,000","immoveable_assets":"8,000,000","total_assets":"9,151,000","liabilities":"0","net_assets":"9,151,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_17.jpg","party":{"id":"My India Party","en_label":"My India Party","ta_label":" \u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fca66e-072d-4468-b821-4cab4928b090","name":"M.\u0ba4\u0bbf\u0ba9\u0bc7\u0bb7\u0bcd ","education":"D.E.E.E","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","age":"44","annual_income":"0","source_of_income":"Farmer","moveable_assets":"1,151,000","immoveable_assets":"8,000,000","total_assets":"9,151,000","liabilities":"0","net_assets":"9,151,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_17.jpg","party":{"id":"My India Party","en_label":"My India Party","ta_label":" \u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":" \u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fca027-eec1-43d8-bcb0-fea1e71ffb0a","name":"M.Ayyasamy","education":"9th STD","occupation":"Agriculture","age":"40","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"245,000","immoveable_assets":"245,000","total_assets":"490,000","liabilities":"0","net_assets":"490,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_20.jpg","party":{"id":"Indiya Jannayaka Katchi","en_label":"Indiya Jannayaka Katchi","ta_label":"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":null},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fca027-eec1-43d8-bcb0-fea1e71ffb0a","name":"M.\u0b85\u0baf\u0bcd\u0baf\u0bbe\u0b9a\u0bbe\u0bae\u0bbf ","education":"9th STD","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","age":"40","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"245,000","immoveable_assets":"245,000","total_assets":"490,000","liabilities":"0","net_assets":"490,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_20.jpg","party":{"id":"Indiya Jannayaka Katchi","en_label":"Indiya Jannayaka Katchi","ta_label":"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":null},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"9305193d-e940-499d-aa4a-1aacd93f8741","name":"K.Devi Mangayarkarasi","education":"M.D.,PHd","occupation":"House Wife","age":"40","annual_income":"0","source_of_income":"N\/A","moveable_assets":"258,500","immoveable_assets":"0","total_assets":"258,500","liabilities":"0","net_assets":"258,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Devimangayarkarasi_K_Kallakurichi.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"312,501","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"348,521","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"358,691","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"376,507","overall":"0"}]},"ta":{"candidate_id":"9305193d-e940-499d-aa4a-1aacd93f8741","name":"K.\u0ba4\u0bc7\u0bb5\u0bbf \u0bae\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb0\u0bbe\u0b9a\u0bbf","education":"M.D.,PHd","occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","age":"40","annual_income":"0","source_of_income":"N\/A","moveable_assets":"258,500","immoveable_assets":"0","total_assets":"258,500","liabilities":"0","net_assets":"258,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Devimangayarkarasi_K_Kallakurichi.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"312,501","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"348,521","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"358,691","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"376,507","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92feb24f-ac03-4de6-bc9f-7edaa9bd65bf","name":"C.Prabu","education":"M.P.Ed","occupation":"Farmer","age":"38","annual_income":"0","source_of_income":"Farmer","moveable_assets":"292,000","immoveable_assets":"200,000","total_assets":"492,000","liabilities":"0","net_assets":"492,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_23.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92feb24f-ac03-4de6-bc9f-7edaa9bd65bf","name":"C.\u0baa\u0bbf\u0bb0\u0baa\u0bc1","education":"M.P.Ed","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"38","annual_income":"0","source_of_income":"Farmer","moveable_assets":"292,000","immoveable_assets":"200,000","total_assets":"492,000","liabilities":"0","net_assets":"492,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_23.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fec132-41f3-4628-9456-9c9bc6089e07","name":"M.Gurusamy","education":"10th STD","occupation":"Farmer","age":"42","annual_income":"0","source_of_income":"Farmer","moveable_assets":"186,000","immoveable_assets":"0","total_assets":"186,000","liabilities":"0","net_assets":"186,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_24.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fec132-41f3-4628-9456-9c9bc6089e07","name":"M.\u0b95\u0bc1\u0bb0\u0bc1\u0b9a\u0bbe\u0bae\u0bbf","education":"10th STD","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"42","annual_income":"0","source_of_income":"Farmer","moveable_assets":"186,000","immoveable_assets":"0","total_assets":"186,000","liabilities":"0","net_assets":"186,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_24.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fec5a1-3183-4d12-b106-822aa47a3334","name":"M.Selvaraj","education":"DEEE","occupation":"Farmer","age":"52","annual_income":"0","source_of_income":"Farmer","moveable_assets":"220,000","immoveable_assets":"300,000","total_assets":"520,000","liabilities":"0","net_assets":"520,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_27.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fec5a1-3183-4d12-b106-822aa47a3334","name":"M.\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bb0\u0bbe\u0b9c\u0bcd","education":"DEEE","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"52","annual_income":"0","source_of_income":"Farmer","moveable_assets":"220,000","immoveable_assets":"300,000","total_assets":"520,000","liabilities":"0","net_assets":"520,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_27.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92feca54-7fc5-4531-bfc2-5b470db4891f","name":"A.Palanisamy","education":"10th pass","occupation":"Agricultural Daily wager","age":"50","annual_income":"0","source_of_income":"Agricultural Daily wager","moveable_assets":"81,000","immoveable_assets":"0","total_assets":"81,000","liabilities":"0","net_assets":"81,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_29.jpg","party":{"id":"Bahujan Samaj Party","short_name":"BSP","ta_label":"\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Bahujan Samaj Party","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92feca54-7fc5-4531-bfc2-5b470db4891f","name":"A.\u0baa\u0bb4\u0ba9\u0bbf\u0b9a\u0bbe\u0bae\u0bbf","education":"10th pass","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0b8a\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd","age":"50","annual_income":"0","source_of_income":"Agricultural Daily wager","moveable_assets":"81,000","immoveable_assets":"0","total_assets":"81,000","liabilities":"0","net_assets":"81,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_29.jpg","party":{"id":"Bahujan Samaj Party","short_name":"BSP","ta_label":"\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Bahujan Samaj Party","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0b8a\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0b8a\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fec838-ac95-4659-bed2-caf054d63ebf","name":"K.Kuppusamy","education":"5th pass","occupation":"Farmer","age":"45","annual_income":"0","source_of_income":"Daily Wager","moveable_assets":"101,000","immoveable_assets":"300,000","total_assets":"401,000","liabilities":"0","net_assets":"401,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_28.jpg","party":{"id":"Anna MGR Dravida Makkal Kalgam","en_label":"Anna MGR Dravida Makkal Kalgam","ta_label":"\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0b8e\u0bae\u0bcd.\u0b9c\u0bbf.\u0b86\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","party_image":null},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fec838-ac95-4659-bed2-caf054d63ebf","name":"K.\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bbe\u0bae\u0bbf","education":"5th pass","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"45","annual_income":"0","source_of_income":"Daily Wager","moveable_assets":"101,000","immoveable_assets":"300,000","total_assets":"401,000","liabilities":"0","net_assets":"401,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_28.jpg","party":{"id":"Anna MGR Dravida Makkal Kalgam","en_label":"Anna MGR Dravida Makkal Kalgam","ta_label":"\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0b8e\u0bae\u0bcd.\u0b9c\u0bbf.\u0b86\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","party_image":null},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0b8e\u0bae\u0bcd.\u0b9c\u0bbf.\u0b86\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","self_source_of_income":"\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0b8a\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fece93-f9f8-4745-b43a-d5801c81ace5","name":"C.Oviyar Ananth","education":"Drawing Teacher Training","occupation":"Self employment","age":"40","annual_income":"0","source_of_income":"Self employment","moveable_assets":"1,071,000","immoveable_assets":"600,000","total_assets":"1,671,000","liabilities":"0","net_assets":"1,671,000","no_of_criminal_cases":2,"cases_description":"Protest against police, Money loan conflict. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_30.jpg","party":{"id":"Lok JanShakti Party","en_label":"Lok JanShakti Party","ta_label":"\u0bb2\u0bcb\u0b95\u0bcd \u0b9c\u0ba9\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf        ","party_image":null},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fece93-f9f8-4745-b43a-d5801c81ace5","name":"C.\u0b93\u0bb5\u0bbf\u0baf\u0bb0\u0bcd \u0b86\u0ba9\u0ba8\u0bcd\u0ba4\u0bcd","education":"Drawing Teacher Training","occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","age":"40","annual_income":"0","source_of_income":"Self employment","moveable_assets":"1,071,000","immoveable_assets":"600,000","total_assets":"1,671,000","liabilities":"0","net_assets":"1,671,000","no_of_criminal_cases":2,"cases_description":"\u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd , \u0baa\u0ba3\u0bae\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba4\u0b95\u0bb0\u0bbe\u0bb1\u0bc1. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_30.jpg","party":{"id":"Lok JanShakti Party","en_label":"Lok JanShakti Party","ta_label":"\u0bb2\u0bcb\u0b95\u0bcd \u0b9c\u0ba9\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf        ","party_image":null},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0bb2\u0bcb\u0b95\u0bcd \u0b9c\u0ba9\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf        ","self_source_of_income":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_pending_description":"\u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd , \u0baa\u0ba3\u0bae\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba4\u0b95\u0bb0\u0bbe\u0bb1\u0bc1","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"93053e87-6bb1-402f-9808-8d0e76f9d47f","name":"K.Elaiyaperumal","education":"S.S.L.C","occupation":"Farmer","age":"45","annual_income":"0","source_of_income":"Farmer","moveable_assets":"467,700","immoveable_assets":"2,500,000","total_assets":"2,967,700","liabilities":"1,300,000","net_assets":"1,667,700","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Elaiyaperumal_K_Kallakurichi.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93053e87-6bb1-402f-9808-8d0e76f9d47f","name":"K.\u0b87\u0bb3\u0bc8\u0baf\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bbe\u0bb3\u0bcd","education":"S.S.L.C","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"45","annual_income":"0","source_of_income":"Farmer","moveable_assets":"467,700","immoveable_assets":"2,500,000","total_assets":"2,967,700","liabilities":"1,300,000","net_assets":"1,667,700","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Elaiyaperumal_K_Kallakurichi.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92feaf73-2c75-43fb-a524-d949ebb6aa05","name":"S.Sivakumar","education":"ITI","occupation":"Labour (Mechanic)","age":"37","annual_income":"0","source_of_income":"Labour","moveable_assets":"260,000","immoveable_assets":"150,000","total_assets":"410,000","liabilities":"0","net_assets":"410,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_22.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92feaf73-2c75-43fb-a524-d949ebb6aa05","name":"S.\u0b9a\u0bbf\u0bb5\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd","education":"ITI","occupation":"\u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd","age":"37","annual_income":"0","source_of_income":"Labour","moveable_assets":"260,000","immoveable_assets":"150,000","total_assets":"410,000","liabilities":"0","net_assets":"410,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_22.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fed380-f445-4c4b-a608-bbb7e4b7beb7","name":"P.Subramaniyan","education":"8th pass","occupation":"Farmer","age":"38","annual_income":"0","source_of_income":"Daily Wages","moveable_assets":"266,000","immoveable_assets":"300,000","total_assets":"566,000","liabilities":"0","net_assets":"566,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_33.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fed380-f445-4c4b-a608-bbb7e4b7beb7","name":"P.\u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0ba3\u0bbf\u0baf\u0ba9\u0bcd","education":"8th pass","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"38","annual_income":"0","source_of_income":"Daily Wages","moveable_assets":"266,000","immoveable_assets":"300,000","total_assets":"566,000","liabilities":"0","net_assets":"566,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KALLAKURICHI_33.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KALLAKURICHI","constituency_en_label":"Kallakurichi","constituency_ta_label":"\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf","district_id":"VILLUPURAM","district_en_label":"Villupuram","district_ta_label":"\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0b8a\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "93051ad8-3dc6-4613-baef-79c322827926",
+                "name": "M.Suriyaprakash",
+                "education": "I.T.I ",
+                "occupation": "Driver",
+                "age": "25",
+                "annual_income": "0",
+                "source_of_income": "N/A",
+                "moveable_assets": "0",
+                "immoveable_assets": "0",
+                "total_assets": "0",
+                "liabilities": "0",
+                "net_assets": "0",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Suriyaprakash_M_Kallakurichi.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/MATCHBOX.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93051ad8-3dc6-4613-baef-79c322827926",
+                "name": "M.\u0b9a\u0bc2\u0bb0\u0bcd\u0baf\u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb7\u0bcd",
+                "education": "I.T.I ",
+                "occupation": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
+                "age": "25",
+                "annual_income": "0",
+                "source_of_income": "N/A",
+                "moveable_assets": "0",
+                "immoveable_assets": "0",
+                "total_assets": "0",
+                "liabilities": "0",
+                "net_assets": "0",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Suriyaprakash_M_Kallakurichi.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/MATCHBOX.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f6e0c1-d3f6-41b1-9e97-36356318c133",
+                "name": "Dhravida Muthamizh selvi",
+                "education": "M.Phil.",
+                "occupation": "House wife",
+                "age": "37",
+                "annual_income": "0",
+                "source_of_income": "House wife",
+                "moveable_assets": "1,330,526",
+                "immoveable_assets": "598,200",
+                "total_assets": "1,928,726",
+                "liabilities": "0",
+                "net_assets": "1,928,726",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_3.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "78,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f6e0c1-d3f6-41b1-9e97-36356318c133",
+                "name": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bbf ",
+                "education": "M.Phil.",
+                "occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "age": "37",
+                "annual_income": "0",
+                "source_of_income": "House wife",
+                "moveable_assets": "1,330,526",
+                "immoveable_assets": "598,200",
+                "total_assets": "1,928,726",
+                "liabilities": "0",
+                "net_assets": "1,928,726",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_3.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "78,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fa9bfc-baa0-4310-a689-bf48f01fa28a",
+                "name": "K.I.Manirathinam",
+                "education": "Ph.D ",
+                "occupation": "social service,business",
+                "age": "62",
+                "annual_income": "218,000",
+                "source_of_income": "business",
+                "moveable_assets": "53,601,333",
+                "immoveable_assets": "10,073,680",
+                "total_assets": "63,675,013",
+                "liabilities": "0",
+                "net_assets": "63,675,013",
+                "no_of_criminal_cases": 4,
+                "cases_description": "cheating,illegal land acquisition,rioting,Assault or use of criminal force,Criminal intimdation. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_5.jpg",
+                "party": {
+                    "id": "Indian National Congress",
+                    "short_name": "INC",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd",
+                    "en_label": "Indian National Congress",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/Hand.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "212,000",
+                        "spouse": "572,610",
+                        "overall": "265,000"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "215,000",
+                        "spouse": "583,320",
+                        "overall": "292,000"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "217,500",
+                        "spouse": "594,060",
+                        "overall": "349,000"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "218,000",
+                        "spouse": "540,620",
+                        "overall": "338,000"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fa9bfc-baa0-4310-a689-bf48f01fa28a",
+                "name": "K.I.\u0bae\u0ba3\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
+                "education": "Ph.D ",
+                "occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8, \u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd",
+                "age": "62",
+                "annual_income": "218,000",
+                "source_of_income": "business",
+                "moveable_assets": "53,601,333",
+                "immoveable_assets": "10,073,680",
+                "total_assets": "63,675,013",
+                "liabilities": "0",
+                "net_assets": "63,675,013",
+                "no_of_criminal_cases": 4,
+                "cases_description": "\u0ba8\u0bbf\u0bb2\u0bae\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bc7\u0b9f\u0bc1, \u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd,\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd,,\u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd,\u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_5.jpg",
+                "party": {
+                    "id": "Indian National Congress",
+                    "short_name": "INC",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd",
+                    "en_label": "Indian National Congress",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/Hand.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "212,000",
+                        "spouse": "572,610",
+                        "overall": "265,000"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "215,000",
+                        "spouse": "583,320",
+                        "overall": "292,000"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "217,500",
+                        "spouse": "594,060",
+                        "overall": "349,000"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "218,000",
+                        "spouse": "540,620",
+                        "overall": "338,000"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd",
+                "cases_pending_description": "\u0ba8\u0bbf\u0bb2\u0bae\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bc7\u0b9f\u0bc1, \u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd,\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd,,\u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd,\u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8, \u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fa9e2f-25ed-4303-bf50-99581d9b534b",
+                "name": "N.Vijaya kumar",
+                "education": "B.sc,B.Ed",
+                "occupation": "Farmer",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "Daily Wages",
+                "moveable_assets": "437,500",
+                "immoveable_assets": "200,000",
+                "total_assets": "637,500",
+                "liabilities": "0",
+                "net_assets": "637,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_6.jpg",
+                "party": {
+                    "id": "Desiya Murpokku Dravida Kazhagam",
+                    "short_name": "DMDK",
+                    "ta_label": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Desiya Murpokku Dravida Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/NAGARA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fa9e2f-25ed-4303-bf50-99581d9b534b",
+                "name": "N.\u0bb5\u0bbf\u0b9c\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ",
+                "education": "B.sc,B.Ed",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "Daily Wages",
+                "moveable_assets": "437,500",
+                "immoveable_assets": "200,000",
+                "total_assets": "637,500",
+                "liabilities": "0",
+                "net_assets": "637,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_6.jpg",
+                "party": {
+                    "id": "Desiya Murpokku Dravida Kazhagam",
+                    "short_name": "DMDK",
+                    "ta_label": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Desiya Murpokku Dravida Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/NAGARA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0b8a\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fc9dc0-bcd2-4be7-9b1b-86b30dd309d8",
+                "name": "M.Senthilkumar",
+                "education": "12th pass",
+                "occupation": "Business",
+                "age": "43",
+                "annual_income": "486,320",
+                "source_of_income": "Business Income",
+                "moveable_assets": "3,631,198",
+                "immoveable_assets": "1,860,000",
+                "total_assets": "5,491,198",
+                "liabilities": "1,084,359",
+                "net_assets": "4,406,839",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_16.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AIADMK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "486,320",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fc9dc0-bcd2-4be7-9b1b-86b30dd309d8",
+                "name": "M.\u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ",
+                "education": "12th pass",
+                "occupation": "\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd ",
+                "age": "43",
+                "annual_income": "486,320",
+                "source_of_income": "Business Income",
+                "moveable_assets": "3,631,198",
+                "immoveable_assets": "1,860,000",
+                "total_assets": "5,491,198",
+                "liabilities": "1,084,359",
+                "net_assets": "4,406,839",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_16.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AIADMK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "486,320",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0ba3\u0bbf\u0b95 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fca66e-072d-4468-b821-4cab4928b090",
+                "name": "M.Dinesh",
+                "education": "D.E.E.E",
+                "occupation": "Farmer",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "Farmer",
+                "moveable_assets": "1,151,000",
+                "immoveable_assets": "8,000,000",
+                "total_assets": "9,151,000",
+                "liabilities": "0",
+                "net_assets": "9,151,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_17.jpg",
+                "party": {
+                    "id": "My India Party",
+                    "en_label": "My India Party",
+                    "ta_label": " \u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fca66e-072d-4468-b821-4cab4928b090",
+                "name": "M.\u0ba4\u0bbf\u0ba9\u0bc7\u0bb7\u0bcd ",
+                "education": "D.E.E.E",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "Farmer",
+                "moveable_assets": "1,151,000",
+                "immoveable_assets": "8,000,000",
+                "total_assets": "9,151,000",
+                "liabilities": "0",
+                "net_assets": "9,151,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_17.jpg",
+                "party": {
+                    "id": "My India Party",
+                    "en_label": "My India Party",
+                    "ta_label": " \u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": " \u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fca027-eec1-43d8-bcb0-fea1e71ffb0a",
+                "name": "M.Ayyasamy",
+                "education": "9th STD",
+                "occupation": "Agriculture",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "245,000",
+                "immoveable_assets": "245,000",
+                "total_assets": "490,000",
+                "liabilities": "0",
+                "net_assets": "490,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_20.jpg",
+                "party": {
+                    "id": "Indiya Jannayaka Katchi",
+                    "en_label": "Indiya Jannayaka Katchi",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fca027-eec1-43d8-bcb0-fea1e71ffb0a",
+                "name": "M.\u0b85\u0baf\u0bcd\u0baf\u0bbe\u0b9a\u0bbe\u0bae\u0bbf ",
+                "education": "9th STD",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "245,000",
+                "immoveable_assets": "245,000",
+                "total_assets": "490,000",
+                "liabilities": "0",
+                "net_assets": "490,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_20.jpg",
+                "party": {
+                    "id": "Indiya Jannayaka Katchi",
+                    "en_label": "Indiya Jannayaka Katchi",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9305193d-e940-499d-aa4a-1aacd93f8741",
+                "name": "K.Devi Mangayarkarasi",
+                "education": "M.D.,PHd",
+                "occupation": "House Wife",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "N/A",
+                "moveable_assets": "258,500",
+                "immoveable_assets": "0",
+                "total_assets": "258,500",
+                "liabilities": "0",
+                "net_assets": "258,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Devimangayarkarasi_K_Kallakurichi.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PINEAPPLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "312,501",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "348,521",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "358,691",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "376,507",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9305193d-e940-499d-aa4a-1aacd93f8741",
+                "name": "K.\u0ba4\u0bc7\u0bb5\u0bbf \u0bae\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb0\u0bbe\u0b9a\u0bbf",
+                "education": "M.D.,PHd",
+                "occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "N/A",
+                "moveable_assets": "258,500",
+                "immoveable_assets": "0",
+                "total_assets": "258,500",
+                "liabilities": "0",
+                "net_assets": "258,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Devimangayarkarasi_K_Kallakurichi.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PINEAPPLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "312,501",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "348,521",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "358,691",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "376,507",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feb24f-ac03-4de6-bc9f-7edaa9bd65bf",
+                "name": "C.Prabu",
+                "education": "M.P.Ed",
+                "occupation": "Farmer",
+                "age": "38",
+                "annual_income": "0",
+                "source_of_income": "Farmer",
+                "moveable_assets": "292,000",
+                "immoveable_assets": "200,000",
+                "total_assets": "492,000",
+                "liabilities": "0",
+                "net_assets": "492,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_23.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WHISTLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feb24f-ac03-4de6-bc9f-7edaa9bd65bf",
+                "name": "C.\u0baa\u0bbf\u0bb0\u0baa\u0bc1",
+                "education": "M.P.Ed",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "38",
+                "annual_income": "0",
+                "source_of_income": "Farmer",
+                "moveable_assets": "292,000",
+                "immoveable_assets": "200,000",
+                "total_assets": "492,000",
+                "liabilities": "0",
+                "net_assets": "492,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_23.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WHISTLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fec132-41f3-4628-9456-9c9bc6089e07",
+                "name": "M.Gurusamy",
+                "education": "10th STD",
+                "occupation": "Farmer",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "Farmer",
+                "moveable_assets": "186,000",
+                "immoveable_assets": "0",
+                "total_assets": "186,000",
+                "liabilities": "0",
+                "net_assets": "186,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_24.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GAS_CYLINDER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fec132-41f3-4628-9456-9c9bc6089e07",
+                "name": "M.\u0b95\u0bc1\u0bb0\u0bc1\u0b9a\u0bbe\u0bae\u0bbf",
+                "education": "10th STD",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "Farmer",
+                "moveable_assets": "186,000",
+                "immoveable_assets": "0",
+                "total_assets": "186,000",
+                "liabilities": "0",
+                "net_assets": "186,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_24.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GAS_CYLINDER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fec5a1-3183-4d12-b106-822aa47a3334",
+                "name": "M.Selvaraj",
+                "education": "DEEE",
+                "occupation": "Farmer",
+                "age": "52",
+                "annual_income": "0",
+                "source_of_income": "Farmer",
+                "moveable_assets": "220,000",
+                "immoveable_assets": "300,000",
+                "total_assets": "520,000",
+                "liabilities": "0",
+                "net_assets": "520,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_27.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/T.V_REMOTE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fec5a1-3183-4d12-b106-822aa47a3334",
+                "name": "M.\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bb0\u0bbe\u0b9c\u0bcd",
+                "education": "DEEE",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "52",
+                "annual_income": "0",
+                "source_of_income": "Farmer",
+                "moveable_assets": "220,000",
+                "immoveable_assets": "300,000",
+                "total_assets": "520,000",
+                "liabilities": "0",
+                "net_assets": "520,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_27.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/T.V_REMOTE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feca54-7fc5-4531-bfc2-5b470db4891f",
+                "name": "A.Palanisamy",
+                "education": "10th pass",
+                "occupation": "Agricultural Daily wager",
+                "age": "50",
+                "annual_income": "0",
+                "source_of_income": "Agricultural Daily wager",
+                "moveable_assets": "81,000",
+                "immoveable_assets": "0",
+                "total_assets": "81,000",
+                "liabilities": "0",
+                "net_assets": "81,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_29.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feca54-7fc5-4531-bfc2-5b470db4891f",
+                "name": "A.\u0baa\u0bb4\u0ba9\u0bbf\u0b9a\u0bbe\u0bae\u0bbf",
+                "education": "10th pass",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0b8a\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+                "age": "50",
+                "annual_income": "0",
+                "source_of_income": "Agricultural Daily wager",
+                "moveable_assets": "81,000",
+                "immoveable_assets": "0",
+                "total_assets": "81,000",
+                "liabilities": "0",
+                "net_assets": "81,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_29.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0b8a\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0b8a\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fec838-ac95-4659-bed2-caf054d63ebf",
+                "name": "K.Kuppusamy",
+                "education": "5th pass",
+                "occupation": "Farmer",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "Daily Wager",
+                "moveable_assets": "101,000",
+                "immoveable_assets": "300,000",
+                "total_assets": "401,000",
+                "liabilities": "0",
+                "net_assets": "401,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_28.jpg",
+                "party": {
+                    "id": "Anna MGR Dravida Makkal Kalgam",
+                    "en_label": "Anna MGR Dravida Makkal Kalgam",
+                    "ta_label": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0b8e\u0bae\u0bcd.\u0b9c\u0bbf.\u0b86\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fec838-ac95-4659-bed2-caf054d63ebf",
+                "name": "K.\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bbe\u0bae\u0bbf",
+                "education": "5th pass",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "Daily Wager",
+                "moveable_assets": "101,000",
+                "immoveable_assets": "300,000",
+                "total_assets": "401,000",
+                "liabilities": "0",
+                "net_assets": "401,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_28.jpg",
+                "party": {
+                    "id": "Anna MGR Dravida Makkal Kalgam",
+                    "en_label": "Anna MGR Dravida Makkal Kalgam",
+                    "ta_label": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0b8e\u0bae\u0bcd.\u0b9c\u0bbf.\u0b86\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0b8e\u0bae\u0bcd.\u0b9c\u0bbf.\u0b86\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                "self_source_of_income": "\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0b8a\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fece93-f9f8-4745-b43a-d5801c81ace5",
+                "name": "C.Oviyar Ananth",
+                "education": "Drawing Teacher Training",
+                "occupation": "Self employment",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "Self employment",
+                "moveable_assets": "1,071,000",
+                "immoveable_assets": "600,000",
+                "total_assets": "1,671,000",
+                "liabilities": "0",
+                "net_assets": "1,671,000",
+                "no_of_criminal_cases": 2,
+                "cases_description": "Protest against police, Money loan conflict. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_30.jpg",
+                "party": {
+                    "id": "Lok JanShakti Party",
+                    "en_label": "Lok JanShakti Party",
+                    "ta_label": "\u0bb2\u0bcb\u0b95\u0bcd \u0b9c\u0ba9\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf        ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BUNGLOW.jpg"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fece93-f9f8-4745-b43a-d5801c81ace5",
+                "name": "C.\u0b93\u0bb5\u0bbf\u0baf\u0bb0\u0bcd \u0b86\u0ba9\u0ba8\u0bcd\u0ba4\u0bcd",
+                "education": "Drawing Teacher Training",
+                "occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "Self employment",
+                "moveable_assets": "1,071,000",
+                "immoveable_assets": "600,000",
+                "total_assets": "1,671,000",
+                "liabilities": "0",
+                "net_assets": "1,671,000",
+                "no_of_criminal_cases": 2,
+                "cases_description": "\u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd , \u0baa\u0ba3\u0bae\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba4\u0b95\u0bb0\u0bbe\u0bb1\u0bc1. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_30.jpg",
+                "party": {
+                    "id": "Lok JanShakti Party",
+                    "en_label": "Lok JanShakti Party",
+                    "ta_label": "\u0bb2\u0bcb\u0b95\u0bcd \u0b9c\u0ba9\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf        ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BUNGLOW.jpg"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0bb2\u0bcb\u0b95\u0bcd \u0b9c\u0ba9\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf        ",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_pending_description": "\u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd , \u0baa\u0ba3\u0bae\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba4\u0b95\u0bb0\u0bbe\u0bb1\u0bc1",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93053e87-6bb1-402f-9808-8d0e76f9d47f",
+                "name": "K.Elaiyaperumal",
+                "education": "S.S.L.C",
+                "occupation": "Farmer",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "Farmer",
+                "moveable_assets": "467,700",
+                "immoveable_assets": "2,500,000",
+                "total_assets": "2,967,700",
+                "liabilities": "1,300,000",
+                "net_assets": "1,667,700",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Elaiyaperumal_K_Kallakurichi.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93053e87-6bb1-402f-9808-8d0e76f9d47f",
+                "name": "K.\u0b87\u0bb3\u0bc8\u0baf\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bbe\u0bb3\u0bcd",
+                "education": "S.S.L.C",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "Farmer",
+                "moveable_assets": "467,700",
+                "immoveable_assets": "2,500,000",
+                "total_assets": "2,967,700",
+                "liabilities": "1,300,000",
+                "net_assets": "1,667,700",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Elaiyaperumal_K_Kallakurichi.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feaf73-2c75-43fb-a524-d949ebb6aa05",
+                "name": "S.Sivakumar",
+                "education": "ITI",
+                "occupation": "Labour (Mechanic)",
+                "age": "37",
+                "annual_income": "0",
+                "source_of_income": "Labour",
+                "moveable_assets": "260,000",
+                "immoveable_assets": "150,000",
+                "total_assets": "410,000",
+                "liabilities": "0",
+                "net_assets": "410,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_22.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TRUCK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feaf73-2c75-43fb-a524-d949ebb6aa05",
+                "name": "S.\u0b9a\u0bbf\u0bb5\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+                "education": "ITI",
+                "occupation": "\u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd",
+                "age": "37",
+                "annual_income": "0",
+                "source_of_income": "Labour",
+                "moveable_assets": "260,000",
+                "immoveable_assets": "150,000",
+                "total_assets": "410,000",
+                "liabilities": "0",
+                "net_assets": "410,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_22.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TRUCK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fed380-f445-4c4b-a608-bbb7e4b7beb7",
+                "name": "P.Subramaniyan",
+                "education": "8th pass",
+                "occupation": "Farmer",
+                "age": "38",
+                "annual_income": "0",
+                "source_of_income": "Daily Wages",
+                "moveable_assets": "266,000",
+                "immoveable_assets": "300,000",
+                "total_assets": "566,000",
+                "liabilities": "0",
+                "net_assets": "566,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_33.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fed380-f445-4c4b-a608-bbb7e4b7beb7",
+                "name": "P.\u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0ba3\u0bbf\u0baf\u0ba9\u0bcd",
+                "education": "8th pass",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "38",
+                "annual_income": "0",
+                "source_of_income": "Daily Wages",
+                "moveable_assets": "266,000",
+                "immoveable_assets": "300,000",
+                "total_assets": "566,000",
+                "liabilities": "0",
+                "net_assets": "566,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_33.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KALLAKURICHI",
+                    "constituency_en_label": "Kallakurichi",
+                    "constituency_ta_label": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b9a\u0bcd\u0b9a\u0bbf",
+                    "district_id": "VILLUPURAM",
+                    "district_en_label": "Villupuram",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba4\u0bbf\u0ba9\u0b9a\u0bb0\u0bbf \u0b8a\u0ba4\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

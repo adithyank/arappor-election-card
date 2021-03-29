@@ -1,1 +1,2188 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"93049f4a-12ae-493f-87b4-4d84249300c4","name":"N.RAMAKRISHNAN","education":"M.A. University of Madras -1973","occupation":"FARMER","age":"72","annual_income":"3,434,132","source_of_income":"FARMER","moveable_assets":"42,846,559","immoveable_assets":"31,045,000","total_assets":"73,891,559","liabilities":"100,236","net_assets":"73,791,323","no_of_criminal_cases":7,"cases_description":"Unlawful assembly,Carelessly spreading diseases,Public way \/ water way dangerous barricades creation , stopping, Disobeying government servant orders. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/N_Ramakrishnan_Cumbum.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"1,309,791","spouse":"1,340,107","overall":"300,000"},{"y_from":2017,"y_to":2018,"candidate":"2,564,418","spouse":"2,275,133","overall":"300,000"},{"y_from":2018,"y_to":2019,"candidate":"3,456,228","spouse":"3,211,678","overall":"300,000"},{"y_from":2019,"y_to":2020,"candidate":"3,434,132","spouse":"2,207,396","overall":"300,000"}]},"ta":{"candidate_id":"93049f4a-12ae-493f-87b4-4d84249300c4","name":"N.\u0b87\u0bb0\u0bbe\u0bae\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd ","education":"M.A. University of Madras -1973","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"72","annual_income":"3,434,132","source_of_income":"FARMER","moveable_assets":"42,846,559","immoveable_assets":"31,045,000","total_assets":"73,891,559","liabilities":"100,236","net_assets":"73,791,323","no_of_criminal_cases":7,"cases_description":"\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bc1\u0bb1\u0bae\u0bcd\u0baa\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bc2\u0b9f\u0bbf,\u0b95\u0bb5\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95 \u0ba8\u0bcb\u0baf\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd,\u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0ba8\u0bc0\u0bb0\u0bcd\u0bb5\u0bb4\u0bbf \u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ,\u0ba4\u0b9f\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd,\u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd,\u0b85\u0bb0\u0b9a\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc8 \u0bae\u0bc0\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/N_Ramakrishnan_Cumbum.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"1,309,791","spouse":"1,340,107","overall":"300,000"},{"y_from":2017,"y_to":2018,"candidate":"2,564,418","spouse":"2,275,133","overall":"300,000"},{"y_from":2018,"y_to":2019,"candidate":"3,456,228","spouse":"3,211,678","overall":"300,000"},{"y_from":2019,"y_to":2020,"candidate":"3,434,132","spouse":"2,207,396","overall":"300,000"}],"other_party_name":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bc1\u0bb1\u0bae\u0bcd\u0baa\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bc2\u0b9f\u0bbf,\u0b95\u0bb5\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95 \u0ba8\u0bcb\u0baf\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd,\u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0ba8\u0bc0\u0bb0\u0bcd\u0bb5\u0bb4\u0bbf \u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ,\u0ba4\u0b9f\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd,\u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd,\u0b85\u0bb0\u0b9a\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc8 \u0bae\u0bc0\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"9304a158-8ae0-4007-8a35-6371c03c9e70","name":"S.P.M.SYEDUKHAN","education":"PUC - 1965 Amercian College Madurai","occupation":"FARMER","age":"73","annual_income":"0","source_of_income":"FARMER","moveable_assets":"4,050,000","immoveable_assets":"800,000","total_assets":"4,850,000","liabilities":"2,500,000","net_assets":"2,350,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Syedukhan_S_P_M_Cumbum.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9304a158-8ae0-4007-8a35-6371c03c9e70","name":"S.P.M.\u0b9a\u0bc8\u0baf\u0ba4\u0bc1\u0b95\u0bbe\u0ba9\u0bcd","education":"PUC - 1965 Amercian College Madurai","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"73","annual_income":"0","source_of_income":"FARMER","moveable_assets":"4,050,000","immoveable_assets":"800,000","total_assets":"4,850,000","liabilities":"2,500,000","net_assets":"2,350,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Syedukhan_S_P_M_Cumbum.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92f4e33b-862f-4273-be47-bcbae3a1e20b","name":"A.ANISHFATIMA","education":"12th Studied 1996-1997","occupation":"HOUSEWIFE","age":"38","annual_income":"0","source_of_income":"HOUSEWIFE","moveable_assets":"2,448,910","immoveable_assets":"4,521,000","total_assets":"6,969,910","liabilities":"900,000","net_assets":"6,069,910","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_1.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f4e33b-862f-4273-be47-bcbae3a1e20b","name":"A.\u0b85\u0ba9\u0bc0\u0bb7\u0bcd\u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bae\u0bbe","education":"12th Studied 1996-1997","occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","age":"38","annual_income":"0","source_of_income":"HOUSEWIFE","moveable_assets":"2,448,910","immoveable_assets":"4,521,000","total_assets":"6,969,910","liabilities":"900,000","net_assets":"6,069,910","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_1.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92fe82fc-6bb9-4ab0-bc8e-7adf4b010d46","name":"S.KATHIRAVAN","education":"DIPLOMA IN CIVIL ENGINEERING","occupation":"PRIVATE DEPARTMENT EMPLOYEE","age":"30","annual_income":"557,922","source_of_income":"MONTHLY SALARY","moveable_assets":"823,960","immoveable_assets":"193,050","total_assets":"1,017,010","liabilities":"0","net_assets":"1,017,010","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_26.jpg","party":{"id":"New Generation People\u2019s Party","en_label":"New Generation People\u2019s Party","ta_label":"\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"338,444","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"387,666","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"515,283","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"511,710","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"557,922","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fe82fc-6bb9-4ab0-bc8e-7adf4b010d46","name":"S.\u0b95\u0ba4\u0bbf\u0bb0\u0bb5\u0ba9\u0bcd","education":"DIPLOMA IN CIVIL ENGINEERING","occupation":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd","age":"30","annual_income":"557,922","source_of_income":"MONTHLY SALARY","moveable_assets":"823,960","immoveable_assets":"193,050","total_assets":"1,017,010","liabilities":"0","net_assets":"1,017,010","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_26.jpg","party":{"id":"New Generation People\u2019s Party","en_label":"New Generation People\u2019s Party","ta_label":"\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"338,444","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"387,666","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"515,283","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"511,710","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"557,922","spouse":"0","overall":"0"}],"other_party_name":"\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","self_source_of_income":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"93049a9f-74c8-4cda-b026-07d02982ba4a","name":"P.SURESH","education":"M.A.,DFTNE.,Central Polytecnic","occupation":"FARMER","age":"47","annual_income":"352,993","source_of_income":"FARMER","moveable_assets":"15,496,225","immoveable_assets":"27,097,590","total_assets":"42,593,815","liabilities":"25,881,249","net_assets":"16,712,566","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Suresh_P_Cumbum.jpg","party":{"id":"Amma Makkal Munnettra Kazagam","en_label":"Amma Makkal Munnettra Kazagam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","party_image":null},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"352,993","spouse":"258,182","overall":"0"}]},"ta":{"candidate_id":"93049a9f-74c8-4cda-b026-07d02982ba4a","name":"P.\u0b9a\u0bc1\u0bb0\u0bc7\u0bb7\u0bcd","education":"M.A.,DFTNE.,Central Polytecnic","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"47","annual_income":"352,993","source_of_income":"FARMER","moveable_assets":"15,496,225","immoveable_assets":"27,097,590","total_assets":"42,593,815","liabilities":"25,881,249","net_assets":"16,712,566","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Suresh_P_Cumbum.jpg","party":{"id":"Amma Makkal Munnettra Kazagam","en_label":"Amma Makkal Munnettra Kazagam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","party_image":null},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"352,993","spouse":"258,182","overall":"0"}],"other_party_name":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fb19aa-b40a-4e57-86bc-e278e47ee23f","name":"R.PANDISELVAM","education":"12th PASS","occupation":"Tiles Shop","age":"39","annual_income":"0","source_of_income":"Tiles Shop","moveable_assets":"476,800","immoveable_assets":"1,100,000","total_assets":"1,576,800","liabilities":"1,002,000","net_assets":"574,800","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_13.jpg","party":{"id":"ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM","en_label":"ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM","ta_label":"\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bcd\u0bae\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd","party_image":null},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fb19aa-b40a-4e57-86bc-e278e47ee23f","name":"R.\u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd   ","education":"12th PASS","occupation":"\u0b9f\u0bc8\u0bb2\u0bcd\u0bb8\u0bcd \u0b95\u0b9f\u0bc8","age":"39","annual_income":"0","source_of_income":"Tiles Shop","moveable_assets":"476,800","immoveable_assets":"1,100,000","total_assets":"1,576,800","liabilities":"1,002,000","net_assets":"574,800","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8.  \u0b87\u0bb2\u0bcd\u0bb2\u0bc8","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_13.jpg","party":{"id":"ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM","en_label":"ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM","ta_label":"\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bcd\u0bae\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd","party_image":null},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bcd\u0bae\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd","self_source_of_income":"\u0b9f\u0bc8\u0bb2\u0bcd\u0bb8\u0bcd \u0b95\u0b9f\u0bc8","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b9f\u0bc8\u0bb2\u0bcd\u0bb8\u0bcd \u0b95\u0b9f\u0bc8","cases_convicted_description":" \u0b87\u0bb2\u0bcd\u0bb2\u0bc8"}},{"en":{"candidate_id":"93049571-0ab6-4afe-ac8e-6c7b5ee656af","name":"K.RADHAKRISHAN","education":"8th pass","occupation":"SELF BUSINESS","age":"49","annual_income":"0","source_of_income":"SELF BUSINESS","moveable_assets":"41,150","immoveable_assets":"350,000","total_assets":"391,150","liabilities":"605,000","net_assets":"-213,850","no_of_criminal_cases":1,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/RADHAKRISHNAN_K_Cumbum.jpg","party":{"id":"Anaithu Makkal Puratchi Katchi","short_name":"AMPK","ta_label":"\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Anaithu Makkal Puratchi Katchi","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93049571-0ab6-4afe-ac8e-6c7b5ee656af","name":"K.\u0bb0\u0bbe\u0ba4\u0bbe\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd","education":"8th pass","occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","age":"49","annual_income":"0","source_of_income":"SELF BUSINESS","moveable_assets":"41,150","immoveable_assets":"350,000","total_assets":"391,150","liabilities":"605,000","net_assets":"-213,850","no_of_criminal_cases":1,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/RADHAKRISHNAN_K_Cumbum.jpg","party":{"id":"Anaithu Makkal Puratchi Katchi","short_name":"AMPK","ta_label":"\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Anaithu Makkal Puratchi Katchi","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fc728f-7df6-4bc0-8a62-c31f4859a941","name":"V.LALBAHDURSASTHRI","education":"B.A POLITICAL SCIENCE","occupation":"LIC AGENT","age":"55","annual_income":"520,360","source_of_income":"LIC AGENT","moveable_assets":"1,417,800","immoveable_assets":"4,000,000","total_assets":"5,417,800","liabilities":"2,170,992","net_assets":"3,246,808","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_12.jpg","party":{"id":"My India Party","en_label":"My India Party","ta_label":"\u0bae\u0bc8  \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"520,360","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fc728f-7df6-4bc0-8a62-c31f4859a941","name":"V.\u0bb2\u0bbe\u0bb2\u0bcd\u0baa\u0ba4\u0bc2\u0bb0\u0bcd\u0b9a\u0bbe\u0bb8\u0bcd\u0ba4\u0bcd\u0bb0\u0bbf","education":"B.A POLITICAL SCIENCE","occupation":"\u0b8e\u0bb2\u0bcd.\u0b90.\u0b9a\u0bbf \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd","age":"55","annual_income":"520,360","source_of_income":"LIC AGENT","moveable_assets":"1,417,800","immoveable_assets":"4,000,000","total_assets":"5,417,800","liabilities":"2,170,992","net_assets":"3,246,808","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8.  \u0b87\u0bb2\u0bcd\u0bb2\u0bc8","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_12.jpg","party":{"id":"My India Party","en_label":"My India Party","ta_label":"\u0bae\u0bc8  \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"520,360","spouse":"0","overall":"0"}],"other_party_name":"\u0bae\u0bc8  \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","self_source_of_income":"\u0b8e\u0bb2\u0bcd.\u0b90.\u0b9a\u0bbf \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b8e\u0bb2\u0bcd.\u0b90.\u0b9a\u0bbf \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd","cases_convicted_description":" \u0b87\u0bb2\u0bcd\u0bb2\u0bc8"}},{"en":{"candidate_id":"92fcc321-8b4d-462c-8fa4-8d6456f075f0","name":"N.VENKIDESH","education":"B.E(Computer Science)","occupation":"VEDHA EDUCATION CENTER ADMINISTRATIVE DIRECTOR","age":"29","annual_income":"560,000","source_of_income":"VEDHA EDUCATION CENTER ADMINISTRATIVE DIRECTOR","moveable_assets":"3,316,177","immoveable_assets":"0","total_assets":"3,316,177","liabilities":"969,000","net_assets":"2,347,177","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_22.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"560,000","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fcc321-8b4d-462c-8fa4-8d6456f075f0","name":"N.\u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0bbf\u0ba4\u0bc7\u0bb7\u0bcd ","education":"B.E(Computer Science)","occupation":"\u0bb5\u0bc7\u0ba4\u0bbe \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd\n","age":"29","annual_income":"560,000","source_of_income":"VEDHA EDUCATION CENTER ADMINISTRATIVE DIRECTOR","moveable_assets":"3,316,177","immoveable_assets":"0","total_assets":"3,316,177","liabilities":"969,000","net_assets":"2,347,177","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_22.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"560,000","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bc7\u0ba4\u0bbe \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bc7\u0ba4\u0bbe \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd\n","cases_convicted_description":""}},{"en":{"candidate_id":"92fd01af-20a9-478b-a339-f2e09e5ec66b","name":"S.R.SARAVANAN","education":"12th PASS","occupation":"FARMER","age":"42","annual_income":"0","source_of_income":"FARMER","moveable_assets":"236,627","immoveable_assets":"0","total_assets":"236,627","liabilities":"102,000","net_assets":"134,627","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_19.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fd01af-20a9-478b-a339-f2e09e5ec66b","name":"S.R.\u0b9a\u0bb0\u0bb5\u0ba3\u0ba9\u0bcd\t","education":"12th PASS","occupation":"\u0b89\u0bb4\u0bb5\u0bb0\u0bcd","age":"42","annual_income":"0","source_of_income":"FARMER","moveable_assets":"236,627","immoveable_assets":"0","total_assets":"236,627","liabilities":"102,000","net_assets":"134,627","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8.  \u0b87\u0bb2\u0bcd\u0bb2\u0bc8","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_19.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b89\u0bb4\u0bb5\u0bb0\u0bcd","cases_convicted_description":" \u0b87\u0bb2\u0bcd\u0bb2\u0bc8"}},{"en":{"candidate_id":"92fe80b3-21b6-4666-a8ce-92f4cbff1f08","name":"A.THAVIDHU RAJA","education":"10th pass","occupation":"WAGES","age":"31","annual_income":"0","source_of_income":"WAGES","moveable_assets":"11,000","immoveable_assets":"0","total_assets":"11,000","liabilities":"0","net_assets":"11,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_29.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fe80b3-21b6-4666-a8ce-92f4cbff1f08","name":"A.\u0ba4\u0bb5\u0bc0\u0ba4\u0bc1\u0bb0\u0bbe\u0b9c\u0bbe","education":"10th pass","occupation":"\u0b95\u0bc2\u0bb2\u0bbf","age":"31","annual_income":"0","source_of_income":"WAGES","moveable_assets":"11,000","immoveable_assets":"0","total_assets":"11,000","liabilities":"0","net_assets":"11,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_29.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0bc2\u0bb2\u0bbf","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b95\u0bc2\u0bb2\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"9304a3a8-4738-4a46-8304-0c9e165cf371","name":"P.PRAKASH","education":"B.A, B.L., - Government Law College, Tirunelveli, 2002-2007. ","occupation":"ADVOCATE","age":"37","annual_income":"369,452","source_of_income":"ADVOCATE (Monthly Income approx. Rs.50,000\/-)","moveable_assets":"986,100","immoveable_assets":"0","total_assets":"986,100","liabilities":"868,917","net_assets":"117,183","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Prakash_P_Cumbum.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"275,365","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"306,137","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"311,477","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"369,452","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9304a3a8-4738-4a46-8304-0c9e165cf371","name":"P.\u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb7\u0bcd","education":"B.A, B.L., - Government Law College, Tirunelveli, 2002-2007. ","occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd (\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1 \u0b95\u0bbf\u0bb3\u0bc8)","age":"37","annual_income":"369,452","source_of_income":"ADVOCATE (Monthly Income approx. Rs.50,000\/-)","moveable_assets":"986,100","immoveable_assets":"0","total_assets":"986,100","liabilities":"868,917","net_assets":"117,183","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/Prakash_P_Cumbum.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"275,365","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"306,137","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"311,477","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"369,452","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd (\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1 \u0b95\u0bbf\u0bb3\u0bc8)","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd (\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1 \u0b95\u0bbf\u0bb3\u0bc8)","cases_convicted_description":""}},{"en":{"candidate_id":"92fe8501-c2bd-4658-80e7-c37d65a971a0","name":"G.MARIMUTHU","education":"10th pass","occupation":"FARMER","age":"42","annual_income":"0","source_of_income":"FARMER","moveable_assets":"320,000","immoveable_assets":"0","total_assets":"320,000","liabilities":"0","net_assets":"320,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_28.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fe8501-c2bd-4658-80e7-c37d65a971a0","name":"G.\u0bae\u0bbe\u0bb0\u0bbf\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1","education":"10th pass","occupation":"\u0b89\u0bb4\u0bb5\u0bb0\u0bcd","age":"42","annual_income":"0","source_of_income":"FARMER","moveable_assets":"320,000","immoveable_assets":"0","total_assets":"320,000","liabilities":"0","net_assets":"320,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_28.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b89\u0bb4\u0bb5\u0bb0\u0bcd","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b89\u0bb4\u0bb5\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fce616-af1b-4ea0-95e3-ab9f42c34557","name":"G.MuthuSelvam","education":"12th pass","occupation":"FARMER","age":"34","annual_income":"0","source_of_income":"FARMER","moveable_assets":"180,000","immoveable_assets":"0","total_assets":"180,000","liabilities":"25,000","net_assets":"155,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_21.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fce616-af1b-4ea0-95e3-ab9f42c34557","name":"G.\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd","education":"12th pass","occupation":"\u0b89\u0bb4\u0bb5\u0bb0\u0bcd","age":"34","annual_income":"0","source_of_income":"FARMER","moveable_assets":"180,000","immoveable_assets":"0","total_assets":"180,000","liabilities":"25,000","net_assets":"155,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8.  \u0b87\u0bb2\u0bcd\u0bb2\u0bc8","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_21.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b89\u0bb4\u0bb5\u0bb0\u0bcd","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b89\u0bb4\u0bb5\u0bb0\u0bcd","cases_convicted_description":" \u0b87\u0bb2\u0bcd\u0bb2\u0bc8"}},{"en":{"candidate_id":"92fe7e0c-69d0-4335-b8a0-496dda8912de","name":"M.MUTHUMUNEESWARAN","education":"10th pass","occupation":"AGRICULTURAL COOLIE","age":"40","annual_income":"0","source_of_income":"AGRICULTURAL COOLIE","moveable_assets":"330,000","immoveable_assets":"0","total_assets":"330,000","liabilities":"0","net_assets":"330,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_27.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fe7e0c-69d0-4335-b8a0-496dda8912de","name":"M.\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bc1\u0ba9\u0bc0\u0bb8\u0bcd\u0bb5\u0bb0\u0ba9\u0bcd","education":"10th pass","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf","age":"40","annual_income":"0","source_of_income":"AGRICULTURAL COOLIE","moveable_assets":"330,000","immoveable_assets":"0","total_assets":"330,000","liabilities":"0","net_assets":"330,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CUMBUM_27.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"CUMBUM","constituency_en_label":"Cumbum","constituency_ta_label":"\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd","district_id":"THENI","district_en_label":"Theni","district_ta_label":"\u0ba4\u0bc7\u0ba9\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "93049f4a-12ae-493f-87b4-4d84249300c4",
+                "name": "N.RAMAKRISHNAN",
+                "education": "M.A. University of Madras -1973",
+                "occupation": "FARMER",
+                "age": "72",
+                "annual_income": "3,434,132",
+                "source_of_income": "FARMER",
+                "moveable_assets": "42,846,559",
+                "immoveable_assets": "31,045,000",
+                "total_assets": "73,891,559",
+                "liabilities": "100,236",
+                "net_assets": "73,791,323",
+                "no_of_criminal_cases": 7,
+                "cases_description": "Unlawful assembly,Carelessly spreading diseases,Public way / water way dangerous barricades creation , stopping, Disobeying government servant orders. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/N_Ramakrishnan_Cumbum.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "1,309,791",
+                        "spouse": "1,340,107",
+                        "overall": "300,000"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "2,564,418",
+                        "spouse": "2,275,133",
+                        "overall": "300,000"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "3,456,228",
+                        "spouse": "3,211,678",
+                        "overall": "300,000"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "3,434,132",
+                        "spouse": "2,207,396",
+                        "overall": "300,000"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93049f4a-12ae-493f-87b4-4d84249300c4",
+                "name": "N.\u0b87\u0bb0\u0bbe\u0bae\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd ",
+                "education": "M.A. University of Madras -1973",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "72",
+                "annual_income": "3,434,132",
+                "source_of_income": "FARMER",
+                "moveable_assets": "42,846,559",
+                "immoveable_assets": "31,045,000",
+                "total_assets": "73,891,559",
+                "liabilities": "100,236",
+                "net_assets": "73,791,323",
+                "no_of_criminal_cases": 7,
+                "cases_description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bc1\u0bb1\u0bae\u0bcd\u0baa\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bc2\u0b9f\u0bbf,\u0b95\u0bb5\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95 \u0ba8\u0bcb\u0baf\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd,\u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0ba8\u0bc0\u0bb0\u0bcd\u0bb5\u0bb4\u0bbf \u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ,\u0ba4\u0b9f\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd,\u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd,\u0b85\u0bb0\u0b9a\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc8 \u0bae\u0bc0\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/N_Ramakrishnan_Cumbum.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "1,309,791",
+                        "spouse": "1,340,107",
+                        "overall": "300,000"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "2,564,418",
+                        "spouse": "2,275,133",
+                        "overall": "300,000"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "3,456,228",
+                        "spouse": "3,211,678",
+                        "overall": "300,000"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "3,434,132",
+                        "spouse": "2,207,396",
+                        "overall": "300,000"
+                    }
+                ],
+                "other_party_name": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bc1\u0bb1\u0bae\u0bcd\u0baa\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bc2\u0b9f\u0bbf,\u0b95\u0bb5\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95 \u0ba8\u0bcb\u0baf\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd,\u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0ba8\u0bc0\u0bb0\u0bcd\u0bb5\u0bb4\u0bbf \u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ,\u0ba4\u0b9f\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd,\u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd,\u0b85\u0bb0\u0b9a\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc8 \u0bae\u0bc0\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304a158-8ae0-4007-8a35-6371c03c9e70",
+                "name": "S.P.M.SYEDUKHAN",
+                "education": "PUC - 1965 Amercian College Madurai",
+                "occupation": "FARMER",
+                "age": "73",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "4,050,000",
+                "immoveable_assets": "800,000",
+                "total_assets": "4,850,000",
+                "liabilities": "2,500,000",
+                "net_assets": "2,350,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Syedukhan_S_P_M_Cumbum.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304a158-8ae0-4007-8a35-6371c03c9e70",
+                "name": "S.P.M.\u0b9a\u0bc8\u0baf\u0ba4\u0bc1\u0b95\u0bbe\u0ba9\u0bcd",
+                "education": "PUC - 1965 Amercian College Madurai",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "73",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "4,050,000",
+                "immoveable_assets": "800,000",
+                "total_assets": "4,850,000",
+                "liabilities": "2,500,000",
+                "net_assets": "2,350,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Syedukhan_S_P_M_Cumbum.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f4e33b-862f-4273-be47-bcbae3a1e20b",
+                "name": "A.ANISHFATIMA",
+                "education": "12th Studied 1996-1997",
+                "occupation": "HOUSEWIFE",
+                "age": "38",
+                "annual_income": "0",
+                "source_of_income": "HOUSEWIFE",
+                "moveable_assets": "2,448,910",
+                "immoveable_assets": "4,521,000",
+                "total_assets": "6,969,910",
+                "liabilities": "900,000",
+                "net_assets": "6,069,910",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_1.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f4e33b-862f-4273-be47-bcbae3a1e20b",
+                "name": "A.\u0b85\u0ba9\u0bc0\u0bb7\u0bcd\u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bae\u0bbe",
+                "education": "12th Studied 1996-1997",
+                "occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "age": "38",
+                "annual_income": "0",
+                "source_of_income": "HOUSEWIFE",
+                "moveable_assets": "2,448,910",
+                "immoveable_assets": "4,521,000",
+                "total_assets": "6,969,910",
+                "liabilities": "900,000",
+                "net_assets": "6,069,910",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_1.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe82fc-6bb9-4ab0-bc8e-7adf4b010d46",
+                "name": "S.KATHIRAVAN",
+                "education": "DIPLOMA IN CIVIL ENGINEERING",
+                "occupation": "PRIVATE DEPARTMENT EMPLOYEE",
+                "age": "30",
+                "annual_income": "557,922",
+                "source_of_income": "MONTHLY SALARY",
+                "moveable_assets": "823,960",
+                "immoveable_assets": "193,050",
+                "total_assets": "1,017,010",
+                "liabilities": "0",
+                "net_assets": "1,017,010",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_26.jpg",
+                "party": {
+                    "id": "New Generation People\u2019s Party",
+                    "en_label": "New Generation People\u2019s Party",
+                    "ta_label": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "338,444",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "387,666",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "515,283",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "511,710",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "557,922",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe82fc-6bb9-4ab0-bc8e-7adf4b010d46",
+                "name": "S.\u0b95\u0ba4\u0bbf\u0bb0\u0bb5\u0ba9\u0bcd",
+                "education": "DIPLOMA IN CIVIL ENGINEERING",
+                "occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd",
+                "age": "30",
+                "annual_income": "557,922",
+                "source_of_income": "MONTHLY SALARY",
+                "moveable_assets": "823,960",
+                "immoveable_assets": "193,050",
+                "total_assets": "1,017,010",
+                "liabilities": "0",
+                "net_assets": "1,017,010",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_26.jpg",
+                "party": {
+                    "id": "New Generation People\u2019s Party",
+                    "en_label": "New Generation People\u2019s Party",
+                    "ta_label": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "338,444",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "387,666",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "515,283",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "511,710",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "557,922",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93049a9f-74c8-4cda-b026-07d02982ba4a",
+                "name": "P.SURESH",
+                "education": "M.A.,DFTNE.,Central Polytecnic",
+                "occupation": "FARMER",
+                "age": "47",
+                "annual_income": "352,993",
+                "source_of_income": "FARMER",
+                "moveable_assets": "15,496,225",
+                "immoveable_assets": "27,097,590",
+                "total_assets": "42,593,815",
+                "liabilities": "25,881,249",
+                "net_assets": "16,712,566",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Suresh_P_Cumbum.jpg",
+                "party": {
+                    "id": "Amma Makkal Munnettra Kazagam",
+                    "en_label": "Amma Makkal Munnettra Kazagam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "352,993",
+                        "spouse": "258,182",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93049a9f-74c8-4cda-b026-07d02982ba4a",
+                "name": "P.\u0b9a\u0bc1\u0bb0\u0bc7\u0bb7\u0bcd",
+                "education": "M.A.,DFTNE.,Central Polytecnic",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "47",
+                "annual_income": "352,993",
+                "source_of_income": "FARMER",
+                "moveable_assets": "15,496,225",
+                "immoveable_assets": "27,097,590",
+                "total_assets": "42,593,815",
+                "liabilities": "25,881,249",
+                "net_assets": "16,712,566",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Suresh_P_Cumbum.jpg",
+                "party": {
+                    "id": "Amma Makkal Munnettra Kazagam",
+                    "en_label": "Amma Makkal Munnettra Kazagam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "352,993",
+                        "spouse": "258,182",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fb19aa-b40a-4e57-86bc-e278e47ee23f",
+                "name": "R.PANDISELVAM",
+                "education": "12th PASS",
+                "occupation": "Tiles Shop",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "Tiles Shop",
+                "moveable_assets": "476,800",
+                "immoveable_assets": "1,100,000",
+                "total_assets": "1,576,800",
+                "liabilities": "1,002,000",
+                "net_assets": "574,800",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_13.jpg",
+                "party": {
+                    "id": "ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM",
+                    "en_label": "ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM",
+                    "ta_label": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bcd\u0bae\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/JACKFRUIT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fb19aa-b40a-4e57-86bc-e278e47ee23f",
+                "name": "R.\u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd   ",
+                "education": "12th PASS",
+                "occupation": "\u0b9f\u0bc8\u0bb2\u0bcd\u0bb8\u0bcd \u0b95\u0b9f\u0bc8",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "Tiles Shop",
+                "moveable_assets": "476,800",
+                "immoveable_assets": "1,100,000",
+                "total_assets": "1,576,800",
+                "liabilities": "1,002,000",
+                "net_assets": "574,800",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8.  \u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_13.jpg",
+                "party": {
+                    "id": "ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM",
+                    "en_label": "ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM",
+                    "ta_label": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bcd\u0bae\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/JACKFRUIT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bcd\u0bae\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                "self_source_of_income": "\u0b9f\u0bc8\u0bb2\u0bcd\u0bb8\u0bcd \u0b95\u0b9f\u0bc8",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9f\u0bc8\u0bb2\u0bcd\u0bb8\u0bcd \u0b95\u0b9f\u0bc8",
+                "cases_convicted_description": " \u0b87\u0bb2\u0bcd\u0bb2\u0bc8"
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93049571-0ab6-4afe-ac8e-6c7b5ee656af",
+                "name": "K.RADHAKRISHAN",
+                "education": "8th pass",
+                "occupation": "SELF BUSINESS",
+                "age": "49",
+                "annual_income": "0",
+                "source_of_income": "SELF BUSINESS",
+                "moveable_assets": "41,150",
+                "immoveable_assets": "350,000",
+                "total_assets": "391,150",
+                "liabilities": "605,000",
+                "net_assets": "-213,850",
+                "no_of_criminal_cases": 1,
+                "cases_description": "obscene, Fraud, voluntarily causing hurt, criminal intimidation, SC/ST prevention of atrocities. . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RADHAKRISHNAN_K_Cumbum.jpg",
+                "party": {
+                    "id": "Anaithu Makkal Puratchi Katchi",
+                    "short_name": "AMPK",
+                    "ta_label": "\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Anaithu Makkal Puratchi Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GLASS_TUMBLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93049571-0ab6-4afe-ac8e-6c7b5ee656af",
+                "name": "K.\u0bb0\u0bbe\u0ba4\u0bbe\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd",
+                "education": "8th pass",
+                "occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "age": "49",
+                "annual_income": "0",
+                "source_of_income": "SELF BUSINESS",
+                "moveable_assets": "41,150",
+                "immoveable_assets": "350,000",
+                "total_assets": "391,150",
+                "liabilities": "605,000",
+                "net_assets": "-213,850",
+                "no_of_criminal_cases": 1,
+                "cases_description": "\u0b86\u0baa\u0bbe\u0b9a\u0bae\u0bbe\u0ba9 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1, \u0bae\u0bcb\u0b9a\u0b9f\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bb2\u0bcd, \u0ba4\u0ba3\u0bcd\u0ba3\u0bbf\u0baf\u0bc8 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bc1, \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b8e\u0bb8\u0bcd\u0b9a\u0bbf/ \u0b8e\u0bb8\u0bcd\u0b9f\u0bbf \u0bb5\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RADHAKRISHNAN_K_Cumbum.jpg",
+                "party": {
+                    "id": "Anaithu Makkal Puratchi Katchi",
+                    "short_name": "AMPK",
+                    "ta_label": "\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Anaithu Makkal Puratchi Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GLASS_TUMBLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_pending_description": "\u0b86\u0baa\u0bbe\u0b9a\u0bae\u0bbe\u0ba9 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1, \u0bae\u0bcb\u0b9a\u0b9f\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bb2\u0bcd, \u0ba4\u0ba3\u0bcd\u0ba3\u0bbf\u0baf\u0bc8 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bc1, \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b8e\u0bb8\u0bcd\u0b9a\u0bbf/ \u0b8e\u0bb8\u0bcd\u0b9f\u0bbf \u0bb5\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd.",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fc728f-7df6-4bc0-8a62-c31f4859a941",
+                "name": "V.LALBAHDURSASTHRI",
+                "education": "B.A POLITICAL SCIENCE",
+                "occupation": "LIC AGENT",
+                "age": "55",
+                "annual_income": "520,360",
+                "source_of_income": "LIC AGENT",
+                "moveable_assets": "1,417,800",
+                "immoveable_assets": "4,000,000",
+                "total_assets": "5,417,800",
+                "liabilities": "2,170,992",
+                "net_assets": "3,246,808",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_12.jpg",
+                "party": {
+                    "id": "My India Party",
+                    "en_label": "My India Party",
+                    "ta_label": "\u0bae\u0bc8  \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "520,360",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fc728f-7df6-4bc0-8a62-c31f4859a941",
+                "name": "V.\u0bb2\u0bbe\u0bb2\u0bcd\u0baa\u0ba4\u0bc2\u0bb0\u0bcd\u0b9a\u0bbe\u0bb8\u0bcd\u0ba4\u0bcd\u0bb0\u0bbf",
+                "education": "B.A POLITICAL SCIENCE",
+                "occupation": "\u0b8e\u0bb2\u0bcd.\u0b90.\u0b9a\u0bbf \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd",
+                "age": "55",
+                "annual_income": "520,360",
+                "source_of_income": "LIC AGENT",
+                "moveable_assets": "1,417,800",
+                "immoveable_assets": "4,000,000",
+                "total_assets": "5,417,800",
+                "liabilities": "2,170,992",
+                "net_assets": "3,246,808",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8.  \u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_12.jpg",
+                "party": {
+                    "id": "My India Party",
+                    "en_label": "My India Party",
+                    "ta_label": "\u0bae\u0bc8  \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "520,360",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0bae\u0bc8  \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0b8e\u0bb2\u0bcd.\u0b90.\u0b9a\u0bbf \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b8e\u0bb2\u0bcd.\u0b90.\u0b9a\u0bbf \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd",
+                "cases_convicted_description": " \u0b87\u0bb2\u0bcd\u0bb2\u0bc8"
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fcc321-8b4d-462c-8fa4-8d6456f075f0",
+                "name": "N.VENKIDESH",
+                "education": "B.E(Computer Science)",
+                "occupation": "VEDHA EDUCATION CENTER ADMINISTRATIVE DIRECTOR",
+                "age": "29",
+                "annual_income": "560,000",
+                "source_of_income": "VEDHA EDUCATION CENTER ADMINISTRATIVE DIRECTOR",
+                "moveable_assets": "3,316,177",
+                "immoveable_assets": "0",
+                "total_assets": "3,316,177",
+                "liabilities": "969,000",
+                "net_assets": "2,347,177",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_22.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "560,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fcc321-8b4d-462c-8fa4-8d6456f075f0",
+                "name": "N.\u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0bbf\u0ba4\u0bc7\u0bb7\u0bcd ",
+                "education": "B.E(Computer Science)",
+                "occupation": "\u0bb5\u0bc7\u0ba4\u0bbe \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd\n",
+                "age": "29",
+                "annual_income": "560,000",
+                "source_of_income": "VEDHA EDUCATION CENTER ADMINISTRATIVE DIRECTOR",
+                "moveable_assets": "3,316,177",
+                "immoveable_assets": "0",
+                "total_assets": "3,316,177",
+                "liabilities": "969,000",
+                "net_assets": "2,347,177",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_22.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "560,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bc7\u0ba4\u0bbe \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bc7\u0ba4\u0bbe \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd\n",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fd01af-20a9-478b-a339-f2e09e5ec66b",
+                "name": "S.R.SARAVANAN",
+                "education": "12th PASS",
+                "occupation": "FARMER",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "236,627",
+                "immoveable_assets": "0",
+                "total_assets": "236,627",
+                "liabilities": "102,000",
+                "net_assets": "134,627",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_19.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEAS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fd01af-20a9-478b-a339-f2e09e5ec66b",
+                "name": "S.R.\u0b9a\u0bb0\u0bb5\u0ba3\u0ba9\u0bcd\t",
+                "education": "12th PASS",
+                "occupation": "\u0b89\u0bb4\u0bb5\u0bb0\u0bcd",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "236,627",
+                "immoveable_assets": "0",
+                "total_assets": "236,627",
+                "liabilities": "102,000",
+                "net_assets": "134,627",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8.  \u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_19.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEAS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b89\u0bb4\u0bb5\u0bb0\u0bcd",
+                "cases_convicted_description": " \u0b87\u0bb2\u0bcd\u0bb2\u0bc8"
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe80b3-21b6-4666-a8ce-92f4cbff1f08",
+                "name": "A.THAVIDHU RAJA",
+                "education": "10th pass",
+                "occupation": "WAGES",
+                "age": "31",
+                "annual_income": "0",
+                "source_of_income": "WAGES",
+                "moveable_assets": "11,000",
+                "immoveable_assets": "0",
+                "total_assets": "11,000",
+                "liabilities": "0",
+                "net_assets": "11,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_29.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CHAPPALS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe80b3-21b6-4666-a8ce-92f4cbff1f08",
+                "name": "A.\u0ba4\u0bb5\u0bc0\u0ba4\u0bc1\u0bb0\u0bbe\u0b9c\u0bbe",
+                "education": "10th pass",
+                "occupation": "\u0b95\u0bc2\u0bb2\u0bbf",
+                "age": "31",
+                "annual_income": "0",
+                "source_of_income": "WAGES",
+                "moveable_assets": "11,000",
+                "immoveable_assets": "0",
+                "total_assets": "11,000",
+                "liabilities": "0",
+                "net_assets": "11,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_29.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CHAPPALS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304a3a8-4738-4a46-8304-0c9e165cf371",
+                "name": "P.PRAKASH",
+                "education": "B.A, B.L., - Government Law College, Tirunelveli, 2002-2007. ",
+                "occupation": "ADVOCATE",
+                "age": "37",
+                "annual_income": "369,452",
+                "source_of_income": "ADVOCATE (Monthly Income approx. Rs.50,000/-)",
+                "moveable_assets": "986,100",
+                "immoveable_assets": "0",
+                "total_assets": "986,100",
+                "liabilities": "868,917",
+                "net_assets": "117,183",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Prakash_P_Cumbum.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "275,365",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "306,137",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "311,477",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "369,452",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304a3a8-4738-4a46-8304-0c9e165cf371",
+                "name": "P.\u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb7\u0bcd",
+                "education": "B.A, B.L., - Government Law College, Tirunelveli, 2002-2007. ",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd (\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1 \u0b95\u0bbf\u0bb3\u0bc8)",
+                "age": "37",
+                "annual_income": "369,452",
+                "source_of_income": "ADVOCATE (Monthly Income approx. Rs.50,000/-)",
+                "moveable_assets": "986,100",
+                "immoveable_assets": "0",
+                "total_assets": "986,100",
+                "liabilities": "868,917",
+                "net_assets": "117,183",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Prakash_P_Cumbum.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "275,365",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "306,137",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "311,477",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "369,452",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd (\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1 \u0b95\u0bbf\u0bb3\u0bc8)",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd (\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1 \u0b95\u0bbf\u0bb3\u0bc8)",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe8501-c2bd-4658-80e7-c37d65a971a0",
+                "name": "G.MARIMUTHU",
+                "education": "10th pass",
+                "occupation": "FARMER",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "320,000",
+                "immoveable_assets": "0",
+                "total_assets": "320,000",
+                "liabilities": "0",
+                "net_assets": "320,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_28.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GIFT_PACKS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe8501-c2bd-4658-80e7-c37d65a971a0",
+                "name": "G.\u0bae\u0bbe\u0bb0\u0bbf\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1",
+                "education": "10th pass",
+                "occupation": "\u0b89\u0bb4\u0bb5\u0bb0\u0bcd",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "320,000",
+                "immoveable_assets": "0",
+                "total_assets": "320,000",
+                "liabilities": "0",
+                "net_assets": "320,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_28.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GIFT_PACKS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b89\u0bb4\u0bb5\u0bb0\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b89\u0bb4\u0bb5\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fce616-af1b-4ea0-95e3-ab9f42c34557",
+                "name": "G.MuthuSelvam",
+                "education": "12th pass",
+                "occupation": "FARMER",
+                "age": "34",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "180,000",
+                "immoveable_assets": "0",
+                "total_assets": "180,000",
+                "liabilities": "25,000",
+                "net_assets": "155,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_21.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/COMPUTER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fce616-af1b-4ea0-95e3-ab9f42c34557",
+                "name": "G.\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd",
+                "education": "12th pass",
+                "occupation": "\u0b89\u0bb4\u0bb5\u0bb0\u0bcd",
+                "age": "34",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "180,000",
+                "immoveable_assets": "0",
+                "total_assets": "180,000",
+                "liabilities": "25,000",
+                "net_assets": "155,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8.  \u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_21.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/COMPUTER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b89\u0bb4\u0bb5\u0bb0\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b89\u0bb4\u0bb5\u0bb0\u0bcd",
+                "cases_convicted_description": " \u0b87\u0bb2\u0bcd\u0bb2\u0bc8"
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe7e0c-69d0-4335-b8a0-496dda8912de",
+                "name": "M.MUTHUMUNEESWARAN",
+                "education": "10th pass",
+                "occupation": "AGRICULTURAL COOLIE",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURAL COOLIE",
+                "moveable_assets": "330,000",
+                "immoveable_assets": "0",
+                "total_assets": "330,000",
+                "liabilities": "0",
+                "net_assets": "330,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_27.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEN_NIB_WITH_SEVEN_RAYS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe7e0c-69d0-4335-b8a0-496dda8912de",
+                "name": "M.\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bc1\u0ba9\u0bc0\u0bb8\u0bcd\u0bb5\u0bb0\u0ba9\u0bcd",
+                "education": "10th pass",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURAL COOLIE",
+                "moveable_assets": "330,000",
+                "immoveable_assets": "0",
+                "total_assets": "330,000",
+                "liabilities": "0",
+                "net_assets": "330,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CUMBUM_27.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEN_NIB_WITH_SEVEN_RAYS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "CUMBUM",
+                    "constituency_en_label": "Cumbum",
+                    "constituency_ta_label": "\u0b95\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+                    "district_id": "THENI",
+                    "district_en_label": "Theni",
+                    "district_ta_label": "\u0ba4\u0bc7\u0ba9\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

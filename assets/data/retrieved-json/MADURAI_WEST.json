@@ -1,1 +1,2044 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"930518c9-e5fb-4420-a765-cdc71c62227c","name":"C.CHINNAMMAL","education":"8th pass","occupation":"BAKERY AND FARMER","age":"66","annual_income":"890,000","source_of_income":"BAKERY AND FARMER","moveable_assets":"2,151,660","immoveable_assets":"119,335,296","total_assets":"121,486,956","liabilities":"2,233,290","net_assets":"119,253,666","no_of_criminal_cases":2,"cases_description":"THE STRUGGLE WAGED BY THE DMK AGAINST THE CITIZENSHIP LAW,THE STRUGGLE CARRIED OUT BY THE DMK IN SUPPORT OF THE FARMERS.. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CHINNAMMAL_C_MaduraiWest.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"986,590","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"821,380","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"841,000","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"890,000","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"930518c9-e5fb-4420-a765-cdc71c62227c","name":"C.\u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0bae\u0bcd\u0bae\u0bbe\u0bb3\u0bcd","education":"8th pass","occupation":"\u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 ","age":"66","annual_income":"890,000","source_of_income":"BAKERY AND FARMER","moveable_assets":"2,151,660","immoveable_assets":"119,335,296","total_assets":"121,486,956","liabilities":"2,233,290","net_assets":"119,253,666","no_of_criminal_cases":2,"cases_description":"1. \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bb0\u0bbf\u0bae\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bbf\u0bae\u0bc1\u0b95\u0bb4\u0b95\u0ba4\u0bbe\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd.\n2. \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bbe\u0b95 \u0ba4\u0bbf\u0bae\u0bc1\u0b95\u0bb4\u0b95\u0ba4\u0bbe\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/CHINNAMMAL_C_MaduraiWest.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"986,590","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"821,380","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"841,000","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"890,000","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf ","cases_pending_description":"1. \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bb0\u0bbf\u0bae\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bbf\u0bae\u0bc1\u0b95\u0bb4\u0b95\u0ba4\u0bbe\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd.\n2. \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bbe\u0b95 \u0ba4\u0bbf\u0bae\u0bc1\u0b95\u0bb4\u0b95\u0ba4\u0bbe\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd","self_education_description":"","self_profession_occupation":"\u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 ","cases_convicted_description":""}},{"en":{"candidate_id":"92fb39e9-a497-43d5-8d74-0ce5286bc428","name":"P.BALACHANDRAN","education":"7TH STD","occupation":"AGARBATTI MANUFACTURING INDUSTRY","age":"48","annual_income":"322,150","source_of_income":"AGARBATTI MANUFACTURING INDUSTRY","moveable_assets":"1,608,414","immoveable_assets":"500,000","total_assets":"2,108,414","liabilities":"250,000","net_assets":"1,858,414","no_of_criminal_cases":4,"cases_description":"1. VIOLATING ELECTION CODE OF CONDUCT\n2. CASE OF MAKING MELEE AND THREATENING TO KILL BY SPEAKING INAPPROPRIATE WORDS.\n3.CASE OF MAKING DEATH THREATS BY USING INAPPROPRIAE WORDS TO  STOP WORKING\n4. DEFAMATION CASE. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_19.jpg","party":{"id":"DesiyaMurpokkuDravidaKazhagam","en_label":"DesiyaMurpokkuDravidaKazhagam","ta_label":"\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","party_image":null},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"322,150","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fb39e9-a497-43d5-8d74-0ce5286bc428","name":"P.\u0baa\u0bbe\u0bb2\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd","education":"7TH STD","occupation":"\u0b8a\u0ba4\u0bc1\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","age":"48","annual_income":"322,150","source_of_income":"AGARBATTI MANUFACTURING INDUSTRY","moveable_assets":"1,608,414","immoveable_assets":"500,000","total_assets":"2,108,414","liabilities":"250,000","net_assets":"1,858,414","no_of_criminal_cases":4,"cases_description":"1. \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0ba8\u0ba9\u0bcd\u0ba9\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0ba4\u0bbf\u0baf\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bc2\u0bb1\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\n2. \u0b95\u0bc8\u0b95\u0bb2\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc7\u0b9a\u0bbf, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\n3. \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bbf \u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc7\u0b9a\u0bbf, \u0b9a\u0bbe\u0ba4\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bbf \u0b95\u0bca\u0bb2\u0bc8\u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1.\n4. \u0baa\u0ba3\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc7\u0b9a\u0bbf \u0b95\u0bca\u0bb2\u0bc8\u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\n5. \u0b85\u0bb5\u0ba4\u0bc2\u0bb1\u0bc1 \u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_19.jpg","party":{"id":"DesiyaMurpokkuDravidaKazhagam","en_label":"DesiyaMurpokkuDravidaKazhagam","ta_label":"\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","party_image":null},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"322,150","spouse":"0","overall":"0"}],"other_party_name":"\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","self_source_of_income":"\u0b8a\u0ba4\u0bc1\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_pending_description":"1. \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0ba8\u0ba9\u0bcd\u0ba9\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0ba4\u0bbf\u0baf\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bc2\u0bb1\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\n2. \u0b95\u0bc8\u0b95\u0bb2\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc7\u0b9a\u0bbf, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\n3. \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bbf \u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc7\u0b9a\u0bbf, \u0b9a\u0bbe\u0ba4\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bbf \u0b95\u0bca\u0bb2\u0bc8\u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1.\n4. \u0baa\u0ba3\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc7\u0b9a\u0bbf \u0b95\u0bca\u0bb2\u0bc8\u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\n5. \u0b85\u0bb5\u0ba4\u0bc2\u0bb1\u0bc1 \u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1","self_education_description":"","self_profession_occupation":"\u0b8a\u0ba4\u0bc1\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92f6e1bb-0241-44cc-b435-a9c36ff02906","name":"k.Raju","education":"B.SC(Chemistry) Bachelor of Science","occupation":"Politics ","age":"68","annual_income":"843,810","source_of_income":"Salary and Rent","moveable_assets":"30,933,076","immoveable_assets":"33,971,630","total_assets":"64,904,706","liabilities":"19,774,424","net_assets":"45,130,282","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_1.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"665,360","spouse":"2,014,530","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"535,050","spouse":"1,460,880","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"907,870","spouse":"6,698,520","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"1,736,890","spouse":"2,910,220","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"843,810","spouse":"3,180,180","overall":"0"}]},"ta":{"candidate_id":"92f6e1bb-0241-44cc-b435-a9c36ff02906","name":"k.\u0bb0\u0bbe\u0b9c\u0bc1 ","education":"B.SC(Chemistry) Bachelor of Science","occupation":"\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf ","age":"68","annual_income":"843,810","source_of_income":"Salary and Rent","moveable_assets":"30,933,076","immoveable_assets":"33,971,630","total_assets":"64,904,706","liabilities":"19,774,424","net_assets":"45,130,282","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_1.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"665,360","spouse":"2,014,530","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"535,050","spouse":"1,460,880","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"907,870","spouse":"6,698,520","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"1,736,890","spouse":"2,910,220","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"843,810","spouse":"3,180,180","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0b9f\u0b95\u0bc8 ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf ","cases_convicted_description":""}},{"en":{"candidate_id":"93051a2c-0e9e-4b47-aa30-d4f00d698539","name":"R.KARTHIKEYAN","education":"B.A","occupation":"SELF EMPLOYEE","age":"42","annual_income":"0","source_of_income":"SELF EMPLOYEE","moveable_assets":"317,583","immoveable_assets":"0","total_assets":"317,583","liabilities":"0","net_assets":"317,583","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KARTHIKEYAN_R_MaduraiWest.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93051a2c-0e9e-4b47-aa30-d4f00d698539","name":"R.\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bc7\u0baf\u0ba9\u0bcd","education":"B.A","occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","age":"42","annual_income":"0","source_of_income":"SELF EMPLOYEE","moveable_assets":"317,583","immoveable_assets":"0","total_assets":"317,583","liabilities":"0","net_assets":"317,583","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KARTHIKEYAN_R_MaduraiWest.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"930104a7-23e2-431c-a8a2-f1f3d0c0ca6a","name":"J.SULTHAN BADUSHA","education":"I.T.I","occupation":"BUSINESS","age":"32","annual_income":"0","source_of_income":"BUSINESS","moveable_assets":"71,000","immoveable_assets":"0","total_assets":"71,000","liabilities":"0","net_assets":"71,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_41.jpg","party":{"id":"ANNA MGR DRAVIDA MAKKAL KAZHAGAM","en_label":"ANNA MGR DRAVIDA MAKKAL KAZHAGAM","ta_label":"","party_image":null},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"930104a7-23e2-431c-a8a2-f1f3d0c0ca6a","name":"J.\u0b9a\u0bc1\u0bb2\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd\u0baa\u0bbe\u0ba4\u0bc1\u0bb7\u0bbe","education":"I.T.I","occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","age":"32","annual_income":"0","source_of_income":"BUSINESS","moveable_assets":"71,000","immoveable_assets":"0","total_assets":"71,000","liabilities":"0","net_assets":"71,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_41.jpg","party":{"id":"ANNA MGR DRAVIDA MAKKAL KAZHAGAM","en_label":"ANNA MGR DRAVIDA MAKKAL KAZHAGAM","ta_label":"","party_image":null},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fc767e-e4c6-4907-83f6-2a10747470bb","name":"K.NAGAJOTHI","education":"DNCA","occupation":"SOCIAL ACTIVIST","age":"35","annual_income":"0","source_of_income":"SOCIAL ACTIVIST","moveable_assets":"3,103,440","immoveable_assets":"0","total_assets":"3,103,440","liabilities":"2,115,557","net_assets":"987,883","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_18.jpg","party":{"id":"TamilNaduIlangyarKatchi","en_label":"TamilNaduIlangyarKatchi","ta_label":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"420,477","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"508,009","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"642,181","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"623,828","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"619,110","overall":"0"}]},"ta":{"candidate_id":"92fc767e-e4c6-4907-83f6-2a10747470bb","name":"K.\u0ba8\u0bbe\u0b95\u0b9c\u0bcb\u0ba4\u0bbf","education":"DNCA","occupation":"\u0b9a\u0bae\u0bc2\u0b95 \u0b86\u0bb0\u0bcd\u0bb5\u0bb2\u0bb0\u0bcd","age":"35","annual_income":"0","source_of_income":"SOCIAL ACTIVIST","moveable_assets":"3,103,440","immoveable_assets":"0","total_assets":"3,103,440","liabilities":"2,115,557","net_assets":"987,883","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_18.jpg","party":{"id":"TamilNaduIlangyarKatchi","en_label":"TamilNaduIlangyarKatchi","ta_label":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"420,477","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"508,009","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"642,181","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"623,828","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"619,110","overall":"0"}],"other_party_name":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","self_source_of_income":"\u0b9a\u0bae\u0bc2\u0b95 \u0b86\u0bb0\u0bcd\u0bb5\u0bb2\u0bb0\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b9a\u0bae\u0bc2\u0b95 \u0b86\u0bb0\u0bcd\u0bb5\u0bb2\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92feba92-bce6-42e0-918a-7cd295aa014f","name":"V.Muniyasamy","education":"M.B.A & M.S.W","occupation":"VEE Traders, (Construction,trading)","age":"43","annual_income":"460,000","source_of_income":"Bussiness","moveable_assets":"16,084,018","immoveable_assets":"4,925,000","total_assets":"21,009,018","liabilities":"5,076,000","net_assets":"15,933,018","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_24.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"659,050","spouse":"445,500","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"779,100","spouse":"667,205","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"671,352","spouse":"739,200","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"460,000","spouse":"460,000","overall":"0"}]},"ta":{"candidate_id":"92feba92-bce6-42e0-918a-7cd295aa014f","name":"V.\u0bae\u0bc1\u0ba9\u0bbf\u0baf\u0b9a\u0bbe\u0bae\u0bbf","education":"M.B.A & M.S.W","occupation":"\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd (\u0bb5\u0bbe\u0ba3\u0bbf\u0b95\u0bae\u0bcd, \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd)","age":"43","annual_income":"460,000","source_of_income":"Bussiness","moveable_assets":"16,084,018","immoveable_assets":"4,925,000","total_assets":"21,009,018","liabilities":"5,076,000","net_assets":"15,933,018","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_24.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"659,050","spouse":"445,500","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"779,100","spouse":"667,205","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"671,352","spouse":"739,200","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"460,000","spouse":"460,000","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd (\u0bb5\u0bbe\u0ba3\u0bbf\u0b95\u0bae\u0bcd, \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd)","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd (\u0bb5\u0bbe\u0ba3\u0bbf\u0b95\u0bae\u0bcd, \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd)","cases_convicted_description":""}},{"en":{"candidate_id":"92f6e41c-fe74-4ce9-8673-7de0402bde99","name":"S.Vetrikumaran","education":"B.E.","occupation":"building construction","age":"46","annual_income":"447,581","source_of_income":"building construction","moveable_assets":"2,456,064","immoveable_assets":"19,680,000","total_assets":"22,136,064","liabilities":"49,264,150","net_assets":"-27,128,086","no_of_criminal_cases":1,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_2.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"290,641","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"286,000","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"413,230","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"232,360","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"447,581","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f6e41c-fe74-4ce9-8673-7de0402bde99","name":"S.\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0ba9\u0bcd","education":"B.E.","occupation":"\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f \u0baa\u0bca\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd","age":"46","annual_income":"447,581","source_of_income":"building construction","moveable_assets":"2,456,064","immoveable_assets":"19,680,000","total_assets":"22,136,064","liabilities":"49,264,150","net_assets":"-27,128,086","no_of_criminal_cases":1,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_2.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"290,641","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"286,000","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"413,230","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"232,360","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"447,581","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f \u0baa\u0bca\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f \u0baa\u0bca\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"9302b327-bfaf-44ae-b063-594635dc241c","name":"K.ANBUMANIKANDANTAMILSOORIYAN","education":"B. SC,B. L","occupation":"ADVOCATE","age":"48","annual_income":"0","source_of_income":"ADVOCATE","moveable_assets":"2,349,124","immoveable_assets":"3,970,000","total_assets":"6,319,124","liabilities":"170,000","net_assets":"6,149,124","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_22.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9302b327-bfaf-44ae-b063-594635dc241c","name":"K.\u0b85\u0ba9\u0bcd\u0baa\u0bc1\u0bae\u0ba3\u0bbf\u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0ba9\u0bcd","education":"B. SC,B. L","occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd","age":"48","annual_income":"0","source_of_income":"ADVOCATE","moveable_assets":"2,349,124","immoveable_assets":"3,970,000","total_assets":"6,319,124","liabilities":"170,000","net_assets":"6,149,124","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_22.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"93051758-dcff-492c-b948-03724093fa5e","name":"K.SULTHANBASHA","education":"8th pass","occupation":"BUSINESS","age":"35","annual_income":"0","source_of_income":"BUSINESS","moveable_assets":"29,000","immoveable_assets":"0","total_assets":"29,000","liabilities":"0","net_assets":"29,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/SULTHANBASHA_K_MaduraiWest.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93051758-dcff-492c-b948-03724093fa5e","name":"K.\u0b9a\u0bc1\u0bb2\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0baa\u0bbe\u0bb7\u0bbe","education":"8th pass","occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","age":"35","annual_income":"0","source_of_income":"BUSINESS","moveable_assets":"29,000","immoveable_assets":"0","total_assets":"29,000","liabilities":"0","net_assets":"29,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/SULTHANBASHA_K_MaduraiWest.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"93051fb7-0c23-4f6d-8dff-ab259d62397d","name":"B.SEBASTHIYAN","education":"3RD CLASS","occupation":"BUSINESS","age":"44","annual_income":"0","source_of_income":"BUSINESS","moveable_assets":"23,000","immoveable_assets":"0","total_assets":"23,000","liabilities":"0","net_assets":"23,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/SEBASTHIYAN_B_MaduraiWest.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93051fb7-0c23-4f6d-8dff-ab259d62397d","name":"B.\u0b9a\u0bc6\u0baa\u0bb8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bcd","education":"3RD CLASS","occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","age":"44","annual_income":"0","source_of_income":"BUSINESS","moveable_assets":"23,000","immoveable_assets":"0","total_assets":"23,000","liabilities":"0","net_assets":"23,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/SEBASTHIYAN_B_MaduraiWest.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"93051559-4d2d-425f-b29f-dde910e9232a","name":"M.PREMKUMAR","education":"MASTER OF PHYSIOTHERAPY","occupation":"PHYSIOTHERAPY DOCTOR","age":"40","annual_income":"401,173","source_of_income":"PHYSIOTHERAPY DOCTOR","moveable_assets":"1,105,482","immoveable_assets":"6,800,000","total_assets":"7,905,482","liabilities":"1,588,841","net_assets":"6,316,641","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PREMKUMAR_M_MaduraiWest.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"334,718","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"367,656","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"378,451","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"401,173","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93051559-4d2d-425f-b29f-dde910e9232a","name":"M.\u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd","education":"MASTER OF PHYSIOTHERAPY","occupation":"\u0baa\u0bbf\u0b9a\u0bbf\u0baf\u0bcb\u0ba4\u0bc6\u0bb0\u0baa\u0bbf \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd","age":"40","annual_income":"401,173","source_of_income":"PHYSIOTHERAPY DOCTOR","moveable_assets":"1,105,482","immoveable_assets":"6,800,000","total_assets":"7,905,482","liabilities":"1,588,841","net_assets":"6,316,641","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PREMKUMAR_M_MaduraiWest.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"334,718","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"367,656","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"378,451","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"401,173","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0baa\u0bbf\u0b9a\u0bbf\u0baf\u0bcb\u0ba4\u0bc6\u0bb0\u0baa\u0bbf \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0baa\u0bbf\u0b9a\u0bbf\u0baf\u0bcb\u0ba4\u0bc6\u0bb0\u0baa\u0bbf \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fefa0b-059e-4541-a29b-82324bac01ca","name":"N.Ramu","education":"8th pass","occupation":"WAGES","age":"38","annual_income":"0","source_of_income":"WAGES","moveable_assets":"11,000","immoveable_assets":"0","total_assets":"11,000","liabilities":"0","net_assets":"11,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_37.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fefa0b-059e-4541-a29b-82324bac01ca","name":"N.\u0bb0\u0bbe\u0bae\u0bc1","education":"8th pass","occupation":"\u0b95\u0bc2\u0bb2\u0bbf\u0ba4\u0bcd\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf ","age":"38","annual_income":"0","source_of_income":"WAGES","moveable_assets":"11,000","immoveable_assets":"0","total_assets":"11,000","liabilities":"0","net_assets":"11,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MADURAI_WEST_37.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0bc2\u0bb2\u0bbf\u0ba4\u0bcd\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b95\u0bc2\u0bb2\u0bbf\u0ba4\u0bcd\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf ","cases_convicted_description":""}},{"en":{"candidate_id":"93090018-cc3f-4609-96bc-27c7cf841c1c","name":"M.VENKATESAN","education":"M.COM,B.COM","occupation":"SOICAL WORKER","age":"52","annual_income":"0","source_of_income":"SOICAL WORKER","moveable_assets":"2,045,199","immoveable_assets":"1,886,800","total_assets":"3,931,999","liabilities":"2,330,616","net_assets":"1,601,383","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VENKATESAN_M_MaduraiWest.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"453,560","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"506,975","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"626,662","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"763,585","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"861,013","overall":"0"}]},"ta":{"candidate_id":"93090018-cc3f-4609-96bc-27c7cf841c1c","name":"M.\u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0b9f\u0bc7\u0b9a\u0ba9\u0bcd ","education":"M.COM,B.COM","occupation":"\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0b95\u0bb0\u0bcd ","age":"52","annual_income":"0","source_of_income":"SOICAL WORKER","moveable_assets":"2,045,199","immoveable_assets":"1,886,800","total_assets":"3,931,999","liabilities":"2,330,616","net_assets":"1,601,383","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VENKATESAN_M_MaduraiWest.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MADURAI_WEST","constituency_en_label":"Madurai West","constituency_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"453,560","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"506,975","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"626,662","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"763,585","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"861,013","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0b95\u0bb0\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0b95\u0bb0\u0bcd ","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "930518c9-e5fb-4420-a765-cdc71c62227c",
+                "name": "C.CHINNAMMAL",
+                "education": "8th pass",
+                "occupation": "BAKERY AND FARMER",
+                "age": "66",
+                "annual_income": "890,000",
+                "source_of_income": "BAKERY AND FARMER",
+                "moveable_assets": "2,151,660",
+                "immoveable_assets": "119,335,296",
+                "total_assets": "121,486,956",
+                "liabilities": "2,233,290",
+                "net_assets": "119,253,666",
+                "no_of_criminal_cases": 2,
+                "cases_description": "THE STRUGGLE WAGED BY THE DMK AGAINST THE CITIZENSHIP LAW,THE STRUGGLE CARRIED OUT BY THE DMK IN SUPPORT OF THE FARMERS.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CHINNAMMAL_C_MaduraiWest.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "986,590",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "821,380",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "841,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "890,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "930518c9-e5fb-4420-a765-cdc71c62227c",
+                "name": "C.\u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0bae\u0bcd\u0bae\u0bbe\u0bb3\u0bcd",
+                "education": "8th pass",
+                "occupation": "\u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 ",
+                "age": "66",
+                "annual_income": "890,000",
+                "source_of_income": "BAKERY AND FARMER",
+                "moveable_assets": "2,151,660",
+                "immoveable_assets": "119,335,296",
+                "total_assets": "121,486,956",
+                "liabilities": "2,233,290",
+                "net_assets": "119,253,666",
+                "no_of_criminal_cases": 2,
+                "cases_description": "1. \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bb0\u0bbf\u0bae\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bbf\u0bae\u0bc1\u0b95\u0bb4\u0b95\u0ba4\u0bbe\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd.\n2. \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bbe\u0b95 \u0ba4\u0bbf\u0bae\u0bc1\u0b95\u0bb4\u0b95\u0ba4\u0bbe\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CHINNAMMAL_C_MaduraiWest.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "986,590",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "821,380",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "841,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "890,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf ",
+                "cases_pending_description": "1. \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bb0\u0bbf\u0bae\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bbf\u0bae\u0bc1\u0b95\u0bb4\u0b95\u0ba4\u0bbe\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd.\n2. \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bbe\u0b95 \u0ba4\u0bbf\u0bae\u0bc1\u0b95\u0bb4\u0b95\u0ba4\u0bbe\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fb39e9-a497-43d5-8d74-0ce5286bc428",
+                "name": "P.BALACHANDRAN",
+                "education": "7TH STD",
+                "occupation": "AGARBATTI MANUFACTURING INDUSTRY",
+                "age": "48",
+                "annual_income": "322,150",
+                "source_of_income": "AGARBATTI MANUFACTURING INDUSTRY",
+                "moveable_assets": "1,608,414",
+                "immoveable_assets": "500,000",
+                "total_assets": "2,108,414",
+                "liabilities": "250,000",
+                "net_assets": "1,858,414",
+                "no_of_criminal_cases": 4,
+                "cases_description": "1. VIOLATING ELECTION CODE OF CONDUCT\n2. CASE OF MAKING MELEE AND THREATENING TO KILL BY SPEAKING INAPPROPRIATE WORDS.\n3.CASE OF MAKING DEATH THREATS BY USING INAPPROPRIAE WORDS TO  STOP WORKING\n4. DEFAMATION CASE. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_19.jpg",
+                "party": {
+                    "id": "DesiyaMurpokkuDravidaKazhagam",
+                    "en_label": "DesiyaMurpokkuDravidaKazhagam",
+                    "ta_label": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/NAGARA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "322,150",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fb39e9-a497-43d5-8d74-0ce5286bc428",
+                "name": "P.\u0baa\u0bbe\u0bb2\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd",
+                "education": "7TH STD",
+                "occupation": "\u0b8a\u0ba4\u0bc1\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "age": "48",
+                "annual_income": "322,150",
+                "source_of_income": "AGARBATTI MANUFACTURING INDUSTRY",
+                "moveable_assets": "1,608,414",
+                "immoveable_assets": "500,000",
+                "total_assets": "2,108,414",
+                "liabilities": "250,000",
+                "net_assets": "1,858,414",
+                "no_of_criminal_cases": 4,
+                "cases_description": "1. \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0ba8\u0ba9\u0bcd\u0ba9\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0ba4\u0bbf\u0baf\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bc2\u0bb1\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\n2. \u0b95\u0bc8\u0b95\u0bb2\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc7\u0b9a\u0bbf, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\n3. \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bbf \u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc7\u0b9a\u0bbf, \u0b9a\u0bbe\u0ba4\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bbf \u0b95\u0bca\u0bb2\u0bc8\u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1.\n4. \u0baa\u0ba3\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc7\u0b9a\u0bbf \u0b95\u0bca\u0bb2\u0bc8\u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\n5. \u0b85\u0bb5\u0ba4\u0bc2\u0bb1\u0bc1 \u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_19.jpg",
+                "party": {
+                    "id": "DesiyaMurpokkuDravidaKazhagam",
+                    "en_label": "DesiyaMurpokkuDravidaKazhagam",
+                    "ta_label": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/NAGARA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "322,150",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                "self_source_of_income": "\u0b8a\u0ba4\u0bc1\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_pending_description": "1. \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0ba8\u0ba9\u0bcd\u0ba9\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bbf\u0ba4\u0bbf\u0baf\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bc2\u0bb1\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\n2. \u0b95\u0bc8\u0b95\u0bb2\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc7\u0b9a\u0bbf, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\n3. \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bbf \u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc7\u0b9a\u0bbf, \u0b9a\u0bbe\u0ba4\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bbf \u0b95\u0bca\u0bb2\u0bc8\u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1.\n4. \u0baa\u0ba3\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bc7\u0b9a\u0bbf \u0b95\u0bca\u0bb2\u0bc8\u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\n5. \u0b85\u0bb5\u0ba4\u0bc2\u0bb1\u0bc1 \u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0ba4\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b8a\u0ba4\u0bc1\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f6e1bb-0241-44cc-b435-a9c36ff02906",
+                "name": "K.Raju",
+                "education": "B.SC(Chemistry) Bachelor of Science",
+                "occupation": "Politics ",
+                "age": "68",
+                "annual_income": "843,810",
+                "source_of_income": "Salary and Rent",
+                "moveable_assets": "30,933,076",
+                "immoveable_assets": "33,971,630",
+                "total_assets": "64,904,706",
+                "liabilities": "19,774,424",
+                "net_assets": "45,130,282",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_1.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "665,360",
+                        "spouse": "2,014,530",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "535,050",
+                        "spouse": "1,460,880",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "907,870",
+                        "spouse": "6,698,520",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,736,890",
+                        "spouse": "2,910,220",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "843,810",
+                        "spouse": "3,180,180",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f6e1bb-0241-44cc-b435-a9c36ff02906",
+                "name": "K.\u0bb0\u0bbe\u0b9c\u0bc1 ",
+                "education": "B.SC(Chemistry) Bachelor of Science",
+                "occupation": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf ",
+                "age": "68",
+                "annual_income": "843,810",
+                "source_of_income": "Salary and Rent",
+                "moveable_assets": "30,933,076",
+                "immoveable_assets": "33,971,630",
+                "total_assets": "64,904,706",
+                "liabilities": "19,774,424",
+                "net_assets": "45,130,282",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_1.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "665,360",
+                        "spouse": "2,014,530",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "535,050",
+                        "spouse": "1,460,880",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "907,870",
+                        "spouse": "6,698,520",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,736,890",
+                        "spouse": "2,910,220",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "843,810",
+                        "spouse": "3,180,180",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0b9f\u0b95\u0bc8 ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93051a2c-0e9e-4b47-aa30-d4f00d698539",
+                "name": "R.KARTHIKEYAN",
+                "education": "B.A",
+                "occupation": "SELF EMPLOYEE",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "SELF EMPLOYEE",
+                "moveable_assets": "317,583",
+                "immoveable_assets": "0",
+                "total_assets": "317,583",
+                "liabilities": "0",
+                "net_assets": "317,583",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KARTHIKEYAN_R_MaduraiWest.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93051a2c-0e9e-4b47-aa30-d4f00d698539",
+                "name": "R.\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bc7\u0baf\u0ba9\u0bcd",
+                "education": "B.A",
+                "occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "SELF EMPLOYEE",
+                "moveable_assets": "317,583",
+                "immoveable_assets": "0",
+                "total_assets": "317,583",
+                "liabilities": "0",
+                "net_assets": "317,583",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KARTHIKEYAN_R_MaduraiWest.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "930104a7-23e2-431c-a8a2-f1f3d0c0ca6a",
+                "name": "J.SULTHAN BADUSHA",
+                "education": "I.T.I",
+                "occupation": "BUSINESS",
+                "age": "32",
+                "annual_income": "0",
+                "source_of_income": "BUSINESS",
+                "moveable_assets": "71,000",
+                "immoveable_assets": "0",
+                "total_assets": "71,000",
+                "liabilities": "0",
+                "net_assets": "71,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_41.jpg",
+                "party": {
+                    "id": "ANNA MGR DRAVIDA MAKKAL KAZHAGAM",
+                    "en_label": "ANNA MGR DRAVIDA MAKKAL KAZHAGAM",
+                    "ta_label": "",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PLATE_STAND.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "930104a7-23e2-431c-a8a2-f1f3d0c0ca6a",
+                "name": "J.\u0b9a\u0bc1\u0bb2\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd\u0baa\u0bbe\u0ba4\u0bc1\u0bb7\u0bbe",
+                "education": "I.T.I",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "age": "32",
+                "annual_income": "0",
+                "source_of_income": "BUSINESS",
+                "moveable_assets": "71,000",
+                "immoveable_assets": "0",
+                "total_assets": "71,000",
+                "liabilities": "0",
+                "net_assets": "71,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_41.jpg",
+                "party": {
+                    "id": "ANNA MGR DRAVIDA MAKKAL KAZHAGAM",
+                    "en_label": "ANNA MGR DRAVIDA MAKKAL KAZHAGAM",
+                    "ta_label": "",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PLATE_STAND.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fc767e-e4c6-4907-83f6-2a10747470bb",
+                "name": "K.NAGAJOTHI",
+                "education": "DNCA",
+                "occupation": "SOCIAL ACTIVIST",
+                "age": "35",
+                "annual_income": "0",
+                "source_of_income": "SOCIAL ACTIVIST",
+                "moveable_assets": "3,103,440",
+                "immoveable_assets": "0",
+                "total_assets": "3,103,440",
+                "liabilities": "2,115,557",
+                "net_assets": "987,883",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_18.jpg",
+                "party": {
+                    "id": "TamilNaduIlangyarKatchi",
+                    "en_label": "TamilNaduIlangyarKatchi",
+                    "ta_label": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RING.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "420,477",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "508,009",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "642,181",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "623,828",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "619,110",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fc767e-e4c6-4907-83f6-2a10747470bb",
+                "name": "K.\u0ba8\u0bbe\u0b95\u0b9c\u0bcb\u0ba4\u0bbf",
+                "education": "DNCA",
+                "occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b86\u0bb0\u0bcd\u0bb5\u0bb2\u0bb0\u0bcd",
+                "age": "35",
+                "annual_income": "0",
+                "source_of_income": "SOCIAL ACTIVIST",
+                "moveable_assets": "3,103,440",
+                "immoveable_assets": "0",
+                "total_assets": "3,103,440",
+                "liabilities": "2,115,557",
+                "net_assets": "987,883",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_18.jpg",
+                "party": {
+                    "id": "TamilNaduIlangyarKatchi",
+                    "en_label": "TamilNaduIlangyarKatchi",
+                    "ta_label": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RING.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "420,477",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "508,009",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "642,181",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "623,828",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "619,110",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0b9a\u0bae\u0bc2\u0b95 \u0b86\u0bb0\u0bcd\u0bb5\u0bb2\u0bb0\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b86\u0bb0\u0bcd\u0bb5\u0bb2\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feba92-bce6-42e0-918a-7cd295aa014f",
+                "name": "V.Muniyasamy",
+                "education": "M.B.A & M.S.W",
+                "occupation": "VEE Traders, (Construction,trading)",
+                "age": "43",
+                "annual_income": "460,000",
+                "source_of_income": "Bussiness",
+                "moveable_assets": "16,084,018",
+                "immoveable_assets": "4,925,000",
+                "total_assets": "21,009,018",
+                "liabilities": "5,076,000",
+                "net_assets": "15,933,018",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_24.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "659,050",
+                        "spouse": "445,500",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "779,100",
+                        "spouse": "667,205",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "671,352",
+                        "spouse": "739,200",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "460,000",
+                        "spouse": "460,000",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feba92-bce6-42e0-918a-7cd295aa014f",
+                "name": "V.\u0bae\u0bc1\u0ba9\u0bbf\u0baf\u0b9a\u0bbe\u0bae\u0bbf",
+                "education": "M.B.A & M.S.W",
+                "occupation": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd (\u0bb5\u0bbe\u0ba3\u0bbf\u0b95\u0bae\u0bcd, \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd)",
+                "age": "43",
+                "annual_income": "460,000",
+                "source_of_income": "Bussiness",
+                "moveable_assets": "16,084,018",
+                "immoveable_assets": "4,925,000",
+                "total_assets": "21,009,018",
+                "liabilities": "5,076,000",
+                "net_assets": "15,933,018",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_24.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "659,050",
+                        "spouse": "445,500",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "779,100",
+                        "spouse": "667,205",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "671,352",
+                        "spouse": "739,200",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "460,000",
+                        "spouse": "460,000",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd (\u0bb5\u0bbe\u0ba3\u0bbf\u0b95\u0bae\u0bcd, \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd)",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd (\u0bb5\u0bbe\u0ba3\u0bbf\u0b95\u0bae\u0bcd, \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd)",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f6e41c-fe74-4ce9-8673-7de0402bde99",
+                "name": "S.Vetrikumaran",
+                "education": "B.E.",
+                "occupation": "building construction",
+                "age": "46",
+                "annual_income": "447,581",
+                "source_of_income": "building construction",
+                "moveable_assets": "2,456,064",
+                "immoveable_assets": "19,680,000",
+                "total_assets": "22,136,064",
+                "liabilities": "49,264,150",
+                "net_assets": "-27,128,086",
+                "no_of_criminal_cases": 1,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_2.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "290,641",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "286,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "413,230",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "232,360",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "447,581",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f6e41c-fe74-4ce9-8673-7de0402bde99",
+                "name": "S.\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0ba9\u0bcd",
+                "education": "B.E.",
+                "occupation": "\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f \u0baa\u0bca\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd",
+                "age": "46",
+                "annual_income": "447,581",
+                "source_of_income": "building construction",
+                "moveable_assets": "2,456,064",
+                "immoveable_assets": "19,680,000",
+                "total_assets": "22,136,064",
+                "liabilities": "49,264,150",
+                "net_assets": "-27,128,086",
+                "no_of_criminal_cases": 1,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_2.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "290,641",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "286,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "413,230",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "232,360",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "447,581",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f \u0baa\u0bca\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f \u0baa\u0bca\u0bb1\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9302b327-bfaf-44ae-b063-594635dc241c",
+                "name": "K.ANBUMANIKANDANTAMILSOORIYAN",
+                "education": "B. SC,B. L",
+                "occupation": "ADVOCATE",
+                "age": "48",
+                "annual_income": "0",
+                "source_of_income": "ADVOCATE",
+                "moveable_assets": "2,349,124",
+                "immoveable_assets": "3,970,000",
+                "total_assets": "6,319,124",
+                "liabilities": "170,000",
+                "net_assets": "6,149,124",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_22.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/MATCHBOX.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9302b327-bfaf-44ae-b063-594635dc241c",
+                "name": "K.\u0b85\u0ba9\u0bcd\u0baa\u0bc1\u0bae\u0ba3\u0bbf\u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0ba9\u0bcd",
+                "education": "B. SC,B. L",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd",
+                "age": "48",
+                "annual_income": "0",
+                "source_of_income": "ADVOCATE",
+                "moveable_assets": "2,349,124",
+                "immoveable_assets": "3,970,000",
+                "total_assets": "6,319,124",
+                "liabilities": "170,000",
+                "net_assets": "6,149,124",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_22.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/MATCHBOX.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93051758-dcff-492c-b948-03724093fa5e",
+                "name": "K.SULTHANBASHA",
+                "education": "8th pass",
+                "occupation": "BUSINESS",
+                "age": "35",
+                "annual_income": "0",
+                "source_of_income": "BUSINESS",
+                "moveable_assets": "29,000",
+                "immoveable_assets": "0",
+                "total_assets": "29,000",
+                "liabilities": "0",
+                "net_assets": "29,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SULTHANBASHA_K_MaduraiWest.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PLATE_STAND.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93051758-dcff-492c-b948-03724093fa5e",
+                "name": "K.\u0b9a\u0bc1\u0bb2\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0baa\u0bbe\u0bb7\u0bbe",
+                "education": "8th pass",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "age": "35",
+                "annual_income": "0",
+                "source_of_income": "BUSINESS",
+                "moveable_assets": "29,000",
+                "immoveable_assets": "0",
+                "total_assets": "29,000",
+                "liabilities": "0",
+                "net_assets": "29,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SULTHANBASHA_K_MaduraiWest.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PLATE_STAND.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93051fb7-0c23-4f6d-8dff-ab259d62397d",
+                "name": "B.SEBASTHIYAN",
+                "education": "3RD CLASS",
+                "occupation": "BUSINESS",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "BUSINESS",
+                "moveable_assets": "23,000",
+                "immoveable_assets": "0",
+                "total_assets": "23,000",
+                "liabilities": "0",
+                "net_assets": "23,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SEBASTHIYAN_B_MaduraiWest.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93051fb7-0c23-4f6d-8dff-ab259d62397d",
+                "name": "B.\u0b9a\u0bc6\u0baa\u0bb8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bcd",
+                "education": "3RD CLASS",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "BUSINESS",
+                "moveable_assets": "23,000",
+                "immoveable_assets": "0",
+                "total_assets": "23,000",
+                "liabilities": "0",
+                "net_assets": "23,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SEBASTHIYAN_B_MaduraiWest.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93051559-4d2d-425f-b29f-dde910e9232a",
+                "name": "M.PREMKUMAR",
+                "education": "MASTER OF PHYSIOTHERAPY",
+                "occupation": "PHYSIOTHERAPY DOCTOR",
+                "age": "40",
+                "annual_income": "401,173",
+                "source_of_income": "PHYSIOTHERAPY DOCTOR",
+                "moveable_assets": "1,105,482",
+                "immoveable_assets": "6,800,000",
+                "total_assets": "7,905,482",
+                "liabilities": "1,588,841",
+                "net_assets": "6,316,641",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PREMKUMAR_M_MaduraiWest.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SPANNER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "334,718",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "367,656",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "378,451",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "401,173",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93051559-4d2d-425f-b29f-dde910e9232a",
+                "name": "M.\u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+                "education": "MASTER OF PHYSIOTHERAPY",
+                "occupation": "\u0baa\u0bbf\u0b9a\u0bbf\u0baf\u0bcb\u0ba4\u0bc6\u0bb0\u0baa\u0bbf \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
+                "age": "40",
+                "annual_income": "401,173",
+                "source_of_income": "PHYSIOTHERAPY DOCTOR",
+                "moveable_assets": "1,105,482",
+                "immoveable_assets": "6,800,000",
+                "total_assets": "7,905,482",
+                "liabilities": "1,588,841",
+                "net_assets": "6,316,641",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PREMKUMAR_M_MaduraiWest.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SPANNER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "334,718",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "367,656",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "378,451",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "401,173",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0baa\u0bbf\u0b9a\u0bbf\u0baf\u0bcb\u0ba4\u0bc6\u0bb0\u0baa\u0bbf \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0baa\u0bbf\u0b9a\u0bbf\u0baf\u0bcb\u0ba4\u0bc6\u0bb0\u0baa\u0bbf \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fefa0b-059e-4541-a29b-82324bac01ca",
+                "name": "N.Ramu",
+                "education": "8th pass",
+                "occupation": "WAGES",
+                "age": "38",
+                "annual_income": "0",
+                "source_of_income": "WAGES",
+                "moveable_assets": "11,000",
+                "immoveable_assets": "0",
+                "total_assets": "11,000",
+                "liabilities": "0",
+                "net_assets": "11,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_37.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEAS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fefa0b-059e-4541-a29b-82324bac01ca",
+                "name": "N.\u0bb0\u0bbe\u0bae\u0bc1",
+                "education": "8th pass",
+                "occupation": "\u0b95\u0bc2\u0bb2\u0bbf\u0ba4\u0bcd\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf ",
+                "age": "38",
+                "annual_income": "0",
+                "source_of_income": "WAGES",
+                "moveable_assets": "11,000",
+                "immoveable_assets": "0",
+                "total_assets": "11,000",
+                "liabilities": "0",
+                "net_assets": "11,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_WEST_37.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEAS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0bc2\u0bb2\u0bbf\u0ba4\u0bcd\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bc2\u0bb2\u0bbf\u0ba4\u0bcd\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93090018-cc3f-4609-96bc-27c7cf841c1c",
+                "name": "M.VENKATESAN",
+                "education": "M.COM,B.COM",
+                "occupation": "SOICAL WORKER",
+                "age": "52",
+                "annual_income": "0",
+                "source_of_income": "SOICAL WORKER",
+                "moveable_assets": "2,045,199",
+                "immoveable_assets": "1,886,800",
+                "total_assets": "3,931,999",
+                "liabilities": "2,330,616",
+                "net_assets": "1,601,383",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VENKATESAN_M_MaduraiWest.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEN_DRIVE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "453,560",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "506,975",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "626,662",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "763,585",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "861,013",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93090018-cc3f-4609-96bc-27c7cf841c1c",
+                "name": "M.\u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0b9f\u0bc7\u0b9a\u0ba9\u0bcd ",
+                "education": "M.COM,B.COM",
+                "occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0b95\u0bb0\u0bcd ",
+                "age": "52",
+                "annual_income": "0",
+                "source_of_income": "SOICAL WORKER",
+                "moveable_assets": "2,045,199",
+                "immoveable_assets": "1,886,800",
+                "total_assets": "3,931,999",
+                "liabilities": "2,330,616",
+                "net_assets": "1,601,383",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VENKATESAN_M_MaduraiWest.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEN_DRIVE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_WEST",
+                    "constituency_en_label": "Madurai West",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "453,560",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "506,975",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "626,662",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "763,585",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "861,013",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0b95\u0bb0\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0b95\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

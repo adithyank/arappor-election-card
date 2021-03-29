@@ -1,1 +1,1894 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"92f86ddd-7e83-42ca-aa45-da2e914dbe2f","name":"K.Nazarmohamed","education":"B.com","occupation":"Business \/ Tax Consultant","age":"49","annual_income":"604,988","source_of_income":"","moveable_assets":"35,906,852","immoveable_assets":"29,949,450","total_assets":"65,856,302","liabilities":"0","net_assets":"65,856,302","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_3.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TWO_LEAVES.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"578,869","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"778,480","spouse":"475,869","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"580,829","spouse":"558,559","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"580,829","spouse":"543,320","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"604,988","spouse":"555,682","overall":"0"}]},"ta":{"candidate_id":"92f86ddd-7e83-42ca-aa45-da2e914dbe2f","name":"K.\u0ba8\u0b9c\u0bb0\u0bcd \u0bae\u0bc1\u0bb9\u0bae\u0ba4\u0bcd","education":"B.com","occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \/ \u0bb5\u0bb0\u0bbf \u0b86\u0bb2\u0bcb\u0b9a\u0b95\u0bb0\u0bcd\n","age":"49","annual_income":"604,988","source_of_income":"","moveable_assets":"35,906,852","immoveable_assets":"29,949,450","total_assets":"65,856,302","liabilities":"0","net_assets":"65,856,302","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_3.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TWO_LEAVES.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"578,869","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"778,480","spouse":"475,869","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"580,829","spouse":"558,559","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"580,829","spouse":"543,320","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"604,988","spouse":"555,682","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \/ \u0bb5\u0bb0\u0bbf \u0b86\u0bb2\u0bcb\u0b9a\u0b95\u0bb0\u0bcd","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"B.COM","self_profession_occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \/ \u0bb5\u0bb0\u0bbf \u0b86\u0bb2\u0bcb\u0b9a\u0b95\u0bb0\u0bcd\n","cases_convicted_description":""}},{"en":{"candidate_id":"92fae4e1-ba66-4eb5-a9b1-51db0d2b0683","name":"J.Wazeerahmed","education":"5th pass","occupation":"Own Business","age":"49","annual_income":"0","source_of_income":"Own Business","moveable_assets":"1,366,000","immoveable_assets":"500,000","total_assets":"1,866,000","liabilities":"0","net_assets":"1,866,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_8.jpg","party":{"id":"Bahujan Samaj Party","short_name":"BSP","ta_label":"\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Bahujan Samaj Party","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/ELEPHANT.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fae4e1-ba66-4eb5-a9b1-51db0d2b0683","name":"J.\u0bb5\u0b9c\u0bc0\u0bb0\u0bcd \u0b85\u0bb9\u0bae\u0ba4\u0bcd","education":"5th pass","occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","age":"49","annual_income":"0","source_of_income":"Own Business","moveable_assets":"1,366,000","immoveable_assets":"500,000","total_assets":"1,866,000","liabilities":"0","net_assets":"1,866,000","no_of_criminal_cases":0,"cases_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_8.jpg","party":{"id":"Bahujan Samaj Party","short_name":"BSP","ta_label":"\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Bahujan Samaj Party","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/ELEPHANT.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_pending_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92f8d610-f4b8-404e-9416-b7abdc3fa68a","name":"A.C.Vilwanathan","education":"SSLC","occupation":"Agriculturist","age":"61","annual_income":"55,890","source_of_income":"Agriculture","moveable_assets":"6,605,845","immoveable_assets":"32,030,000","total_assets":"38,635,845","liabilities":"1,030,623","net_assets":"37,605,222","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_4.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":""},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"287,352","spouse":"175,425","overall":"260,471"},{"y_from":2016,"y_to":2017,"candidate":"336,490","spouse":"224,542","overall":"265,493"},{"y_from":2017,"y_to":2018,"candidate":"358,156","spouse":"260,561","overall":"209,803"},{"y_from":2018,"y_to":2019,"candidate":"288,010","spouse":"225,794","overall":"221,075"},{"y_from":2019,"y_to":2020,"candidate":"55,890","spouse":"249,768","overall":"125,500"}]},"ta":{"candidate_id":"92f8d610-f4b8-404e-9416-b7abdc3fa68a","name":"A.C.\u0bb5\u0bbf\u0bb2\u0bcd\u0bb5\u0ba9\u0bbe\u0ba4\u0ba9\u0bcd ","education":"SSLC","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf","age":"61","annual_income":"55,890","source_of_income":"Agriculture","moveable_assets":"6,605,845","immoveable_assets":"32,030,000","total_assets":"38,635,845","liabilities":"1,030,623","net_assets":"37,605,222","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_4.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":""},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"287,352","spouse":"175,425","overall":"260,471"},{"y_from":2016,"y_to":2017,"candidate":"336,490","spouse":"224,542","overall":"265,493"},{"y_from":2017,"y_to":2018,"candidate":"358,156","spouse":"260,561","overall":"209,803"},{"y_from":2018,"y_to":2019,"candidate":"288,010","spouse":"225,794","overall":"221,075"},{"y_from":2019,"y_to":2020,"candidate":"55,890","spouse":"249,768","overall":"125,500"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92ff0d6e-e124-40a7-80c9-5ab83c5aa627","name":"C.ASHOKKUMAR","education":"B.A (Tamil)","occupation":"Photographer","age":"34","annual_income":"0","source_of_income":"Photography","moveable_assets":"300,000","immoveable_assets":"300,000","total_assets":"600,000","liabilities":"0","net_assets":"600,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ASHOKKUMAR_C_Ambur.jpg","party":{"id":"ANAITHU MAKKAL PURATCHI KATCHI","en_label":"ANAITHU MAKKAL PURATCHI KATCHI","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GLASS_TUMBLER.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92ff0d6e-e124-40a7-80c9-5ab83c5aa627","name":"C.\u0b85\u0b9a\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd","education":"B.A (Tamil)","occupation":"\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0b95\u0bcd\u0b95\u0bb2\u0bc8\u0b9e\u0bb0\u0bcd","age":"34","annual_income":"0","source_of_income":"Photography","moveable_assets":"300,000","immoveable_assets":"300,000","total_assets":"600,000","liabilities":"0","net_assets":"600,000","no_of_criminal_cases":0,"cases_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ASHOKKUMAR_C_Ambur.jpg","party":{"id":"ANAITHU MAKKAL PURATCHI KATCHI","en_label":"ANAITHU MAKKAL PURATCHI KATCHI","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GLASS_TUMBLER.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","self_source_of_income":"\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb8\u0bcd\u0b9f\u0bc1\u0b9f\u0bbf\u0baf\u0bcb","cases_pending_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0b95\u0bcd\u0b95\u0bb2\u0bc8\u0b9e\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"930514c3-2341-49d0-aaaa-11cd11ed864f","name":"A.MA.Umarfarook","education":"7th standard","occupation":"Writter","age":"57","annual_income":"0","source_of_income":"Income from Writting an Article.","moveable_assets":"301,848","immoveable_assets":"0","total_assets":"301,848","liabilities":"0","net_assets":"301,848","no_of_criminal_cases":2,"cases_description":"Protest case.. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/UMARFAROOK_ASA_Ambur.jpg","party":{"id":"Social Democratic Party of India","short_name":"SDPOI","ta_label":"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0bc2\u0b95 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Social Democratic Party of India","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PRESSURE_COOKER.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"930514c3-2341-49d0-aaaa-11cd11ed864f","name":"A.MA.\u0b89\u0bae\u0bb0\u0bcd \u0baa\u0bb0\u0bc2\u0b95\u0bcd ","education":"7th standard","occupation":"\u0b8e\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bb0\u0bcd ","age":"57","annual_income":"0","source_of_income":"Income from Writting an Article.","moveable_assets":"301,848","immoveable_assets":"0","total_assets":"301,848","liabilities":"0","net_assets":"301,848","no_of_criminal_cases":2,"cases_description":"\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/UMARFAROOK_ASA_Ambur.jpg","party":{"id":"Social Democratic Party of India","short_name":"SDPOI","ta_label":"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0bc2\u0b95 \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Social Democratic Party of India","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PRESSURE_COOKER.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b8e\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bb0\u0bcd ","cases_pending_description":"\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 ","self_education_description":"","self_profession_occupation":"\u0b8e\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92ff294d-1f91-4ae8-a8e8-57791ecdb03c","name":"A.KAREEM BASHA","education":"M.A (Political Science)","occupation":"Independent Advertising Agent","age":"48","annual_income":"434,875","source_of_income":"Independent Advertising Agency","moveable_assets":"476,754","immoveable_assets":"0","total_assets":"476,754","liabilities":"0","net_assets":"476,754","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KAREEMBASHA_A_Ambur.jpg","party":{"id":"Rashtriya Ulama Council","en_label":"Rashtriya Ulama Council","ta_label":"\u0bb0\u0bbe\u0bb7\u0bcd\u0b9f\u0bcd\u0bb0\u0bbf\u0baf \u0b89\u0bb2\u0bae\u0bbe \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/SHOE.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"258,300","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"297,045","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"303,100","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"395,340","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"434,875","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92ff294d-1f91-4ae8-a8e8-57791ecdb03c","name":"A.\u0b95\u0bb0\u0bc0\u0bae\u0bcd \u0baa\u0bbe\u0bb7\u0bbe ","education":"M.A (Political Science)","occupation":"\u0ba4\u0ba9\u0bbf\u0ba8\u0baa\u0bb0\u0bcd \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd ","age":"48","annual_income":"434,875","source_of_income":"Independent Advertising Agency","moveable_assets":"476,754","immoveable_assets":"0","total_assets":"476,754","liabilities":"0","net_assets":"476,754","no_of_criminal_cases":0,"cases_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KAREEMBASHA_A_Ambur.jpg","party":{"id":"Rashtriya Ulama Council","en_label":"Rashtriya Ulama Council","ta_label":"\u0bb0\u0bbe\u0bb7\u0bcd\u0b9f\u0bcd\u0bb0\u0bbf\u0baf \u0b89\u0bb2\u0bae\u0bbe \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/SHOE.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"258,300","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"297,045","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"303,100","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"395,340","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"434,875","spouse":"0","overall":"0"}],"other_party_name":"\u0bb0\u0bbe\u0bb7\u0bcd\u0b9f\u0bcd\u0bb0\u0bbf\u0baf \u0b89\u0bb2\u0bae\u0bbe \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd","self_source_of_income":"\u0ba4\u0ba9\u0bbf\u0ba8\u0baa\u0bb0\u0bcd \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd ","cases_pending_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0ba4\u0ba9\u0bbf\u0ba8\u0baa\u0bb0\u0bcd \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92ff20c8-fe7e-46d1-b802-f3bc1aa523cc","name":"V.PARTHIBAN","education":"SSLC","occupation":"Farmer","age":"40","annual_income":"0","source_of_income":"Farmer ","moveable_assets":"26,000","immoveable_assets":"0","total_assets":"26,000","liabilities":"0","net_assets":"26,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_20.jpg","party":{"id":"All India Youth Development Party","en_label":"All India Youth Development Party","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/CUP_&_SAUCER.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92ff20c8-fe7e-46d1-b802-f3bc1aa523cc","name":"V.\u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bbf\u0baa\u0ba9\u0bcd","education":"SSLC","occupation":"\u0b89\u0bb4\u0bb5\u0bc1 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf","age":"40","annual_income":"0","source_of_income":"Farmer ","moveable_assets":"26,000","immoveable_assets":"0","total_assets":"26,000","liabilities":"0","net_assets":"26,000","no_of_criminal_cases":0,"cases_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_20.jpg","party":{"id":"All India Youth Development Party","en_label":"All India Youth Development Party","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/CUP_&_SAUCER.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","self_source_of_income":"\u0b89\u0bb4\u0bb5\u0bc1\u0ba4\u0bcd\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_pending_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b89\u0bb4\u0bb5\u0bc1 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92ff06d5-d6dd-46d4-b78f-35b22649dea4","name":"S.P.MANI","education":"B.Sc","occupation":"V.A.O (Rtrd)","age":"63","annual_income":"0","source_of_income":"VAO pension","moveable_assets":"406,000","immoveable_assets":"1,000,000","total_assets":"1,406,000","liabilities":"0","net_assets":"1,406,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_14.jpg","party":{"id":"All Pensioners Party","en_label":"All Pensioners Party","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/HAT.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92ff06d5-d6dd-46d4-b78f-35b22649dea4","name":"S.P.\u0bae\u0ba3\u0bbf","education":"B.Sc","occupation":"\u0b95\u0bbf\u0bb0\u0bbe\u0bae \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd (\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bb0\u0bcd)","age":"63","annual_income":"0","source_of_income":"VAO pension","moveable_assets":"406,000","immoveable_assets":"1,000,000","total_assets":"1,406,000","liabilities":"0","net_assets":"1,406,000","no_of_criminal_cases":0,"cases_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_14.jpg","party":{"id":"All Pensioners Party","en_label":"All Pensioners Party","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/HAT.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","self_source_of_income":"\u0b95\u0bbf\u0bb0\u0bbe\u0bae \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd (\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd)","cases_pending_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b95\u0bbf\u0bb0\u0bbe\u0bae \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd (\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bb0\u0bcd)","cases_convicted_description":""}},{"en":{"candidate_id":"93067beb-c2fb-4fdb-8d60-b5ce34e3ceb6","name":"M.Maharunnisha","education":"5th Standard ","occupation":"House Wife","age":"38","annual_income":"0","source_of_income":"Nil","moveable_assets":"281,701","immoveable_assets":"500,000","total_assets":"781,701","liabilities":"50,000","net_assets":"731,701","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MAHARUNNISHA_Ambur.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GANNA_KISAN.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93067beb-c2fb-4fdb-8d60-b5ce34e3ceb6","name":"M.\u0bae\u0bc6\u0bb9\u0bb0\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bbe","education":"5th Standard ","occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","age":"38","annual_income":"0","source_of_income":"Nil","moveable_assets":"281,701","immoveable_assets":"500,000","total_assets":"781,701","liabilities":"50,000","net_assets":"731,701","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MAHARUNNISHA_Ambur.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GANNA_KISAN.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b8e\u0ba4\u0bc1\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92fcd686-1576-4a5a-8ef5-8652a14e500f","name":"S.Raja","education":"Illiterate","occupation":"Driver","age":"37","annual_income":"0","source_of_income":"84000","moveable_assets":"260,000","immoveable_assets":"2,240,000","total_assets":"2,500,000","liabilities":"1,500,000","net_assets":"1,000,000","no_of_criminal_cases":1,"cases_description":"Fight Case. . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_9.jpg","party":{"id":"Agila Inthiya Samathuva Makkal Katchi","en_label":"Agila Inthiya Samathuva Makkal Katchi","ta_label":"\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATTERY_TORCH.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fcd686-1576-4a5a-8ef5-8652a14e500f","name":"S.\u0bb0\u0bbe\u0b9c\u0bbe","education":"Illiterate","occupation":"\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba9\u0bb0\u0bcd ","age":"37","annual_income":"0","source_of_income":"84000","moveable_assets":"260,000","immoveable_assets":"2,240,000","total_assets":"2,500,000","liabilities":"1,500,000","net_assets":"1,000,000","no_of_criminal_cases":1,"cases_description":"\u0b9a\u0ba3\u0bcd\u0b9f\u0bc8 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1. \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_9.jpg","party":{"id":"Agila Inthiya Samathuva Makkal Katchi","en_label":"Agila Inthiya Samathuva Makkal Katchi","ta_label":"\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATTERY_TORCH.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","self_source_of_income":"\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba9\u0bb0\u0bcd ","cases_pending_description":"\u0b9a\u0ba3\u0bcd\u0b9f\u0bc8 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1","self_education_description":"","self_profession_occupation":"\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba9\u0bb0\u0bcd ","cases_convicted_description":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1"}},{"en":{"candidate_id":"930511f9-a7e2-4042-b321-311efc97f4cc","name":"L.Murugan","education":"8th pass","occupation":"Farmer","age":"53","annual_income":"0","source_of_income":"Farmer","moveable_assets":"198,000","immoveable_assets":"95,000","total_assets":"293,000","liabilities":"0","net_assets":"293,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MURUGAN_L_Ambur.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TRACTOR_CHALATA_KISAN.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"930511f9-a7e2-4042-b321-311efc97f4cc","name":"L.\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd ","education":"8th pass","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ","age":"53","annual_income":"0","source_of_income":"Farmer","moveable_assets":"198,000","immoveable_assets":"95,000","total_assets":"293,000","liabilities":"0","net_assets":"293,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MURUGAN_L_Ambur.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TRACTOR_CHALATA_KISAN.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ","cases_convicted_description":""}},{"en":{"candidate_id":"92ff1056-e091-48b8-b9df-d5e31a996bb5","name":"P.RAJINIKANTH","education":"8th pass","occupation":"Pvt Company Employee","age":"41","annual_income":"0","source_of_income":"Monthly income from Pvt. company employment","moveable_assets":"217,000","immoveable_assets":"100,000","total_assets":"317,000","liabilities":"0","net_assets":"317,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_17.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AUTO-RICKSHAW.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92ff1056-e091-48b8-b9df-d5e31a996bb5","name":"P.\u0bb0\u0b9c\u0bbf\u0ba9\u0bbf\u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bcd","education":"8th pass","occupation":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf","age":"41","annual_income":"0","source_of_income":"Monthly income from Pvt. company employment","moveable_assets":"217,000","immoveable_assets":"100,000","total_assets":"317,000","liabilities":"0","net_assets":"317,000","no_of_criminal_cases":0,"cases_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/AMBUR_17.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AUTO-RICKSHAW.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0bae\u0bbe\u0ba4 \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd ","cases_pending_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"93051736-04cd-477b-98da-59e9a4d6d993","name":"V.A.George","education":"7th Standard","occupation":"NA","age":"65","annual_income":"0","source_of_income":"NA","moveable_assets":"50,000","immoveable_assets":"200,000","total_assets":"250,000","liabilities":"0","net_assets":"250,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/GEORGE_V_A__Ambur.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BANGLES.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93051736-04cd-477b-98da-59e9a4d6d993","name":"V.A.\u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bcd ","education":"7th Standard","occupation":"\u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ","age":"65","annual_income":"0","source_of_income":"NA","moveable_assets":"50,000","immoveable_assets":"200,000","total_assets":"250,000","liabilities":"0","net_assets":"250,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/GEORGE_V_A__Ambur.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BANGLES.JPG"},"thokuthi":{"constituency_id":"AMBUR","constituency_en_label":"Ambur","constituency_ta_label":"\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "92f86ddd-7e83-42ca-aa45-da2e914dbe2f",
+                "name": "K.Nazarmohamed",
+                "education": "B.com",
+                "occupation": "Business / Tax Consultant",
+                "age": "49",
+                "annual_income": "604,988",
+                "source_of_income": "",
+                "moveable_assets": "35,906,852",
+                "immoveable_assets": "29,949,450",
+                "total_assets": "65,856,302",
+                "liabilities": "0",
+                "net_assets": "65,856,302",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_3.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "578,869",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "778,480",
+                        "spouse": "475,869",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "580,829",
+                        "spouse": "558,559",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "580,829",
+                        "spouse": "543,320",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "604,988",
+                        "spouse": "555,682",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f86ddd-7e83-42ca-aa45-da2e914dbe2f",
+                "name": "K.\u0ba8\u0b9c\u0bb0\u0bcd \u0bae\u0bc1\u0bb9\u0bae\u0ba4\u0bcd",
+                "education": "B.com",
+                "occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd / \u0bb5\u0bb0\u0bbf \u0b86\u0bb2\u0bcb\u0b9a\u0b95\u0bb0\u0bcd\n",
+                "age": "49",
+                "annual_income": "604,988",
+                "source_of_income": "",
+                "moveable_assets": "35,906,852",
+                "immoveable_assets": "29,949,450",
+                "total_assets": "65,856,302",
+                "liabilities": "0",
+                "net_assets": "65,856,302",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_3.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "578,869",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "778,480",
+                        "spouse": "475,869",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "580,829",
+                        "spouse": "558,559",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "580,829",
+                        "spouse": "543,320",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "604,988",
+                        "spouse": "555,682",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd / \u0bb5\u0bb0\u0bbf \u0b86\u0bb2\u0bcb\u0b9a\u0b95\u0bb0\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "B.COM",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd / \u0bb5\u0bb0\u0bbf \u0b86\u0bb2\u0bcb\u0b9a\u0b95\u0bb0\u0bcd\n",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fae4e1-ba66-4eb5-a9b1-51db0d2b0683",
+                "name": "J.Wazeerahmed",
+                "education": "5th pass",
+                "occupation": "Own Business",
+                "age": "49",
+                "annual_income": "0",
+                "source_of_income": "Own Business",
+                "moveable_assets": "1,366,000",
+                "immoveable_assets": "500,000",
+                "total_assets": "1,866,000",
+                "liabilities": "0",
+                "net_assets": "1,866,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_8.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fae4e1-ba66-4eb5-a9b1-51db0d2b0683",
+                "name": "J.\u0bb5\u0b9c\u0bc0\u0bb0\u0bcd \u0b85\u0bb9\u0bae\u0ba4\u0bcd",
+                "education": "5th pass",
+                "occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "age": "49",
+                "annual_income": "0",
+                "source_of_income": "Own Business",
+                "moveable_assets": "1,366,000",
+                "immoveable_assets": "500,000",
+                "total_assets": "1,866,000",
+                "liabilities": "0",
+                "net_assets": "1,866,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_8.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_pending_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f8d610-f4b8-404e-9416-b7abdc3fa68a",
+                "name": "A.C.Vilwanathan",
+                "education": "SSLC",
+                "occupation": "Agriculturist",
+                "age": "61",
+                "annual_income": "55,890",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "6,605,845",
+                "immoveable_assets": "32,030,000",
+                "total_assets": "38,635,845",
+                "liabilities": "1,030,623",
+                "net_assets": "37,605,222",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_4.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "287,352",
+                        "spouse": "175,425",
+                        "overall": "260,471"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "336,490",
+                        "spouse": "224,542",
+                        "overall": "265,493"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "358,156",
+                        "spouse": "260,561",
+                        "overall": "209,803"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "288,010",
+                        "spouse": "225,794",
+                        "overall": "221,075"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "55,890",
+                        "spouse": "249,768",
+                        "overall": "125,500"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f8d610-f4b8-404e-9416-b7abdc3fa68a",
+                "name": "A.C.\u0bb5\u0bbf\u0bb2\u0bcd\u0bb5\u0ba9\u0bbe\u0ba4\u0ba9\u0bcd ",
+                "education": "SSLC",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf",
+                "age": "61",
+                "annual_income": "55,890",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "6,605,845",
+                "immoveable_assets": "32,030,000",
+                "total_assets": "38,635,845",
+                "liabilities": "1,030,623",
+                "net_assets": "37,605,222",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_4.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "287,352",
+                        "spouse": "175,425",
+                        "overall": "260,471"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "336,490",
+                        "spouse": "224,542",
+                        "overall": "265,493"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "358,156",
+                        "spouse": "260,561",
+                        "overall": "209,803"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "288,010",
+                        "spouse": "225,794",
+                        "overall": "221,075"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "55,890",
+                        "spouse": "249,768",
+                        "overall": "125,500"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff0d6e-e124-40a7-80c9-5ab83c5aa627",
+                "name": "C.ASHOKKUMAR",
+                "education": "B.A (Tamil)",
+                "occupation": "Photographer",
+                "age": "34",
+                "annual_income": "0",
+                "source_of_income": "Photography",
+                "moveable_assets": "300,000",
+                "immoveable_assets": "300,000",
+                "total_assets": "600,000",
+                "liabilities": "0",
+                "net_assets": "600,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ASHOKKUMAR_C_Ambur.jpg",
+                "party": {
+                    "id": "ANAITHU MAKKAL PURATCHI KATCHI",
+                    "en_label": "ANAITHU MAKKAL PURATCHI KATCHI",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GLASS_TUMBLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff0d6e-e124-40a7-80c9-5ab83c5aa627",
+                "name": "C.\u0b85\u0b9a\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+                "education": "B.A (Tamil)",
+                "occupation": "\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0b95\u0bcd\u0b95\u0bb2\u0bc8\u0b9e\u0bb0\u0bcd",
+                "age": "34",
+                "annual_income": "0",
+                "source_of_income": "Photography",
+                "moveable_assets": "300,000",
+                "immoveable_assets": "300,000",
+                "total_assets": "600,000",
+                "liabilities": "0",
+                "net_assets": "600,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ASHOKKUMAR_C_Ambur.jpg",
+                "party": {
+                    "id": "ANAITHU MAKKAL PURATCHI KATCHI",
+                    "en_label": "ANAITHU MAKKAL PURATCHI KATCHI",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GLASS_TUMBLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb8\u0bcd\u0b9f\u0bc1\u0b9f\u0bbf\u0baf\u0bcb",
+                "cases_pending_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0b95\u0bcd\u0b95\u0bb2\u0bc8\u0b9e\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "930514c3-2341-49d0-aaaa-11cd11ed864f",
+                "name": "A.MA.Umarfarook",
+                "education": "7th standard",
+                "occupation": "Writter",
+                "age": "57",
+                "annual_income": "0",
+                "source_of_income": "Income from Writting an Article.",
+                "moveable_assets": "301,848",
+                "immoveable_assets": "0",
+                "total_assets": "301,848",
+                "liabilities": "0",
+                "net_assets": "301,848",
+                "no_of_criminal_cases": 2,
+                "cases_description": "Protest case.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/UMARFAROOK_ASA_Ambur.jpg",
+                "party": {
+                    "id": "Social Democratic Party of India",
+                    "short_name": "SDPOI",
+                    "ta_label": "\u0b9a\u0bcb\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b9f\u0bc6\u0bae\u0bbe\u0b95\u0bcd\u0bb0\u0b9f\u0bbf\u0b95\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf \u0b86\u0b83\u0baa\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+                    "en_label": "Social Democratic Party of India",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "930514c3-2341-49d0-aaaa-11cd11ed864f",
+                "name": "A.MA.\u0b89\u0bae\u0bb0\u0bcd \u0baa\u0bb0\u0bc2\u0b95\u0bcd ",
+                "education": "7th standard",
+                "occupation": "\u0b8e\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bb0\u0bcd ",
+                "age": "57",
+                "annual_income": "0",
+                "source_of_income": "Income from Writting an Article.",
+                "moveable_assets": "301,848",
+                "immoveable_assets": "0",
+                "total_assets": "301,848",
+                "liabilities": "0",
+                "net_assets": "301,848",
+                "no_of_criminal_cases": 2,
+                "cases_description": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/UMARFAROOK_ASA_Ambur.jpg",
+                "party": {
+                    "id": "Social Democratic Party of India",
+                    "short_name": "SDPOI",
+                    "ta_label": "\u0b9a\u0bcb\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b9f\u0bc6\u0bae\u0bbe\u0b95\u0bcd\u0bb0\u0b9f\u0bbf\u0b95\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf \u0b86\u0b83\u0baa\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+                    "en_label": "Social Democratic Party of India",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b8e\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bb0\u0bcd ",
+                "cases_pending_description": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b8e\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff294d-1f91-4ae8-a8e8-57791ecdb03c",
+                "name": "A.KAREEM BASHA",
+                "education": "M.A (Political Science)",
+                "occupation": "Independent Advertising Agent",
+                "age": "48",
+                "annual_income": "434,875",
+                "source_of_income": "Independent Advertising Agency",
+                "moveable_assets": "476,754",
+                "immoveable_assets": "0",
+                "total_assets": "476,754",
+                "liabilities": "0",
+                "net_assets": "476,754",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KAREEMBASHA_A_Ambur.jpg",
+                "party": {
+                    "id": "Rashtriya Ulama Council",
+                    "en_label": "Rashtriya Ulama Council",
+                    "ta_label": "\u0bb0\u0bbe\u0bb7\u0bcd\u0b9f\u0bcd\u0bb0\u0bbf\u0baf \u0b89\u0bb2\u0bae\u0bbe \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SHOE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "258,300",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "297,045",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "303,100",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "395,340",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "434,875",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff294d-1f91-4ae8-a8e8-57791ecdb03c",
+                "name": "A.\u0b95\u0bb0\u0bc0\u0bae\u0bcd \u0baa\u0bbe\u0bb7\u0bbe ",
+                "education": "M.A (Political Science)",
+                "occupation": "\u0ba4\u0ba9\u0bbf\u0ba8\u0baa\u0bb0\u0bcd \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd ",
+                "age": "48",
+                "annual_income": "434,875",
+                "source_of_income": "Independent Advertising Agency",
+                "moveable_assets": "476,754",
+                "immoveable_assets": "0",
+                "total_assets": "476,754",
+                "liabilities": "0",
+                "net_assets": "476,754",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KAREEMBASHA_A_Ambur.jpg",
+                "party": {
+                    "id": "Rashtriya Ulama Council",
+                    "en_label": "Rashtriya Ulama Council",
+                    "ta_label": "\u0bb0\u0bbe\u0bb7\u0bcd\u0b9f\u0bcd\u0bb0\u0bbf\u0baf \u0b89\u0bb2\u0bae\u0bbe \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SHOE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "258,300",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "297,045",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "303,100",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "395,340",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "434,875",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0bb0\u0bbe\u0bb7\u0bcd\u0b9f\u0bcd\u0bb0\u0bbf\u0baf \u0b89\u0bb2\u0bae\u0bbe \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd",
+                "self_source_of_income": "\u0ba4\u0ba9\u0bbf\u0ba8\u0baa\u0bb0\u0bcd \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd ",
+                "cases_pending_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0ba9\u0bbf\u0ba8\u0baa\u0bb0\u0bcd \u0bb5\u0bbf\u0bb3\u0bae\u0bcd\u0baa\u0bb0 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff20c8-fe7e-46d1-b802-f3bc1aa523cc",
+                "name": "V.PARTHIBAN",
+                "education": "SSLC",
+                "occupation": "Farmer",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "Farmer ",
+                "moveable_assets": "26,000",
+                "immoveable_assets": "0",
+                "total_assets": "26,000",
+                "liabilities": "0",
+                "net_assets": "26,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_20.jpg",
+                "party": {
+                    "id": "All India Youth Development Party",
+                    "en_label": "All India Youth Development Party",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CUP_&_SAUCER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff20c8-fe7e-46d1-b802-f3bc1aa523cc",
+                "name": "V.\u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bbf\u0baa\u0ba9\u0bcd",
+                "education": "SSLC",
+                "occupation": "\u0b89\u0bb4\u0bb5\u0bc1 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "Farmer ",
+                "moveable_assets": "26,000",
+                "immoveable_assets": "0",
+                "total_assets": "26,000",
+                "liabilities": "0",
+                "net_assets": "26,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_20.jpg",
+                "party": {
+                    "id": "All India Youth Development Party",
+                    "en_label": "All India Youth Development Party",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CUP_&_SAUCER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0b89\u0bb4\u0bb5\u0bc1\u0ba4\u0bcd\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_pending_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b89\u0bb4\u0bb5\u0bc1 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff06d5-d6dd-46d4-b78f-35b22649dea4",
+                "name": "S.P.MANI",
+                "education": "B.Sc",
+                "occupation": "V.A.O (Rtrd)",
+                "age": "63",
+                "annual_income": "0",
+                "source_of_income": "VAO pension",
+                "moveable_assets": "406,000",
+                "immoveable_assets": "1,000,000",
+                "total_assets": "1,406,000",
+                "liabilities": "0",
+                "net_assets": "1,406,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_14.jpg",
+                "party": {
+                    "id": "All Pensioners Party",
+                    "en_label": "All Pensioners Party",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff06d5-d6dd-46d4-b78f-35b22649dea4",
+                "name": "S.P.\u0bae\u0ba3\u0bbf",
+                "education": "B.Sc",
+                "occupation": "\u0b95\u0bbf\u0bb0\u0bbe\u0bae \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd (\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bb0\u0bcd)",
+                "age": "63",
+                "annual_income": "0",
+                "source_of_income": "VAO pension",
+                "moveable_assets": "406,000",
+                "immoveable_assets": "1,000,000",
+                "total_assets": "1,406,000",
+                "liabilities": "0",
+                "net_assets": "1,406,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_14.jpg",
+                "party": {
+                    "id": "All Pensioners Party",
+                    "en_label": "All Pensioners Party",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0b95\u0bbf\u0bb0\u0bbe\u0bae \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd (\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd)",
+                "cases_pending_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bbf\u0bb0\u0bbe\u0bae \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd (\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bb0\u0bcd)",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93067beb-c2fb-4fdb-8d60-b5ce34e3ceb6",
+                "name": "M.Maharunnisha",
+                "education": "5th Standard ",
+                "occupation": "House Wife",
+                "age": "38",
+                "annual_income": "0",
+                "source_of_income": "Nil",
+                "moveable_assets": "281,701",
+                "immoveable_assets": "500,000",
+                "total_assets": "781,701",
+                "liabilities": "50,000",
+                "net_assets": "731,701",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MAHARUNNISHA_Ambur.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93067beb-c2fb-4fdb-8d60-b5ce34e3ceb6",
+                "name": "M.\u0bae\u0bc6\u0bb9\u0bb0\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bbe",
+                "education": "5th Standard ",
+                "occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "age": "38",
+                "annual_income": "0",
+                "source_of_income": "Nil",
+                "moveable_assets": "281,701",
+                "immoveable_assets": "500,000",
+                "total_assets": "781,701",
+                "liabilities": "50,000",
+                "net_assets": "731,701",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MAHARUNNISHA_Ambur.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b8e\u0ba4\u0bc1\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fcd686-1576-4a5a-8ef5-8652a14e500f",
+                "name": "S.Raja",
+                "education": "Illiterate",
+                "occupation": "Driver",
+                "age": "37",
+                "annual_income": "0",
+                "source_of_income": "84000",
+                "moveable_assets": "260,000",
+                "immoveable_assets": "2,240,000",
+                "total_assets": "2,500,000",
+                "liabilities": "1,500,000",
+                "net_assets": "1,000,000",
+                "no_of_criminal_cases": 1,
+                "cases_description": "Fight Case. . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_9.jpg",
+                "party": {
+                    "id": "Agila Inthiya Samathuva Makkal Katchi",
+                    "en_label": "Agila Inthiya Samathuva Makkal Katchi",
+                    "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fcd686-1576-4a5a-8ef5-8652a14e500f",
+                "name": "S.\u0bb0\u0bbe\u0b9c\u0bbe",
+                "education": "Illiterate",
+                "occupation": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba9\u0bb0\u0bcd ",
+                "age": "37",
+                "annual_income": "0",
+                "source_of_income": "84000",
+                "moveable_assets": "260,000",
+                "immoveable_assets": "2,240,000",
+                "total_assets": "2,500,000",
+                "liabilities": "1,500,000",
+                "net_assets": "1,000,000",
+                "no_of_criminal_cases": 1,
+                "cases_description": "\u0b9a\u0ba3\u0bcd\u0b9f\u0bc8 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1. \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_9.jpg",
+                "party": {
+                    "id": "Agila Inthiya Samathuva Makkal Katchi",
+                    "en_label": "Agila Inthiya Samathuva Makkal Katchi",
+                    "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba9\u0bb0\u0bcd ",
+                "cases_pending_description": "\u0b9a\u0ba3\u0bcd\u0b9f\u0bc8 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba9\u0bb0\u0bcd ",
+                "cases_convicted_description": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1"
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "930511f9-a7e2-4042-b321-311efc97f4cc",
+                "name": "L.Murugan",
+                "education": "8th pass",
+                "occupation": "Farmer",
+                "age": "53",
+                "annual_income": "0",
+                "source_of_income": "Farmer",
+                "moveable_assets": "198,000",
+                "immoveable_assets": "95,000",
+                "total_assets": "293,000",
+                "liabilities": "0",
+                "net_assets": "293,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MURUGAN_L_Ambur.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TRACTOR_CHALATA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "930511f9-a7e2-4042-b321-311efc97f4cc",
+                "name": "L.\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd ",
+                "education": "8th pass",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "age": "53",
+                "annual_income": "0",
+                "source_of_income": "Farmer",
+                "moveable_assets": "198,000",
+                "immoveable_assets": "95,000",
+                "total_assets": "293,000",
+                "liabilities": "0",
+                "net_assets": "293,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MURUGAN_L_Ambur.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TRACTOR_CHALATA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff1056-e091-48b8-b9df-d5e31a996bb5",
+                "name": "P.RAJINIKANTH",
+                "education": "8th pass",
+                "occupation": "Pvt Company Employee",
+                "age": "41",
+                "annual_income": "0",
+                "source_of_income": "Monthly income from Pvt. company employment",
+                "moveable_assets": "217,000",
+                "immoveable_assets": "100,000",
+                "total_assets": "317,000",
+                "liabilities": "0",
+                "net_assets": "317,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_17.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff1056-e091-48b8-b9df-d5e31a996bb5",
+                "name": "P.\u0bb0\u0b9c\u0bbf\u0ba9\u0bbf\u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bcd",
+                "education": "8th pass",
+                "occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf",
+                "age": "41",
+                "annual_income": "0",
+                "source_of_income": "Monthly income from Pvt. company employment",
+                "moveable_assets": "217,000",
+                "immoveable_assets": "100,000",
+                "total_assets": "317,000",
+                "liabilities": "0",
+                "net_assets": "317,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AMBUR_17.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0bae\u0bbe\u0ba4 \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93051736-04cd-477b-98da-59e9a4d6d993",
+                "name": "V.A.George",
+                "education": "7th Standard",
+                "occupation": "NA",
+                "age": "65",
+                "annual_income": "0",
+                "source_of_income": "NA",
+                "moveable_assets": "50,000",
+                "immoveable_assets": "200,000",
+                "total_assets": "250,000",
+                "liabilities": "0",
+                "net_assets": "250,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/GEORGE_V_A__Ambur.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BANGLES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93051736-04cd-477b-98da-59e9a4d6d993",
+                "name": "V.A.\u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bcd ",
+                "education": "7th Standard",
+                "occupation": "\u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "age": "65",
+                "annual_income": "0",
+                "source_of_income": "NA",
+                "moveable_assets": "50,000",
+                "immoveable_assets": "200,000",
+                "total_assets": "250,000",
+                "liabilities": "0",
+                "net_assets": "250,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/GEORGE_V_A__Ambur.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BANGLES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "AMBUR",
+                    "constituency_en_label": "Ambur",
+                    "constituency_ta_label": "\u0b86\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

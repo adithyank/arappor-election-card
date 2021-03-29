@@ -1,1 +1,2183 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"92fce17f-7061-4a6c-a4de-e41b39e58a77","name":"A.P.ANBIL MAHESH POOYYAMOZHI","education":"MCA","occupation":"POLITICIAN","age":"43","annual_income":"1,990,270","source_of_income":"MLA SALARY","moveable_assets":"37,600,300","immoveable_assets":"52,550,000","total_assets":"90,150,300","liabilities":"533,716","net_assets":"89,616,584","no_of_criminal_cases":9,"cases_description":"Protest against Agriculture bill, unlawful assembly in 2nd year anniversary of Kalaignar, Protest against Udhayanidhi stalin's arrest in nagapattinam. . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_12.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"1,400,250","spouse":"976,330","overall":"362,800"},{"y_from":2017,"y_to":2018,"candidate":"3,972,580","spouse":"1,059,230","overall":"971,440"},{"y_from":2018,"y_to":2019,"candidate":"966,090","spouse":"1,926,300","overall":"2,358,940"},{"y_from":2019,"y_to":2020,"candidate":"1,990,270","spouse":"4,082,050","overall":"4,954,400"}]},"ta":{"candidate_id":"92fce17f-7061-4a6c-a4de-e41b39e58a77","name":"A.P.\u0b85\u0ba9\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0bc7\u0bb7\u0bcd \u0baa\u0bca\u0baf\u0bcd\u0baf\u0bbe\u0bae\u0bca\u0bb4\u0bbf","education":"MCA","occupation":"\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd","age":"43","annual_income":"1,990,270","source_of_income":"MLA SALARY","moveable_assets":"37,600,300","immoveable_assets":"52,550,000","total_assets":"90,150,300","liabilities":"533,716","net_assets":"89,616,584","no_of_criminal_cases":9,"cases_description":"\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd, \n\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_12.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"1,400,250","spouse":"976,330","overall":"362,800"},{"y_from":2017,"y_to":2018,"candidate":"3,972,580","spouse":"1,059,230","overall":"971,440"},{"y_from":2018,"y_to":2019,"candidate":"966,090","spouse":"1,926,300","overall":"2,358,940"},{"y_from":2019,"y_to":2020,"candidate":"1,990,270","spouse":"4,082,050","overall":"4,954,400"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b8a\u0ba4\u0bbf\u0baf\u0bae\u0bcd","cases_pending_description":"\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd, \n\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1","self_education_description":"","self_profession_occupation":"\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92f68d2c-3187-433c-8911-f7b007abac38","name":"P.Kumar","education":"Bachelor of Law","occupation":"Advocate, Agriculture, Social service","age":"49","annual_income":"1,955,880","source_of_income":"Pension from as Ex.MP, Agriculture, and Advocate","moveable_assets":"18,518,307","immoveable_assets":"44,700,000","total_assets":"63,218,307","liabilities":"0","net_assets":"63,218,307","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_2.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"799,050","spouse":"800,000","overall":"1,300,000"},{"y_from":2016,"y_to":2017,"candidate":"1,420,800","spouse":"1,039,600","overall":"3,450,000"},{"y_from":2017,"y_to":2018,"candidate":"2,063,690","spouse":"1,904,360","overall":"3,974,530"},{"y_from":2018,"y_to":2019,"candidate":"1,954,020","spouse":"1,144,310","overall":"3,104,530"},{"y_from":2019,"y_to":2020,"candidate":"1,955,880","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f68d2c-3187-433c-8911-f7b007abac38","name":"P.\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd","education":"Bachelor of Law","occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd, \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bae\u0bc2\u0b95\u0b9a\u0bc7\u0bb5\u0bc8","age":"49","annual_income":"1,955,880","source_of_income":"Pension from as Ex.MP, Agriculture, and Advocate","moveable_assets":"18,518,307","immoveable_assets":"44,700,000","total_assets":"63,218,307","liabilities":"0","net_assets":"63,218,307","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_2.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"799,050","spouse":"800,000","overall":"1,300,000"},{"y_from":2016,"y_to":2017,"candidate":"1,420,800","spouse":"1,039,600","overall":"3,450,000"},{"y_from":2017,"y_to":2018,"candidate":"2,063,690","spouse":"1,904,360","overall":"3,974,530"},{"y_from":2018,"y_to":2019,"candidate":"1,954,020","spouse":"1,144,310","overall":"3,104,530"},{"y_from":2019,"y_to":2020,"candidate":"1,955,880","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0baa\u0bbe\u0bb0\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd, \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd, \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bae\u0bc2\u0b95\u0b9a\u0bc7\u0bb5\u0bc8","cases_convicted_description":""}},{"en":{"candidate_id":"92fed13f-bf50-4202-a91c-ef5bb1cf7754","name":"S.Senthil Kumar","education":"Not given","occupation":"Agriculture","age":"51","annual_income":"448,960","source_of_income":"Agriculture","moveable_assets":"3,297,439","immoveable_assets":"4,150,000","total_assets":"7,447,439","liabilities":"0","net_assets":"7,447,439","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_15.jpg","party":{"id":"Desiya Murpokku Dravida Kazhagam","short_name":"DMDK","ta_label":"\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Desiya Murpokku Dravida Kazhagam","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"96,000","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"270,000","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"295,800","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"282,800","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"448,960","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fed13f-bf50-4202-a91c-ef5bb1cf7754","name":"S.\u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd","education":"Not given","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"51","annual_income":"448,960","source_of_income":"Agriculture","moveable_assets":"3,297,439","immoveable_assets":"4,150,000","total_assets":"7,447,439","liabilities":"0","net_assets":"7,447,439","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_15.jpg","party":{"id":"Desiya Murpokku Dravida Kazhagam","short_name":"DMDK","ta_label":"\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Desiya Murpokku Dravida Kazhagam","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"96,000","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"270,000","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"295,800","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"282,800","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"448,960","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92f947d7-3a05-4876-bca0-289bfcd9da51","name":"R.MALATHI","education":"9th Standard","occupation":"NIL","age":"34","annual_income":"0","source_of_income":"NIL","moveable_assets":"394,000","immoveable_assets":"0","total_assets":"394,000","liabilities":"0","net_assets":"394,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_5.jpg","party":{"id":"Bahujan Samaj Party","short_name":"BSP","ta_label":"\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Bahujan Samaj Party","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f947d7-3a05-4876-bca0-289bfcd9da51","name":"R.\u0bae\u0bbe\u0bb2\u0ba4\u0bbf","education":"9th Standard","occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","age":"34","annual_income":"0","source_of_income":"NIL","moveable_assets":"394,000","immoveable_assets":"0","total_assets":"394,000","liabilities":"0","net_assets":"394,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_5.jpg","party":{"id":"Bahujan Samaj Party","short_name":"BSP","ta_label":"\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Bahujan Samaj Party","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"self_source_of_income":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","cases_convicted_description":""}},{"en":{"candidate_id":"92fcd965-0e2a-4dd6-9236-a7e6e5fb8d33","name":"K.M.KARTHIK","education":"B.E., M.Tech.","occupation":"SOCIAL WORKER, PART TIME TEACHER","age":"38","annual_income":"56,000","source_of_income":"SOCIAL WORKER, PART TIME TEACHER","moveable_assets":"618,569","immoveable_assets":"0","total_assets":"618,569","liabilities":"386,054","net_assets":"232,515","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_11.jpg","party":{"id":"TAMIL NADU YOUTH PARTY","en_label":"TAMIL NADU YOUTH PARTY","ta_label":"TAMIL NADU YOUTH PARTY","party_image":null},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"96,000","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"96,000","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"56,000","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fcd965-0e2a-4dd6-9236-a7e6e5fb8d33","name":"K.M.\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd","education":"B.E., M.Tech.","occupation":"\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd, \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0ba8\u0bc7\u0bb0 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd ","age":"38","annual_income":"56,000","source_of_income":"SOCIAL WORKER, PART TIME TEACHER","moveable_assets":"618,569","immoveable_assets":"0","total_assets":"618,569","liabilities":"386,054","net_assets":"232,515","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_11.jpg","party":{"id":"TAMIL NADU YOUTH PARTY","en_label":"TAMIL NADU YOUTH PARTY","ta_label":"TAMIL NADU YOUTH PARTY","party_image":null},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"96,000","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"96,000","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"56,000","spouse":"0","overall":"0"}],"self_source_of_income":"\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd, \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0ba8\u0bc7\u0bb0 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd, \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0ba8\u0bc7\u0bb0 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92f686a3-8228-4738-bf16-988d112a2d4d","name":"S.Sakthivel","education":"Bachelor of Engineering","occupation":"Self retired employee of PSU","age":"65","annual_income":"230,650","source_of_income":"Self pension, House rent","moveable_assets":"2,420,000","immoveable_assets":"14,100,000","total_assets":"16,520,000","liabilities":"0","net_assets":"16,520,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_1.jpg","party":{"id":"NEW GENERATION PEOPLE'S PARTY","en_label":"NEW GENERATION PEOPLE'S PARTY","ta_label":"\u0ba8\u0bbf\u0baf\u0bc2 \u0b9c\u0bc6\u0ba9\u0bc6\u0bb0\u0bc7\u0bb7\u0ba9\u0bcd \u0baa\u0bc0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf","party_image":null},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"2,352,653","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"240,000","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"250,000","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"230,650","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f686a3-8228-4738-bf16-988d112a2d4d","name":"S.\u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd","education":"Bachelor of Engineering","occupation":"\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0baa\u0bca\u0ba4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd","age":"65","annual_income":"230,650","source_of_income":"Self pension, House rent","moveable_assets":"2,420,000","immoveable_assets":"14,100,000","total_assets":"16,520,000","liabilities":"0","net_assets":"16,520,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_1.jpg","party":{"id":"NEW GENERATION PEOPLE'S PARTY","en_label":"NEW GENERATION PEOPLE'S PARTY","ta_label":"\u0ba8\u0bbf\u0baf\u0bc2 \u0b9c\u0bc6\u0ba9\u0bc6\u0bb0\u0bc7\u0bb7\u0ba9\u0bcd \u0baa\u0bc0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf","party_image":null},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"2,352,653","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"240,000","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"250,000","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"230,650","spouse":"0","overall":"0"}],"other_party_name":"\u0ba8\u0bbf\u0baf\u0bc2 \u0b9c\u0bc6\u0ba9\u0bc6\u0bb0\u0bc7\u0bb7\u0ba9\u0bcd \u0baa\u0bc0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf","self_source_of_income":"\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0bbe\u0b9f\u0b95\u0bc8","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0baa\u0bca\u0ba4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fcd39a-7ae3-4663-ad8b-585fce8395f7","name":"V.CHOLASOORAN","education":"B.Sc., M.C.A.","occupation":"LAKSHMI TRADERS (Rice and Grocery Wholesale) OWNER","age":"40","annual_income":"0","source_of_income":"LAKSHMI TRADERS OWNER","moveable_assets":"21,956","immoveable_assets":"0","total_assets":"21,956","liabilities":"0","net_assets":"21,956","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_7.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fcd39a-7ae3-4663-ad8b-585fce8395f7","name":"V.\u0b9a\u0bcb\u0bb4\u0b9a\u0bc2\u0bb0\u0ba9\u0bcd","education":"B.Sc., M.C.A.","occupation":"\u0bb2\u0b9f\u0bcd\u0b9a\u0bc1\u0bae\u0bbf \u0b9f\u0bcd\u0bb0\u0bc7\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd -\u0b85\u0bb0\u0bbf\u0b9a\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bb2\u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bc8 -\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bb0\u0bcd ","age":"40","annual_income":"0","source_of_income":"LAKSHMI TRADERS OWNER","moveable_assets":"21,956","immoveable_assets":"0","total_assets":"21,956","liabilities":"0","net_assets":"21,956","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_7.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"self_source_of_income":"\u0bb2\u0b9f\u0bcd\u0b9a\u0bc1\u0bae\u0bbf \u0b9f\u0bcd\u0bb0\u0bc7\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bb0\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb2\u0b9f\u0bcd\u0b9a\u0bc1\u0bae\u0bbf \u0b9f\u0bcd\u0bb0\u0bc7\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd -\u0b85\u0bb0\u0bbf\u0b9a\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bb2\u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bc8 -\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fecb9a-1c27-47bb-8ce1-18ece3c33026","name":"K.Palanisamy","education":"5th Standard","occupation":"Business","age":"32","annual_income":"0","source_of_income":"Business","moveable_assets":"473,000","immoveable_assets":"0","total_assets":"473,000","liabilities":"0","net_assets":"473,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_14.jpg","party":{"id":"Veerathiyagi Viswanathathas Thozhilargal Katchi","en_label":"Veerathiyagi Viswanathathas Thozhilargal Katchi","ta_label":"\u0bb5\u0bc0\u0bb0\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fecb9a-1c27-47bb-8ce1-18ece3c33026","name":"K.\u0baa\u0bb4\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bbe\u0bae\u0bbf","education":"5th Standard","occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","age":"32","annual_income":"0","source_of_income":"Business","moveable_assets":"473,000","immoveable_assets":"0","total_assets":"473,000","liabilities":"0","net_assets":"473,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_14.jpg","party":{"id":"Veerathiyagi Viswanathathas Thozhilargal Katchi","en_label":"Veerathiyagi Viswanathathas Thozhilargal Katchi","ta_label":"\u0bb5\u0bc0\u0bb0\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0bb5\u0bc0\u0bb0\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92f94089-0f17-4814-a79d-8f59d97a7680","name":"M.MURUGANANDAM","education":"B.E., M.B.A., M.S., MFT., PGDMM., DEM.","occupation":" Director, Excel Group of Companies","age":"45","annual_income":"9,677,000","source_of_income":"Business Income from Excel Group of Companies","moveable_assets":"71,516,183","immoveable_assets":"82,400,000","total_assets":"153,916,183","liabilities":"0","net_assets":"153,916,183","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_4.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"2,915,240","spouse":"728,610","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"2,903,830","spouse":"728,610","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"2,925,410","spouse":"728,610","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"3,012,860","spouse":"734,500","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"9,677,000","spouse":"2,566,000","overall":"0"}]},"ta":{"candidate_id":"92f94089-0f17-4814-a79d-8f59d97a7680","name":"M.\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0bbe\u0ba9\u0ba8\u0bcd\u0ba4\u0bae\u0bcd","education":"B.E., M.B.A., M.S., MFT., PGDMM., DEM.","occupation":"\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba9\u0bb0\u0bcd, \u0b8e\u0b95\u0bcd\u0bb8\u0bc6\u0bb2\u0bcd \u0b95\u0bc1\u0bb0\u0bc2\u0baa\u0bcd \u0b86\u0baa\u0bcd \u0b95\u0bae\u0bcd\u0baa\u0bc6\u0ba9\u0bbf\u0bb8\u0bcd","age":"45","annual_income":"9,677,000","source_of_income":"Business Income from Excel Group of Companies","moveable_assets":"71,516,183","immoveable_assets":"82,400,000","total_assets":"153,916,183","liabilities":"0","net_assets":"153,916,183","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_4.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"2,915,240","spouse":"728,610","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"2,903,830","spouse":"728,610","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"2,925,410","spouse":"728,610","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"3,012,860","spouse":"734,500","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"9,677,000","spouse":"2,566,000","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba9\u0bb0\u0bcd \u0b8a\u0ba4\u0bbf\u0baf\u0bae\u0bcd","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba9\u0bb0\u0bcd, \u0b8e\u0b95\u0bcd\u0bb8\u0bc6\u0bb2\u0bcd \u0b95\u0bc1\u0bb0\u0bc2\u0baa\u0bcd \u0b86\u0baa\u0bcd \u0b95\u0bae\u0bcd\u0baa\u0bc6\u0ba9\u0bbf\u0bb8\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92feec6e-08f1-4225-add3-8351aa064337","name":"S.Charles","education":"PUC","occupation":"Retried from Land Registration Department","age":"65","annual_income":"0","source_of_income":"Pension","moveable_assets":"2,255,000","immoveable_assets":"5,200,000","total_assets":"7,455,000","liabilities":"0","net_assets":"7,455,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_24.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92feec6e-08f1-4225-add3-8351aa064337","name":"S.\u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd","education":"PUC","occupation":" \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb2 \u0b85\u0bb3\u0bb5\u0bc8 \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc1","age":"65","annual_income":"0","source_of_income":"Pension","moveable_assets":"2,255,000","immoveable_assets":"5,200,000","total_assets":"7,455,000","liabilities":"0","net_assets":"7,455,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_24.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":" \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb2 \u0b85\u0bb3\u0bb5\u0bc8 \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc1","cases_convicted_description":""}},{"en":{"candidate_id":"92fee7ec-5d3e-4ffd-838f-b85c774261fc","name":"R.Priya","education":"B.A., B.L.,","occupation":"Advocate","age":"40","annual_income":"0","source_of_income":"Nil","moveable_assets":"1,261,200","immoveable_assets":"0","total_assets":"1,261,200","liabilities":"0","net_assets":"1,261,200","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_22.jpg","party":{"id":"Lok Janasakthi Party","en_label":"Lok Janasakthi Party","ta_label":"\u0bb2\u0bcb\u0b95\u0bcd \u0b9c\u0ba9\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fee7ec-5d3e-4ffd-838f-b85c774261fc","name":"R.\u0baa\u0bbf\u0bb0\u0bbf\u0baf\u0bbe","education":"B.A., B.L.,","occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd","age":"40","annual_income":"0","source_of_income":"Nil","moveable_assets":"1,261,200","immoveable_assets":"0","total_assets":"1,261,200","liabilities":"0","net_assets":"1,261,200","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_22.jpg","party":{"id":"Lok Janasakthi Party","en_label":"Lok Janasakthi Party","ta_label":"\u0bb2\u0bcb\u0b95\u0bcd \u0b9c\u0ba9\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","party_image":null},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0bb2\u0bcb\u0b95\u0bcd \u0b9c\u0ba9\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","self_source_of_income":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92feca08-0d12-405a-866f-e2accd8d743f","name":"N.Muniyandi","education":"10th Standard","occupation":"Car dealer & driver","age":"49","annual_income":"0","source_of_income":"income from driving and car dealing","moveable_assets":"567,400","immoveable_assets":"0","total_assets":"567,400","liabilities":"0","net_assets":"567,400","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_13.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92feca08-0d12-405a-866f-e2accd8d743f","name":"N.\u0bae\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf","education":"10th Standard","occupation":"\u0b95\u0bbe\u0bb0\u0bcd \u0b9f\u0bc0\u0bb2\u0bb0\u0bcd & \u0b9f\u0bbf\u0bb0\u0bc8\u0bb5\u0bb0\u0bcd","age":"49","annual_income":"0","source_of_income":"income from driving and car dealing","moveable_assets":"567,400","immoveable_assets":"0","total_assets":"567,400","liabilities":"0","net_assets":"567,400","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_13.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0bbe\u0bb0\u0bcd \u0b9f\u0bc0\u0bb2\u0bb0\u0bcd & \u0b9f\u0bbf\u0bb0\u0bc8\u0bb5\u0bb0\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b95\u0bbe\u0bb0\u0bcd \u0b9f\u0bc0\u0bb2\u0bb0\u0bcd & \u0b9f\u0bbf\u0bb0\u0bc8\u0bb5\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fee956-dcad-4b6f-871d-bb7f5a03c13f","name":"A.Raja Mohamed","education":"7th std","occupation":"Transport & water supplier","age":"47","annual_income":"0","source_of_income":"Income from transport and water supply","moveable_assets":"1,088,443","immoveable_assets":"0","total_assets":"1,088,443","liabilities":"304,000","net_assets":"784,443","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_23.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fee956-dcad-4b6f-871d-bb7f5a03c13f","name":"A.\u0bb0\u0bbe\u0b9c\u0bbe \u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1","education":"7th std","occupation":"\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd","age":"47","annual_income":"0","source_of_income":"Income from transport and water supply","moveable_assets":"1,088,443","immoveable_assets":"0","total_assets":"1,088,443","liabilities":"304,000","net_assets":"784,443","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_23.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"9304d8fe-395a-4ef4-9aa7-8b722bb61d9b","name":"N.RAJU","education":"5th Standard","occupation":"SOCIAL ACTIVIST","age":"55","annual_income":"0","source_of_income":"NIL","moveable_assets":"2,068","immoveable_assets":"0","total_assets":"2,068","liabilities":"0","net_assets":"2,068","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/N_RAJU_Thiruverumbur.jpg","party":{"id":"MGR PURATCHI MUNNETTRA KAZHAGAM JANANAYAGAM","en_label":"MGR PURATCHI MUNNETTRA KAZHAGAM JANANAYAGAM","ta_label":"\u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0b86\u0bb0\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd ","party_image":null},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9304d8fe-395a-4ef4-9aa7-8b722bb61d9b","name":"N.\u0bb0\u0bbe\u0b9c\u0bc1 ","education":"5th Standard","occupation":"\u0b9a\u0bae\u0bc2\u0b95 \u0b86\u0bb0\u0bcd\u0bb5\u0bb2\u0bb0\u0bcd","age":"55","annual_income":"0","source_of_income":"NIL","moveable_assets":"2,068","immoveable_assets":"0","total_assets":"2,068","liabilities":"0","net_assets":"2,068","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/N_RAJU_Thiruverumbur.jpg","party":{"id":"MGR PURATCHI MUNNETTRA KAZHAGAM JANANAYAGAM","en_label":"MGR PURATCHI MUNNETTRA KAZHAGAM JANANAYAGAM","ta_label":"\u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0b86\u0bb0\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd ","party_image":null},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0b86\u0bb0\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd ","self_source_of_income":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b9a\u0bae\u0bc2\u0b95 \u0b86\u0bb0\u0bcd\u0bb5\u0bb2\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fee641-e122-4c69-abc8-523d32dca5ad","name":"R.JESTIN RAJA","education":"BBA","occupation":"Manager","age":"45","annual_income":"0","source_of_income":"Manager Salary","moveable_assets":"178,000","immoveable_assets":"0","total_assets":"178,000","liabilities":"126,000","net_assets":"52,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_18.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fee641-e122-4c69-abc8-523d32dca5ad","name":"R.\u0b9c\u0bc6\u0bb8\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bb0\u0bbe\u0b9c\u0bbe ","education":"BBA","occupation":"\u0bae\u0bc7\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd","age":"45","annual_income":"0","source_of_income":"Manager Salary","moveable_assets":"178,000","immoveable_assets":"0","total_assets":"178,000","liabilities":"126,000","net_assets":"52,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/THIRUVERUMBUR_18.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"THIRUVERUMBUR","constituency_en_label":"Thiruverumbur","constituency_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd","district_id":"TIRUCHIRAPPALLI","district_en_label":"Tiruchirappalli","district_ta_label":"\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bae\u0bc7\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bae\u0bc7\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "92fce17f-7061-4a6c-a4de-e41b39e58a77",
+                "name": "A.P.ANBIL MAHESH POOYYAMOZHI",
+                "education": "MCA",
+                "occupation": "POLITICIAN",
+                "age": "43",
+                "annual_income": "1,990,270",
+                "source_of_income": "MLA SALARY",
+                "moveable_assets": "37,600,300",
+                "immoveable_assets": "52,550,000",
+                "total_assets": "90,150,300",
+                "liabilities": "533,716",
+                "net_assets": "89,616,584",
+                "no_of_criminal_cases": 9,
+                "cases_description": "Protest against Agriculture bill, unlawful assembly in 2nd year anniversary of Kalaignar, Protest against Udhayanidhi stalin's arrest in nagapattinam. . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_12.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "1,400,250",
+                        "spouse": "976,330",
+                        "overall": "362,800"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "3,972,580",
+                        "spouse": "1,059,230",
+                        "overall": "971,440"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "966,090",
+                        "spouse": "1,926,300",
+                        "overall": "2,358,940"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,990,270",
+                        "spouse": "4,082,050",
+                        "overall": "4,954,400"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fce17f-7061-4a6c-a4de-e41b39e58a77",
+                "name": "A.P.\u0b85\u0ba9\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0bc7\u0bb7\u0bcd \u0baa\u0bca\u0baf\u0bcd\u0baf\u0bbe\u0bae\u0bca\u0bb4\u0bbf",
+                "education": "MCA",
+                "occupation": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd",
+                "age": "43",
+                "annual_income": "1,990,270",
+                "source_of_income": "MLA SALARY",
+                "moveable_assets": "37,600,300",
+                "immoveable_assets": "52,550,000",
+                "total_assets": "90,150,300",
+                "liabilities": "533,716",
+                "net_assets": "89,616,584",
+                "no_of_criminal_cases": 9,
+                "cases_description": "\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd, \n\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_12.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "1,400,250",
+                        "spouse": "976,330",
+                        "overall": "362,800"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "3,972,580",
+                        "spouse": "1,059,230",
+                        "overall": "971,440"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "966,090",
+                        "spouse": "1,926,300",
+                        "overall": "2,358,940"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,990,270",
+                        "spouse": "4,082,050",
+                        "overall": "4,954,400"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b8a\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd, \n\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f68d2c-3187-433c-8911-f7b007abac38",
+                "name": "P.Kumar",
+                "education": "Bachelor of Law",
+                "occupation": "Advocate, Agriculture, Social service",
+                "age": "49",
+                "annual_income": "1,955,880",
+                "source_of_income": "Pension from as Ex.MP, Agriculture, and Advocate",
+                "moveable_assets": "18,518,307",
+                "immoveable_assets": "44,700,000",
+                "total_assets": "63,218,307",
+                "liabilities": "0",
+                "net_assets": "63,218,307",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PKUMAR_Thiruverumbur.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "799,050",
+                        "spouse": "800,000",
+                        "overall": "1,300,000"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "1,420,800",
+                        "spouse": "1,039,600",
+                        "overall": "3,540,000"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "2,063,690",
+                        "spouse": "1,904,360",
+                        "overall": "3,974,530"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,954,020",
+                        "spouse": "1,144,310",
+                        "overall": "3,104,530"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,955,880",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f68d2c-3187-433c-8911-f7b007abac38",
+                "name": "P.\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+                "education": "Bachelor of Law",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd, \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bae\u0bc2\u0b95\u0b9a\u0bc7\u0bb5\u0bc8",
+                "age": "49",
+                "annual_income": "1,955,880",
+                "source_of_income": "Pension from as Ex.MP, Agriculture, and Advocate",
+                "moveable_assets": "18,518,307",
+                "immoveable_assets": "44,700,000",
+                "total_assets": "63,218,307",
+                "liabilities": "0",
+                "net_assets": "63,218,307",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PKUMAR_Thiruverumbur.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "799,050",
+                        "spouse": "800,000",
+                        "overall": "1,300,000"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "1,420,800",
+                        "spouse": "1,039,600",
+                        "overall": "3,540,000"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "2,063,690",
+                        "spouse": "1,904,360",
+                        "overall": "3,974,530"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,954,020",
+                        "spouse": "1,144,310",
+                        "overall": "3,104,530"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,955,880",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0baa\u0bbe\u0bb0\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd, \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd, \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bae\u0bc2\u0b95\u0b9a\u0bc7\u0bb5\u0bc8",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fed13f-bf50-4202-a91c-ef5bb1cf7754",
+                "name": "S.Senthil Kumar",
+                "education": "Not given",
+                "occupation": "Agriculture",
+                "age": "51",
+                "annual_income": "448,960",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "3,297,439",
+                "immoveable_assets": "4,150,000",
+                "total_assets": "7,447,439",
+                "liabilities": "0",
+                "net_assets": "7,447,439",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_15.jpg",
+                "party": {
+                    "id": "Desiya Murpokku Dravida Kazhagam",
+                    "short_name": "DMDK",
+                    "ta_label": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Desiya Murpokku Dravida Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/NAGARA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "96,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "270,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "295,800",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "282,800",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "448,960",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fed13f-bf50-4202-a91c-ef5bb1cf7754",
+                "name": "S.\u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+                "education": "Not given",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "51",
+                "annual_income": "448,960",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "3,297,439",
+                "immoveable_assets": "4,150,000",
+                "total_assets": "7,447,439",
+                "liabilities": "0",
+                "net_assets": "7,447,439",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_15.jpg",
+                "party": {
+                    "id": "Desiya Murpokku Dravida Kazhagam",
+                    "short_name": "DMDK",
+                    "ta_label": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Desiya Murpokku Dravida Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/NAGARA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "96,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "270,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "295,800",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "282,800",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "448,960",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f947d7-3a05-4876-bca0-289bfcd9da51",
+                "name": "R.MALATHI",
+                "education": "9th Standard",
+                "occupation": "NIL",
+                "age": "34",
+                "annual_income": "0",
+                "source_of_income": "NIL",
+                "moveable_assets": "394,000",
+                "immoveable_assets": "0",
+                "total_assets": "394,000",
+                "liabilities": "0",
+                "net_assets": "394,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_5.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f947d7-3a05-4876-bca0-289bfcd9da51",
+                "name": "R.\u0bae\u0bbe\u0bb2\u0ba4\u0bbf",
+                "education": "9th Standard",
+                "occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "age": "34",
+                "annual_income": "0",
+                "source_of_income": "NIL",
+                "moveable_assets": "394,000",
+                "immoveable_assets": "0",
+                "total_assets": "394,000",
+                "liabilities": "0",
+                "net_assets": "394,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_5.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fcd965-0e2a-4dd6-9236-a7e6e5fb8d33",
+                "name": "K.M.KARTHIK",
+                "education": "B.E., M.Tech.",
+                "occupation": "SOCIAL WORKER, PART TIME TEACHER",
+                "age": "38",
+                "annual_income": "56,000",
+                "source_of_income": "SOCIAL WORKER, PART TIME TEACHER",
+                "moveable_assets": "618,569",
+                "immoveable_assets": "0",
+                "total_assets": "618,569",
+                "liabilities": "386,054",
+                "net_assets": "232,515",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_11.jpg",
+                "party": {
+                    "id": "TAMIL NADU YOUTH PARTY",
+                    "en_label": "TAMIL NADU YOUTH PARTY",
+                    "ta_label": "TAMIL NADU YOUTH PARTY",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RING.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "96,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "96,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "56,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fcd965-0e2a-4dd6-9236-a7e6e5fb8d33",
+                "name": "K.M.\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd",
+                "education": "B.E., M.Tech.",
+                "occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd, \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0ba8\u0bc7\u0bb0 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd ",
+                "age": "38",
+                "annual_income": "56,000",
+                "source_of_income": "SOCIAL WORKER, PART TIME TEACHER",
+                "moveable_assets": "618,569",
+                "immoveable_assets": "0",
+                "total_assets": "618,569",
+                "liabilities": "386,054",
+                "net_assets": "232,515",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_11.jpg",
+                "party": {
+                    "id": "TAMIL NADU YOUTH PARTY",
+                    "en_label": "TAMIL NADU YOUTH PARTY",
+                    "ta_label": "TAMIL NADU YOUTH PARTY",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RING.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "96,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "96,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "56,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "self_source_of_income": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd, \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0ba8\u0bc7\u0bb0 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd, \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0ba8\u0bc7\u0bb0 \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f686a3-8228-4738-bf16-988d112a2d4d",
+                "name": "S.Sakthivel",
+                "education": "Bachelor of Engineering",
+                "occupation": "Self retired employee of PSU",
+                "age": "65",
+                "annual_income": "230,650",
+                "source_of_income": "Self pension, House rent",
+                "moveable_assets": "2,420,000",
+                "immoveable_assets": "14,100,000",
+                "total_assets": "16,520,000",
+                "liabilities": "0",
+                "net_assets": "16,520,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_1.jpg",
+                "party": {
+                    "id": "NEW GENERATION PEOPLE'S PARTY",
+                    "en_label": "NEW GENERATION PEOPLE'S PARTY",
+                    "ta_label": "\u0ba8\u0bbf\u0baf\u0bc2 \u0b9c\u0bc6\u0ba9\u0bc6\u0bb0\u0bc7\u0bb7\u0ba9\u0bcd \u0baa\u0bc0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "2,352,653",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "240,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "250,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "230,650",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f686a3-8228-4738-bf16-988d112a2d4d",
+                "name": "S.\u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd",
+                "education": "Bachelor of Engineering",
+                "occupation": "\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0baa\u0bca\u0ba4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd",
+                "age": "65",
+                "annual_income": "230,650",
+                "source_of_income": "Self pension, House rent",
+                "moveable_assets": "2,420,000",
+                "immoveable_assets": "14,100,000",
+                "total_assets": "16,520,000",
+                "liabilities": "0",
+                "net_assets": "16,520,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_1.jpg",
+                "party": {
+                    "id": "NEW GENERATION PEOPLE'S PARTY",
+                    "en_label": "NEW GENERATION PEOPLE'S PARTY",
+                    "ta_label": "\u0ba8\u0bbf\u0baf\u0bc2 \u0b9c\u0bc6\u0ba9\u0bc6\u0bb0\u0bc7\u0bb7\u0ba9\u0bcd \u0baa\u0bc0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "2,352,653",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "240,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "250,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "230,650",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0ba8\u0bbf\u0baf\u0bc2 \u0b9c\u0bc6\u0ba9\u0bc6\u0bb0\u0bc7\u0bb7\u0ba9\u0bcd \u0baa\u0bc0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd\u0bb8\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf",
+                "self_source_of_income": "\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0bbe\u0b9f\u0b95\u0bc8",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0baa\u0bca\u0ba4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fcd39a-7ae3-4663-ad8b-585fce8395f7",
+                "name": "V.CHOLASOORAN",
+                "education": "B.Sc., M.C.A.",
+                "occupation": "LAKSHMI TRADERS (Rice and Grocery Wholesale) OWNER",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "LAKSHMI TRADERS OWNER",
+                "moveable_assets": "21,956",
+                "immoveable_assets": "0",
+                "total_assets": "21,956",
+                "liabilities": "0",
+                "net_assets": "21,956",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_7.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fcd39a-7ae3-4663-ad8b-585fce8395f7",
+                "name": "V.\u0b9a\u0bcb\u0bb4\u0b9a\u0bc2\u0bb0\u0ba9\u0bcd",
+                "education": "B.Sc., M.C.A.",
+                "occupation": "\u0bb2\u0b9f\u0bcd\u0b9a\u0bc1\u0bae\u0bbf \u0b9f\u0bcd\u0bb0\u0bc7\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd -\u0b85\u0bb0\u0bbf\u0b9a\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bb2\u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bc8 -\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bb0\u0bcd ",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "LAKSHMI TRADERS OWNER",
+                "moveable_assets": "21,956",
+                "immoveable_assets": "0",
+                "total_assets": "21,956",
+                "liabilities": "0",
+                "net_assets": "21,956",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_7.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "self_source_of_income": "\u0bb2\u0b9f\u0bcd\u0b9a\u0bc1\u0bae\u0bbf \u0b9f\u0bcd\u0bb0\u0bc7\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bb0\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb2\u0b9f\u0bcd\u0b9a\u0bc1\u0bae\u0bbf \u0b9f\u0bcd\u0bb0\u0bc7\u0b9f\u0bb0\u0bcd\u0bb8\u0bcd -\u0b85\u0bb0\u0bbf\u0b9a\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bb2\u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bc8 -\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fecb9a-1c27-47bb-8ce1-18ece3c33026",
+                "name": "K.Palanisamy",
+                "education": "5th Standard",
+                "occupation": "Business",
+                "age": "32",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "473,000",
+                "immoveable_assets": "0",
+                "total_assets": "473,000",
+                "liabilities": "0",
+                "net_assets": "473,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_14.jpg",
+                "party": {
+                    "id": "Veerathiyagi Viswanathathas Thozhilargal Katchi",
+                    "en_label": "Veerathiyagi Viswanathathas Thozhilargal Katchi",
+                    "ta_label": "\u0bb5\u0bc0\u0bb0\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PASTEL_AND_MORTAR.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fecb9a-1c27-47bb-8ce1-18ece3c33026",
+                "name": "K.\u0baa\u0bb4\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bbe\u0bae\u0bbf",
+                "education": "5th Standard",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "age": "32",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "473,000",
+                "immoveable_assets": "0",
+                "total_assets": "473,000",
+                "liabilities": "0",
+                "net_assets": "473,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_14.jpg",
+                "party": {
+                    "id": "Veerathiyagi Viswanathathas Thozhilargal Katchi",
+                    "en_label": "Veerathiyagi Viswanathathas Thozhilargal Katchi",
+                    "ta_label": "\u0bb5\u0bc0\u0bb0\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PASTEL_AND_MORTAR.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0bb5\u0bc0\u0bb0\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f94089-0f17-4814-a79d-8f59d97a7680",
+                "name": "M.MURUGANANDAM",
+                "education": "B.E., M.B.A., M.S., MFT., PGDMM., DEM.",
+                "occupation": " Director, Excel Group of Companies",
+                "age": "45",
+                "annual_income": "9,677,000",
+                "source_of_income": "Business Income from Excel Group of Companies",
+                "moveable_assets": "71,516,183",
+                "immoveable_assets": "82,400,000",
+                "total_assets": "153,916,183",
+                "liabilities": "0",
+                "net_assets": "153,916,183",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_4.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "2,915,240",
+                        "spouse": "728,610",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "2,903,830",
+                        "spouse": "728,610",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "2,925,410",
+                        "spouse": "728,610",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "3,012,860",
+                        "spouse": "734,500",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "9,677,000",
+                        "spouse": "2,566,000",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f94089-0f17-4814-a79d-8f59d97a7680",
+                "name": "M.\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0bbe\u0ba9\u0ba8\u0bcd\u0ba4\u0bae\u0bcd",
+                "education": "B.E., M.B.A., M.S., MFT., PGDMM., DEM.",
+                "occupation": "\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba9\u0bb0\u0bcd, \u0b8e\u0b95\u0bcd\u0bb8\u0bc6\u0bb2\u0bcd \u0b95\u0bc1\u0bb0\u0bc2\u0baa\u0bcd \u0b86\u0baa\u0bcd \u0b95\u0bae\u0bcd\u0baa\u0bc6\u0ba9\u0bbf\u0bb8\u0bcd",
+                "age": "45",
+                "annual_income": "9,677,000",
+                "source_of_income": "Business Income from Excel Group of Companies",
+                "moveable_assets": "71,516,183",
+                "immoveable_assets": "82,400,000",
+                "total_assets": "153,916,183",
+                "liabilities": "0",
+                "net_assets": "153,916,183",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_4.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "2,915,240",
+                        "spouse": "728,610",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "2,903,830",
+                        "spouse": "728,610",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "2,925,410",
+                        "spouse": "728,610",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "3,012,860",
+                        "spouse": "734,500",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "9,677,000",
+                        "spouse": "2,566,000",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba9\u0bb0\u0bcd \u0b8a\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba9\u0bb0\u0bcd, \u0b8e\u0b95\u0bcd\u0bb8\u0bc6\u0bb2\u0bcd \u0b95\u0bc1\u0bb0\u0bc2\u0baa\u0bcd \u0b86\u0baa\u0bcd \u0b95\u0bae\u0bcd\u0baa\u0bc6\u0ba9\u0bbf\u0bb8\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feec6e-08f1-4225-add3-8351aa064337",
+                "name": "S.Charles",
+                "education": "PUC",
+                "occupation": "Retried from Land Registration Department",
+                "age": "65",
+                "annual_income": "0",
+                "source_of_income": "Pension",
+                "moveable_assets": "2,255,000",
+                "immoveable_assets": "5,200,000",
+                "total_assets": "7,455,000",
+                "liabilities": "0",
+                "net_assets": "7,455,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_24.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GIFT_PACKS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feec6e-08f1-4225-add3-8351aa064337",
+                "name": "S.\u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd",
+                "education": "PUC",
+                "occupation": " \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb2 \u0b85\u0bb3\u0bb5\u0bc8 \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc1",
+                "age": "65",
+                "annual_income": "0",
+                "source_of_income": "Pension",
+                "moveable_assets": "2,255,000",
+                "immoveable_assets": "5,200,000",
+                "total_assets": "7,455,000",
+                "liabilities": "0",
+                "net_assets": "7,455,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_24.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GIFT_PACKS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": " \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb2 \u0b85\u0bb3\u0bb5\u0bc8 \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc1",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fee7ec-5d3e-4ffd-838f-b85c774261fc",
+                "name": "R.Priya",
+                "education": "B.A., B.L.,",
+                "occupation": "Advocate",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "Nil",
+                "moveable_assets": "1,261,200",
+                "immoveable_assets": "0",
+                "total_assets": "1,261,200",
+                "liabilities": "0",
+                "net_assets": "1,261,200",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_22.jpg",
+                "party": {
+                    "id": "Lok Janasakthi Party",
+                    "en_label": "Lok Janasakthi Party",
+                    "ta_label": "\u0bb2\u0bcb\u0b95\u0bcd \u0b9c\u0ba9\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WINDOWS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fee7ec-5d3e-4ffd-838f-b85c774261fc",
+                "name": "R.\u0baa\u0bbf\u0bb0\u0bbf\u0baf\u0bbe",
+                "education": "B.A., B.L.,",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "Nil",
+                "moveable_assets": "1,261,200",
+                "immoveable_assets": "0",
+                "total_assets": "1,261,200",
+                "liabilities": "0",
+                "net_assets": "1,261,200",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_22.jpg",
+                "party": {
+                    "id": "Lok Janasakthi Party",
+                    "en_label": "Lok Janasakthi Party",
+                    "ta_label": "\u0bb2\u0bcb\u0b95\u0bcd \u0b9c\u0ba9\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WINDOWS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0bb2\u0bcb\u0b95\u0bcd \u0b9c\u0ba9\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feca08-0d12-405a-866f-e2accd8d743f",
+                "name": "N.Muniyandi",
+                "education": "10th Standard",
+                "occupation": "Car dealer & driver",
+                "age": "49",
+                "annual_income": "0",
+                "source_of_income": "income from driving and car dealing",
+                "moveable_assets": "567,400",
+                "immoveable_assets": "0",
+                "total_assets": "567,400",
+                "liabilities": "0",
+                "net_assets": "567,400",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_13.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/MATCHBOX.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feca08-0d12-405a-866f-e2accd8d743f",
+                "name": "N.\u0bae\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf",
+                "education": "10th Standard",
+                "occupation": "\u0b95\u0bbe\u0bb0\u0bcd \u0b9f\u0bc0\u0bb2\u0bb0\u0bcd & \u0b9f\u0bbf\u0bb0\u0bc8\u0bb5\u0bb0\u0bcd",
+                "age": "49",
+                "annual_income": "0",
+                "source_of_income": "income from driving and car dealing",
+                "moveable_assets": "567,400",
+                "immoveable_assets": "0",
+                "total_assets": "567,400",
+                "liabilities": "0",
+                "net_assets": "567,400",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_13.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/MATCHBOX.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0bbe\u0bb0\u0bcd \u0b9f\u0bc0\u0bb2\u0bb0\u0bcd & \u0b9f\u0bbf\u0bb0\u0bc8\u0bb5\u0bb0\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bbe\u0bb0\u0bcd \u0b9f\u0bc0\u0bb2\u0bb0\u0bcd & \u0b9f\u0bbf\u0bb0\u0bc8\u0bb5\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fee956-dcad-4b6f-871d-bb7f5a03c13f",
+                "name": "A.Raja Mohamed",
+                "education": "7th std",
+                "occupation": "Transport & water supplier",
+                "age": "47",
+                "annual_income": "0",
+                "source_of_income": "Income from transport and water supply",
+                "moveable_assets": "1,088,443",
+                "immoveable_assets": "0",
+                "total_assets": "1,088,443",
+                "liabilities": "304,000",
+                "net_assets": "784,443",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_23.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BINOCULARS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fee956-dcad-4b6f-871d-bb7f5a03c13f",
+                "name": "A.\u0bb0\u0bbe\u0b9c\u0bbe \u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1",
+                "education": "7th std",
+                "occupation": "\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd",
+                "age": "47",
+                "annual_income": "0",
+                "source_of_income": "Income from transport and water supply",
+                "moveable_assets": "1,088,443",
+                "immoveable_assets": "0",
+                "total_assets": "1,088,443",
+                "liabilities": "304,000",
+                "net_assets": "784,443",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_23.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BINOCULARS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304d8fe-395a-4ef4-9aa7-8b722bb61d9b",
+                "name": "N.RAJU",
+                "education": "5th Standard",
+                "occupation": "SOCIAL ACTIVIST",
+                "age": "55",
+                "annual_income": "0",
+                "source_of_income": "NIL",
+                "moveable_assets": "2,068",
+                "immoveable_assets": "0",
+                "total_assets": "2,068",
+                "liabilities": "0",
+                "net_assets": "2,068",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/N_RAJU_Thiruverumbur.jpg",
+                "party": {
+                    "id": "MGR PURATCHI MUNNETTRA KAZHAGAM JANANAYAGAM",
+                    "en_label": "MGR PURATCHI MUNNETTRA KAZHAGAM JANANAYAGAM",
+                    "ta_label": "\u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0b86\u0bb0\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304d8fe-395a-4ef4-9aa7-8b722bb61d9b",
+                "name": "N.\u0bb0\u0bbe\u0b9c\u0bc1 ",
+                "education": "5th Standard",
+                "occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b86\u0bb0\u0bcd\u0bb5\u0bb2\u0bb0\u0bcd",
+                "age": "55",
+                "annual_income": "0",
+                "source_of_income": "NIL",
+                "moveable_assets": "2,068",
+                "immoveable_assets": "0",
+                "total_assets": "2,068",
+                "liabilities": "0",
+                "net_assets": "2,068",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/N_RAJU_Thiruverumbur.jpg",
+                "party": {
+                    "id": "MGR PURATCHI MUNNETTRA KAZHAGAM JANANAYAGAM",
+                    "en_label": "MGR PURATCHI MUNNETTRA KAZHAGAM JANANAYAGAM",
+                    "ta_label": "\u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0b86\u0bb0\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0b86\u0bb0\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd ",
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b86\u0bb0\u0bcd\u0bb5\u0bb2\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fee641-e122-4c69-abc8-523d32dca5ad",
+                "name": "R.JESTIN RAJA",
+                "education": "BBA",
+                "occupation": "Manager",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "Manager Salary",
+                "moveable_assets": "178,000",
+                "immoveable_assets": "0",
+                "total_assets": "178,000",
+                "liabilities": "126,000",
+                "net_assets": "52,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_18.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BREAD.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fee641-e122-4c69-abc8-523d32dca5ad",
+                "name": "R.\u0b9c\u0bc6\u0bb8\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0bb0\u0bbe\u0b9c\u0bbe ",
+                "education": "BBA",
+                "occupation": "\u0bae\u0bc7\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "Manager Salary",
+                "moveable_assets": "178,000",
+                "immoveable_assets": "0",
+                "total_assets": "178,000",
+                "liabilities": "126,000",
+                "net_assets": "52,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUVERUMBUR_18.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BREAD.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUVERUMBUR",
+                    "constituency_en_label": "Thiruverumbur",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+                    "district_id": "TIRUCHIRAPPALLI",
+                    "district_en_label": "Tiruchirappalli",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bbe\u0baa\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bae\u0bc7\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bae\u0bc7\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

@@ -1,1 +1,2194 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"92f8744d-f747-473a-b0de-db4a0de5331f","name":"K.ANANDKUMAR","education":"SCHOOLING","occupation":"SELF EMPLOYED","age":"53","annual_income":"0","source_of_income":"SELF EMPLOYED","moveable_assets":"725,000","immoveable_assets":"2,800,000","total_assets":"3,525,000","liabilities":"483,500","net_assets":"3,041,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_13.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f8744d-f747-473a-b0de-db4a0de5331f","name":"K.\u0b86\u0ba9\u0ba8\u0bcd\u0ba4\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ","education":"SCHOOLING","occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","age":"53","annual_income":"0","source_of_income":"SELF EMPLOYED","moveable_assets":"725,000","immoveable_assets":"2,800,000","total_assets":"3,525,000","liabilities":"483,500","net_assets":"3,041,500","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_13.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fb0fad-6987-4971-a550-4a3efcc75a74","name":"R.MURUGAN","education":"12 th Pass","occupation":"WAGES","age":"44","annual_income":"0","source_of_income":"WAGES","moveable_assets":"57,000","immoveable_assets":"50,000","total_assets":"107,000","liabilities":"0","net_assets":"107,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_19.jpg","party":{"id":"Anaithu Makkal Puratchi Katchi","short_name":"AMPK","ta_label":"\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Anaithu Makkal Puratchi Katchi","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fb0fad-6987-4971-a550-4a3efcc75a74","name":"R.\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd ","education":"12 th Pass","occupation":"\u0b95\u0bc2\u0bb2\u0bbf","age":"44","annual_income":"0","source_of_income":"WAGES","moveable_assets":"57,000","immoveable_assets":"50,000","total_assets":"107,000","liabilities":"0","net_assets":"107,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_19.jpg","party":{"id":"Anaithu Makkal Puratchi Katchi","short_name":"AMPK","ta_label":"\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Anaithu Makkal Puratchi Katchi","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0bc2\u0bb2\u0bbf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b95\u0bc2\u0bb2\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92f67883-b960-48dd-8a02-bfa2d023cb7c","name":"P.PALANIYAPPAN","education":"M.SC.,","occupation":"FARMER","age":"59","annual_income":"717,650","source_of_income":"FARMER","moveable_assets":"9,569,405","immoveable_assets":"46,000,000","total_assets":"55,569,405","liabilities":"33,043,213","net_assets":"22,526,192","no_of_criminal_cases":2,"cases_description":"tnoppd act - FIR filed in palacode police station. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_2.jpg","party":{"id":"AMMA MAKKAL MUNNETT RAKAZAGAM","en_label":"AMMA MAKKAL MUNNETT RAKAZAGAM","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd","party_image":null},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"300,720","spouse":"4,213,300","overall":"6,479,850"},{"y_from":2016,"y_to":2017,"candidate":"216,830","spouse":"2,226,640","overall":"7,186,270"},{"y_from":2017,"y_to":2018,"candidate":"488,890","spouse":"3,015,330","overall":"-4,231,260"},{"y_from":2018,"y_to":2019,"candidate":"6,259","spouse":"723","overall":"1,875,170"},{"y_from":2019,"y_to":2020,"candidate":"717,650","spouse":"485,080","overall":"2,428,018"}]},"ta":{"candidate_id":"92f67883-b960-48dd-8a02-bfa2d023cb7c","name":"P.\u0baa\u0bc6. \u0baa\u0bb4\u0ba9\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0ba9\u0bcd ","education":"M.SC.,","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","age":"59","annual_income":"717,650","source_of_income":"FARMER","moveable_assets":"9,569,405","immoveable_assets":"46,000,000","total_assets":"55,569,405","liabilities":"33,043,213","net_assets":"22,526,192","no_of_criminal_cases":2,"cases_description":"TNOPPD act - \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0baa\u0bbe\u0bb2\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_2.jpg","party":{"id":"AMMA MAKKAL MUNNETT RAKAZAGAM","en_label":"AMMA MAKKAL MUNNETT RAKAZAGAM","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd","party_image":null},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"300,720","spouse":"4,213,300","overall":"6,479,850"},{"y_from":2016,"y_to":2017,"candidate":"216,830","spouse":"2,226,640","overall":"7,186,270"},{"y_from":2017,"y_to":2018,"candidate":"488,890","spouse":"3,015,330","overall":"-4,231,260"},{"y_from":2018,"y_to":2019,"candidate":"6,259","spouse":"723","overall":"1,875,170"},{"y_from":2019,"y_to":2020,"candidate":"717,650","spouse":"485,080","overall":"2,428,018"}],"other_party_name":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_pending_description":"TNOPPD act - \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0baa\u0bbe\u0bb2\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fb1611-452d-40aa-8e29-88c33ae6c22b","name":"N.SRINIVASAN","education":"B.Tech","occupation":"PAINT PRODUCTION COMPANY","age":"33","annual_income":"0","source_of_income":"PAINT PRODUCTION COMPANY","moveable_assets":"89,000","immoveable_assets":"0","total_assets":"89,000","liabilities":"0","net_assets":"89,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_21.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"269,300","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"280,300","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"305,000","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fb1611-452d-40aa-8e29-88c33ae6c22b","name":"N.\u0b9a\u0bc0\u0ba9\u0bbf\u0bb5\u0bbe\u0b9a\u0ba9\u0bcd ","education":"B.Tech","occupation":"\u0baa\u0bc6\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd ","age":"33","annual_income":"0","source_of_income":"PAINT PRODUCTION COMPANY","moveable_assets":"89,000","immoveable_assets":"0","total_assets":"89,000","liabilities":"0","net_assets":"89,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_21.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"269,300","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"280,300","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"305,000","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0baa\u0bc6\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0baa\u0bc6\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fc7de2-93b2-42e6-a6b5-5ab9efa3ba83","name":"S.MURUGAN","education":"B.SC, B.ED","occupation":"AGRICULTURE","age":"48","annual_income":"0","source_of_income":"AGRICULTURE","moveable_assets":"789,900","immoveable_assets":"2,000,000","total_assets":"2,789,900","liabilities":"415,000","net_assets":"2,374,900","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_25.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fc7de2-93b2-42e6-a6b5-5ab9efa3ba83","name":"S.\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd ","education":"B.SC, B.ED","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ","age":"48","annual_income":"0","source_of_income":"AGRICULTURE","moveable_assets":"789,900","immoveable_assets":"2,000,000","total_assets":"2,789,900","liabilities":"415,000","net_assets":"2,374,900","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_25.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ","cases_convicted_description":""}},{"en":{"candidate_id":"92fe986e-7a76-4323-a2b9-cfb776c3041d","name":"R.GOVINDASAMY","education":"5th pass","occupation":"AGRICULTURE","age":"50","annual_income":"0","source_of_income":"AGRICULTURE","moveable_assets":"647,000","immoveable_assets":"3,000,000","total_assets":"3,647,000","liabilities":"479,800","net_assets":"3,167,200","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_28.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fe986e-7a76-4323-a2b9-cfb776c3041d","name":"R.\u0b95\u0bcb\u0bb5\u0bbf\u0ba8\u0bcd\u0ba4\u0b9a\u0bbe\u0bae\u0bbf ","education":"5th pass","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ","age":"50","annual_income":"0","source_of_income":"AGRICULTURE","moveable_assets":"647,000","immoveable_assets":"3,000,000","total_assets":"3,647,000","liabilities":"479,800","net_assets":"3,167,200","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_28.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ","cases_convicted_description":""}},{"en":{"candidate_id":"92fedc10-2ece-4edd-ad94-05f0143fef6d","name":"T.VEERAMANI","education":"10th pass","occupation":"PRIVATE DRIVER","age":"45","annual_income":"0","source_of_income":"PRIVATE DRIVER","moveable_assets":"450,000","immoveable_assets":"5,000,000","total_assets":"5,450,000","liabilities":"0","net_assets":"5,450,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_32.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fedc10-2ece-4edd-ad94-05f0143fef6d","name":"T.\u0bb5\u0bc0\u0bb0\u0bae\u0ba3\u0bbf ","education":"10th pass","occupation":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd ","age":"45","annual_income":"0","source_of_income":"PRIVATE DRIVER","moveable_assets":"450,000","immoveable_assets":"5,000,000","total_assets":"5,450,000","liabilities":"0","net_assets":"5,450,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8  . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_32.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8  ","self_education_description":"","self_profession_occupation":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fee057-bc11-4ab3-a387-5809d7a86d9e","name":"K.GOPI","education":"8 th pass","occupation":"SELF EMPLOYMENT","age":"45","annual_income":"0","source_of_income":"SELF EMPLOYMENT","moveable_assets":"6,671","immoveable_assets":"0","total_assets":"6,671","liabilities":"0","net_assets":"6,671","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_34.jpg","party":{"id":"Bahujan Samaj Party","short_name":"BSP","ta_label":"\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Bahujan Samaj Party","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fee057-bc11-4ab3-a387-5809d7a86d9e","name":"K.\u0b95\u0bcb\u0baa\u0bbf","education":"8 th pass","occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","age":"45","annual_income":"0","source_of_income":"SELF EMPLOYMENT","moveable_assets":"6,671","immoveable_assets":"0","total_assets":"6,671","liabilities":"0","net_assets":"6,671","no_of_criminal_cases":0,"cases_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8  . \u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8  ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_34.jpg","party":{"id":"Bahujan Samaj Party","short_name":"BSP","ta_label":"\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Bahujan Samaj Party","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_pending_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8  ","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_convicted_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8  "}},{"en":{"candidate_id":"92fee455-df3e-4b03-8a01-1dd950fa2ff5","name":"R.PAZHANIYAPPAN","education":"10th STANDARD FAIL","occupation":"PRIVATE JOB","age":"43","annual_income":"0","source_of_income":"PRIVATE JOB","moveable_assets":"686,363","immoveable_assets":"0","total_assets":"686,363","liabilities":"400,000","net_assets":"286,363","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_37.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fee455-df3e-4b03-8a01-1dd950fa2ff5","name":"R.\u0baa\u0bb4\u0ba9\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0ba9\u0bcd ","education":"10th STANDARD FAIL","occupation":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0ba3\u0bbf ","age":"43","annual_income":"0","source_of_income":"PRIVATE JOB","moveable_assets":"686,363","immoveable_assets":"0","total_assets":"686,363","liabilities":"400,000","net_assets":"286,363","no_of_criminal_cases":0,"cases_description":"\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/PAPPIREDDIPPATTI_37.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0ba3\u0bbf ","cases_pending_description":"\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ","self_education_description":"","self_profession_occupation":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0ba3\u0bbf ","cases_convicted_description":"\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "}},{"en":{"candidate_id":"9304b075-aeb7-47bd-ae31-f2aec0c296c4","name":"S.ELANGO","education":"B.Sc., B.S.M.S","occupation":"DOCTOR","age":"61","annual_income":"631,280","source_of_income":"PENSION","moveable_assets":"4,759,572","immoveable_assets":"3,550,000","total_assets":"8,309,572","liabilities":"0","net_assets":"8,309,572","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/S_ELANGO_Pappireddipatti.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"568,360","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"600,280","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"193,308","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"892,128","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"631,280","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9304b075-aeb7-47bd-ae31-f2aec0c296c4","name":"S.\u0b9a. \u0b87\u0bb3\u0b99\u0bcd\u0b95\u0bcb ","education":"B.Sc., B.S.M.S","occupation":"\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd  ","age":"61","annual_income":"631,280","source_of_income":"PENSION","moveable_assets":"4,759,572","immoveable_assets":"3,550,000","total_assets":"8,309,572","liabilities":"0","net_assets":"8,309,572","no_of_criminal_cases":0,"cases_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/S_ELANGO_Pappireddipatti.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"568,360","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"600,280","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"193,308","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"892,128","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"631,280","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd","cases_pending_description":"\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd  ","cases_convicted_description":""}},{"en":{"candidate_id":"9304bac7-e7d4-4fe8-9fbd-5954c33ef44b","name":"P.SELVAM","education":"M.A.,B.Ed.","occupation":"OWN BUSINESS","age":"36","annual_income":"0","source_of_income":"OWN BUSINESS","moveable_assets":"349,000","immoveable_assets":"0","total_assets":"349,000","liabilities":"0","net_assets":"349,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/S_ELANGO_Pappireddipatti.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9304bac7-e7d4-4fe8-9fbd-5954c33ef44b","name":"P.\u0baa\u0bca. \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd  ","education":"M.A.,B.Ed.","occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","age":"36","annual_income":"0","source_of_income":"OWN BUSINESS","moveable_assets":"349,000","immoveable_assets":"0","total_assets":"349,000","liabilities":"0","net_assets":"349,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/S_ELANGO_Pappireddipatti.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"9304bd96-f084-47c9-a628-af2ce9c49ef7","name":"R.RAMESH","education":"B.Sc.COMPUTER SCIENCE","occupation":"BANK & FINANCE SERVICE","age":"38","annual_income":"415,670","source_of_income":"BANK & FINANCE SERVICE","moveable_assets":"2,160,005","immoveable_assets":"0","total_assets":"2,160,005","liabilities":"1,099,926","net_assets":"1,060,079","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/R_RAMESH_Pappireddipatti.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"297,550","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"415,670","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9304bd96-f084-47c9-a628-af2ce9c49ef7","name":"R. \u0bb0\u0bbe. \u0bb0\u0bae\u0bc7\u0bb7\u0bcd ","education":"B.Sc.COMPUTER SCIENCE","occupation":"\u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0b9a\u0bcd\u0b9a\u0bc7\u0bb5\u0bc8 ","age":"38","annual_income":"415,670","source_of_income":"BANK & FINANCE SERVICE","moveable_assets":"2,160,005","immoveable_assets":"0","total_assets":"2,160,005","liabilities":"1,099,926","net_assets":"1,060,079","no_of_criminal_cases":0,"cases_description":"\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/R_RAMESH_Pappireddipatti.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"297,550","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"415,670","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0b9a\u0bcd\u0b9a\u0bc7\u0bb5\u0bc8 ","cases_pending_description":"\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0b9a\u0bcd\u0b9a\u0bc7\u0bb5\u0bc8 ","cases_convicted_description":"\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "}},{"en":{"candidate_id":"9304c0e3-73cf-45f8-989b-847ef572b302","name":"A.GOVINDASAMY","education":"DIPLOMA IN PHARMACY","occupation":"AGRICULTURE","age":"49","annual_income":"946,020","source_of_income":"AGRICULTURE","moveable_assets":"9,499,202","immoveable_assets":"18,980,000","total_assets":"28,479,202","liabilities":"2,284,821","net_assets":"26,194,381","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/A_GOVINDASAMY_Pappireddipatti.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"398,205","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"513,537","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"673,094","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"821,884","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"946,020","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9304c0e3-73cf-45f8-989b-847ef572b302","name":"A.\u0b86. \u0b95\u0bcb\u0bb5\u0bbf\u0ba8\u0bcd\u0ba4\u0b9a\u0bbe\u0bae\u0bbf ","education":"DIPLOMA IN PHARMACY","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","age":"49","annual_income":"946,020","source_of_income":"AGRICULTURE","moveable_assets":"9,499,202","immoveable_assets":"18,980,000","total_assets":"28,479,202","liabilities":"2,284,821","net_assets":"26,194,381","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/A_GOVINDASAMY_Pappireddipatti.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"PAPPIREDDIPPATTI","constituency_en_label":"Pappireddippatti","constituency_ta_label":"\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf","district_id":"DHARMAPURI","district_en_label":"Dharmapuri","district_ta_label":"\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"398,205","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"513,537","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"673,094","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"821,884","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"946,020","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "92fee057-bc11-4ab3-a387-5809d7a86d9e",
+                "name": "K.GOPI",
+                "education": "8 th pass",
+                "occupation": "SELF EMPLOYMENT",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "SELF EMPLOYMENT",
+                "moveable_assets": "6,671",
+                "immoveable_assets": "0",
+                "total_assets": "6,671",
+                "liabilities": "0",
+                "net_assets": "6,671",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_34.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fee057-bc11-4ab3-a387-5809d7a86d9e",
+                "name": "K.\u0b95\u0bcb\u0baa\u0bbf",
+                "education": "8 th pass",
+                "occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "SELF EMPLOYMENT",
+                "moveable_assets": "6,671",
+                "immoveable_assets": "0",
+                "total_assets": "6,671",
+                "liabilities": "0",
+                "net_assets": "6,671",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_34.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304c0e3-73cf-45f8-989b-847ef572b302",
+                "name": "A.GOVINDASAMY",
+                "education": "DIPLOMA IN PHARMACY",
+                "occupation": "AGRICULTURE",
+                "age": "49",
+                "annual_income": "946,020",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "9,499,202",
+                "immoveable_assets": "18,980,000",
+                "total_assets": "28,479,202",
+                "liabilities": "2,284,821",
+                "net_assets": "26,194,381",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/A_GOVINDASAMY_Pappireddipatti.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "398,205",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "513,537",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "673,094",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "821,884",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "946,020",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304c0e3-73cf-45f8-989b-847ef572b302",
+                "name": "A.\u0b95\u0bcb\u0bb5\u0bbf\u0ba8\u0bcd\u0ba4\u0b9a\u0bbe\u0bae\u0bbf ",
+                "education": "DIPLOMA IN PHARMACY",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "49",
+                "annual_income": "946,020",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "9,499,202",
+                "immoveable_assets": "18,980,000",
+                "total_assets": "28,479,202",
+                "liabilities": "2,284,821",
+                "net_assets": "26,194,381",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/A_GOVINDASAMY_Pappireddipatti.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "398,205",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "513,537",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "673,094",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "821,884",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "946,020",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304b8b2-10c5-4727-8344-d0d4c358f245",
+                "name": "M.PRABHU RAJASEKAR",
+                "education": "MBBS",
+                "occupation": "DOCTOR",
+                "age": "37",
+                "annual_income": "996,580",
+                "source_of_income": "DOCTOR",
+                "moveable_assets": "9,565,143",
+                "immoveable_assets": "14,210,000",
+                "total_assets": "23,775,143",
+                "liabilities": "7,126,248",
+                "net_assets": "16,648,895",
+                "no_of_criminal_cases": 2,
+                "cases_description": "DEMONSTRATION AND STIR FOR ARRESTING STALIN DURING TUTUCORIN GUN SHOT CASE. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/M_PRABHURAJASEKAR_Pappireddipatti.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "525,540",
+                        "spouse": "516,010",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "627,807",
+                        "spouse": "481,770",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "951,700",
+                        "spouse": "630,233",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "965,060",
+                        "spouse": "445,680",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "996,580",
+                        "spouse": "498,640",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304b8b2-10c5-4727-8344-d0d4c358f245",
+                "name": "M.\u0bae. \u0baa\u0bbf\u0bb0\u0baa\u0bc1 \u0bb0\u0bbe\u0b9c\u0b9a\u0bc7\u0b95\u0bb0\u0bcd ",
+                "education": "MBBS",
+                "occupation": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
+                "age": "37",
+                "annual_income": "996,580",
+                "source_of_income": "DOCTOR",
+                "moveable_assets": "9,565,143",
+                "immoveable_assets": "14,210,000",
+                "total_assets": "23,775,143",
+                "liabilities": "7,126,248",
+                "net_assets": "16,648,895",
+                "no_of_criminal_cases": 2,
+                "cases_description": "\u0ba4\u0bc2\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc2\u0b9f\u0bc1 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0b9f\u0bc8\u0baf\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/M_PRABHURAJASEKAR_Pappireddipatti.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "525,540",
+                        "spouse": "516,010",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "627,807",
+                        "spouse": "481,770",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "951,700",
+                        "spouse": "630,233",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "965,060",
+                        "spouse": "445,680",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "996,580",
+                        "spouse": "498,640",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
+                "cases_pending_description": "\u0ba4\u0bc2\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc2\u0b9f\u0bc1 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0b9f\u0bc8\u0baf\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fb1611-452d-40aa-8e29-88c33ae6c22b",
+                "name": "N.SRINIVASAN",
+                "education": "B.Tech",
+                "occupation": "PAINT PRODUCTION COMPANY",
+                "age": "33",
+                "annual_income": "0",
+                "source_of_income": "PAINT PRODUCTION COMPANY",
+                "moveable_assets": "89,000",
+                "immoveable_assets": "0",
+                "total_assets": "89,000",
+                "liabilities": "0",
+                "net_assets": "89,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SRINIVASAN_Pappireddipatti.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "269,300",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "280,300",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "305,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fb1611-452d-40aa-8e29-88c33ae6c22b",
+                "name": "N.\u0b9a\u0bc0\u0ba9\u0bbf\u0bb5\u0bbe\u0b9a\u0ba9\u0bcd ",
+                "education": "B.Tech",
+                "occupation": "\u0baa\u0bc6\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd ",
+                "age": "33",
+                "annual_income": "0",
+                "source_of_income": "PAINT PRODUCTION COMPANY",
+                "moveable_assets": "89,000",
+                "immoveable_assets": "0",
+                "total_assets": "89,000",
+                "liabilities": "0",
+                "net_assets": "89,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SRINIVASAN_Pappireddipatti.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "269,300",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "280,300",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "305,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0baa\u0bc6\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0baa\u0bc6\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f67883-b960-48dd-8a02-bfa2d023cb7c",
+                "name": "P.PALANIYAPPAN",
+                "education": "M.SC.,",
+                "occupation": "FARMER",
+                "age": "59",
+                "annual_income": "717,650",
+                "source_of_income": "FARMER",
+                "moveable_assets": "9,569,405",
+                "immoveable_assets": "46,000,000",
+                "total_assets": "55,569,405",
+                "liabilities": "33,043,213",
+                "net_assets": "22,526,192",
+                "no_of_criminal_cases": 2,
+                "cases_description": "tnoppd act - FIR filed in palacode police station. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_2.jpg",
+                "party": {
+                    "id": "AMMA MAKKAL MUNNETT RAKAZAGAM",
+                    "en_label": "AMMA MAKKAL MUNNETT RAKAZAGAM",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "300,720",
+                        "spouse": "4,213,300",
+                        "overall": "6,479,850"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "216,830",
+                        "spouse": "2,226,640",
+                        "overall": "7,186,270"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "488,890",
+                        "spouse": "3,015,330",
+                        "overall": "-4,231,260"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "6,259",
+                        "spouse": "723",
+                        "overall": "1,875,170"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "717,650",
+                        "spouse": "485,080",
+                        "overall": "2,428,018"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f67883-b960-48dd-8a02-bfa2d023cb7c",
+                "name": "P.\u0baa\u0bb4\u0ba9\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0ba9\u0bcd ",
+                "education": "M.SC.,",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "59",
+                "annual_income": "717,650",
+                "source_of_income": "FARMER",
+                "moveable_assets": "9,569,405",
+                "immoveable_assets": "46,000,000",
+                "total_assets": "55,569,405",
+                "liabilities": "33,043,213",
+                "net_assets": "22,526,192",
+                "no_of_criminal_cases": 2,
+                "cases_description": "TNOPPD act - \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0baa\u0bbe\u0bb2\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_2.jpg",
+                "party": {
+                    "id": "AMMA MAKKAL MUNNETT RAKAZAGAM",
+                    "en_label": "AMMA MAKKAL MUNNETT RAKAZAGAM",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "300,720",
+                        "spouse": "4,213,300",
+                        "overall": "6,479,850"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "216,830",
+                        "spouse": "2,226,640",
+                        "overall": "7,186,270"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "488,890",
+                        "spouse": "3,015,330",
+                        "overall": "-4,231,260"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "6,259",
+                        "spouse": "723",
+                        "overall": "1,875,170"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "717,650",
+                        "spouse": "485,080",
+                        "overall": "2,428,018"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "TNOPPD act - \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0baa\u0bbe\u0bb2\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fb0fad-6987-4971-a550-4a3efcc75a74",
+                "name": "R.MURUGAN",
+                "education": "12 th Pass",
+                "occupation": "WAGES",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "WAGES",
+                "moveable_assets": "57,000",
+                "immoveable_assets": "50,000",
+                "total_assets": "107,000",
+                "liabilities": "0",
+                "net_assets": "107,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/R_MURUGAN_Pappireddipatti.jpg",
+                "party": {
+                    "id": "Anaithu Makkal Puratchi Katchi",
+                    "short_name": "AMPK",
+                    "ta_label": "\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Anaithu Makkal Puratchi Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GLASS_TUMBLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fb0fad-6987-4971-a550-4a3efcc75a74",
+                "name": "R.\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd ",
+                "education": "12 th Pass",
+                "occupation": "\u0b95\u0bc2\u0bb2\u0bbf",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "WAGES",
+                "moveable_assets": "57,000",
+                "immoveable_assets": "50,000",
+                "total_assets": "107,000",
+                "liabilities": "0",
+                "net_assets": "107,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/R_MURUGAN_Pappireddipatti.jpg",
+                "party": {
+                    "id": "Anaithu Makkal Puratchi Katchi",
+                    "short_name": "AMPK",
+                    "ta_label": "\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Anaithu Makkal Puratchi Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GLASS_TUMBLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0bc2\u0bb2\u0bbf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304bd96-f084-47c9-a628-af2ce9c49ef7",
+                "name": "R.RAMESH",
+                "education": "B.Sc.COMPUTER SCIENCE",
+                "occupation": "BANK & FINANCE SERVICE",
+                "age": "38",
+                "annual_income": "415,670",
+                "source_of_income": "BANK & FINANCE SERVICE",
+                "moveable_assets": "2,160,005",
+                "immoveable_assets": "0",
+                "total_assets": "2,160,005",
+                "liabilities": "1,099,926",
+                "net_assets": "1,060,079",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/R_RAMESH_Pappireddipatti.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "297,550",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "415,670",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304bd96-f084-47c9-a628-af2ce9c49ef7",
+                "name": "R.\u0bb0\u0bae\u0bc7\u0bb7\u0bcd ",
+                "education": "B.Sc.COMPUTER SCIENCE",
+                "occupation": "\u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0b9a\u0bcd\u0b9a\u0bc7\u0bb5\u0bc8 ",
+                "age": "38",
+                "annual_income": "415,670",
+                "source_of_income": "BANK & FINANCE SERVICE",
+                "moveable_assets": "2,160,005",
+                "immoveable_assets": "0",
+                "total_assets": "2,160,005",
+                "liabilities": "1,099,926",
+                "net_assets": "1,060,079",
+                "no_of_criminal_cases": 0,
+                "cases_description": " . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/R_RAMESH_Pappireddipatti.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "297,550",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "415,670",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0b9a\u0bcd\u0b9a\u0bc7\u0bb5\u0bc8 ",
+                "cases_pending_description": " ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0b9a\u0bcd\u0b9a\u0bc7\u0bb5\u0bc8 ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f8744d-f747-473a-b0de-db4a0de5331f",
+                "name": "K.ANANDKUMAR",
+                "education": "SCHOOLING",
+                "occupation": "SELF EMPLOYED",
+                "age": "53",
+                "annual_income": "0",
+                "source_of_income": "SELF EMPLOYED",
+                "moveable_assets": "725,000",
+                "immoveable_assets": "2,800,000",
+                "total_assets": "3,525,000",
+                "liabilities": "483,500",
+                "net_assets": "3,041,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_13.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CAPSICUM.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f8744d-f747-473a-b0de-db4a0de5331f",
+                "name": "K.\u0b86\u0ba9\u0ba8\u0bcd\u0ba4\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ",
+                "education": "SCHOOLING",
+                "occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "age": "53",
+                "annual_income": "0",
+                "source_of_income": "SELF EMPLOYED",
+                "moveable_assets": "725,000",
+                "immoveable_assets": "2,800,000",
+                "total_assets": "3,525,000",
+                "liabilities": "483,500",
+                "net_assets": "3,041,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_13.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CAPSICUM.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304b075-aeb7-47bd-ae31-f2aec0c296c4",
+                "name": "S.ELANGO",
+                "education": "B.Sc., B.S.M.S",
+                "occupation": "DOCTOR",
+                "age": "61",
+                "annual_income": "631,280",
+                "source_of_income": "PENSION",
+                "moveable_assets": "4,759,572",
+                "immoveable_assets": "3,550,000",
+                "total_assets": "8,309,572",
+                "liabilities": "0",
+                "net_assets": "8,309,572",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/S_ELANGO_Pappireddipatti.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CAULIFLOWER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "568,360",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "600,280",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "193,308",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "892,128",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "631,280",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304b075-aeb7-47bd-ae31-f2aec0c296c4",
+                "name": "S.\u0b87\u0bb3\u0b99\u0bcd\u0b95\u0bcb ",
+                "education": "B.Sc., B.S.M.S",
+                "occupation": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd  ",
+                "age": "61",
+                "annual_income": "631,280",
+                "source_of_income": "PENSION",
+                "moveable_assets": "4,759,572",
+                "immoveable_assets": "3,550,000",
+                "total_assets": "8,309,572",
+                "liabilities": "0",
+                "net_assets": "8,309,572",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/S_ELANGO_Pappireddipatti.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CAULIFLOWER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "568,360",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "600,280",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "193,308",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "892,128",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "631,280",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd  ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe986e-7a76-4323-a2b9-cfb776c3041d",
+                "name": "R.GOVINDASAMY",
+                "education": "5th pass",
+                "occupation": "AGRICULTURE",
+                "age": "50",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "647,000",
+                "immoveable_assets": "3,000,000",
+                "total_assets": "3,647,000",
+                "liabilities": "479,800",
+                "net_assets": "3,167,200",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_28.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEAS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe986e-7a76-4323-a2b9-cfb776c3041d",
+                "name": "R.\u0b95\u0bcb\u0bb5\u0bbf\u0ba8\u0bcd\u0ba4\u0b9a\u0bbe\u0bae\u0bbf ",
+                "education": "5th pass",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "age": "50",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "647,000",
+                "immoveable_assets": "3,000,000",
+                "total_assets": "3,647,000",
+                "liabilities": "479,800",
+                "net_assets": "3,167,200",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_28.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEAS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304bac7-e7d4-4fe8-9fbd-5954c33ef44b",
+                "name": "P.SELVAM",
+                "education": "M.A.,B.Ed.",
+                "occupation": "OWN BUSINESS",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": "OWN BUSINESS",
+                "moveable_assets": "349,000",
+                "immoveable_assets": "0",
+                "total_assets": "349,000",
+                "liabilities": "0",
+                "net_assets": "349,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_42.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304bac7-e7d4-4fe8-9fbd-5954c33ef44b",
+                "name": "P.\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd  ",
+                "education": "M.A.,B.Ed.",
+                "occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": "OWN BUSINESS",
+                "moveable_assets": "349,000",
+                "immoveable_assets": "0",
+                "total_assets": "349,000",
+                "liabilities": "0",
+                "net_assets": "349,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_42.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fee455-df3e-4b03-8a01-1dd950fa2ff5",
+                "name": "R.PALANIYAPPAN",
+                "education": "10th STANDARD FAIL",
+                "occupation": "PRIVATE JOB",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "PRIVATE JOB",
+                "moveable_assets": "686,363",
+                "immoveable_assets": "0",
+                "total_assets": "686,363",
+                "liabilities": "400,000",
+                "net_assets": "286,363",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_37.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/LETTER_BOX.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fee455-df3e-4b03-8a01-1dd950fa2ff5",
+                "name": "R.\u0baa\u0bb4\u0ba9\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0ba9\u0bcd ",
+                "education": "10th STANDARD FAIL",
+                "occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0ba3\u0bbf ",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "PRIVATE JOB",
+                "moveable_assets": "686,363",
+                "immoveable_assets": "0",
+                "total_assets": "686,363",
+                "liabilities": "400,000",
+                "net_assets": "286,363",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_37.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/LETTER_BOX.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0ba3\u0bbf ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0ba3\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fee28e-3b7a-47d8-a79d-f84bebc824eb",
+                "name": "K.MANIVANNAN",
+                "education": "  B.Sc.,  B.L",
+                "occupation": "LAWYER",
+                "age": "60",
+                "annual_income": "0",
+                "source_of_income": "LAWYER",
+                "moveable_assets": "312,000",
+                "immoveable_assets": "5,500,000",
+                "total_assets": "5,812,000",
+                "liabilities": "110,000",
+                "net_assets": "5,702,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_36.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CHIMNEY.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fee28e-3b7a-47d8-a79d-f84bebc824eb",
+                "name": "K.\u0bae\u0ba3\u0bbf\u0bb5\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd",
+                "education": "  B.Sc.,  B.L",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "age": "60",
+                "annual_income": "0",
+                "source_of_income": "LAWYER",
+                "moveable_assets": "312,000",
+                "immoveable_assets": "5,500,000",
+                "total_assets": "5,812,000",
+                "liabilities": "110,000",
+                "net_assets": "5,702,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_36.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CHIMNEY.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fc7de2-93b2-42e6-a6b5-5ab9efa3ba83",
+                "name": "S.MURUGAN",
+                "education": "B.SC, B.ED",
+                "occupation": "AGRICULTURE",
+                "age": "48",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "789,900",
+                "immoveable_assets": "2,000,000",
+                "total_assets": "2,789,900",
+                "liabilities": "415,000",
+                "net_assets": "2,374,900",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_25.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BEAD_NECKBANGLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fc7de2-93b2-42e6-a6b5-5ab9efa3ba83",
+                "name": "S.\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd ",
+                "education": "B.SC, B.ED",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "age": "48",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "789,900",
+                "immoveable_assets": "2,000,000",
+                "total_assets": "2,789,900",
+                "liabilities": "415,000",
+                "net_assets": "2,374,900",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_25.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BEAD_NECKBANGLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fedc10-2ece-4edd-ad94-05f0143fef6d",
+                "name": "T.VEERAMANI",
+                "education": "10th pass",
+                "occupation": "PRIVATE DRIVER",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "PRIVATE DRIVER",
+                "moveable_assets": "450,000",
+                "immoveable_assets": "5,000,000",
+                "total_assets": "5,450,000",
+                "liabilities": "0",
+                "net_assets": "5,450,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_32.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ROAD_ROLLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fedc10-2ece-4edd-ad94-05f0143fef6d",
+                "name": "T.\u0bb5\u0bc0\u0bb0\u0bae\u0ba3\u0bbf ",
+                "education": "10th pass",
+                "occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd ",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "PRIVATE DRIVER",
+                "moveable_assets": "450,000",
+                "immoveable_assets": "5,000,000",
+                "total_assets": "5,450,000",
+                "liabilities": "0",
+                "net_assets": "5,450,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_32.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ROAD_ROLLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "PAPPIREDDIPPATTI",
+                    "constituency_en_label": "Pappireddippatti",
+                    "constituency_ta_label": "\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "district_id": "DHARMAPURI",
+                    "district_en_label": "Dharmapuri",
+                    "district_ta_label": "\u0ba4\u0bb0\u0bcd\u0bae\u0baa\u0bc1\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

@@ -1,1 +1,2192 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"92feec05-7908-4f66-9731-5987368f0954","name":"T.RAVICHANDRAN","education":"B.A. History","occupation":"","age":"66","annual_income":"281,080","source_of_income":0,"moveable_assets":"6,392,062","immoveable_assets":"18,513,500","total_assets":"24,905,562","liabilities":"6,900,000","net_assets":"18,005,562","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_20.jpg","party":{"id":"Indian National Congress","short_name":"INC","ta_label":"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd","en_label":"Indian National Congress","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"460,376","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"281,080","spouse":"123,260","overall":"0"}]},"ta":{"candidate_id":"92feec05-7908-4f66-9731-5987368f0954","name":"T.\u0bb0\u0bb5\u0bbf\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd ","education":"B.A. History","occupation":"","age":"66","annual_income":"281,080","source_of_income":0,"moveable_assets":"6,392,062","immoveable_assets":"18,513,500","total_assets":"24,905,562","liabilities":"6,900,000","net_assets":"18,005,562","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_20.jpg","party":{"id":"Indian National Congress","short_name":"INC","ta_label":"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd","en_label":"Indian National Congress","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"460,376","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"281,080","spouse":"123,260","overall":"0"}],"other_party_name":"","self_source_of_income":"","cases_pending_description":"","self_education_description":"","self_profession_occupation":"","cases_convicted_description":""}},{"en":{"candidate_id":"92f6dea5-a740-4540-a919-c97ba7d8039b","name":"P.Periyapullan Alias Selvam","education":"B.Sc., Govt Arts College, Melur","occupation":"mla","age":"49","annual_income":"575,000","source_of_income":"mla","moveable_assets":"6,456,474","immoveable_assets":"12,434,283","total_assets":"18,890,757","liabilities":"0","net_assets":"18,890,757","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_2.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"550,000","spouse":"350,000","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"552,000","spouse":"360,000","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"575,000","spouse":"525,000","overall":"0"}]},"ta":{"candidate_id":"92f6dea5-a740-4540-a919-c97ba7d8039b","name":"P.\u0baa\u0bc6\u0bb0\u0bbf\u0baf\u0baa\u0bc1\u0bb2\u0bcd\u0bb2\u0ba9\u0bcd \u0b85\u0bb2\u0bbf\u0baf\u0bbe\u0bb8\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd","education":"B.Sc., Govt Arts College, Melur","occupation":"","age":"49","annual_income":"575,000","source_of_income":"mla","moveable_assets":"6,456,474","immoveable_assets":"12,434,283","total_assets":"18,890,757","liabilities":"0","net_assets":"18,890,757","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_2.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIADMK.JPG"},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"550,000","spouse":"350,000","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"552,000","spouse":"360,000","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"575,000","spouse":"525,000","overall":"0"}],"other_party_name":"","self_source_of_income":"","cases_pending_description":"","self_education_description":"","self_profession_occupation":"","cases_convicted_description":""}},{"en":{"candidate_id":"92fd20b2-c069-451a-b2b1-4ce6587fbc54","name":"K.KATHIRESAN","education":"ITI Fitter","occupation":"Construction Labour","age":"44","annual_income":"0","source_of_income":"Construction Labour","moveable_assets":"1,905,000","immoveable_assets":"0","total_assets":"1,905,000","liabilities":"61,500","net_assets":"1,843,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_13.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"330,000","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"343,500","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"380,000","overall":"0"}]},"ta":{"candidate_id":"92fd20b2-c069-451a-b2b1-4ce6587fbc54","name":"K.\u0b95\u0ba4\u0bbf\u0bb0\u0bc7\u0b9a\u0ba9\u0bcd","education":"ITI Fitter","occupation":"\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9 \u0b95\u0bc2\u0bb2\u0bbf","age":"44","annual_income":"0","source_of_income":"Construction Labour","moveable_assets":"1,905,000","immoveable_assets":"0","total_assets":"1,905,000","liabilities":"61,500","net_assets":"1,843,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_13.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"330,000","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"343,500","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"380,000","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9 \u0b95\u0bc2\u0bb2\u0bbf","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9 \u0b95\u0bc2\u0bb2\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92fce627-c0ea-44e8-8368-fac72d591137","name":"P.KARUPPUSAMY","education":"M.A.,M.Phil.,Ph.d.,M.Ed.,","occupation":"Own Business","age":"43","annual_income":"496,040","source_of_income":"Own Business","moveable_assets":"849,330","immoveable_assets":"420,000","total_assets":"1,269,330","liabilities":"0","net_assets":"1,269,330","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_7.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"292,260","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"326,800","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"361,780","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"492,351","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"496,040","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fce627-c0ea-44e8-8368-fac72d591137","name":"P.\u0b95\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0b9a\u0bcd\u0b9a\u0bbe\u0bae\u0bbf ","education":"M.A.,M.Phil.,Ph.d.,M.Ed.,","occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","age":"43","annual_income":"496,040","source_of_income":"Own Business","moveable_assets":"849,330","immoveable_assets":"420,000","total_assets":"1,269,330","liabilities":"0","net_assets":"1,269,330","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_7.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"292,260","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"326,800","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"361,780","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"492,351","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"496,040","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fb13e2-cd1d-4bec-973a-4b0b6f315e44","name":"K.SENTHILRAJ","education":"8th pass","occupation":"PRIVATE JOB","age":"33","annual_income":"0","source_of_income":"PRIVATE JOB","moveable_assets":"22,600","immoveable_assets":"0","total_assets":"22,600","liabilities":"0","net_assets":"22,600","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_10.jpg","party":{"id":"MY INDIA PARTY","en_label":"MY INDIA PARTY","ta_label":"\u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf","party_image":null},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fb13e2-cd1d-4bec-973a-4b0b6f315e44","name":"K.\u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd\u0bb0\u0bbe\u0b9c\u0bcd","education":"8th pass","occupation":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8","age":"33","annual_income":"0","source_of_income":"PRIVATE JOB","moveable_assets":"22,600","immoveable_assets":"0","total_assets":"22,600","liabilities":"0","net_assets":"22,600","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_10.jpg","party":{"id":"MY INDIA PARTY","en_label":"MY INDIA PARTY","ta_label":"\u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf","party_image":null},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf","self_source_of_income":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8","cases_convicted_description":""}},{"en":{"candidate_id":"93051c7b-f652-427a-8f1f-436f441268ef","name":"A.Selvaraj","education":"10th pass","occupation":"Commissions, Real Estate Agent","age":"57","annual_income":"311,970","source_of_income":"Commissions, Real Estate Agent","moveable_assets":"8,134,228","immoveable_assets":"3,000,000","total_assets":"11,134,228","liabilities":"398,177","net_assets":"10,736,051","no_of_criminal_cases":2,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/SELVARAJA__Melur.jpg","party":{"id":"Amma Makkal Munnettra Kazagam","en_label":"Amma Makkal Munnettra Kazagam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd","party_image":null},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"269,500","spouse":"269,990","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"299,480","spouse":"291,370","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"310,430","spouse":"300,080","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"311,970","spouse":"300,830","overall":"0"}]},"ta":{"candidate_id":"93051c7b-f652-427a-8f1f-436f441268ef","name":"A.\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bb0\u0bbe\u0b9c\u0bcd","education":"10th pass","occupation":"\u0b95\u0bae\u0bbf\u0bb7\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bae\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf \u0ba4\u0bb0\u0bc1\u0bb5\u0ba4\u0bc1","age":"57","annual_income":"311,970","source_of_income":"Commissions, Real Estate Agent","moveable_assets":"8,134,228","immoveable_assets":"3,000,000","total_assets":"11,134,228","liabilities":"398,177","net_assets":"10,736,051","no_of_criminal_cases":2,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/SELVARAJA__Melur.jpg","party":{"id":"Amma Makkal Munnettra Kazagam","en_label":"Amma Makkal Munnettra Kazagam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd","party_image":null},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"269,500","spouse":"269,990","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"299,480","spouse":"291,370","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"310,430","spouse":"300,080","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"311,970","spouse":"300,830","overall":"0"}],"other_party_name":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd","self_source_of_income":"\u0b95\u0bae\u0bbf\u0bb7\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bae\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf \u0ba4\u0bb0\u0bc1\u0bb5\u0ba4\u0bc1","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b95\u0bae\u0bbf\u0bb7\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bae\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf \u0ba4\u0bb0\u0bc1\u0bb5\u0ba4\u0bc1","cases_convicted_description":""}},{"en":{"candidate_id":"92ff0cc5-7ec6-4851-967e-f5d8d909b50b","name":"P.KANNAN","education":"B.Com, BL","occupation":"Advocate","age":"44","annual_income":"0","source_of_income":"Advocate","moveable_assets":"294,250","immoveable_assets":"370,000","total_assets":"664,250","liabilities":"120,000","net_assets":"544,250","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_21.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92ff0cc5-7ec6-4851-967e-f5d8d909b50b","name":"P.\u0b95\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd ","education":"B.Com, BL","occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd","age":"44","annual_income":"0","source_of_income":"Advocate","moveable_assets":"294,250","immoveable_assets":"370,000","total_assets":"664,250","liabilities":"120,000","net_assets":"544,250","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_21.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92f104aa-8b95-4b6a-b9f1-5880254610a5","name":"M.Gopalakrishnan","education":"pass","occupation":"farmer","age":"43","annual_income":"0","source_of_income":"farmer","moveable_assets":"205,000","immoveable_assets":"20,200,000","total_assets":"20,405,000","liabilities":"1,188,000","net_assets":"19,217,000","no_of_criminal_cases":2,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_1.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f104aa-8b95-4b6a-b9f1-5880254610a5","name":"M.\u0b95\u0bcb\u0baa\u0bbe\u0bb2\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd ","education":"pass","occupation":"\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ","age":"43","annual_income":"0","source_of_income":"farmer","moveable_assets":"205,000","immoveable_assets":"20,200,000","total_assets":"20,405,000","liabilities":"1,188,000","net_assets":"19,217,000","no_of_criminal_cases":2,"cases_description":"\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bbf \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd ,\u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bb2\u0bcd . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_1.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ","cases_pending_description":"\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bbf \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd ,\u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bb2\u0bcd ","self_education_description":"","self_profession_occupation":"\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92f69a2c-fdd1-42f9-8963-60aecfa051c7","name":"R.SIVASAMY","education":"6th","occupation":"AGRICULTURE","age":"42","annual_income":"0","source_of_income":"AGRICULTURE INCOME","moveable_assets":"1,712,000","immoveable_assets":"0","total_assets":"1,712,000","liabilities":"280,000","net_assets":"1,432,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_5.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f69a2c-fdd1-42f9-8963-60aecfa051c7","name":"R.\u0b9a\u0bbf\u0bb5\u0bbe \u0b9a\u0bbe\u0bae\u0bbf ","education":"6th","occupation":"\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8","age":"42","annual_income":"0","source_of_income":"AGRICULTURE INCOME","moveable_assets":"1,712,000","immoveable_assets":"0","total_assets":"1,712,000","liabilities":"280,000","net_assets":"1,432,000","no_of_criminal_cases":0,"cases_description":"\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1,\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0ba9 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_5.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8","cases_pending_description":"\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1,\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0ba9 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8","cases_convicted_description":""}},{"en":{"candidate_id":"92fc92b9-1c94-47e5-ad7a-465258352248","name":"P.DHARMAR","education":"10th pass","occupation":"CONSTRUCTION WORK","age":"37","annual_income":"0","source_of_income":"CONSTRUCTION WORK","moveable_assets":"461,217","immoveable_assets":"0","total_assets":"461,217","liabilities":"0","net_assets":"461,217","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_12.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fc92b9-1c94-47e5-ad7a-465258352248","name":"P.\u0ba4\u0bb0\u0bcd\u0bae\u0bbe","education":"10th pass","occupation":"\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9 \u0baa\u0ba3\u0bbf","age":"37","annual_income":"0","source_of_income":"CONSTRUCTION WORK","moveable_assets":"461,217","immoveable_assets":"0","total_assets":"461,217","liabilities":"0","net_assets":"461,217","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_12.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9 \u0baa\u0ba3\u0bbf","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9 \u0baa\u0ba3\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92fee8c6-b059-4658-bac0-e0ab1b37f5c8","name":"S.DHINAKARAN","education":"DIPLOMA IN COMPUTER SCIENCE","occupation":"FARMER","age":"31","annual_income":"0","source_of_income":"FARMER","moveable_assets":"1,571,300","immoveable_assets":"0","total_assets":"1,571,300","liabilities":"1,166,000","net_assets":"405,300","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_24.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fee8c6-b059-4658-bac0-e0ab1b37f5c8","name":"S.\u0ba4\u0bbf\u0ba9\u0b95\u0bb0\u0ba9\u0bcd","education":"DIPLOMA IN COMPUTER SCIENCE","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"31","annual_income":"0","source_of_income":"FARMER","moveable_assets":"1,571,300","immoveable_assets":"0","total_assets":"1,571,300","liabilities":"1,166,000","net_assets":"405,300","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_24.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92ff25bf-7a18-4179-906a-6423be2e07b3","name":"N.NAGENDRAN","education":"10th pass","occupation":"Farmer","age":"27","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"260,722","immoveable_assets":"3,140,000","total_assets":"3,400,722","liabilities":"0","net_assets":"3,400,722","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_22.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92ff25bf-7a18-4179-906a-6423be2e07b3","name":"N.\u0ba8\u0bbe\u0b95\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd","education":"10th pass","occupation":"\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ","age":"27","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"260,722","immoveable_assets":"3,140,000","total_assets":"3,400,722","liabilities":"0","net_assets":"3,400,722","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_22.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fc9168-f6a0-46e3-ad9d-6b3053067142","name":"K.PANDI","education":"9TH CLASS","occupation":"FARMER","age":"56","annual_income":"0","source_of_income":"FARMER","moveable_assets":"358,800","immoveable_assets":"320,000","total_assets":"678,800","liabilities":"0","net_assets":"678,800","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_15.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fc9168-f6a0-46e3-ad9d-6b3053067142","name":"K.\u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf ","education":"9TH CLASS","occupation":"\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ","age":"56","annual_income":"0","source_of_income":"FARMER","moveable_assets":"358,800","immoveable_assets":"320,000","total_assets":"678,800","liabilities":"0","net_assets":"678,800","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_15.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92ff1b42-215b-4c11-b3ec-ff88e62ddfd8","name":"T.BALAN","education":"B.A., General Administration ( TNOU )","occupation":"Own Business","age":"42","annual_income":"417,037","source_of_income":"Own Business","moveable_assets":"2,854,000","immoveable_assets":"1,600,000","total_assets":"4,454,000","liabilities":"400,000","net_assets":"4,054,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_17.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"329,918","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"265,000","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"417,037","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92ff1b42-215b-4c11-b3ec-ff88e62ddfd8","name":"T.\u0baa\u0bbe\u0bb2\u0ba9\u0bcd ","education":"B.A., General Administration ( TNOU )","occupation":"\u0b9a\u0bc6\u0bbe\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd","age":"42","annual_income":"417,037","source_of_income":"Own Business","moveable_assets":"2,854,000","immoveable_assets":"1,600,000","total_assets":"4,454,000","liabilities":"400,000","net_assets":"4,054,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_17.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"329,918","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"265,000","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"417,037","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bc6\u0bbe\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc6\u0bbe\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92f68773-f9cf-4c2b-981f-1fc63881e178","name":"C .Mohanram","education":"12TH","occupation":"FARMER(DAILY WAGES)","age":"54","annual_income":"0","source_of_income":"FARMER","moveable_assets":"392,752","immoveable_assets":"310,000","total_assets":"702,752","liabilities":"0","net_assets":"702,752","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_4.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f68773-f9cf-4c2b-981f-1fc63881e178","name":"C .\u0bae\u0bcb\u0b95\u0ba9\u0bcd\u0bb0\u0bbe\u0bae\u0bcd","education":"12TH","occupation":"\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb2\u0bbf ","age":"54","annual_income":"0","source_of_income":"FARMER","moveable_assets":"392,752","immoveable_assets":"310,000","total_assets":"702,752","liabilities":"0","net_assets":"702,752","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/MELUR_4.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"MELUR","constituency_en_label":"Melur","constituency_ta_label":"\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd","district_id":"MADURAI","district_en_label":"Madurai","district_ta_label":"\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb2\u0bbf ","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "92feec05-7908-4f66-9731-5987368f0954",
+                "name": "T.RAVICHANDRAN",
+                "education": "B.A. History",
+                "occupation": "",
+                "age": "66",
+                "annual_income": "281,080",
+                "source_of_income": 0,
+                "moveable_assets": "6,392,062",
+                "immoveable_assets": "18,513,500",
+                "total_assets": "24,905,562",
+                "liabilities": "6,900,000",
+                "net_assets": "18,005,562",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_20.jpg",
+                "party": {
+                    "id": "Indian National Congress",
+                    "short_name": "INC",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd",
+                    "en_label": "Indian National Congress",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/Hand.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "460,376",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "281,080",
+                        "spouse": "123,260",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feec05-7908-4f66-9731-5987368f0954",
+                "name": "T.\u0bb0\u0bb5\u0bbf\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd ",
+                "education": "B.A. History",
+                "occupation": "",
+                "age": "66",
+                "annual_income": "281,080",
+                "source_of_income": 0,
+                "moveable_assets": "6,392,062",
+                "immoveable_assets": "18,513,500",
+                "total_assets": "24,905,562",
+                "liabilities": "6,900,000",
+                "net_assets": "18,005,562",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_20.jpg",
+                "party": {
+                    "id": "Indian National Congress",
+                    "short_name": "INC",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd",
+                    "en_label": "Indian National Congress",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/Hand.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "460,376",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "281,080",
+                        "spouse": "123,260",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f6dea5-a740-4540-a919-c97ba7d8039b",
+                "name": "P.Periyapullan Alias Selvam",
+                "education": "B.Sc., Govt Arts College, Melur",
+                "occupation": "mla",
+                "age": "49",
+                "annual_income": "575,000",
+                "source_of_income": "mla",
+                "moveable_assets": "6,456,474",
+                "immoveable_assets": "12,434,283",
+                "total_assets": "18,890,757",
+                "liabilities": "0",
+                "net_assets": "18,890,757",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_2.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "550,000",
+                        "spouse": "350,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "552,000",
+                        "spouse": "360,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "575,000",
+                        "spouse": "525,000",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f6dea5-a740-4540-a919-c97ba7d8039b",
+                "name": "P.\u0baa\u0bc6\u0bb0\u0bbf\u0baf\u0baa\u0bc1\u0bb2\u0bcd\u0bb2\u0ba9\u0bcd \u0b85\u0bb2\u0bbf\u0baf\u0bbe\u0bb8\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd",
+                "education": "B.Sc., Govt Arts College, Melur",
+                "occupation": "",
+                "age": "49",
+                "annual_income": "575,000",
+                "source_of_income": "mla",
+                "moveable_assets": "6,456,474",
+                "immoveable_assets": "12,434,283",
+                "total_assets": "18,890,757",
+                "liabilities": "0",
+                "net_assets": "18,890,757",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_2.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "550,000",
+                        "spouse": "350,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "552,000",
+                        "spouse": "360,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "575,000",
+                        "spouse": "525,000",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fd20b2-c069-451a-b2b1-4ce6587fbc54",
+                "name": "K.KATHIRESAN",
+                "education": "ITI Fitter",
+                "occupation": "Construction Labour",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "Construction Labour",
+                "moveable_assets": "1,905,000",
+                "immoveable_assets": "0",
+                "total_assets": "1,905,000",
+                "liabilities": "61,500",
+                "net_assets": "1,843,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_13.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "330,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "343,500",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "380,000",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fd20b2-c069-451a-b2b1-4ce6587fbc54",
+                "name": "K.\u0b95\u0ba4\u0bbf\u0bb0\u0bc7\u0b9a\u0ba9\u0bcd",
+                "education": "ITI Fitter",
+                "occupation": "\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9 \u0b95\u0bc2\u0bb2\u0bbf",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "Construction Labour",
+                "moveable_assets": "1,905,000",
+                "immoveable_assets": "0",
+                "total_assets": "1,905,000",
+                "liabilities": "61,500",
+                "net_assets": "1,843,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_13.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "330,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "343,500",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "380,000",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9 \u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9 \u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fce627-c0ea-44e8-8368-fac72d591137",
+                "name": "P.KARUPPUSAMY",
+                "education": "M.A.,M.Phil.,Ph.d.,M.Ed.,",
+                "occupation": "Own Business",
+                "age": "43",
+                "annual_income": "496,040",
+                "source_of_income": "Own Business",
+                "moveable_assets": "849,330",
+                "immoveable_assets": "420,000",
+                "total_assets": "1,269,330",
+                "liabilities": "0",
+                "net_assets": "1,269,330",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_7.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "292,260",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "326,800",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "361,780",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "492,351",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "496,040",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fce627-c0ea-44e8-8368-fac72d591137",
+                "name": "P.\u0b95\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0b9a\u0bcd\u0b9a\u0bbe\u0bae\u0bbf ",
+                "education": "M.A.,M.Phil.,Ph.d.,M.Ed.,",
+                "occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "age": "43",
+                "annual_income": "496,040",
+                "source_of_income": "Own Business",
+                "moveable_assets": "849,330",
+                "immoveable_assets": "420,000",
+                "total_assets": "1,269,330",
+                "liabilities": "0",
+                "net_assets": "1,269,330",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_7.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "292,260",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "326,800",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "361,780",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "492,351",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "496,040",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fb13e2-cd1d-4bec-973a-4b0b6f315e44",
+                "name": "K.SENTHILRAJ",
+                "education": "8th pass",
+                "occupation": "PRIVATE JOB",
+                "age": "33",
+                "annual_income": "0",
+                "source_of_income": "PRIVATE JOB",
+                "moveable_assets": "22,600",
+                "immoveable_assets": "0",
+                "total_assets": "22,600",
+                "liabilities": "0",
+                "net_assets": "22,600",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_10.jpg",
+                "party": {
+                    "id": "MY INDIA PARTY",
+                    "en_label": "MY INDIA PARTY",
+                    "ta_label": "\u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fb13e2-cd1d-4bec-973a-4b0b6f315e44",
+                "name": "K.\u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd\u0bb0\u0bbe\u0b9c\u0bcd",
+                "education": "8th pass",
+                "occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+                "age": "33",
+                "annual_income": "0",
+                "source_of_income": "PRIVATE JOB",
+                "moveable_assets": "22,600",
+                "immoveable_assets": "0",
+                "total_assets": "22,600",
+                "liabilities": "0",
+                "net_assets": "22,600",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_10.jpg",
+                "party": {
+                    "id": "MY INDIA PARTY",
+                    "en_label": "MY INDIA PARTY",
+                    "ta_label": "\u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf",
+                "self_source_of_income": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93051c7b-f652-427a-8f1f-436f441268ef",
+                "name": "A.Selvaraj",
+                "education": "10th pass",
+                "occupation": "Commissions, Real Estate Agent",
+                "age": "57",
+                "annual_income": "311,970",
+                "source_of_income": "Commissions, Real Estate Agent",
+                "moveable_assets": "8,134,228",
+                "immoveable_assets": "3,000,000",
+                "total_assets": "11,134,228",
+                "liabilities": "398,177",
+                "net_assets": "10,736,051",
+                "no_of_criminal_cases": 2,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SELVARAJA__Melur.jpg",
+                "party": {
+                    "id": "Amma Makkal Munnettra Kazagam",
+                    "en_label": "Amma Makkal Munnettra Kazagam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "269,500",
+                        "spouse": "269,990",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "299,480",
+                        "spouse": "291,370",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "310,430",
+                        "spouse": "300,080",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "311,970",
+                        "spouse": "300,830",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93051c7b-f652-427a-8f1f-436f441268ef",
+                "name": "A.\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bb0\u0bbe\u0b9c\u0bcd",
+                "education": "10th pass",
+                "occupation": "\u0b95\u0bae\u0bbf\u0bb7\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bae\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf \u0ba4\u0bb0\u0bc1\u0bb5\u0ba4\u0bc1",
+                "age": "57",
+                "annual_income": "311,970",
+                "source_of_income": "Commissions, Real Estate Agent",
+                "moveable_assets": "8,134,228",
+                "immoveable_assets": "3,000,000",
+                "total_assets": "11,134,228",
+                "liabilities": "398,177",
+                "net_assets": "10,736,051",
+                "no_of_criminal_cases": 2,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SELVARAJA__Melur.jpg",
+                "party": {
+                    "id": "Amma Makkal Munnettra Kazagam",
+                    "en_label": "Amma Makkal Munnettra Kazagam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "269,500",
+                        "spouse": "269,990",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "299,480",
+                        "spouse": "291,370",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "310,430",
+                        "spouse": "300,080",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "311,970",
+                        "spouse": "300,830",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                "self_source_of_income": "\u0b95\u0bae\u0bbf\u0bb7\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bae\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf \u0ba4\u0bb0\u0bc1\u0bb5\u0ba4\u0bc1",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bae\u0bbf\u0bb7\u0ba9\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bae\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf \u0ba4\u0bb0\u0bc1\u0bb5\u0ba4\u0bc1",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff0cc5-7ec6-4851-967e-f5d8d909b50b",
+                "name": "P.KANNAN",
+                "education": "B.Com, BL",
+                "occupation": "Advocate",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "Advocate",
+                "moveable_assets": "294,250",
+                "immoveable_assets": "370,000",
+                "total_assets": "664,250",
+                "liabilities": "120,000",
+                "net_assets": "544,250",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_21.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WATER_TANK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff0cc5-7ec6-4851-967e-f5d8d909b50b",
+                "name": "P.\u0b95\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd ",
+                "education": "B.Com, BL",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "Advocate",
+                "moveable_assets": "294,250",
+                "immoveable_assets": "370,000",
+                "total_assets": "664,250",
+                "liabilities": "120,000",
+                "net_assets": "544,250",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_21.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WATER_TANK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f104aa-8b95-4b6a-b9f1-5880254610a5",
+                "name": "M.Gopalakrishnan",
+                "education": "pass",
+                "occupation": "farmer",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "farmer",
+                "moveable_assets": "205,000",
+                "immoveable_assets": "20,200,000",
+                "total_assets": "20,405,000",
+                "liabilities": "1,188,000",
+                "net_assets": "19,217,000",
+                "no_of_criminal_cases": 2,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_1.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TRACTOR_CHALATA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f104aa-8b95-4b6a-b9f1-5880254610a5",
+                "name": "M.\u0b95\u0bcb\u0baa\u0bbe\u0bb2\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd ",
+                "education": "pass",
+                "occupation": "\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "farmer",
+                "moveable_assets": "205,000",
+                "immoveable_assets": "20,200,000",
+                "total_assets": "20,405,000",
+                "liabilities": "1,188,000",
+                "net_assets": "19,217,000",
+                "no_of_criminal_cases": 2,
+                "cases_description": "\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bbf \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd ,\u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bb2\u0bcd . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_1.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TRACTOR_CHALATA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ",
+                "cases_pending_description": "\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bbf \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd ,\u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bb2\u0bcd ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f69a2c-fdd1-42f9-8963-60aecfa051c7",
+                "name": "R.SIVASAMY",
+                "education": "6th",
+                "occupation": "AGRICULTURE",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE INCOME",
+                "moveable_assets": "1,712,000",
+                "immoveable_assets": "0",
+                "total_assets": "1,712,000",
+                "liabilities": "280,000",
+                "net_assets": "1,432,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_5.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HELICOPTER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f69a2c-fdd1-42f9-8963-60aecfa051c7",
+                "name": "R.\u0b9a\u0bbf\u0bb5\u0bbe \u0b9a\u0bbe\u0bae\u0bbf ",
+                "education": "6th",
+                "occupation": "\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE INCOME",
+                "moveable_assets": "1,712,000",
+                "immoveable_assets": "0",
+                "total_assets": "1,712,000",
+                "liabilities": "280,000",
+                "net_assets": "1,432,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1,\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0ba9 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_5.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HELICOPTER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8",
+                "cases_pending_description": "\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1,\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0ba9 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fc92b9-1c94-47e5-ad7a-465258352248",
+                "name": "P.DHARMAR",
+                "education": "10th pass",
+                "occupation": "CONSTRUCTION WORK",
+                "age": "37",
+                "annual_income": "0",
+                "source_of_income": "CONSTRUCTION WORK",
+                "moveable_assets": "461,217",
+                "immoveable_assets": "0",
+                "total_assets": "461,217",
+                "liabilities": "0",
+                "net_assets": "461,217",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_12.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GINGER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fc92b9-1c94-47e5-ad7a-465258352248",
+                "name": "P.\u0ba4\u0bb0\u0bcd\u0bae\u0bbe",
+                "education": "10th pass",
+                "occupation": "\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9 \u0baa\u0ba3\u0bbf",
+                "age": "37",
+                "annual_income": "0",
+                "source_of_income": "CONSTRUCTION WORK",
+                "moveable_assets": "461,217",
+                "immoveable_assets": "0",
+                "total_assets": "461,217",
+                "liabilities": "0",
+                "net_assets": "461,217",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_12.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GINGER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9 \u0baa\u0ba3\u0bbf",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9 \u0baa\u0ba3\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fee8c6-b059-4658-bac0-e0ab1b37f5c8",
+                "name": "S.DHINAKARAN",
+                "education": "DIPLOMA IN COMPUTER SCIENCE",
+                "occupation": "FARMER",
+                "age": "31",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "1,571,300",
+                "immoveable_assets": "0",
+                "total_assets": "1,571,300",
+                "liabilities": "1,166,000",
+                "net_assets": "405,300",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_24.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RING.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fee8c6-b059-4658-bac0-e0ab1b37f5c8",
+                "name": "S.\u0ba4\u0bbf\u0ba9\u0b95\u0bb0\u0ba9\u0bcd",
+                "education": "DIPLOMA IN COMPUTER SCIENCE",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "31",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "1,571,300",
+                "immoveable_assets": "0",
+                "total_assets": "1,571,300",
+                "liabilities": "1,166,000",
+                "net_assets": "405,300",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_24.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RING.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff25bf-7a18-4179-906a-6423be2e07b3",
+                "name": "N.NAGENDRAN",
+                "education": "10th pass",
+                "occupation": "Farmer",
+                "age": "27",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "260,722",
+                "immoveable_assets": "3,140,000",
+                "total_assets": "3,400,722",
+                "liabilities": "0",
+                "net_assets": "3,400,722",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_22.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CALCULATOR.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff25bf-7a18-4179-906a-6423be2e07b3",
+                "name": "N.\u0ba8\u0bbe\u0b95\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd",
+                "education": "10th pass",
+                "occupation": "\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ",
+                "age": "27",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "260,722",
+                "immoveable_assets": "3,140,000",
+                "total_assets": "3,400,722",
+                "liabilities": "0",
+                "net_assets": "3,400,722",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_22.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CALCULATOR.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0bae\u0bc8",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fc9168-f6a0-46e3-ad9d-6b3053067142",
+                "name": "K.PANDI",
+                "education": "9TH CLASS",
+                "occupation": "FARMER",
+                "age": "56",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "358,800",
+                "immoveable_assets": "320,000",
+                "total_assets": "678,800",
+                "liabilities": "0",
+                "net_assets": "678,800",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_15.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEAS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fc9168-f6a0-46e3-ad9d-6b3053067142",
+                "name": "K.\u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf ",
+                "education": "9TH CLASS",
+                "occupation": "\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ",
+                "age": "56",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "358,800",
+                "immoveable_assets": "320,000",
+                "total_assets": "678,800",
+                "liabilities": "0",
+                "net_assets": "678,800",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_15.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEAS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff1b42-215b-4c11-b3ec-ff88e62ddfd8",
+                "name": "T.BALAN",
+                "education": "B.A., General Administration ( TNOU )",
+                "occupation": "Own Business",
+                "age": "42",
+                "annual_income": "417,037",
+                "source_of_income": "Own Business",
+                "moveable_assets": "2,854,000",
+                "immoveable_assets": "1,600,000",
+                "total_assets": "4,454,000",
+                "liabilities": "400,000",
+                "net_assets": "4,054,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_17.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WHISTLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "329,918",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "265,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "417,037",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff1b42-215b-4c11-b3ec-ff88e62ddfd8",
+                "name": "T.\u0baa\u0bbe\u0bb2\u0ba9\u0bcd ",
+                "education": "B.A., General Administration ( TNOU )",
+                "occupation": "\u0b9a\u0bc6\u0bbe\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd",
+                "age": "42",
+                "annual_income": "417,037",
+                "source_of_income": "Own Business",
+                "moveable_assets": "2,854,000",
+                "immoveable_assets": "1,600,000",
+                "total_assets": "4,454,000",
+                "liabilities": "400,000",
+                "net_assets": "4,054,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_17.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WHISTLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "329,918",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "265,000",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "417,037",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bc6\u0bbe\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc6\u0bbe\u0ba8\u0bcd\u0ba4 \u0ba4\u0bc6\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f68773-f9cf-4c2b-981f-1fc63881e178",
+                "name": "C .Mohanram",
+                "education": "12TH",
+                "occupation": "FARMER(DAILY WAGES)",
+                "age": "54",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "392,752",
+                "immoveable_assets": "310,000",
+                "total_assets": "702,752",
+                "liabilities": "0",
+                "net_assets": "702,752",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_4.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CAMERA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f68773-f9cf-4c2b-981f-1fc63881e178",
+                "name": "C .\u0bae\u0bcb\u0b95\u0ba9\u0bcd\u0bb0\u0bbe\u0bae\u0bcd",
+                "education": "12TH",
+                "occupation": "\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb2\u0bbf ",
+                "age": "54",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "392,752",
+                "immoveable_assets": "310,000",
+                "total_assets": "702,752",
+                "liabilities": "0",
+                "net_assets": "702,752",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MELUR_4.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CAMERA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MELUR",
+                    "constituency_en_label": "Melur",
+                    "constituency_ta_label": "\u0bae\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b8a\u0bb4\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

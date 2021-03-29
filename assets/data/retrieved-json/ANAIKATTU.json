@@ -1,1 +1,1900 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"9304d7a2-a3e5-4ce4-8993-3bdc97466a0b","name":"A.P.Nandhakumar","education":"12th standard ","occupation":"Hotel Owner","age":"52","annual_income":"-862,833","source_of_income":"Hotel Owner","moveable_assets":"40,551,027","immoveable_assets":"220,327,500","total_assets":"260,878,527","liabilities":"79,811,312","net_assets":"181,067,215","no_of_criminal_cases":10,"cases_description":"All Cases are bailable offences.. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/A_P_Nandakumar_Anaikattu.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/RISING_SUN.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"-5,009,477","spouse":"1,431,677","overall":"338,879"},{"y_from":2016,"y_to":2017,"candidate":"796,926","spouse":"534,927","overall":"752,296"},{"y_from":2017,"y_to":2018,"candidate":"-4,072,560","spouse":"316,590","overall":"73,791"},{"y_from":2018,"y_to":2019,"candidate":"-147,353","spouse":"1,127,592","overall":"134,221"},{"y_from":2019,"y_to":2020,"candidate":"-862,833","spouse":"899,330","overall":"183,687"}]},"ta":{"candidate_id":"9304d7a2-a3e5-4ce4-8993-3bdc97466a0b","name":"A.P.\u0ba8\u0ba8\u0bcd\u0ba4\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd","education":"12th standard ","occupation":"\u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd","age":"52","annual_income":"-862,833","source_of_income":"Hotel Owner","moveable_assets":"40,551,027","immoveable_assets":"220,327,500","total_assets":"260,878,527","liabilities":"79,811,312","net_assets":"181,067,215","no_of_criminal_cases":10,"cases_description":"\u0baa\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bc1 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/A_P_Nandakumar_Anaikattu.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/RISING_SUN.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"-5,009,477","spouse":"1,431,677","overall":"338,879"},{"y_from":2016,"y_to":2017,"candidate":"796,926","spouse":"534,927","overall":"752,296"},{"y_from":2017,"y_to":2018,"candidate":"-4,072,560","spouse":"316,590","overall":"73,791"},{"y_from":2018,"y_to":2019,"candidate":"-147,353","spouse":"1,127,592","overall":"134,221"},{"y_from":2019,"y_to":2020,"candidate":"-862,833","spouse":"899,330","overall":"183,687"}],"other_party_name":"","self_source_of_income":"\u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd","cases_pending_description":"\u0baa\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bc1 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd","self_education_description":"","self_profession_occupation":"\u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"9304d048-8d11-47e5-8093-1cf20a5ea34b","name":"D.Velazhagan","education":"11th (1984-85)","occupation":"Partner (50%) - AVS Blue Metal, Civil Contractor.","age":"51","annual_income":"4,775,748","source_of_income":"Partner (50%) - AVS Blue Metal, Civil Contractor, Salary, Interest, House rent, Agricultural Income, Compensation.","moveable_assets":"23,163,293","immoveable_assets":"21,241,868","total_assets":"44,405,161","liabilities":"0","net_assets":"44,405,161","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/D_Velazhagan_Anaikattu.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TWO_LEAVES.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"465,507","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"906,614","spouse":"0","overall":"106,614"},{"y_from":2017,"y_to":2018,"candidate":"1,245,337","spouse":"132,000","overall":"370,211"},{"y_from":2018,"y_to":2019,"candidate":"1,311,742","spouse":"132,000","overall":"397,305"},{"y_from":2019,"y_to":2020,"candidate":"4,775,748","spouse":"132,000","overall":"2,859,882"}]},"ta":{"candidate_id":"9304d048-8d11-47e5-8093-1cf20a5ea34b","name":"D.\u0bb5\u0bc7\u0bb2\u0bb4\u0b95\u0ba9\u0bcd ","education":"11th (1984-85)","occupation":"\u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd (50%)- \u0b8e. \u0bb5\u0bbf. \u0b8e\u0bb8\u0bcd. \u0baa\u0bcd\u0bb3\u0bc2 \u0bae\u0bc6\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0b95\u0bcd\u0b9f\u0bb0\u0bcd ","age":"51","annual_income":"4,775,748","source_of_income":"Partner (50%) - AVS Blue Metal, Civil Contractor, Salary, Interest, House rent, Agricultural Income, Compensation.","moveable_assets":"23,163,293","immoveable_assets":"21,241,868","total_assets":"44,405,161","liabilities":"0","net_assets":"44,405,161","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/D_Velazhagan_Anaikattu.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TWO_LEAVES.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"465,507","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"906,614","spouse":"0","overall":"106,614"},{"y_from":2017,"y_to":2018,"candidate":"1,245,337","spouse":"132,000","overall":"370,211"},{"y_from":2018,"y_to":2019,"candidate":"1,311,742","spouse":"132,000","overall":"397,305"},{"y_from":2019,"y_to":2020,"candidate":"4,775,748","spouse":"132,000","overall":"2,859,882"}],"other_party_name":"","self_source_of_income":"\u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd (50%)- \u0b8e. \u0bb5\u0bbf. \u0b8e\u0bb8\u0bcd. \u0baa\u0bcd\u0bb3\u0bc2 \u0bae\u0bc6\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0b95\u0bcd\u0b9f\u0bb0\u0bcd ,\u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd ,\u0bb5\u0b9f\u0bcd\u0b9f\u0bbf ,\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0bbe\u0b9f\u0b95\u0bc8 ,\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd ,\u0b88\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8 .","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd (50%)- \u0b8e. \u0bb5\u0bbf. \u0b8e\u0bb8\u0bcd. \u0baa\u0bcd\u0bb3\u0bc2 \u0bae\u0bc6\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0b95\u0bcd\u0b9f\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"93049c87-4856-465e-84fd-780b8a84f087","name":"V.D.Sathishkumar","education":"B.A (incomplete)","occupation":"Sathya mess &owner, Naracimmalu Foods","age":"30","annual_income":"426,400","source_of_income":"Business","moveable_assets":"2,711,885","immoveable_assets":"0","total_assets":"2,711,885","liabilities":"557,921","net_assets":"2,153,964","no_of_criminal_cases":1,"cases_description":"Spreading false rumors and intent to incite. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_24.jpg","party":{"id":"Amma Makkal Munntra Kazhagam","en_label":"Amma Makkal Munntra Kazhagam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PRESSURE_COOKER.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"306,420","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"345,770","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"350,110","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"348,200","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"426,400","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93049c87-4856-465e-84fd-780b8a84f087","name":"V.D..\u0b9a\u0ba4\u0bcd\u0ba4\u0bc0\u0bb7\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ","education":"B.A (incomplete)","occupation":"\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0bae\u0bc6\u0bb8\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd, \u0ba8\u0bb0\u0b9a\u0bbf\u0bae\u0bcd\u0bae\u0bb2\u0bc1 \u0baa\u0bc1\u0b9f\u0bcd\u0bb8\u0bcd ","age":"30","annual_income":"426,400","source_of_income":"Business","moveable_assets":"2,711,885","immoveable_assets":"0","total_assets":"2,711,885","liabilities":"557,921","net_assets":"2,153,964","no_of_criminal_cases":1,"cases_description":"\u0ba4\u0bb5\u0bb1\u0bbe\u0ba9 \u0bb5\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bc8 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bb2\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bc1 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_24.jpg","party":{"id":"Amma Makkal Munntra Kazhagam","en_label":"Amma Makkal Munntra Kazhagam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PRESSURE_COOKER.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"306,420","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"345,770","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"350,110","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"348,200","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"426,400","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_pending_description":"\u0ba4\u0bb5\u0bb1\u0bbe\u0ba9 \u0bb5\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bc8 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bb2\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bc1 ","self_education_description":"","self_profession_occupation":"\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0bae\u0bc6\u0bb8\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd, \u0ba8\u0bb0\u0b9a\u0bbf\u0bae\u0bcd\u0bae\u0bb2\u0bc1 \u0baa\u0bc1\u0b9f\u0bcd\u0bb8\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"930197c8-ea2e-46b8-8538-407e6c66af52","name":"A.Sumithra","education":"9th","occupation":"House wife","age":"34","annual_income":"0","source_of_income":"NA","moveable_assets":"235,700","immoveable_assets":"0","total_assets":"235,700","liabilities":"49,314","net_assets":"186,386","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_15.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GANNA_KISAN.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"930197c8-ea2e-46b8-8538-407e6c66af52","name":"A.\u0b9a\u0bc1\u0bae\u0bbf\u0ba4\u0bcd\u0bb0\u0bbe ","education":"9th","occupation":"\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bbf ","age":"34","annual_income":"0","source_of_income":"NA","moveable_assets":"235,700","immoveable_assets":"0","total_assets":"235,700","liabilities":"49,314","net_assets":"186,386","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_15.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GANNA_KISAN.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b8e\u0ba4\u0bc1\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bbf ","cases_convicted_description":""}},{"en":{"candidate_id":"9304c936-0be7-4f11-9f9e-80b85920b112","name":"K.Rajasekar","education":"12th standard","occupation":"Business","age":"29","annual_income":"0","source_of_income":"Business","moveable_assets":"78,100","immoveable_assets":"0","total_assets":"78,100","liabilities":"0","net_assets":"78,100","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/K_Rajasekar_Anaikattu.jpg","party":{"id":"Indiya Jananayaka Katchi","en_label":"Indiya Jananayaka Katchi","ta_label":"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AUTO-RICKSHAW.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9304c936-0be7-4f11-9f9e-80b85920b112","name":"K.\u0bb0\u0bbe\u0b9c\u0bbe \u0b9a\u0bc7\u0b95\u0bb0\u0bcd ","education":"12th standard","occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","age":"29","annual_income":"0","source_of_income":"Business","moveable_assets":"78,100","immoveable_assets":"0","total_assets":"78,100","liabilities":"0","net_assets":"78,100","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/K_Rajasekar_Anaikattu.jpg","party":{"id":"Indiya Jananayaka Katchi","en_label":"Indiya Jananayaka Katchi","ta_label":"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AUTO-RICKSHAW.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92ff720f-e26b-4b09-8232-bb50db86f438","name":"M.ARUN","education":"10th std","occupation":"ELECTRICIAN","age":"32","annual_income":"0","source_of_income":"SELF EMPLOYED ","moveable_assets":"11,000","immoveable_assets":"0","total_assets":"11,000","liabilities":"0","net_assets":"11,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_21.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/SPANNER.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92ff720f-e26b-4b09-8232-bb50db86f438","name":"M.\u0b85\u0bb0\u0bc1\u0ba3\u0bcd ","education":"10th std","occupation":"\u0b8e\u0bb2\u0b95\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0bb7\u0bbf\u0baf\u0ba9\u0bcd ","age":"32","annual_income":"0","source_of_income":"SELF EMPLOYED ","moveable_assets":"11,000","immoveable_assets":"0","total_assets":"11,000","liabilities":"0","net_assets":"11,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_21.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/SPANNER.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b8e\u0bb2\u0b95\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0bb7\u0bbf\u0baf\u0ba9\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b8e\u0bb2\u0b95\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0bb7\u0bbf\u0baf\u0ba9\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fb1854-83e1-4713-99ec-2711b6e25825","name":"R.Karunamoorthy","education":"10th pass","occupation":"Labour","age":"40","annual_income":"0","source_of_income":0,"moveable_assets":"204,000","immoveable_assets":"0","total_assets":"204,000","liabilities":"0","net_assets":"204,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_6.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TELEVISION.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fb1854-83e1-4713-99ec-2711b6e25825","name":"R.\u0b95\u0bb0\u0bc1\u0ba3\u0bbe\u0bae\u0bc2\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf ","education":"10th pass","occupation":"\u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 ","age":"40","annual_income":"0","source_of_income":0,"moveable_assets":"204,000","immoveable_assets":"0","total_assets":"204,000","liabilities":"0","net_assets":"204,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_6.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TELEVISION.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 ","cases_convicted_description":""}},{"en":{"candidate_id":"93049609-cf2e-48d2-89e1-4f3aff0dfc72","name":"N.Kirubakaran","education":"12th Standard.","occupation":" Ex.Army Officer,Grocery store ","age":"42","annual_income":"0","source_of_income":"Grocery store , Pension.","moveable_assets":"456,000","immoveable_assets":"4,500,000","total_assets":"4,956,000","liabilities":"800,000","net_assets":"4,156,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_13.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/CCTV_CAMERA.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93049609-cf2e-48d2-89e1-4f3aff0dfc72","name":"N.\u0b95\u0bbf\u0bb0\u0bc1\u0baa\u0bbe\u0b95\u0bb0\u0ba9\u0bcd ","education":"12th Standard.","occupation":"\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\/ \u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8 ","age":"42","annual_income":"0","source_of_income":"Grocery store , Pension.","moveable_assets":"456,000","immoveable_assets":"4,500,000","total_assets":"4,956,000","liabilities":"800,000","net_assets":"4,156,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_13.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/CCTV_CAMERA.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":" \u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8 & \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\/ \u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8 ","cases_convicted_description":""}},{"en":{"candidate_id":"92ff6cbc-d6bf-4395-8586-76146e2fccc9","name":"M.SENTHILKUMAR","education":"B.CA.,","occupation":"TRANSPORT","age":"43","annual_income":"0","source_of_income":"","moveable_assets":"3,541,500","immoveable_assets":"0","total_assets":"3,541,500","liabilities":"2,000,000","net_assets":"1,541,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_19.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATTERY_TORCH.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92ff6cbc-d6bf-4395-8586-76146e2fccc9","name":"M.\u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ","education":"B.CA.,","occupation":" \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1","age":"43","annual_income":"0","source_of_income":"","moveable_assets":"3,541,500","immoveable_assets":"0","total_assets":"3,541,500","liabilities":"2,000,000","net_assets":"1,541,500","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_19.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATTERY_TORCH.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":" \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1","cases_convicted_description":""}},{"en":{"candidate_id":"92ff6541-3c80-4011-86b2-2b3d54dfe180","name":"K.NAVEENKUMAR","education":"10th std","occupation":"BUSINESS","age":"32","annual_income":"299,390","source_of_income":"IT report","moveable_assets":"4,276,480","immoveable_assets":"1,738,000","total_assets":"6,014,480","liabilities":"2,300,000","net_assets":"3,714,480","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_18.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/CARROM_BOARD.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"270,280","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"249,940","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"281,130","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"297,990","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"299,390","spouse":"300,000","overall":"0"}]},"ta":{"candidate_id":"92ff6541-3c80-4011-86b2-2b3d54dfe180","name":"K.\u0ba8\u0bb5\u0bc0\u0ba9\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ","education":"10th std","occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","age":"32","annual_income":"299,390","source_of_income":"IT report","moveable_assets":"4,276,480","immoveable_assets":"1,738,000","total_assets":"6,014,480","liabilities":"2,300,000","net_assets":"3,714,480","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_18.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/CARROM_BOARD.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"270,280","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"249,940","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"281,130","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"297,990","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"299,390","spouse":"300,000","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"93019b3f-8c33-433a-91a0-77714457d9c5","name":"T.MathanKumar","education":"10th std","occupation":"Self Employment","age":"30","annual_income":"0","source_of_income":"Self Employment","moveable_assets":"145,000","immoveable_assets":"0","total_assets":"145,000","liabilities":"3,000","net_assets":"142,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_22.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/COCONUT_FARM.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93019b3f-8c33-433a-91a0-77714457d9c5","name":"T.\u0bae\u0ba4\u0ba9\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd  ","education":"10th std","occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","age":"30","annual_income":"0","source_of_income":"Self Employment","moveable_assets":"145,000","immoveable_assets":"0","total_assets":"145,000","liabilities":"3,000","net_assets":"142,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_22.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/COCONUT_FARM.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92f7670e-7ace-414b-871d-0e65a7ee2f43","name":"M.RAJBABU","education":"DEEE","occupation":"AGRICULTURE DAILY WAGES","age":"36","annual_income":"0","source_of_income":0,"moveable_assets":"343,848","immoveable_assets":"0","total_assets":"343,848","liabilities":"0","net_assets":"343,848","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_2.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/WATER_TANK.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f7670e-7ace-414b-871d-0e65a7ee2f43","name":"M.\u0bb0\u0bbe\u0b9c\u0bcd\u0baa\u0bbe\u0baa\u0bc1","education":"DEEE","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8","age":"36","annual_income":"0","source_of_income":0,"moveable_assets":"343,848","immoveable_assets":"0","total_assets":"343,848","liabilities":"0","net_assets":"343,848","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_2.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/WATER_TANK.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"DEEE","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8","cases_convicted_description":""}},{"en":{"candidate_id":"9304929d-2b54-4e58-a2c0-50be48edcd87","name":"P.Venkatesan","education":"8th Standard","occupation":"Labour Work","age":"46","annual_income":"0","source_of_income":"From Labour work","moveable_assets":"45,000","immoveable_assets":"500,000","total_assets":"545,000","liabilities":"0","net_assets":"545,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_11.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/RING.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9304929d-2b54-4e58-a2c0-50be48edcd87","name":"P.\u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0b9f\u0bc7\u0b9a\u0ba9\u0bcd ","education":"8th Standard","occupation":"\u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 ","age":"46","annual_income":"0","source_of_income":"From Labour work","moveable_assets":"45,000","immoveable_assets":"500,000","total_assets":"545,000","liabilities":"0","net_assets":"545,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/ANAIKATTU_11.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/RING.JPG"},"thokuthi":{"constituency_id":"ANAIKATTU","constituency_en_label":"Anaikattu","constituency_ta_label":"\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1","district_id":"VELLORE","district_en_label":"Vellore","district_ta_label":"\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 ","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "9304d7a2-a3e5-4ce4-8993-3bdc97466a0b",
+                "name": "A.P.Nandhakumar",
+                "education": "12th standard ",
+                "occupation": "Hotel Owner",
+                "age": "52",
+                "annual_income": "-862,833",
+                "source_of_income": "Hotel Owner",
+                "moveable_assets": "40,551,027",
+                "immoveable_assets": "220,327,500",
+                "total_assets": "260,878,527",
+                "liabilities": "79,811,312",
+                "net_assets": "181,067,215",
+                "no_of_criminal_cases": 10,
+                "cases_description": "All Cases are bailable offences.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/A_P_Nandakumar_Anaikattu.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "-5,009,477",
+                        "spouse": "1,431,677",
+                        "overall": "338,879"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "796,926",
+                        "spouse": "534,927",
+                        "overall": "752,296"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "-4,072,560",
+                        "spouse": "316,590",
+                        "overall": "73,791"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "-147,353",
+                        "spouse": "1,127,592",
+                        "overall": "134,221"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "-862,833",
+                        "spouse": "899,330",
+                        "overall": "183,687"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304d7a2-a3e5-4ce4-8993-3bdc97466a0b",
+                "name": "A.P.\u0ba8\u0ba8\u0bcd\u0ba4\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+                "education": "12th standard ",
+                "occupation": "\u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd",
+                "age": "52",
+                "annual_income": "-862,833",
+                "source_of_income": "Hotel Owner",
+                "moveable_assets": "40,551,027",
+                "immoveable_assets": "220,327,500",
+                "total_assets": "260,878,527",
+                "liabilities": "79,811,312",
+                "net_assets": "181,067,215",
+                "no_of_criminal_cases": 10,
+                "cases_description": "\u0baa\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bc1 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/A_P_Nandakumar_Anaikattu.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "-5,009,477",
+                        "spouse": "1,431,677",
+                        "overall": "338,879"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "796,926",
+                        "spouse": "534,927",
+                        "overall": "752,296"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "-4,072,560",
+                        "spouse": "316,590",
+                        "overall": "73,791"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "-147,353",
+                        "spouse": "1,127,592",
+                        "overall": "134,221"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "-862,833",
+                        "spouse": "899,330",
+                        "overall": "183,687"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd",
+                "cases_pending_description": "\u0baa\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bc1 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304d048-8d11-47e5-8093-1cf20a5ea34b",
+                "name": "D.Velazhagan",
+                "education": "11th (1984-85)",
+                "occupation": "Partner (50%) - AVS Blue Metal, Civil Contractor.",
+                "age": "51",
+                "annual_income": "4,775,748",
+                "source_of_income": "Partner (50%) - AVS Blue Metal, Civil Contractor, Salary, Interest, House rent, Agricultural Income, Compensation.",
+                "moveable_assets": "23,163,293",
+                "immoveable_assets": "21,241,868",
+                "total_assets": "44,405,161",
+                "liabilities": "0",
+                "net_assets": "44,405,161",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/D_Velazhagan_Anaikattu.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "465,507",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "906,614",
+                        "spouse": "0",
+                        "overall": "106,614"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "1,245,337",
+                        "spouse": "132,000",
+                        "overall": "370,211"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,311,742",
+                        "spouse": "132,000",
+                        "overall": "397,305"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "4,775,748",
+                        "spouse": "132,000",
+                        "overall": "2,859,882"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304d048-8d11-47e5-8093-1cf20a5ea34b",
+                "name": "D.\u0bb5\u0bc7\u0bb2\u0bb4\u0b95\u0ba9\u0bcd ",
+                "education": "11th (1984-85)",
+                "occupation": "\u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd (50%)- \u0b8e. \u0bb5\u0bbf. \u0b8e\u0bb8\u0bcd. \u0baa\u0bcd\u0bb3\u0bc2 \u0bae\u0bc6\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0b95\u0bcd\u0b9f\u0bb0\u0bcd ",
+                "age": "51",
+                "annual_income": "4,775,748",
+                "source_of_income": "Partner (50%) - AVS Blue Metal, Civil Contractor, Salary, Interest, House rent, Agricultural Income, Compensation.",
+                "moveable_assets": "23,163,293",
+                "immoveable_assets": "21,241,868",
+                "total_assets": "44,405,161",
+                "liabilities": "0",
+                "net_assets": "44,405,161",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/D_Velazhagan_Anaikattu.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "465,507",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "906,614",
+                        "spouse": "0",
+                        "overall": "106,614"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "1,245,337",
+                        "spouse": "132,000",
+                        "overall": "370,211"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,311,742",
+                        "spouse": "132,000",
+                        "overall": "397,305"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "4,775,748",
+                        "spouse": "132,000",
+                        "overall": "2,859,882"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd (50%)- \u0b8e. \u0bb5\u0bbf. \u0b8e\u0bb8\u0bcd. \u0baa\u0bcd\u0bb3\u0bc2 \u0bae\u0bc6\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0b95\u0bcd\u0b9f\u0bb0\u0bcd ,\u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd ,\u0bb5\u0b9f\u0bcd\u0b9f\u0bbf ,\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0bbe\u0b9f\u0b95\u0bc8 ,\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd ,\u0b88\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8 .",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd (50%)- \u0b8e. \u0bb5\u0bbf. \u0b8e\u0bb8\u0bcd. \u0baa\u0bcd\u0bb3\u0bc2 \u0bae\u0bc6\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b9a\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0b95\u0bcd\u0b9f\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93049c87-4856-465e-84fd-780b8a84f087",
+                "name": "V.D.Sathishkumar",
+                "education": "B.A (incomplete)",
+                "occupation": "Sathya mess &owner, Naracimmalu Foods",
+                "age": "30",
+                "annual_income": "426,400",
+                "source_of_income": "Business",
+                "moveable_assets": "2,711,885",
+                "immoveable_assets": "0",
+                "total_assets": "2,711,885",
+                "liabilities": "557,921",
+                "net_assets": "2,153,964",
+                "no_of_criminal_cases": 1,
+                "cases_description": "Spreading false rumors and intent to incite. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_24.jpg",
+                "party": {
+                    "id": "Amma Makkal Munntra Kazhagam",
+                    "en_label": "Amma Makkal Munntra Kazhagam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "306,420",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "345,770",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "350,110",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "348,200",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "426,400",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93049c87-4856-465e-84fd-780b8a84f087",
+                "name": "V.D..\u0b9a\u0ba4\u0bcd\u0ba4\u0bc0\u0bb7\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ",
+                "education": "B.A (incomplete)",
+                "occupation": "\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0bae\u0bc6\u0bb8\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd, \u0ba8\u0bb0\u0b9a\u0bbf\u0bae\u0bcd\u0bae\u0bb2\u0bc1 \u0baa\u0bc1\u0b9f\u0bcd\u0bb8\u0bcd ",
+                "age": "30",
+                "annual_income": "426,400",
+                "source_of_income": "Business",
+                "moveable_assets": "2,711,885",
+                "immoveable_assets": "0",
+                "total_assets": "2,711,885",
+                "liabilities": "557,921",
+                "net_assets": "2,153,964",
+                "no_of_criminal_cases": 1,
+                "cases_description": "\u0ba4\u0bb5\u0bb1\u0bbe\u0ba9 \u0bb5\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bc8 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bb2\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bc1 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_24.jpg",
+                "party": {
+                    "id": "Amma Makkal Munntra Kazhagam",
+                    "en_label": "Amma Makkal Munntra Kazhagam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "306,420",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "345,770",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "350,110",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "348,200",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "426,400",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_pending_description": "\u0ba4\u0bb5\u0bb1\u0bbe\u0ba9 \u0bb5\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bc8 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bb2\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0bae\u0bc6\u0bb8\u0bcd \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd, \u0ba8\u0bb0\u0b9a\u0bbf\u0bae\u0bcd\u0bae\u0bb2\u0bc1 \u0baa\u0bc1\u0b9f\u0bcd\u0bb8\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "930197c8-ea2e-46b8-8538-407e6c66af52",
+                "name": "A.Sumithra",
+                "education": "9th",
+                "occupation": "House wife",
+                "age": "34",
+                "annual_income": "0",
+                "source_of_income": "NA",
+                "moveable_assets": "235,700",
+                "immoveable_assets": "0",
+                "total_assets": "235,700",
+                "liabilities": "49,314",
+                "net_assets": "186,386",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_15.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "930197c8-ea2e-46b8-8538-407e6c66af52",
+                "name": "A.\u0b9a\u0bc1\u0bae\u0bbf\u0ba4\u0bcd\u0bb0\u0bbe ",
+                "education": "9th",
+                "occupation": "\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bbf ",
+                "age": "34",
+                "annual_income": "0",
+                "source_of_income": "NA",
+                "moveable_assets": "235,700",
+                "immoveable_assets": "0",
+                "total_assets": "235,700",
+                "liabilities": "49,314",
+                "net_assets": "186,386",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_15.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b8e\u0ba4\u0bc1\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304c936-0be7-4f11-9f9e-80b85920b112",
+                "name": "K.Rajasekar",
+                "education": "12th standard",
+                "occupation": "Business",
+                "age": "29",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "78,100",
+                "immoveable_assets": "0",
+                "total_assets": "78,100",
+                "liabilities": "0",
+                "net_assets": "78,100",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/K_Rajasekar_Anaikattu.jpg",
+                "party": {
+                    "id": "Indiya Jananayaka Katchi",
+                    "en_label": "Indiya Jananayaka Katchi",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304c936-0be7-4f11-9f9e-80b85920b112",
+                "name": "K.\u0bb0\u0bbe\u0b9c\u0bbe \u0b9a\u0bc7\u0b95\u0bb0\u0bcd ",
+                "education": "12th standard",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "age": "29",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "78,100",
+                "immoveable_assets": "0",
+                "total_assets": "78,100",
+                "liabilities": "0",
+                "net_assets": "78,100",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/K_Rajasekar_Anaikattu.jpg",
+                "party": {
+                    "id": "Indiya Jananayaka Katchi",
+                    "en_label": "Indiya Jananayaka Katchi",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff720f-e26b-4b09-8232-bb50db86f438",
+                "name": "M.ARUN",
+                "education": "10th std",
+                "occupation": "ELECTRICIAN",
+                "age": "32",
+                "annual_income": "0",
+                "source_of_income": "SELF EMPLOYED ",
+                "moveable_assets": "11,000",
+                "immoveable_assets": "0",
+                "total_assets": "11,000",
+                "liabilities": "0",
+                "net_assets": "11,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_21.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SPANNER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff720f-e26b-4b09-8232-bb50db86f438",
+                "name": "M.\u0b85\u0bb0\u0bc1\u0ba3\u0bcd ",
+                "education": "10th std",
+                "occupation": "\u0b8e\u0bb2\u0b95\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0bb7\u0bbf\u0baf\u0ba9\u0bcd ",
+                "age": "32",
+                "annual_income": "0",
+                "source_of_income": "SELF EMPLOYED ",
+                "moveable_assets": "11,000",
+                "immoveable_assets": "0",
+                "total_assets": "11,000",
+                "liabilities": "0",
+                "net_assets": "11,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_21.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SPANNER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b8e\u0bb2\u0b95\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0bb7\u0bbf\u0baf\u0ba9\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b8e\u0bb2\u0b95\u0bcd\u0b9f\u0bcd\u0bb0\u0bc0\u0bb7\u0bbf\u0baf\u0ba9\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fb1854-83e1-4713-99ec-2711b6e25825",
+                "name": "R.Karunamoorthy",
+                "education": "10th pass",
+                "occupation": "Labour",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": 0,
+                "moveable_assets": "204,000",
+                "immoveable_assets": "0",
+                "total_assets": "204,000",
+                "liabilities": "0",
+                "net_assets": "204,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_6.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fb1854-83e1-4713-99ec-2711b6e25825",
+                "name": "R.\u0b95\u0bb0\u0bc1\u0ba3\u0bbe\u0bae\u0bc2\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf ",
+                "education": "10th pass",
+                "occupation": "\u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 ",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": 0,
+                "moveable_assets": "204,000",
+                "immoveable_assets": "0",
+                "total_assets": "204,000",
+                "liabilities": "0",
+                "net_assets": "204,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_6.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93049609-cf2e-48d2-89e1-4f3aff0dfc72",
+                "name": "N.Kirubakaran",
+                "education": "12th Standard.",
+                "occupation": " Ex.Army Officer,Grocery store ",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "Grocery store , Pension.",
+                "moveable_assets": "456,000",
+                "immoveable_assets": "4,500,000",
+                "total_assets": "4,956,000",
+                "liabilities": "800,000",
+                "net_assets": "4,156,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_13.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93049609-cf2e-48d2-89e1-4f3aff0dfc72",
+                "name": "N.\u0b95\u0bbf\u0bb0\u0bc1\u0baa\u0bbe\u0b95\u0bb0\u0ba9\u0bcd ",
+                "education": "12th Standard.",
+                "occupation": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd/ \u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8 ",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "Grocery store , Pension.",
+                "moveable_assets": "456,000",
+                "immoveable_assets": "4,500,000",
+                "total_assets": "4,956,000",
+                "liabilities": "800,000",
+                "net_assets": "4,156,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_13.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": " \u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8 & \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd/ \u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8 ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff6cbc-d6bf-4395-8586-76146e2fccc9",
+                "name": "M.SENTHILKUMAR",
+                "education": "B.CA.,",
+                "occupation": "TRANSPORT",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "",
+                "moveable_assets": "3,541,500",
+                "immoveable_assets": "0",
+                "total_assets": "3,541,500",
+                "liabilities": "2,000,000",
+                "net_assets": "1,541,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_19.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff6cbc-d6bf-4395-8586-76146e2fccc9",
+                "name": "M.\u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ",
+                "education": "B.CA.,",
+                "occupation": " \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "",
+                "moveable_assets": "3,541,500",
+                "immoveable_assets": "0",
+                "total_assets": "3,541,500",
+                "liabilities": "2,000,000",
+                "net_assets": "1,541,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_19.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": " \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff6541-3c80-4011-86b2-2b3d54dfe180",
+                "name": "K.NAVEENKUMAR",
+                "education": "10th std",
+                "occupation": "BUSINESS",
+                "age": "32",
+                "annual_income": "299,390",
+                "source_of_income": "IT report",
+                "moveable_assets": "4,276,480",
+                "immoveable_assets": "1,738,000",
+                "total_assets": "6,014,480",
+                "liabilities": "2,300,000",
+                "net_assets": "3,714,480",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_18.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CARROM_BOARD.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "270,280",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "249,940",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "281,130",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "297,990",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "299,390",
+                        "spouse": "300,000",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff6541-3c80-4011-86b2-2b3d54dfe180",
+                "name": "K.\u0ba8\u0bb5\u0bc0\u0ba9\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ",
+                "education": "10th std",
+                "occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "age": "32",
+                "annual_income": "299,390",
+                "source_of_income": "IT report",
+                "moveable_assets": "4,276,480",
+                "immoveable_assets": "1,738,000",
+                "total_assets": "6,014,480",
+                "liabilities": "2,300,000",
+                "net_assets": "3,714,480",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_18.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CARROM_BOARD.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "270,280",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "249,940",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "281,130",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "297,990",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "299,390",
+                        "spouse": "300,000",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93019b3f-8c33-433a-91a0-77714457d9c5",
+                "name": "T.MathanKumar",
+                "education": "10th std",
+                "occupation": "Self Employment",
+                "age": "30",
+                "annual_income": "0",
+                "source_of_income": "Self Employment",
+                "moveable_assets": "145,000",
+                "immoveable_assets": "0",
+                "total_assets": "145,000",
+                "liabilities": "3,000",
+                "net_assets": "142,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_22.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/COCONUT_FARM.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93019b3f-8c33-433a-91a0-77714457d9c5",
+                "name": "T.\u0bae\u0ba4\u0ba9\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd  ",
+                "education": "10th std",
+                "occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "age": "30",
+                "annual_income": "0",
+                "source_of_income": "Self Employment",
+                "moveable_assets": "145,000",
+                "immoveable_assets": "0",
+                "total_assets": "145,000",
+                "liabilities": "3,000",
+                "net_assets": "142,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_22.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/COCONUT_FARM.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f7670e-7ace-414b-871d-0e65a7ee2f43",
+                "name": "M.RAJBABU",
+                "education": "DEEE",
+                "occupation": "AGRICULTURE DAILY WAGES",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": 0,
+                "moveable_assets": "343,848",
+                "immoveable_assets": "0",
+                "total_assets": "343,848",
+                "liabilities": "0",
+                "net_assets": "343,848",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_2.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WATER_TANK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f7670e-7ace-414b-871d-0e65a7ee2f43",
+                "name": "M.\u0bb0\u0bbe\u0b9c\u0bcd\u0baa\u0bbe\u0baa\u0bc1",
+                "education": "DEEE",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": 0,
+                "moveable_assets": "343,848",
+                "immoveable_assets": "0",
+                "total_assets": "343,848",
+                "liabilities": "0",
+                "net_assets": "343,848",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_2.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WATER_TANK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "DEEE",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304929d-2b54-4e58-a2c0-50be48edcd87",
+                "name": "P.Venkatesan",
+                "education": "8th Standard",
+                "occupation": "Labour Work",
+                "age": "46",
+                "annual_income": "0",
+                "source_of_income": "From Labour work",
+                "moveable_assets": "45,000",
+                "immoveable_assets": "500,000",
+                "total_assets": "545,000",
+                "liabilities": "0",
+                "net_assets": "545,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_11.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RING.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304929d-2b54-4e58-a2c0-50be48edcd87",
+                "name": "P.\u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0b9f\u0bc7\u0b9a\u0ba9\u0bcd ",
+                "education": "8th Standard",
+                "occupation": "\u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 ",
+                "age": "46",
+                "annual_income": "0",
+                "source_of_income": "From Labour work",
+                "moveable_assets": "45,000",
+                "immoveable_assets": "500,000",
+                "total_assets": "545,000",
+                "liabilities": "0",
+                "net_assets": "545,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANAIKATTU_11.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RING.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ANAIKATTU",
+                    "constituency_en_label": "Anaikattu",
+                    "constituency_ta_label": "\u0b85\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 ",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

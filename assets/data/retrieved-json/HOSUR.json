@@ -1,1 +1,2620 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"92f87164-ed86-4ca3-af3e-213089d96dda","name":"Y.Prakaash","education":"10th pass","occupation":"Business (Brick manufacturing and Agriculture)","age":"56","annual_income":"567,962","source_of_income":"Business","moveable_assets":"10,052,745","immoveable_assets":"68,500,760","total_assets":"78,553,505","liabilities":"78,673,619","net_assets":"-120,114","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_1.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/RISING_SUN.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"637,137","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"654,620","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"692,900","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"567,962","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f87164-ed86-4ca3-af3e-213089d96dda","name":"Y.\u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb7\u0bcd ","education":"10th pass","occupation":"\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd \n(\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd )","age":"56","annual_income":"567,962","source_of_income":"Business","moveable_assets":"10,052,745","immoveable_assets":"68,500,760","total_assets":"78,553,505","liabilities":"78,673,619","net_assets":"-120,114","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_1.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/RISING_SUN.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"637,137","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"654,620","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"692,900","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"567,962","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd  (\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd )","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd \n(\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd )","cases_convicted_description":""}},{"en":{"candidate_id":"9304db9b-35db-48ac-9495-1df2ea49e3af","name":"S.Jyothi","education":"B.Sc Science & B.Ed","occupation":"Private Tutor","age":"44","annual_income":"645,260","source_of_income":"Private Tutor","moveable_assets":"9,912,866","immoveable_assets":"263,496,490","total_assets":"273,409,356","liabilities":"21,254,638","net_assets":"252,154,718","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/JYOTHIS_Hosur.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TWO_LEAVES.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"1,690,901","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"1,843,678","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"400,879","spouse":"1,530,736","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"414,200","spouse":"1,278,952","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"645,260","spouse":"610,760","overall":"0"}]},"ta":{"candidate_id":"9304db9b-35db-48ac-9495-1df2ea49e3af","name":"S.\u0b9c\u0bcb\u0ba4\u0bbf","education":"B.Sc Science & B.Ed","occupation":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd","age":"44","annual_income":"645,260","source_of_income":"Private Tutor","moveable_assets":"9,912,866","immoveable_assets":"263,496,490","total_assets":"273,409,356","liabilities":"21,254,638","net_assets":"252,154,718","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/JYOTHIS_Hosur.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TWO_LEAVES.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"1,690,901","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"1,843,678","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"400,879","spouse":"1,530,736","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"414,200","spouse":"1,278,952","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"645,260","spouse":"610,760","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fd1b61-463a-4e5f-b3fe-0e3c39652790","name":"S.EZHILAN","education":"12th pass","occupation":"Agricultural Labour","age":"39","annual_income":"0","source_of_income":"Agricultural Labour","moveable_assets":"388,000","immoveable_assets":"0","total_assets":"388,000","liabilities":"0","net_assets":"388,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_14.jpg","party":{"id":"VEERATH THIYAGI VISWANATHADOSS THOZHILALARGAL KATCHI","en_label":"VEERATH THIYAGI VISWANATHADOSS THOZHILALARGAL KATCHI","ta_label":"\u0bb5\u0bc0\u0bb0\u0ba4\u0bcd  \u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PASTEL_AND_MORTAR.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fd1b61-463a-4e5f-b3fe-0e3c39652790","name":"S.\u0b8e\u0bb4\u0bbf\u0bb2\u0ba9\u0bcd ","education":"12th pass","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0bb2\u0bbf ","age":"39","annual_income":"0","source_of_income":"Agricultural Labour","moveable_assets":"388,000","immoveable_assets":"0","total_assets":"388,000","liabilities":"0","net_assets":"388,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_14.jpg","party":{"id":"VEERATH THIYAGI VISWANATHADOSS THOZHILALARGAL KATCHI","en_label":"VEERATH THIYAGI VISWANATHADOSS THOZHILALARGAL KATCHI","ta_label":"\u0bb5\u0bc0\u0bb0\u0ba4\u0bcd  \u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PASTEL_AND_MORTAR.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0bb5\u0bc0\u0bb0\u0ba4\u0bcd  \u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0bb2\u0bbf ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0bb2\u0bbf ","cases_convicted_description":""}},{"en":{"candidate_id":"92f8fbfe-09f0-4e24-8c92-c01709ce7a7a","name":"S.Geethalakshmi","education":"B.Sc (Nursing)","occupation":"House Wife","age":"31","annual_income":"0","source_of_income":"House Wife","moveable_assets":"1,222,000","immoveable_assets":"0","total_assets":"1,222,000","liabilities":"0","net_assets":"1,222,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_7.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GANNA_KISAN.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"262,530","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"343,490","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"449,310","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"461,970","overall":"0"}]},"ta":{"candidate_id":"92f8fbfe-09f0-4e24-8c92-c01709ce7a7a","name":"S.\u0b95\u0bc0\u0ba4\u0bbe\u0bb2\u0b9f\u0bcd\u0b9a\u0bc1\u0bae\u0bbf ","education":"B.Sc (Nursing)","occupation":"\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bbf ","age":"31","annual_income":"0","source_of_income":"House Wife","moveable_assets":"1,222,000","immoveable_assets":"0","total_assets":"1,222,000","liabilities":"0","net_assets":"1,222,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_7.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GANNA_KISAN.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"262,530","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"343,490","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"449,310","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"461,970","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bbf ","cases_convicted_description":""}},{"en":{"candidate_id":"92f875df-ef91-4c6b-a2c1-560ee4f2ef3b","name":"L.Sundar","education":"Diploma in Electrical and Electronics Engineering","occupation":"Farmer","age":"32","annual_income":"0","source_of_income":"Farming","moveable_assets":"415,000","immoveable_assets":"5,000,000","total_assets":"5,415,000","liabilities":"0","net_assets":"5,415,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_2.jpg","party":{"id":"Shiv Sena","en_label":"Shiv Sena","ta_label":"\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BABY_WALKER.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f875df-ef91-4c6b-a2c1-560ee4f2ef3b","name":"L.\u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd ","education":"Diploma in Electrical and Electronics Engineering","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ","age":"32","annual_income":"0","source_of_income":"Farming","moveable_assets":"415,000","immoveable_assets":"5,000,000","total_assets":"5,415,000","liabilities":"0","net_assets":"5,415,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_2.jpg","party":{"id":"Shiv Sena","en_label":"Shiv Sena","ta_label":"\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BABY_WALKER.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ","cases_convicted_description":""}},{"en":{"candidate_id":"92fd1e53-796b-4370-9cc9-8e4d37463d01","name":"G.SELVAM","education":"12th pass","occupation":"Retired ","age":"59","annual_income":"0","source_of_income":"Retired pension","moveable_assets":"30,000","immoveable_assets":"3,000,000","total_assets":"3,030,000","liabilities":"0","net_assets":"3,030,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_16.jpg","party":{"id":"New Generation People's Party","en_label":"New Generation People's Party","ta_label":"\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/POT.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fd1e53-796b-4370-9cc9-8e4d37463d01","name":"G.\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd ","education":"12th pass","occupation":"\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd ","age":"59","annual_income":"0","source_of_income":"Retired pension","moveable_assets":"30,000","immoveable_assets":"3,000,000","total_assets":"3,030,000","liabilities":"0","net_assets":"3,030,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_16.jpg","party":{"id":"New Generation People's Party","en_label":"New Generation People's Party","ta_label":"\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/POT.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","self_source_of_income":"\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fd205b-b642-4767-85b1-3afbcaeab3b6","name":"S.MASOOD","education":"BBA., M.B.A.,","occupation":"S.S. Tours & Travels and Textiles","age":"29","annual_income":"343,670","source_of_income":"Business","moveable_assets":"1,947,000","immoveable_assets":"4,900,000","total_assets":"6,847,000","liabilities":"2,313,500","net_assets":"4,533,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_17.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATTERY_TORCH.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"327,680","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"343,670","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fd205b-b642-4767-85b1-3afbcaeab3b6","name":"S.\u0bae\u0b9a\u0bc2\u0ba4\u0bcd ","education":"BBA., M.B.A.,","occupation":"\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe \u0b8f\u0b9c\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd  \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","age":"29","annual_income":"343,670","source_of_income":"Business","moveable_assets":"1,947,000","immoveable_assets":"4,900,000","total_assets":"6,847,000","liabilities":"2,313,500","net_assets":"4,533,500","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_17.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATTERY_TORCH.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"327,680","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"343,670","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe \u0b8f\u0b9c\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd  \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fafb81-630a-4c73-b106-1e9ff5251b50","name":"M.MAREGOWDU","education":"M.A","occupation":"BUSINESS","age":"46","annual_income":"1,284,090","source_of_income":"BUSINESS","moveable_assets":"1,595,000","immoveable_assets":"56,900,000","total_assets":"58,495,000","liabilities":"13,158,311","net_assets":"45,336,689","no_of_criminal_cases":1,"cases_description":"Trafficking of Person. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_9.jpg","party":{"id":"Amma makkal munetra kalagam","en_label":"Amma makkal munetra kalagam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PRESSURE_COOKER.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"1,893,320","spouse":"780,000","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"1,874,795","spouse":"775,500","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"2,244,097","spouse":"826,650","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"1,738,730","spouse":"934,737","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"1,284,090","spouse":"1,237,344","overall":"60,000,000"}]},"ta":{"candidate_id":"92fafb81-630a-4c73-b106-1e9ff5251b50","name":"M.\u0bae\u0bbe\u0bb0\u0bc7\u0b95\u0bb5\u0bc1\u0b9f\u0bc1 ","education":"M.A","occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","age":"46","annual_income":"1,284,090","source_of_income":"BUSINESS","moveable_assets":"1,595,000","immoveable_assets":"56,900,000","total_assets":"58,495,000","liabilities":"13,158,311","net_assets":"45,336,689","no_of_criminal_cases":1,"cases_description":"\u0b87 .\u0baa\u0bbf .\u0b95\u0bcb .1860(U \/S 370). \u0b86\u0bb3\u0bcd  \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_9.jpg","party":{"id":"Amma makkal munetra kalagam","en_label":"Amma makkal munetra kalagam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PRESSURE_COOKER.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"1,893,320","spouse":"780,000","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"1,874,795","spouse":"775,500","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"2,244,097","spouse":"826,650","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"1,738,730","spouse":"934,737","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"1,284,090","spouse":"1,237,344","overall":"60,000,000"}],"other_party_name":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_pending_description":"\u0b87 .\u0baa\u0bbf .\u0b95\u0bcb .1860(U \/S 370)","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_convicted_description":"\u0b86\u0bb3\u0bcd  \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd "}},{"en":{"candidate_id":"93008f1f-1afd-4fe7-bbd8-5b04de9ddc6b","name":"G.Jayaseelan","education":"Illiterate","occupation":"Social Service","age":"45","annual_income":"0","source_of_income":"0","moveable_assets":"105,000","immoveable_assets":"2,000,000","total_assets":"2,105,000","liabilities":"40,000","net_assets":"2,065,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_28.jpg","party":{"id":"Anna Purachi Thalaivar Amma Thiravida Munneytra Kalagam","en_label":"Anna Purachi Thalaivar Amma Thiravida Munneytra Kalagam","ta_label":"\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/JACKFRUIT.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93008f1f-1afd-4fe7-bbd8-5b04de9ddc6b","name":"G.\u0b9c\u0bc6\u0baf\u0b9a\u0bc0\u0bb2\u0ba9\u0bcd ","education":"Illiterate","occupation":"\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8 ","age":"45","annual_income":"0","source_of_income":"0","moveable_assets":"105,000","immoveable_assets":"2,000,000","total_assets":"2,105,000","liabilities":"40,000","net_assets":"2,065,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_28.jpg","party":{"id":"Anna Purachi Thalaivar Amma Thiravida Munneytra Kalagam","en_label":"Anna Purachi Thalaivar Amma Thiravida Munneytra Kalagam","ta_label":"\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/JACKFRUIT.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","self_source_of_income":"\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8 ","cases_convicted_description":""}},{"en":{"candidate_id":"930089b5-8c53-499d-97b2-20498e3ed3bb","name":"R.Kishore Kumar","education":"12th","occupation":"Agriculture","age":"39","annual_income":"0","source_of_income":"0","moveable_assets":"320,000","immoveable_assets":"0","total_assets":"320,000","liabilities":"0","net_assets":"320,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_27.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/CAKE.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"930089b5-8c53-499d-97b2-20498e3ed3bb","name":"R.\u0b95\u0bbf\u0bb7\u0bcb\u0bb0\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd","education":"12th","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"39","annual_income":"0","source_of_income":"0","moveable_assets":"320,000","immoveable_assets":"0","total_assets":"320,000","liabilities":"0","net_assets":"320,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_27.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/CAKE.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"93009bf0-ac7c-49b3-a13d-d0cd168e56d7","name":"V.Geetha","education":"12th pass","occupation":"Business","age":"31","annual_income":"0","source_of_income":"Business","moveable_assets":"245,000","immoveable_assets":"0","total_assets":"245,000","liabilities":"0","net_assets":"245,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_31.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/DISH_ANTENNA.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93009bf0-ac7c-49b3-a13d-d0cd168e56d7","name":"V.\u0b95\u0bc0\u0ba4\u0bbe","education":"12th pass","occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","age":"31","annual_income":"0","source_of_income":"Business","moveable_assets":"245,000","immoveable_assets":"0","total_assets":"245,000","liabilities":"0","net_assets":"245,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_31.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/DISH_ANTENNA.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92f88895-a509-4518-ba34-e75cc35b6f4e","name":"R.Shanmugam","education":"LL.M,M.SC., M.D.(A,M)","occupation":"Advocate","age":"45","annual_income":"0","source_of_income":"Advocate","moveable_assets":"15,000","immoveable_assets":"6,000,000","total_assets":"6,015,000","liabilities":"0","net_assets":"6,015,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_3.jpg","party":{"id":"Aikiya Murppoku Tamilar Kazhagam","en_label":"Aikiya Murppoku Tamilar Kazhagam","ta_label":"\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":null},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f88895-a509-4518-ba34-e75cc35b6f4e","name":"R.\u0b87\u0bb0\u0bbe .\u0b9a\u0ba3\u0bcd\u0bae\u0bc1\u0b95\u0bae\u0bcd","education":"LL.M,M.SC., M.D.(A,M)","occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ","age":"45","annual_income":"0","source_of_income":"Advocate","moveable_assets":"15,000","immoveable_assets":"6,000,000","total_assets":"6,015,000","liabilities":"0","net_assets":"6,015,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_3.jpg","party":{"id":"Aikiya Murppoku Tamilar Kazhagam","en_label":"Aikiya Murppoku Tamilar Kazhagam","ta_label":"\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":null},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd ","self_source_of_income":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92f8f6a1-97f0-40e4-bac2-247fc3abd60d","name":"Y.Devappa","education":"10th standard","occupation":"Business","age":"53","annual_income":"0","source_of_income":"Business","moveable_assets":"375,000","immoveable_assets":"3,000,000","total_assets":"3,375,000","liabilities":"0","net_assets":"3,375,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_6.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/WATER_TANK.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f8f6a1-97f0-40e4-bac2-247fc3abd60d","name":"Y.\u0ba4\u0bc7\u0bb5\u0baa\u0bcd\u0baa\u0bbe \u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0bb1  \u0ba4\u0bc7\u0bb5\u0bc1\u0b9f\u0bbe ","education":"10th standard","occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","age":"53","annual_income":"0","source_of_income":"Business","moveable_assets":"375,000","immoveable_assets":"3,000,000","total_assets":"3,375,000","liabilities":"0","net_assets":"3,375,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_6.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/WATER_TANK.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"9300931c-1db9-4b48-99a4-419dec9afc9a","name":"N.Balaraju","education":" 11th","occupation":"Business","age":"47","annual_income":"0","source_of_income":"Business","moveable_assets":"328,500","immoveable_assets":"9,328,500","total_assets":"9,657,000","liabilities":"0","net_assets":"9,657,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_29.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/IRON.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"9300931c-1db9-4b48-99a4-419dec9afc9a","name":"N.\u0baa\u0bbe\u0bb2\u0bb0\u0bbe\u0b9c\u0bc1 ","education":" 11th","occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","age":"47","annual_income":"0","source_of_income":"Business","moveable_assets":"328,500","immoveable_assets":"9,328,500","total_assets":"9,657,000","liabilities":"0","net_assets":"9,657,000","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_29.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/IRON.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92ff8d40-2f32-49e9-ba55-dfea6de63324","name":"S.MUTHAMIZH MUDHALVAN","education":"B.A.","occupation":"Retired Deputy Superintendent of Police","age":"65","annual_income":"439,240","source_of_income":"Pension Holder","moveable_assets":"6,573,500","immoveable_assets":"3,700,000","total_assets":"10,273,500","liabilities":"0","net_assets":"10,273,500","no_of_criminal_cases":1,"cases_description":"Politically motivated this case filed against 17 members, some one printed the notice and distributed without my knowledge, later without any evidence the police have filed the case against me. I am ready to prove my innocence in this case at the time of trial (This case is in FIR stage). ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_25.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TRUCK.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"385,430","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"439,240","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92ff8d40-2f32-49e9-ba55-dfea6de63324","name":"S.\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0ba9\u0bcd ","education":"B.A.","occupation":"\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0ba4\u0bc1\u0ba3\u0bc8 \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd  \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf ","age":"65","annual_income":"439,240","source_of_income":"Pension Holder","moveable_assets":"6,573,500","immoveable_assets":"3,700,000","total_assets":"10,273,500","liabilities":"0","net_assets":"10,273,500","no_of_criminal_cases":1,"cases_description":"\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bc2\u0ba3\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_25.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TRUCK.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"385,430","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"439,240","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd","cases_pending_description":"\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bc2\u0ba3\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 ","self_education_description":"","self_profession_occupation":"\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0ba4\u0bc1\u0ba3\u0bc8 \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd  \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf ","cases_convicted_description":""}},{"en":{"candidate_id":"92fd1d0f-9cef-4402-9a11-7992bb2fee01","name":"R.K.MUTHU","education":"5th Standard ","occupation":"Auto driver","age":"46","annual_income":"0","source_of_income":"Auto driver","moveable_assets":"291,993.15","immoveable_assets":"700,000","total_assets":"991,993.15","liabilities":"0","net_assets":"991,993.15","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_15.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GRAPES.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fd1d0f-9cef-4402-9a11-7992bb2fee01","name":"R.K.\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 ","education":"5th Standard ","occupation":"\u0b86\u0b9f\u0bcd\u0b9f\u0bcb \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd ","age":"46","annual_income":"0","source_of_income":"Auto driver","moveable_assets":"291,993.15","immoveable_assets":"700,000","total_assets":"991,993.15","liabilities":"0","net_assets":"991,993.15","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_15.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GRAPES.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b86\u0b9f\u0bcd\u0b9f\u0bcb \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0b86\u0b9f\u0bcd\u0b9f\u0bcb \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"93009791-0d4f-4086-ae0d-d0bf19d0fd2f","name":"G.C.Ramasamy","education":"7th Std","occupation":"Farmer","age":"66","annual_income":"0","source_of_income":"farmer","moveable_assets":"587,500","immoveable_assets":"8,000,000","total_assets":"8,587,500","liabilities":"0","net_assets":"8,587,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_30.jpg","party":{"id":"Dravida N T R Anna TeluguDesam Party","en_label":"Dravida N T R Anna TeluguDesam Party","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b8e\u0ba9\u0bcd.\u0b9f\u0bbf.\u0b86\u0bb0\u0bcd. \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bc6\u0bb2\u0bc1\u0b95\u0bc1\u0ba4\u0bc7\u0b9a\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BEAD_NECKBANGLE.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"93009791-0d4f-4086-ae0d-d0bf19d0fd2f","name":"G.C.\u0bb0\u0bbe\u0bae\u0b9a\u0bbe\u0bae\u0bbf","education":"7th Std","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","age":"66","annual_income":"0","source_of_income":"farmer","moveable_assets":"587,500","immoveable_assets":"8,000,000","total_assets":"8,587,500","liabilities":"0","net_assets":"8,587,500","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_30.jpg","party":{"id":"Dravida N T R Anna TeluguDesam Party","en_label":"Dravida N T R Anna TeluguDesam Party","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b8e\u0ba9\u0bcd.\u0b9f\u0bbf.\u0b86\u0bb0\u0bcd. \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bc6\u0bb2\u0bc1\u0b95\u0bc1\u0ba4\u0bc7\u0b9a\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BEAD_NECKBANGLE.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b8e\u0ba9\u0bcd.\u0b9f\u0bbf.\u0b86\u0bb0\u0bcd. \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bc6\u0bb2\u0bc1\u0b95\u0bc1\u0ba4\u0bc7\u0b9a\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"930085f0-77de-4fed-bc29-9a620b33ca43","name":"V.Lokesh Kumar","education":"10th","occupation":"Business","age":"27","annual_income":"0","source_of_income":"Business","moveable_assets":"1,285,199","immoveable_assets":"0","total_assets":"1,285,199","liabilities":"0","net_assets":"1,285,199","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_26.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/ALMIRAH.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"930085f0-77de-4fed-bc29-9a620b33ca43","name":"V.\u0bb2\u0bcb\u0b95\u0bc7\u0bb7\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ","education":"10th","occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd  ","age":"27","annual_income":"0","source_of_income":"Business","moveable_assets":"1,285,199","immoveable_assets":"0","total_assets":"1,285,199","liabilities":"0","net_assets":"1,285,199","no_of_criminal_cases":0,"cases_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/HOSUR_26.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/ALMIRAH.JPG"},"thokuthi":{"constituency_id":"HOSUR","constituency_en_label":"Hosur","constituency_ta_label":"\u0b93\u0b9a\u0bc2\u0bb0\u0bcd","district_id":"KRISHNAGIRI","district_en_label":"Krishnagiri","district_ta_label":"\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd  ","cases_pending_description":"\u0b87\u0bb2\u0bcd\u0bb2\u0bc8","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd  ","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "92f87164-ed86-4ca3-af3e-213089d96dda",
+                "name": "Y.Prakaash",
+                "education": "10th pass",
+                "occupation": "Business (Brick manufacturing and Agriculture)",
+                "age": "56",
+                "annual_income": "567,962",
+                "source_of_income": "Business",
+                "moveable_assets": "10,052,745",
+                "immoveable_assets": "68,500,760",
+                "total_assets": "78,553,505",
+                "liabilities": "78,673,619",
+                "net_assets": "-120,114",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_1.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "637,137",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "654,620",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "692,900",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "567,962",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f87164-ed86-4ca3-af3e-213089d96dda",
+                "name": "Y.\u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb7\u0bcd ",
+                "education": "10th pass",
+                "occupation": "\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd \n(\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd )",
+                "age": "56",
+                "annual_income": "567,962",
+                "source_of_income": "Business",
+                "moveable_assets": "10,052,745",
+                "immoveable_assets": "68,500,760",
+                "total_assets": "78,553,505",
+                "liabilities": "78,673,619",
+                "net_assets": "-120,114",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_1.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "637,137",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "654,620",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "692,900",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "567,962",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd  (\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd )",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd \n(\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd )",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304db9b-35db-48ac-9495-1df2ea49e3af",
+                "name": "S.Jyothi",
+                "education": "B.Sc Science & B.Ed",
+                "occupation": "Private Tutor",
+                "age": "44",
+                "annual_income": "645,260",
+                "source_of_income": "Private Tutor",
+                "moveable_assets": "9,912,866",
+                "immoveable_assets": "263,496,490",
+                "total_assets": "273,409,356",
+                "liabilities": "21,254,638",
+                "net_assets": "252,154,718",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/JYOTHIS_Hosur.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "1,690,901",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "1,843,678",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "400,879",
+                        "spouse": "1,530,736",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "414,200",
+                        "spouse": "1,278,952",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "645,260",
+                        "spouse": "610,760",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304db9b-35db-48ac-9495-1df2ea49e3af",
+                "name": "S.\u0b9c\u0bcb\u0ba4\u0bbf",
+                "education": "B.Sc Science & B.Ed",
+                "occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd",
+                "age": "44",
+                "annual_income": "645,260",
+                "source_of_income": "Private Tutor",
+                "moveable_assets": "9,912,866",
+                "immoveable_assets": "263,496,490",
+                "total_assets": "273,409,356",
+                "liabilities": "21,254,638",
+                "net_assets": "252,154,718",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/JYOTHIS_Hosur.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "1,690,901",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "1,843,678",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "400,879",
+                        "spouse": "1,530,736",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "414,200",
+                        "spouse": "1,278,952",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "645,260",
+                        "spouse": "610,760",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fd1b61-463a-4e5f-b3fe-0e3c39652790",
+                "name": "S.EZHILAN",
+                "education": "12th pass",
+                "occupation": "Agricultural Labour",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "Agricultural Labour",
+                "moveable_assets": "388,000",
+                "immoveable_assets": "0",
+                "total_assets": "388,000",
+                "liabilities": "0",
+                "net_assets": "388,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_14.jpg",
+                "party": {
+                    "id": "VEERATH THIYAGI VISWANATHADOSS THOZHILALARGAL KATCHI",
+                    "en_label": "VEERATH THIYAGI VISWANATHADOSS THOZHILALARGAL KATCHI",
+                    "ta_label": "\u0bb5\u0bc0\u0bb0\u0ba4\u0bcd  \u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PASTEL_AND_MORTAR.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fd1b61-463a-4e5f-b3fe-0e3c39652790",
+                "name": "S.\u0b8e\u0bb4\u0bbf\u0bb2\u0ba9\u0bcd ",
+                "education": "12th pass",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0bb2\u0bbf ",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "Agricultural Labour",
+                "moveable_assets": "388,000",
+                "immoveable_assets": "0",
+                "total_assets": "388,000",
+                "liabilities": "0",
+                "net_assets": "388,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_14.jpg",
+                "party": {
+                    "id": "VEERATH THIYAGI VISWANATHADOSS THOZHILALARGAL KATCHI",
+                    "en_label": "VEERATH THIYAGI VISWANATHADOSS THOZHILALARGAL KATCHI",
+                    "ta_label": "\u0bb5\u0bc0\u0bb0\u0ba4\u0bcd  \u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PASTEL_AND_MORTAR.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0bb5\u0bc0\u0bb0\u0ba4\u0bcd  \u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f8fbfe-09f0-4e24-8c92-c01709ce7a7a",
+                "name": "S.Geethalakshmi",
+                "education": "B.Sc (Nursing)",
+                "occupation": "House Wife",
+                "age": "31",
+                "annual_income": "0",
+                "source_of_income": "House Wife",
+                "moveable_assets": "1,222,000",
+                "immoveable_assets": "0",
+                "total_assets": "1,222,000",
+                "liabilities": "0",
+                "net_assets": "1,222,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_7.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "262,530",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "343,490",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "449,310",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "461,970",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f8fbfe-09f0-4e24-8c92-c01709ce7a7a",
+                "name": "S.\u0b95\u0bc0\u0ba4\u0bbe\u0bb2\u0b9f\u0bcd\u0b9a\u0bc1\u0bae\u0bbf ",
+                "education": "B.Sc (Nursing)",
+                "occupation": "\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bbf ",
+                "age": "31",
+                "annual_income": "0",
+                "source_of_income": "House Wife",
+                "moveable_assets": "1,222,000",
+                "immoveable_assets": "0",
+                "total_assets": "1,222,000",
+                "liabilities": "0",
+                "net_assets": "1,222,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_7.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "262,530",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "343,490",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "449,310",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "461,970",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f875df-ef91-4c6b-a2c1-560ee4f2ef3b",
+                "name": "L.Sundar",
+                "education": "Diploma in Electrical and Electronics Engineering",
+                "occupation": "Farmer",
+                "age": "32",
+                "annual_income": "0",
+                "source_of_income": "Farming",
+                "moveable_assets": "415,000",
+                "immoveable_assets": "5,000,000",
+                "total_assets": "5,415,000",
+                "liabilities": "0",
+                "net_assets": "5,415,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_2.jpg",
+                "party": {
+                    "id": "Shiv Sena",
+                    "en_label": "Shiv Sena",
+                    "ta_label": "\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BABY_WALKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f875df-ef91-4c6b-a2c1-560ee4f2ef3b",
+                "name": "L.\u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd ",
+                "education": "Diploma in Electrical and Electronics Engineering",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "age": "32",
+                "annual_income": "0",
+                "source_of_income": "Farming",
+                "moveable_assets": "415,000",
+                "immoveable_assets": "5,000,000",
+                "total_assets": "5,415,000",
+                "liabilities": "0",
+                "net_assets": "5,415,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_2.jpg",
+                "party": {
+                    "id": "Shiv Sena",
+                    "en_label": "Shiv Sena",
+                    "ta_label": "\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BABY_WALKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fd1e53-796b-4370-9cc9-8e4d37463d01",
+                "name": "G.SELVAM",
+                "education": "12th pass",
+                "occupation": "Retired ",
+                "age": "59",
+                "annual_income": "0",
+                "source_of_income": "Retired pension",
+                "moveable_assets": "30,000",
+                "immoveable_assets": "3,000,000",
+                "total_assets": "3,030,000",
+                "liabilities": "0",
+                "net_assets": "3,030,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_16.jpg",
+                "party": {
+                    "id": "New Generation People's Party",
+                    "en_label": "New Generation People's Party",
+                    "ta_label": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fd1e53-796b-4370-9cc9-8e4d37463d01",
+                "name": "G.\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd ",
+                "education": "12th pass",
+                "occupation": "\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd ",
+                "age": "59",
+                "annual_income": "0",
+                "source_of_income": "Retired pension",
+                "moveable_assets": "30,000",
+                "immoveable_assets": "3,000,000",
+                "total_assets": "3,030,000",
+                "liabilities": "0",
+                "net_assets": "3,030,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_16.jpg",
+                "party": {
+                    "id": "New Generation People's Party",
+                    "en_label": "New Generation People's Party",
+                    "ta_label": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                "self_source_of_income": "\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fd205b-b642-4767-85b1-3afbcaeab3b6",
+                "name": "S.MASOOD",
+                "education": "BBA., M.B.A.,",
+                "occupation": "S.S. Tours & Travels and Textiles",
+                "age": "29",
+                "annual_income": "343,670",
+                "source_of_income": "Business",
+                "moveable_assets": "1,947,000",
+                "immoveable_assets": "4,900,000",
+                "total_assets": "6,847,000",
+                "liabilities": "2,313,500",
+                "net_assets": "4,533,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_17.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "327,680",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "343,670",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fd205b-b642-4767-85b1-3afbcaeab3b6",
+                "name": "S.\u0bae\u0b9a\u0bc2\u0ba4\u0bcd ",
+                "education": "BBA., M.B.A.,",
+                "occupation": "\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe \u0b8f\u0b9c\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd  \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "age": "29",
+                "annual_income": "343,670",
+                "source_of_income": "Business",
+                "moveable_assets": "1,947,000",
+                "immoveable_assets": "4,900,000",
+                "total_assets": "6,847,000",
+                "liabilities": "2,313,500",
+                "net_assets": "4,533,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_17.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "327,680",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "343,670",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe \u0b8f\u0b9c\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd  \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fafb81-630a-4c73-b106-1e9ff5251b50",
+                "name": "M.MAREGOWDU",
+                "education": "M.A",
+                "occupation": "BUSINESS",
+                "age": "46",
+                "annual_income": "1,284,090",
+                "source_of_income": "BUSINESS",
+                "moveable_assets": "1,595,000",
+                "immoveable_assets": "56,900,000",
+                "total_assets": "58,495,000",
+                "liabilities": "13,158,311",
+                "net_assets": "45,336,689",
+                "no_of_criminal_cases": 1,
+                "cases_description": "Trafficking of Person. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_9.jpg",
+                "party": {
+                    "id": "Amma makkal munetra kalagam",
+                    "en_label": "Amma makkal munetra kalagam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "1,893,320",
+                        "spouse": "780,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "1,874,795",
+                        "spouse": "775,500",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "2,244,097",
+                        "spouse": "826,650",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,738,730",
+                        "spouse": "934,737",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,284,090",
+                        "spouse": "1,237,344",
+                        "overall": "60,000,000"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fafb81-630a-4c73-b106-1e9ff5251b50",
+                "name": "M.\u0bae\u0bbe\u0bb0\u0bc7\u0b95\u0bb5\u0bc1\u0b9f\u0bc1 ",
+                "education": "M.A",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "age": "46",
+                "annual_income": "1,284,090",
+                "source_of_income": "BUSINESS",
+                "moveable_assets": "1,595,000",
+                "immoveable_assets": "56,900,000",
+                "total_assets": "58,495,000",
+                "liabilities": "13,158,311",
+                "net_assets": "45,336,689",
+                "no_of_criminal_cases": 1,
+                "cases_description": "\u0b87 .\u0baa\u0bbf .\u0b95\u0bcb .1860(U /S 370). \u0b86\u0bb3\u0bcd  \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_9.jpg",
+                "party": {
+                    "id": "Amma makkal munetra kalagam",
+                    "en_label": "Amma makkal munetra kalagam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "1,893,320",
+                        "spouse": "780,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "1,874,795",
+                        "spouse": "775,500",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "2,244,097",
+                        "spouse": "826,650",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,738,730",
+                        "spouse": "934,737",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,284,090",
+                        "spouse": "1,237,344",
+                        "overall": "60,000,000"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87 .\u0baa\u0bbf .\u0b95\u0bcb .1860(U /S 370)",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_convicted_description": "\u0b86\u0bb3\u0bcd  \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd "
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93008f1f-1afd-4fe7-bbd8-5b04de9ddc6b",
+                "name": "G.Jayaseelan",
+                "education": "Illiterate",
+                "occupation": "Social Service",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "0",
+                "moveable_assets": "105,000",
+                "immoveable_assets": "2,000,000",
+                "total_assets": "2,105,000",
+                "liabilities": "40,000",
+                "net_assets": "2,065,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_28.jpg",
+                "party": {
+                    "id": "Anna Purachi Thalaivar Amma Thiravida Munneytra Kalagam",
+                    "en_label": "Anna Purachi Thalaivar Amma Thiravida Munneytra Kalagam",
+                    "ta_label": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/JACKFRUIT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93008f1f-1afd-4fe7-bbd8-5b04de9ddc6b",
+                "name": "G.\u0b9c\u0bc6\u0baf\u0b9a\u0bc0\u0bb2\u0ba9\u0bcd ",
+                "education": "Illiterate",
+                "occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8 ",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "0",
+                "moveable_assets": "105,000",
+                "immoveable_assets": "2,000,000",
+                "total_assets": "2,105,000",
+                "liabilities": "40,000",
+                "net_assets": "2,065,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_28.jpg",
+                "party": {
+                    "id": "Anna Purachi Thalaivar Amma Thiravida Munneytra Kalagam",
+                    "en_label": "Anna Purachi Thalaivar Amma Thiravida Munneytra Kalagam",
+                    "ta_label": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/JACKFRUIT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                "self_source_of_income": "\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8 ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "930089b5-8c53-499d-97b2-20498e3ed3bb",
+                "name": "R.Kishore Kumar",
+                "education": "12th",
+                "occupation": "Agriculture",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "0",
+                "moveable_assets": "320,000",
+                "immoveable_assets": "0",
+                "total_assets": "320,000",
+                "liabilities": "0",
+                "net_assets": "320,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_27.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CAKE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "930089b5-8c53-499d-97b2-20498e3ed3bb",
+                "name": "R.\u0b95\u0bbf\u0bb7\u0bcb\u0bb0\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+                "education": "12th",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "0",
+                "moveable_assets": "320,000",
+                "immoveable_assets": "0",
+                "total_assets": "320,000",
+                "liabilities": "0",
+                "net_assets": "320,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_27.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CAKE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93009bf0-ac7c-49b3-a13d-d0cd168e56d7",
+                "name": "V.Geetha",
+                "education": "12th pass",
+                "occupation": "Business",
+                "age": "31",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "245,000",
+                "immoveable_assets": "0",
+                "total_assets": "245,000",
+                "liabilities": "0",
+                "net_assets": "245,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_31.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DISH_ANTENNA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93009bf0-ac7c-49b3-a13d-d0cd168e56d7",
+                "name": "V.\u0b95\u0bc0\u0ba4\u0bbe",
+                "education": "12th pass",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "age": "31",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "245,000",
+                "immoveable_assets": "0",
+                "total_assets": "245,000",
+                "liabilities": "0",
+                "net_assets": "245,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_31.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DISH_ANTENNA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f88895-a509-4518-ba34-e75cc35b6f4e",
+                "name": "R.Shanmugam",
+                "education": "LL.M,M.SC., M.D.(A,M)",
+                "occupation": "Advocate",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "Advocate",
+                "moveable_assets": "15,000",
+                "immoveable_assets": "6,000,000",
+                "total_assets": "6,015,000",
+                "liabilities": "0",
+                "net_assets": "6,015,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_3.jpg",
+                "party": {
+                    "id": "Aikiya Murppoku Tamilar Kazhagam",
+                    "en_label": "Aikiya Murppoku Tamilar Kazhagam",
+                    "ta_label": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SETHOSCOPE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f88895-a509-4518-ba34-e75cc35b6f4e",
+                "name": "R.\u0b87\u0bb0\u0bbe .\u0b9a\u0ba3\u0bcd\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+                "education": "LL.M,M.SC., M.D.(A,M)",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "Advocate",
+                "moveable_assets": "15,000",
+                "immoveable_assets": "6,000,000",
+                "total_assets": "6,015,000",
+                "liabilities": "0",
+                "net_assets": "6,015,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_3.jpg",
+                "party": {
+                    "id": "Aikiya Murppoku Tamilar Kazhagam",
+                    "en_label": "Aikiya Murppoku Tamilar Kazhagam",
+                    "ta_label": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SETHOSCOPE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f8f6a1-97f0-40e4-bac2-247fc3abd60d",
+                "name": "Y.Devappa",
+                "education": "10th standard",
+                "occupation": "Business",
+                "age": "53",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "375,000",
+                "immoveable_assets": "3,000,000",
+                "total_assets": "3,375,000",
+                "liabilities": "0",
+                "net_assets": "3,375,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_6.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WATER_TANK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f8f6a1-97f0-40e4-bac2-247fc3abd60d",
+                "name": "Y.\u0ba4\u0bc7\u0bb5\u0baa\u0bcd\u0baa\u0bbe \u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0bb1  \u0ba4\u0bc7\u0bb5\u0bc1\u0b9f\u0bbe ",
+                "education": "10th standard",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "age": "53",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "375,000",
+                "immoveable_assets": "3,000,000",
+                "total_assets": "3,375,000",
+                "liabilities": "0",
+                "net_assets": "3,375,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_6.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WATER_TANK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9300931c-1db9-4b48-99a4-419dec9afc9a",
+                "name": "N.Balaraju",
+                "education": " 11th",
+                "occupation": "Business",
+                "age": "47",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "328,500",
+                "immoveable_assets": "9,328,500",
+                "total_assets": "9,657,000",
+                "liabilities": "0",
+                "net_assets": "9,657,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_29.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/IRON.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9300931c-1db9-4b48-99a4-419dec9afc9a",
+                "name": "N.\u0baa\u0bbe\u0bb2\u0bb0\u0bbe\u0b9c\u0bc1 ",
+                "education": " 11th",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "age": "47",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "328,500",
+                "immoveable_assets": "9,328,500",
+                "total_assets": "9,657,000",
+                "liabilities": "0",
+                "net_assets": "9,657,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_29.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/IRON.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff8d40-2f32-49e9-ba55-dfea6de63324",
+                "name": "S.MUTHAMIZH MUDHALVAN",
+                "education": "B.A.",
+                "occupation": "Retired Deputy Superintendent of Police",
+                "age": "65",
+                "annual_income": "439,240",
+                "source_of_income": "Pension Holder",
+                "moveable_assets": "6,573,500",
+                "immoveable_assets": "3,700,000",
+                "total_assets": "10,273,500",
+                "liabilities": "0",
+                "net_assets": "10,273,500",
+                "no_of_criminal_cases": 1,
+                "cases_description": "Politically motivated this case filed against 17 members, some one printed the notice and distributed without my knowledge, later without any evidence the police have filed the case against me. I am ready to prove my innocence in this case at the time of trial (This case is in FIR stage). ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_25.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TRUCK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "385,430",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "439,240",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff8d40-2f32-49e9-ba55-dfea6de63324",
+                "name": "S.\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0ba9\u0bcd ",
+                "education": "B.A.",
+                "occupation": "\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0ba4\u0bc1\u0ba3\u0bc8 \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd  \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf ",
+                "age": "65",
+                "annual_income": "439,240",
+                "source_of_income": "Pension Holder",
+                "moveable_assets": "6,573,500",
+                "immoveable_assets": "3,700,000",
+                "total_assets": "10,273,500",
+                "liabilities": "0",
+                "net_assets": "10,273,500",
+                "no_of_criminal_cases": 1,
+                "cases_description": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bc2\u0ba3\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_25.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TRUCK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "385,430",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "439,240",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd",
+                "cases_pending_description": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bc2\u0ba3\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b93\u0baf\u0bcd\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0ba4\u0bc1\u0ba3\u0bc8 \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd  \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fd1d0f-9cef-4402-9a11-7992bb2fee01",
+                "name": "R.K.MUTHU",
+                "education": "5th Standard ",
+                "occupation": "Auto driver",
+                "age": "46",
+                "annual_income": "0",
+                "source_of_income": "Auto driver",
+                "moveable_assets": "291,993.15",
+                "immoveable_assets": "700,000",
+                "total_assets": "991,993.15",
+                "liabilities": "0",
+                "net_assets": "991,993.15",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_15.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GRAPES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fd1d0f-9cef-4402-9a11-7992bb2fee01",
+                "name": "R.K.\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 ",
+                "education": "5th Standard ",
+                "occupation": "\u0b86\u0b9f\u0bcd\u0b9f\u0bcb \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd ",
+                "age": "46",
+                "annual_income": "0",
+                "source_of_income": "Auto driver",
+                "moveable_assets": "291,993.15",
+                "immoveable_assets": "700,000",
+                "total_assets": "991,993.15",
+                "liabilities": "0",
+                "net_assets": "991,993.15",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_15.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GRAPES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b86\u0b9f\u0bcd\u0b9f\u0bcb \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b86\u0b9f\u0bcd\u0b9f\u0bcb \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93009791-0d4f-4086-ae0d-d0bf19d0fd2f",
+                "name": "G.C.Ramasamy",
+                "education": "7th Std",
+                "occupation": "Farmer",
+                "age": "66",
+                "annual_income": "0",
+                "source_of_income": "farmer",
+                "moveable_assets": "587,500",
+                "immoveable_assets": "8,000,000",
+                "total_assets": "8,587,500",
+                "liabilities": "0",
+                "net_assets": "8,587,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_30.jpg",
+                "party": {
+                    "id": "Dravida N T R Anna TeluguDesam Party",
+                    "en_label": "Dravida N T R Anna TeluguDesam Party",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b8e\u0ba9\u0bcd.\u0b9f\u0bbf.\u0b86\u0bb0\u0bcd. \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bc6\u0bb2\u0bc1\u0b95\u0bc1\u0ba4\u0bc7\u0b9a\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BEAD_NECKBANGLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93009791-0d4f-4086-ae0d-d0bf19d0fd2f",
+                "name": "G.C.\u0bb0\u0bbe\u0bae\u0b9a\u0bbe\u0bae\u0bbf",
+                "education": "7th Std",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "66",
+                "annual_income": "0",
+                "source_of_income": "farmer",
+                "moveable_assets": "587,500",
+                "immoveable_assets": "8,000,000",
+                "total_assets": "8,587,500",
+                "liabilities": "0",
+                "net_assets": "8,587,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_30.jpg",
+                "party": {
+                    "id": "Dravida N T R Anna TeluguDesam Party",
+                    "en_label": "Dravida N T R Anna TeluguDesam Party",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b8e\u0ba9\u0bcd.\u0b9f\u0bbf.\u0b86\u0bb0\u0bcd. \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bc6\u0bb2\u0bc1\u0b95\u0bc1\u0ba4\u0bc7\u0b9a\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BEAD_NECKBANGLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0b8e\u0ba9\u0bcd.\u0b9f\u0bbf.\u0b86\u0bb0\u0bcd. \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bc6\u0bb2\u0bc1\u0b95\u0bc1\u0ba4\u0bc7\u0b9a\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "930085f0-77de-4fed-bc29-9a620b33ca43",
+                "name": "V.Lokesh Kumar",
+                "education": "10th",
+                "occupation": "Business",
+                "age": "27",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "1,285,199",
+                "immoveable_assets": "0",
+                "total_assets": "1,285,199",
+                "liabilities": "0",
+                "net_assets": "1,285,199",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_26.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ALMIRAH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "930085f0-77de-4fed-bc29-9a620b33ca43",
+                "name": "V.\u0bb2\u0bcb\u0b95\u0bc7\u0bb7\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ",
+                "education": "10th",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd  ",
+                "age": "27",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "1,285,199",
+                "immoveable_assets": "0",
+                "total_assets": "1,285,199",
+                "liabilities": "0",
+                "net_assets": "1,285,199",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/HOSUR_26.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ALMIRAH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "HOSUR",
+                    "constituency_en_label": "Hosur",
+                    "constituency_ta_label": "\u0b93\u0b9a\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KRISHNAGIRI",
+                    "district_en_label": "Krishnagiri",
+                    "district_ta_label": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0b95\u0bbf\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd  ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd  ",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

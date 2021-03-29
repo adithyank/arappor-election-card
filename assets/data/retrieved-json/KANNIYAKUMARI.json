@@ -1,1 +1,1886 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"92fb086e-91a3-4fda-af13-409b6bb6fd0d","name":"S.Austin","education":"MA","occupation":"MLA","age":"62","annual_income":"495,500","source_of_income":"MLA salary and MP pension","moveable_assets":"1,242,398","immoveable_assets":"9,000,000","total_assets":"10,242,398","liabilities":"1,700,150","net_assets":"8,542,248","no_of_criminal_cases":10,"cases_description":"Member of an unlawful assembly,  Disobedience to order duly promulgated by public servant, Disobedience to quarantine rule, Wrongful restraint, Malignant act likely to spread infection of disease dangerous to life, Public nuisance, . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_6.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/RISING_SUN.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"459,842","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"460,530","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"534,631","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"495,500","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fb086e-91a3-4fda-af13-409b6bb6fd0d","name":"S.\u0b86\u0bb8\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd","education":"MA","occupation":"\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd","age":"62","annual_income":"495,500","source_of_income":"MLA salary and MP pension","moveable_assets":"1,242,398","immoveable_assets":"9,000,000","total_assets":"10,242,398","liabilities":"1,700,150","net_assets":"8,542,248","no_of_criminal_cases":10,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_6.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/RISING_SUN.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"459,842","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"460,530","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"534,631","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"495,500","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd, \u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fed552-1b41-4b9e-9dda-2ee8845230fc","name":"C.J.SUTHARMAN","education":"B.A.,B.L.","occupation":"ADVOCATE AND NOTARY PUBLIC OFFICER","age":"35","annual_income":"242,520","source_of_income":"Income from Advocate Profession","moveable_assets":"972,223","immoveable_assets":"0","total_assets":"972,223","liabilities":"161,000","net_assets":"811,223","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_11.jpg","party":{"id":"Bahujan Samaj Party","short_name":"BSP","ta_label":"\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Bahujan Samaj Party","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/ELEPHANT.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"242,520","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fed552-1b41-4b9e-9dda-2ee8845230fc","name":"C.J.\u0b9a\u0bc1\u0ba4\u0bb0\u0bcd\u0bae\u0ba9\u0bcd","education":"B.A.,B.L.","occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd, \u0ba8\u0bcb\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf \u0baa\u0baa\u0bcd\u0bb3\u0bbf\u0b95\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd","age":"35","annual_income":"242,520","source_of_income":"Income from Advocate Profession","moveable_assets":"972,223","immoveable_assets":"0","total_assets":"972,223","liabilities":"161,000","net_assets":"811,223","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_11.jpg","party":{"id":"Bahujan Samaj Party","short_name":"BSP","ta_label":"\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Bahujan Samaj Party","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/ELEPHANT.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"242,520","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd, \u0ba8\u0bcb\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf \u0baa\u0baa\u0bcd\u0bb3\u0bbf\u0b95\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92f6dad4-8ca2-4408-b767-0d3497cd1df8","name":"N.THALAVAI SUNDARAM","education":"B.Sc, B.L.","occupation":"ADVOCATE","age":"62","annual_income":"1,142,160","source_of_income":"SELF PROFESSION & PENSION","moveable_assets":"11,570,097","immoveable_assets":"8,400,000","total_assets":"19,970,097","liabilities":"784,142","net_assets":"19,185,955","no_of_criminal_cases":1,"cases_description":"IPC 183 - Resistance to be taking of property by the lawful authority of a public servant.\nIPC186 - Obstructing public servant in discharge of public functions.\nIPC 189 - Threat of injury to public servant.\nIPC 448 - Punishment for house trespass. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_1.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TWO_LEAVES.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"2,887,668","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"1,667,389","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"1,631,859","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"1,142,160","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f6dad4-8ca2-4408-b767-0d3497cd1df8","name":"N.\u0ba4\u0bb3\u0bb5\u0bbe\u0baf\u0bcd \u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0\u0bae\u0bcd ","education":"B.Sc, B.L.","occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \n","age":"62","annual_income":"1,142,160","source_of_income":"SELF PROFESSION & PENSION","moveable_assets":"11,570,097","immoveable_assets":"8,400,000","total_assets":"19,970,097","liabilities":"784,142","net_assets":"19,185,955","no_of_criminal_cases":1,"cases_description":"\u0b90\u0baa\u0bbf\u0b9a\u0bbf 183 - \u0b92\u0bb0\u0bc1 \u0baa\u0bca\u0ba4\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1. \u0b90\u0baa\u0bbf\u0b9a\u0bbf 186 - \u0baa\u0bca\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. \u0b90\u0baa\u0bbf\u0b9a\u0bbf 189 - \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. \u0b90\u0baa\u0bbf\u0b9a\u0bbf 448 - \u0bb9\u0bb5\u0bc1\u0bb8\u0bcd \u0b9f\u0bcd\u0bb0\u0bc6\u0bb8\u0bcd\u0baa\u0bbe\u0bb8\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8\n. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_1.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TWO_LEAVES.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"2,887,668","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"1,667,389","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"1,631,859","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"1,142,160","spouse":"0","overall":"0"}],"self_source_of_income":"\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd, \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd ","cases_pending_description":"\u0b90\u0baa\u0bbf\u0b9a\u0bbf 183 - \u0b92\u0bb0\u0bc1 \u0baa\u0bca\u0ba4\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1. \u0b90\u0baa\u0bbf\u0b9a\u0bbf 186 - \u0baa\u0bca\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. \u0b90\u0baa\u0bbf\u0b9a\u0bbf 189 - \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. \u0b90\u0baa\u0bbf\u0b9a\u0bbf 448 - \u0bb9\u0bb5\u0bc1\u0bb8\u0bcd \u0b9f\u0bcd\u0bb0\u0bc6\u0bb8\u0bcd\u0baa\u0bbe\u0bb8\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8\n","self_education_description":"","self_profession_occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \n","cases_convicted_description":""}},{"en":{"candidate_id":"92feae62-8c9a-479b-9507-0751c1c07c35","name":"R.SASIKALA","education":"12th pass","occupation":"Daily Wages","age":"39","annual_income":"0","source_of_income":"Daily wages","moveable_assets":"31,000","immoveable_assets":"0","total_assets":"31,000","liabilities":"135,000","net_assets":"-104,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_17.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92feae62-8c9a-479b-9507-0751c1c07c35","name":"R.R.SASIKALA","education":"12th pass","occupation":"Daily Wages","age":"39","annual_income":"0","source_of_income":"Daily wages","moveable_assets":"31,000","immoveable_assets":"0","total_assets":"31,000","liabilities":"135,000","net_assets":"-104,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_17.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":""},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]}},{"en":{"candidate_id":"92fae7b7-1f7e-4692-8317-5ddd396ca4e5","name":"P.SENTHIL MURUGAN","education":"B.E, L.L.B","occupation":"ADVOCATE","age":"39","annual_income":"497,000","source_of_income":"ADVOCATE","moveable_assets":"16,375,000","immoveable_assets":"20,000,000","total_assets":"36,375,000","liabilities":"9,800,000","net_assets":"26,575,000","no_of_criminal_cases":1,"cases_description":"Family Related Issue. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_5.jpg","party":{"id":"AMMA MAKKAL MUNNETTRA KAZHAGAM","en_label":"AMMA MAKKAL MUNNETTRA KAZHAGAM","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PRESSURE_COOKER.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"493,260","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"594,800","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"875,350","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"494,603","spouse":"590,210","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"497,000","spouse":"490,500","overall":"0"}]},"ta":{"candidate_id":"92fae7b7-1f7e-4692-8317-5ddd396ca4e5","name":"P.\u0baa\u0bbf \u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd  ","education":"B.E, L.L.B","occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \n","age":"39","annual_income":"497,000","source_of_income":"ADVOCATE","moveable_assets":"16,375,000","immoveable_assets":"20,000,000","total_assets":"36,375,000","liabilities":"9,800,000","net_assets":"26,575,000","no_of_criminal_cases":1,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_5.jpg","party":{"id":"AMMA MAKKAL MUNNETTRA KAZHAGAM","en_label":"AMMA MAKKAL MUNNETTRA KAZHAGAM","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PRESSURE_COOKER.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"493,260","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"594,800","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"875,350","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"494,603","spouse":"590,210","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"497,000","spouse":"490,500","overall":"0"}],"other_party_name":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","self_source_of_income":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \n","cases_convicted_description":""}},{"en":{"candidate_id":"92fadeea-636f-4336-96ff-e7cafbf45e3f","name":"P.T.SELVAKUMAR","education":"B.A., L.L.B.","occupation":"CINEMA  PRODUCTION","age":"55","annual_income":"1,268,119","source_of_income":"CINEMA  PRODUCTION","moveable_assets":"5,032,115","immoveable_assets":"53,897,100","total_assets":"58,929,215","liabilities":"6,225,000","net_assets":"52,704,215","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_4.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATTERY_TORCH.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"1,916,356","spouse":"541,969","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"1,096,186","spouse":"459,724","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"1,079,648","spouse":"477,651","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"1,268,119","spouse":"577,556","overall":"0"}]},"ta":{"candidate_id":"92fadeea-636f-4336-96ff-e7cafbf45e3f","name":"P.T.\u0baa\u0bbf \u0b9f\u0bbf \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ","education":"B.A., L.L.B.","occupation":"\u0b9a\u0bbf\u0ba9\u0bbf\u0bae\u0bbe \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \n","age":"55","annual_income":"1,268,119","source_of_income":"CINEMA  PRODUCTION","moveable_assets":"5,032,115","immoveable_assets":"53,897,100","total_assets":"58,929,215","liabilities":"6,225,000","net_assets":"52,704,215","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_4.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATTERY_TORCH.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"1,916,356","spouse":"541,969","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"1,096,186","spouse":"459,724","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"1,079,648","spouse":"477,651","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"1,268,119","spouse":"577,556","overall":"0"}],"self_source_of_income":"\u0b9a\u0bbf\u0ba9\u0bbf\u0bae\u0bbe \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b9a\u0bbf\u0ba9\u0bbf\u0bae\u0bbe \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \n","cases_convicted_description":""}},{"en":{"candidate_id":"92feb121-c44a-464b-ba3c-dbe494f5c126","name":"A.AUGUSTIN","education":"Diploma in Electronic Communication","occupation":"Daily wage worker","age":"26","annual_income":"0","source_of_income":"Daily wage","moveable_assets":"26,000","immoveable_assets":"0","total_assets":"26,000","liabilities":"0","net_assets":"26,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_9.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/DIAMOND.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92feb121-c44a-464b-ba3c-dbe494f5c126","name":"A.\u0b85\u0b95\u0bb8\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd","education":"Diploma in Electronic Communication","occupation":"\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bc2\u0bb2\u0bbf","age":"26","annual_income":"0","source_of_income":"Daily wage","moveable_assets":"26,000","immoveable_assets":"0","total_assets":"26,000","liabilities":"0","net_assets":"26,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_9.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/DIAMOND.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bc2\u0bb2\u0bbf","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bc2\u0bb2\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92feb138-13bc-4d69-92ba-d2e39cbfb7f2","name":"Y.SUNDARANATHAN","education":"10th pass","occupation":"Heavy vechicle driver","age":"46","annual_income":"0","source_of_income":"Heavy vechicle driver","moveable_assets":"200,000","immoveable_assets":"0","total_assets":"200,000","liabilities":"0","net_assets":"200,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_18.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/ENVELOP.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92feb138-13bc-4d69-92ba-d2e39cbfb7f2","name":"Y.\u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0\u0ba8\u0bbe\u0ba4\u0ba9\u0bcd","education":"10th pass","occupation":"\u0b95\u0ba9\u0bb0\u0b95 \u0bb5\u0bbe\u0b95\u0ba9 \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd","age":"46","annual_income":"0","source_of_income":"Heavy vechicle driver","moveable_assets":"200,000","immoveable_assets":"0","total_assets":"200,000","liabilities":"0","net_assets":"200,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_18.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/ENVELOP.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0ba9\u0bb0\u0b95 \u0bb5\u0bbe\u0b95\u0ba9 \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b95\u0ba9\u0bb0\u0b95 \u0bb5\u0bbe\u0b95\u0ba9 \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92feb562-4ea4-4141-82e8-a8be7051ccd6","name":"S.SUBASH","education":"10th pass","occupation":"Vegetable Business","age":"39","annual_income":"0","source_of_income":"Vegetable Business","moveable_assets":"1,664,000","immoveable_assets":"1,600,000","total_assets":"3,264,000","liabilities":"0","net_assets":"3,264,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_20.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GREEN_CHILLES.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92feb562-4ea4-4141-82e8-a8be7051ccd6","name":"S.\u0b9a\u0bc1\u0baa\u0bbe\u0bb7\u0bcd","education":"10th pass","occupation":"\u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf","age":"39","annual_income":"0","source_of_income":"Vegetable Business","moveable_assets":"1,664,000","immoveable_assets":"1,600,000","total_assets":"3,264,000","liabilities":"0","net_assets":"3,264,000","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_20.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GREEN_CHILLES.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92fe9a53-85dc-4fc3-a58d-681a582f7085","name":"I.CHELLAIAHPILLAI","education":"10th pass","occupation":"Farmer","age":"42","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"1,201,027","immoveable_assets":"100,000","total_assets":"1,301,027","liabilities":"873,000","net_assets":"428,027","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_14.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BINOCULARS.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fe9a53-85dc-4fc3-a58d-681a582f7085","name":"I.I.CHELLAIAHPILLAI","education":"10th pass","occupation":"Farmer","age":"42","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"1,201,027","immoveable_assets":"100,000","total_assets":"1,301,027","liabilities":"873,000","net_assets":"428,027","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_14.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BINOCULARS.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]}},{"en":{"candidate_id":"92fe93a8-70c6-4de7-b5d1-abdb12198de5","name":"S.THANUNEELAN","education":"ITI Motor Mechnanic","occupation":"Employee","age":"27","annual_income":"0","source_of_income":"Employee","moveable_assets":"80,300","immoveable_assets":"0","total_assets":"80,300","liabilities":"0","net_assets":"80,300","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_13.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATSMAN.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fe93a8-70c6-4de7-b5d1-abdb12198de5","name":"S.\u0ba4\u0ba9\u0bc1\u0ba8\u0bc0\u0bb2\u0ba9\u0bcd","education":"ITI Motor Mechnanic","occupation":"\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd","age":"27","annual_income":"0","source_of_income":"Employee","moveable_assets":"80,300","immoveable_assets":"0","total_assets":"80,300","liabilities":"0","net_assets":"80,300","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_13.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATSMAN.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bae\u0bbe\u0ba4 \u0b8a\u0ba4\u0bbf\u0baf\u0bae\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fec0c7-c2e6-4a42-b0e9-bbcb2880abbd","name":"N.MAKESH","education":"9th standard","occupation":"Business","age":"43","annual_income":"0","source_of_income":"Business","moveable_assets":"1,082,037","immoveable_assets":"2,310,000","total_assets":"3,392,037","liabilities":"0","net_assets":"3,392,037","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_10.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fec0c7-c2e6-4a42-b0e9-bbcb2880abbd","name":"N.\u0bae\u0b95\u0bc7\u0bb7\u0bcd","education":"9th standard","occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf","age":"43","annual_income":"0","source_of_income":"Business","moveable_assets":"1,082,037","immoveable_assets":"2,310,000","total_assets":"3,392,037","liabilities":"0","net_assets":"3,392,037","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_10.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":""},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf","cases_convicted_description":""}},{"en":{"candidate_id":"92feb931-bd7b-4b83-832d-7e7f4f6f825a","name":"N.ManikkaVasagam Pillai","education":"BA","occupation":"Insurance Agent","age":"72","annual_income":"58,033","source_of_income":"Insurance policy commision","moveable_assets":"35,116","immoveable_assets":"200,000","total_assets":"235,116","liabilities":"26,000","net_assets":"209,116","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_21.jpg","party":{"id":"Marumalarchi Dravida Munnetra Kazhagam","en_label":"Marumalarchi Dravida Munnetra Kazhagam","ta_label":"\u0bae \u0ba4\u0bbf \u0bae\u0bc1 \u0b95 ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/SHIP.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"56,022","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"50,562","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"60,465","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"58,033","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92feb931-bd7b-4b83-832d-7e7f4f6f825a","name":"N.\u0bae\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bbe\u0b9a\u0b95\u0bae\u0bcd \u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8","education":"BA","occupation":"\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd","age":"72","annual_income":"58,033","source_of_income":"Insurance policy commision","moveable_assets":"35,116","immoveable_assets":"200,000","total_assets":"235,116","liabilities":"26,000","net_assets":"209,116","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/KANNIYAKUMARI_21.jpg","party":{"id":"Marumalarchi Dravida Munnetra Kazhagam","en_label":"Marumalarchi Dravida Munnetra Kazhagam","ta_label":"\u0bae \u0ba4\u0bbf \u0bae\u0bc1 \u0b95 ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/SHIP.JPG"},"thokuthi":{"constituency_id":"KANNIYAKUMARI","constituency_en_label":"Kanniyakumari","constituency_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf","district_id":"KANNIYAKUMARI","district_en_label":"Kanniyakumari","district_ta_label":"\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bb0\u0bbf"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"56,022","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"50,562","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"60,465","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"58,033","spouse":"0","overall":"0"}],"other_party_name":"\u0bae \u0ba4\u0bbf \u0bae\u0bc1 \u0b95 ","self_source_of_income":"\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 \u0b95\u0bae\u0bbf\u0b9a\u0ba9\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "92fb086e-91a3-4fda-af13-409b6bb6fd0d",
+                "name": "S.Austin",
+                "education": "MA",
+                "occupation": "MLA",
+                "age": "62",
+                "annual_income": "495,500",
+                "source_of_income": "MLA salary and MP pension",
+                "moveable_assets": "1,242,398",
+                "immoveable_assets": "9,000,000",
+                "total_assets": "10,242,398",
+                "liabilities": "1,700,150",
+                "net_assets": "8,542,248",
+                "no_of_criminal_cases": 10,
+                "cases_description": "Member of an unlawful assembly,  Disobedience to order duly promulgated by public servant, Disobedience to quarantine rule, Wrongful restraint, Malignant act likely to spread infection of disease dangerous to life, Public nuisance, . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_6.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "459,842",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "460,530",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "534,631",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "495,500",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fb086e-91a3-4fda-af13-409b6bb6fd0d",
+                "name": "S.\u0b86\u0bb8\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd",
+                "education": "MA",
+                "occupation": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd",
+                "age": "62",
+                "annual_income": "495,500",
+                "source_of_income": "MLA salary and MP pension",
+                "moveable_assets": "1,242,398",
+                "immoveable_assets": "9,000,000",
+                "total_assets": "10,242,398",
+                "liabilities": "1,700,150",
+                "net_assets": "8,542,248",
+                "no_of_criminal_cases": 10,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_6.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "459,842",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "460,530",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "534,631",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "495,500",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd, \u0ba8\u0bbe\u0b9f\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fed552-1b41-4b9e-9dda-2ee8845230fc",
+                "name": "C.J.SUTHARMAN",
+                "education": "B.A.,B.L.",
+                "occupation": "ADVOCATE AND NOTARY PUBLIC OFFICER",
+                "age": "35",
+                "annual_income": "242,520",
+                "source_of_income": "Income from Advocate Profession",
+                "moveable_assets": "972,223",
+                "immoveable_assets": "0",
+                "total_assets": "972,223",
+                "liabilities": "161,000",
+                "net_assets": "811,223",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_11.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "242,520",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fed552-1b41-4b9e-9dda-2ee8845230fc",
+                "name": "C.J.\u0b9a\u0bc1\u0ba4\u0bb0\u0bcd\u0bae\u0ba9\u0bcd",
+                "education": "B.A.,B.L.",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd, \u0ba8\u0bcb\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf \u0baa\u0baa\u0bcd\u0bb3\u0bbf\u0b95\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd",
+                "age": "35",
+                "annual_income": "242,520",
+                "source_of_income": "Income from Advocate Profession",
+                "moveable_assets": "972,223",
+                "immoveable_assets": "0",
+                "total_assets": "972,223",
+                "liabilities": "161,000",
+                "net_assets": "811,223",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_11.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "242,520",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd, \u0ba8\u0bcb\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf \u0baa\u0baa\u0bcd\u0bb3\u0bbf\u0b95\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f6dad4-8ca2-4408-b767-0d3497cd1df8",
+                "name": "N.THALAVAI SUNDARAM",
+                "education": "B.Sc, B.L.",
+                "occupation": "ADVOCATE",
+                "age": "62",
+                "annual_income": "1,142,160",
+                "source_of_income": "SELF PROFESSION & PENSION",
+                "moveable_assets": "11,570,097",
+                "immoveable_assets": "8,400,000",
+                "total_assets": "19,970,097",
+                "liabilities": "784,142",
+                "net_assets": "19,185,955",
+                "no_of_criminal_cases": 1,
+                "cases_description": "IPC 183 - Resistance to be taking of property by the lawful authority of a public servant.\nIPC186 - Obstructing public servant in discharge of public functions.\nIPC 189 - Threat of injury to public servant.\nIPC 448 - Punishment for house trespass. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_1.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "2,887,668",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "1,667,389",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,631,859",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,142,160",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f6dad4-8ca2-4408-b767-0d3497cd1df8",
+                "name": "N.\u0ba4\u0bb3\u0bb5\u0bbe\u0baf\u0bcd \u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0\u0bae\u0bcd ",
+                "education": "B.Sc, B.L.",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \n",
+                "age": "62",
+                "annual_income": "1,142,160",
+                "source_of_income": "SELF PROFESSION & PENSION",
+                "moveable_assets": "11,570,097",
+                "immoveable_assets": "8,400,000",
+                "total_assets": "19,970,097",
+                "liabilities": "784,142",
+                "net_assets": "19,185,955",
+                "no_of_criminal_cases": 1,
+                "cases_description": "\u0b90\u0baa\u0bbf\u0b9a\u0bbf 183 - \u0b92\u0bb0\u0bc1 \u0baa\u0bca\u0ba4\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1. \u0b90\u0baa\u0bbf\u0b9a\u0bbf 186 - \u0baa\u0bca\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. \u0b90\u0baa\u0bbf\u0b9a\u0bbf 189 - \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. \u0b90\u0baa\u0bbf\u0b9a\u0bbf 448 - \u0bb9\u0bb5\u0bc1\u0bb8\u0bcd \u0b9f\u0bcd\u0bb0\u0bc6\u0bb8\u0bcd\u0baa\u0bbe\u0bb8\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8\n. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_1.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "2,887,668",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "1,667,389",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,631,859",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,142,160",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd, \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b90\u0baa\u0bbf\u0b9a\u0bbf 183 - \u0b92\u0bb0\u0bc1 \u0baa\u0bca\u0ba4\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0ba9 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1. \u0b90\u0baa\u0bbf\u0b9a\u0bbf 186 - \u0baa\u0bca\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. \u0b90\u0baa\u0bbf\u0b9a\u0bbf 189 - \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. \u0b90\u0baa\u0bbf\u0b9a\u0bbf 448 - \u0bb9\u0bb5\u0bc1\u0bb8\u0bcd \u0b9f\u0bcd\u0bb0\u0bc6\u0bb8\u0bcd\u0baa\u0bbe\u0bb8\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8\n",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \n",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feae62-8c9a-479b-9507-0751c1c07c35",
+                "name": "R.SASIKALA",
+                "education": "12th pass",
+                "occupation": "Daily Wages",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "Daily wages",
+                "moveable_assets": "31,000",
+                "immoveable_assets": "0",
+                "total_assets": "31,000",
+                "liabilities": "135,000",
+                "net_assets": "-104,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_17.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feae62-8c9a-479b-9507-0751c1c07c35",
+                "name": "R.R.SASIKALA",
+                "education": "12th pass",
+                "occupation": "Daily Wages",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "Daily wages",
+                "moveable_assets": "31,000",
+                "immoveable_assets": "0",
+                "total_assets": "31,000",
+                "liabilities": "135,000",
+                "net_assets": "-104,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_17.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fae7b7-1f7e-4692-8317-5ddd396ca4e5",
+                "name": "P.SENTHIL MURUGAN",
+                "education": "B.E, L.L.B",
+                "occupation": "ADVOCATE",
+                "age": "39",
+                "annual_income": "497,000",
+                "source_of_income": "ADVOCATE",
+                "moveable_assets": "16,375,000",
+                "immoveable_assets": "20,000,000",
+                "total_assets": "36,375,000",
+                "liabilities": "9,800,000",
+                "net_assets": "26,575,000",
+                "no_of_criminal_cases": 1,
+                "cases_description": "Family Related Issue. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_5.jpg",
+                "party": {
+                    "id": "AMMA MAKKAL MUNNETTRA KAZHAGAM",
+                    "en_label": "AMMA MAKKAL MUNNETTRA KAZHAGAM",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "493,260",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "594,800",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "875,350",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "494,603",
+                        "spouse": "590,210",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "497,000",
+                        "spouse": "490,500",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fae7b7-1f7e-4692-8317-5ddd396ca4e5",
+                "name": "P.\u0baa\u0bbf \u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd  ",
+                "education": "B.E, L.L.B",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \n",
+                "age": "39",
+                "annual_income": "497,000",
+                "source_of_income": "ADVOCATE",
+                "moveable_assets": "16,375,000",
+                "immoveable_assets": "20,000,000",
+                "total_assets": "36,375,000",
+                "liabilities": "9,800,000",
+                "net_assets": "26,575,000",
+                "no_of_criminal_cases": 1,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_5.jpg",
+                "party": {
+                    "id": "AMMA MAKKAL MUNNETTRA KAZHAGAM",
+                    "en_label": "AMMA MAKKAL MUNNETTRA KAZHAGAM",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "493,260",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "594,800",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "875,350",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "494,603",
+                        "spouse": "590,210",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "497,000",
+                        "spouse": "490,500",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \n",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fadeea-636f-4336-96ff-e7cafbf45e3f",
+                "name": "P.T.SELVAKUMAR",
+                "education": "B.A., L.L.B.",
+                "occupation": "CINEMA  PRODUCTION",
+                "age": "55",
+                "annual_income": "1,268,119",
+                "source_of_income": "CINEMA  PRODUCTION",
+                "moveable_assets": "5,032,115",
+                "immoveable_assets": "53,897,100",
+                "total_assets": "58,929,215",
+                "liabilities": "6,225,000",
+                "net_assets": "52,704,215",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_4.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "1,916,356",
+                        "spouse": "541,969",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "1,096,186",
+                        "spouse": "459,724",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,079,648",
+                        "spouse": "477,651",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,268,119",
+                        "spouse": "577,556",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fadeea-636f-4336-96ff-e7cafbf45e3f",
+                "name": "P.T.\u0baa\u0bbf \u0b9f\u0bbf \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ",
+                "education": "B.A., L.L.B.",
+                "occupation": "\u0b9a\u0bbf\u0ba9\u0bbf\u0bae\u0bbe \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \n",
+                "age": "55",
+                "annual_income": "1,268,119",
+                "source_of_income": "CINEMA  PRODUCTION",
+                "moveable_assets": "5,032,115",
+                "immoveable_assets": "53,897,100",
+                "total_assets": "58,929,215",
+                "liabilities": "6,225,000",
+                "net_assets": "52,704,215",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_4.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "1,916,356",
+                        "spouse": "541,969",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "1,096,186",
+                        "spouse": "459,724",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,079,648",
+                        "spouse": "477,651",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,268,119",
+                        "spouse": "577,556",
+                        "overall": "0"
+                    }
+                ],
+                "self_source_of_income": "\u0b9a\u0bbf\u0ba9\u0bbf\u0bae\u0bbe \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bbf\u0ba9\u0bbf\u0bae\u0bbe \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \n",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feb121-c44a-464b-ba3c-dbe494f5c126",
+                "name": "A.AUGUSTIN",
+                "education": "Diploma in Electronic Communication",
+                "occupation": "Daily wage worker",
+                "age": "26",
+                "annual_income": "0",
+                "source_of_income": "Daily wage",
+                "moveable_assets": "26,000",
+                "immoveable_assets": "0",
+                "total_assets": "26,000",
+                "liabilities": "0",
+                "net_assets": "26,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_9.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DIAMOND.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feb121-c44a-464b-ba3c-dbe494f5c126",
+                "name": "A.\u0b85\u0b95\u0bb8\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd",
+                "education": "Diploma in Electronic Communication",
+                "occupation": "\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bc2\u0bb2\u0bbf",
+                "age": "26",
+                "annual_income": "0",
+                "source_of_income": "Daily wage",
+                "moveable_assets": "26,000",
+                "immoveable_assets": "0",
+                "total_assets": "26,000",
+                "liabilities": "0",
+                "net_assets": "26,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_9.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DIAMOND.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feb138-13bc-4d69-92ba-d2e39cbfb7f2",
+                "name": "Y.SUNDARANATHAN",
+                "education": "10th pass",
+                "occupation": "Heavy vechicle driver",
+                "age": "46",
+                "annual_income": "0",
+                "source_of_income": "Heavy vechicle driver",
+                "moveable_assets": "200,000",
+                "immoveable_assets": "0",
+                "total_assets": "200,000",
+                "liabilities": "0",
+                "net_assets": "200,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_18.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ENVELOP.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feb138-13bc-4d69-92ba-d2e39cbfb7f2",
+                "name": "Y.\u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0\u0ba8\u0bbe\u0ba4\u0ba9\u0bcd",
+                "education": "10th pass",
+                "occupation": "\u0b95\u0ba9\u0bb0\u0b95 \u0bb5\u0bbe\u0b95\u0ba9 \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
+                "age": "46",
+                "annual_income": "0",
+                "source_of_income": "Heavy vechicle driver",
+                "moveable_assets": "200,000",
+                "immoveable_assets": "0",
+                "total_assets": "200,000",
+                "liabilities": "0",
+                "net_assets": "200,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_18.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ENVELOP.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0ba9\u0bb0\u0b95 \u0bb5\u0bbe\u0b95\u0ba9 \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0ba9\u0bb0\u0b95 \u0bb5\u0bbe\u0b95\u0ba9 \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feb562-4ea4-4141-82e8-a8be7051ccd6",
+                "name": "S.SUBASH",
+                "education": "10th pass",
+                "occupation": "Vegetable Business",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "Vegetable Business",
+                "moveable_assets": "1,664,000",
+                "immoveable_assets": "1,600,000",
+                "total_assets": "3,264,000",
+                "liabilities": "0",
+                "net_assets": "3,264,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_20.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GREEN_CHILLES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feb562-4ea4-4141-82e8-a8be7051ccd6",
+                "name": "S.\u0b9a\u0bc1\u0baa\u0bbe\u0bb7\u0bcd",
+                "education": "10th pass",
+                "occupation": "\u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "Vegetable Business",
+                "moveable_assets": "1,664,000",
+                "immoveable_assets": "1,600,000",
+                "total_assets": "3,264,000",
+                "liabilities": "0",
+                "net_assets": "3,264,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_20.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GREEN_CHILLES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe9a53-85dc-4fc3-a58d-681a582f7085",
+                "name": "I.CHELLAIAHPILLAI",
+                "education": "10th pass",
+                "occupation": "Farmer",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "1,201,027",
+                "immoveable_assets": "100,000",
+                "total_assets": "1,301,027",
+                "liabilities": "873,000",
+                "net_assets": "428,027",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_14.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BINOCULARS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe9a53-85dc-4fc3-a58d-681a582f7085",
+                "name": "I.I.CHELLAIAHPILLAI",
+                "education": "10th pass",
+                "occupation": "Farmer",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "1,201,027",
+                "immoveable_assets": "100,000",
+                "total_assets": "1,301,027",
+                "liabilities": "873,000",
+                "net_assets": "428,027",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_14.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BINOCULARS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe93a8-70c6-4de7-b5d1-abdb12198de5",
+                "name": "S.THANUNEELAN",
+                "education": "ITI Motor Mechnanic",
+                "occupation": "Employee",
+                "age": "27",
+                "annual_income": "0",
+                "source_of_income": "Employee",
+                "moveable_assets": "80,300",
+                "immoveable_assets": "0",
+                "total_assets": "80,300",
+                "liabilities": "0",
+                "net_assets": "80,300",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_13.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATSMAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe93a8-70c6-4de7-b5d1-abdb12198de5",
+                "name": "S.\u0ba4\u0ba9\u0bc1\u0ba8\u0bc0\u0bb2\u0ba9\u0bcd",
+                "education": "ITI Motor Mechnanic",
+                "occupation": "\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd",
+                "age": "27",
+                "annual_income": "0",
+                "source_of_income": "Employee",
+                "moveable_assets": "80,300",
+                "immoveable_assets": "0",
+                "total_assets": "80,300",
+                "liabilities": "0",
+                "net_assets": "80,300",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_13.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATSMAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bae\u0bbe\u0ba4 \u0b8a\u0ba4\u0bbf\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fec0c7-c2e6-4a42-b0e9-bbcb2880abbd",
+                "name": "N.MAKESH",
+                "education": "9th standard",
+                "occupation": "Business",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "1,082,037",
+                "immoveable_assets": "2,310,000",
+                "total_assets": "3,392,037",
+                "liabilities": "0",
+                "net_assets": "3,392,037",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_10.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WHISTLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fec0c7-c2e6-4a42-b0e9-bbcb2880abbd",
+                "name": "N.\u0bae\u0b95\u0bc7\u0bb7\u0bcd",
+                "education": "9th standard",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "1,082,037",
+                "immoveable_assets": "2,310,000",
+                "total_assets": "3,392,037",
+                "liabilities": "0",
+                "net_assets": "3,392,037",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_10.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WHISTLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feb931-bd7b-4b83-832d-7e7f4f6f825a",
+                "name": "N.ManikkaVasagam Pillai",
+                "education": "BA",
+                "occupation": "Insurance Agent",
+                "age": "72",
+                "annual_income": "58,033",
+                "source_of_income": "Insurance policy commision",
+                "moveable_assets": "35,116",
+                "immoveable_assets": "200,000",
+                "total_assets": "235,116",
+                "liabilities": "26,000",
+                "net_assets": "209,116",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_21.jpg",
+                "party": {
+                    "id": "Marumalarchi Dravida Munnetra Kazhagam",
+                    "en_label": "Marumalarchi Dravida Munnetra Kazhagam",
+                    "ta_label": "\u0bae \u0ba4\u0bbf \u0bae\u0bc1 \u0b95 ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SHIP.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "56,022",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "50,562",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "60,465",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "58,033",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feb931-bd7b-4b83-832d-7e7f4f6f825a",
+                "name": "N.\u0bae\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bbe\u0b9a\u0b95\u0bae\u0bcd \u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8",
+                "education": "BA",
+                "occupation": "\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd",
+                "age": "72",
+                "annual_income": "58,033",
+                "source_of_income": "Insurance policy commision",
+                "moveable_assets": "35,116",
+                "immoveable_assets": "200,000",
+                "total_assets": "235,116",
+                "liabilities": "26,000",
+                "net_assets": "209,116",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KANNIYAKUMARI_21.jpg",
+                "party": {
+                    "id": "Marumalarchi Dravida Munnetra Kazhagam",
+                    "en_label": "Marumalarchi Dravida Munnetra Kazhagam",
+                    "ta_label": "\u0bae \u0ba4\u0bbf \u0bae\u0bc1 \u0b95 ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SHIP.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "KANNIYAKUMARI",
+                    "constituency_en_label": "Kanniyakumari",
+                    "constituency_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf",
+                    "district_id": "KANNIYAKUMARI",
+                    "district_en_label": "Kanniyakumari",
+                    "district_ta_label": "\u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bb0\u0bbf"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "56,022",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "50,562",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "60,465",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "58,033",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0bae \u0ba4\u0bbf \u0bae\u0bc1 \u0b95 ",
+                "self_source_of_income": "\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 \u0b95\u0bae\u0bbf\u0b9a\u0ba9\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

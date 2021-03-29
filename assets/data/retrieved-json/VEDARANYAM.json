@@ -1,1 +1,1754 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[{"en":{"candidate_id":"92f6a63c-518c-4a06-a6b4-b27d8250405e","name":"O.S.Manian","education":"PUC ","occupation":"Agriculture, former lok sabha & rajya sabha member, MLA & Minister","age":"66","annual_income":"1,598,230","source_of_income":"Agriculture, former lok sabha & rajya sabha member, MLA & Minister","moveable_assets":"11,387,930.01","immoveable_assets":"4,700,000","total_assets":"16,087,930.01","liabilities":"0","net_assets":"16,087,930.01","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_1.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TWO_LEAVES.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"564,300","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"922,030","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"679,810","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"1,598,230","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f6a63c-518c-4a06-a6b4-b27d8250405e","name":"O.S.\u0bae\u0ba3\u0bbf\u0baf\u0ba9\u0bcd","education":"PUC ","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bb5\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bb5\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd, \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd, \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd.","age":"66","annual_income":"1,598,230","source_of_income":"Agriculture, former lok sabha & rajya sabha member, MLA & Minister","moveable_assets":"11,387,930.01","immoveable_assets":"4,700,000","total_assets":"16,087,930.01","liabilities":"0","net_assets":"16,087,930.01","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_1.jpg","party":{"id":"All India Anna Dravida Munnetra kazhagam","short_name":"AIADMK","ta_label":"\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"All India Anna Dravida Munnetra kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/TWO_LEAVES.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"564,300","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"922,030","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"679,810","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"1,598,230","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bb5\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bb5\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd, \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd, \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd.","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bb5\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bb5\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd, \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd, \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd.","cases_convicted_description":""}},{"en":{"candidate_id":"92f8e56b-30f9-4c62-a4f5-edccb4623d13","name":"K.RAJENDRAN","education":"DIPLOMA IN PHARMACY","occupation":"MEDICAL SHOP","age":"46","annual_income":"502,010","source_of_income":"MEDICAL SHOP","moveable_assets":"4,205,694.11","immoveable_assets":"3,800,000","total_assets":"8,005,694.11","liabilities":"2,412,460","net_assets":"5,593,234.11","no_of_criminal_cases":1,"cases_description":"ROAD BLOCK, unlawful assembly CASE NO : STC \n351 \/ 2018. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_6.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GANNA_KISAN.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"432,570","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"491,510","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"490,560","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"502,010","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f8e56b-30f9-4c62-a4f5-edccb4623d13","name":"K.\u0b87\u0bb0\u0bbe\u0b9c\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd ","education":"DIPLOMA IN PHARMACY","occupation":"\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd","age":"46","annual_income":"502,010","source_of_income":"MEDICAL SHOP","moveable_assets":"4,205,694.11","immoveable_assets":"3,800,000","total_assets":"8,005,694.11","liabilities":"2,412,460","net_assets":"5,593,234.11","no_of_criminal_cases":1,"cases_description":"\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b9a\u0bbe\u0bb2\u0bc8\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd . ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_6.jpg","party":{"id":"Naam Tamilar Katchi","short_name":"NTK","ta_label":"\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Naam Tamilar Katchi","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GANNA_KISAN.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"432,570","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"491,510","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"490,560","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"502,010","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd","cases_pending_description":"\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b9a\u0bbe\u0bb2\u0bc8\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd ","self_education_description":"","self_profession_occupation":"\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92f9178b-3112-46a1-950a-d4d0fddc5c05","name":"R.KATHIRVEL","education":"5TH STD","occupation":"SELF EMPLOYMENT","age":"45","annual_income":"0","source_of_income":"AGRICULTURE, SELF EMPOLYMENT","moveable_assets":"651,500","immoveable_assets":"3,025,000","total_assets":"3,676,500","liabilities":"0","net_assets":"3,676,500","no_of_criminal_cases":2,"cases_description":"Verbal abuse and attempt to murder\nDuring gaja cyclone, free food hoarding and attacked government servant and also caused damage to public property.. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_7.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/ROAD_ROLLER.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92f9178b-3112-46a1-950a-d4d0fddc5c05","name":"R.\u0b95\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bc7\u0bb2\u0bcd","education":"5TH STD","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","age":"45","annual_income":"0","source_of_income":"AGRICULTURE, SELF EMPOLYMENT","moveable_assets":"651,500","immoveable_assets":"3,025,000","total_assets":"3,676,500","liabilities":"0","net_assets":"3,676,500","no_of_criminal_cases":2,"cases_description":"\u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0b95.\n\n\u0b95\u0b9c\u0bbe \u0baa\u0bc1\u0baf\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0b89\u0ba3\u0bb5\u0bc1 \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0b9a\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf, \u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1, \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0b95\u0bc2\u0bb1\u0bbf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0b95 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb4\u0bbf\u0bae\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0b95.. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_7.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/ROAD_ROLLER.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_pending_description":"\u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0b95.\n\n\u0b95\u0b9c\u0bbe \u0baa\u0bc1\u0baf\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0b89\u0ba3\u0bb5\u0bc1 \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0b9a\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf, \u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1, \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0b95\u0bc2\u0bb1\u0bbf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0b95 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb4\u0bbf\u0bae\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0b95.","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fcac56-c8bc-401b-a1fd-cde4f68bb7f6","name":"S.K.Vetharathinam","education":"SSLC ","occupation":"Farmer","age":"62","annual_income":"0","source_of_income":"Former MLA Pension & agriculture","moveable_assets":"6,748,087","immoveable_assets":"6,800,000","total_assets":"13,548,087","liabilities":"0","net_assets":"13,548,087","no_of_criminal_cases":3,"cases_description":"Member of an unlawful assembly,\nPunishment for wrongful restraint. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_12.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/RISING_SUN.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fcac56-c8bc-401b-a1fd-cde4f68bb7f6","name":"S.K.\u0bb5\u0bc7\u0ba4\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bae\u0bcd ","education":"SSLC ","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"62","annual_income":"0","source_of_income":"Former MLA Pension & agriculture","moveable_assets":"6,748,087","immoveable_assets":"6,800,000","total_assets":"13,548,087","liabilities":"0","net_assets":"13,548,087","no_of_criminal_cases":3,"cases_description":"\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0bb1\u0bae\u0bcd\u0baa\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba4\u0bb5\u0bb1\u0bbe\u0b95 \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_12.jpg","party":{"id":"Dravida Munnetra Kazhagam","short_name":"DMK","ta_label":"\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd","en_label":"Dravida Munnetra Kazhagam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/RISING_SUN.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd ","cases_pending_description":"\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0bb1\u0bae\u0bcd\u0baa\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba4\u0bb5\u0bb1\u0bbe\u0b95 \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fca858-f829-44ea-81ef-9569409ac7c0","name":"T.Sundaravadivelan","education":"12th, Dr(Doctor of Letters) from The International university,USA","occupation":"Own business","age":"44","annual_income":"0","source_of_income":"Own business","moveable_assets":"2,906,600","immoveable_assets":"0","total_assets":"2,906,600","liabilities":"0","net_assets":"2,906,600","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_11.jpg","party":{"id":"ShivSena","en_label":"ShivSena","ta_label":"\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/HELMET.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fca858-f829-44ea-81ef-9569409ac7c0","name":"T.\u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0\u0bb5\u0b9f\u0bbf\u0bb5\u0bc7\u0bb2\u0ba9\u0bcd","education":"12th, Dr(Doctor of Letters) from The International university,USA","occupation":"\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","age":"44","annual_income":"0","source_of_income":"Own business","moveable_assets":"2,906,600","immoveable_assets":"0","total_assets":"2,906,600","liabilities":"0","net_assets":"2,906,600","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_11.jpg","party":{"id":"ShivSena","en_label":"ShivSena","ta_label":"\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/HELMET.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe","self_source_of_income":"\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fca3a6-0392-41e8-979b-d110160aeda3","name":"P. S.Arumugam","education":"10th","occupation":"Farmer","age":"55","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"3,001,485","immoveable_assets":"1,499,050","total_assets":"4,500,535","liabilities":"800,000","net_assets":"3,700,535","no_of_criminal_cases":1,"cases_description":"for obscene acts in public place.\n. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_10.jpg","party":{"id":"Amma Makkal Munnetra kazhkam","en_label":"Amma Makkal Munnetra kazhkam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PRESSURE_COOKER.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fca3a6-0392-41e8-979b-d110160aeda3","name":"P. S.\u0b86\u0bb1\u0bc1\u0bae\u0bc1\u0b95\u0bae\u0bcd","education":"10th","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"55","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"3,001,485","immoveable_assets":"1,499,050","total_assets":"4,500,535","liabilities":"800,000","net_assets":"3,700,535","no_of_criminal_cases":1,"cases_description":"\u0baa\u0bca\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd \u0baa\u0bc1\u0bb0\u0bbf\u0bb5\u0ba4\u0bc1. ","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_10.jpg","party":{"id":"Amma Makkal Munnetra kazhkam","en_label":"Amma Makkal Munnetra kazhkam","ta_label":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/PRESSURE_COOKER.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"\u0baa\u0bca\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd \u0baa\u0bc1\u0bb0\u0bbf\u0bb5\u0ba4\u0bc1","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fee941-4de6-4f14-b5d6-6d4ae34cddf5","name":"J.MOHAMEDALI","education":"M.A","occupation":"Grocery Shop","age":"44","annual_income":"0","source_of_income":"Grocery Shop","moveable_assets":"1,241,446.95","immoveable_assets":"5,000,000","total_assets":"6,241,446.95","liabilities":"0","net_assets":"6,241,446.95","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_20.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATTERY_TORCH.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fee941-4de6-4f14-b5d6-6d4ae34cddf5","name":"J.\u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1 \u0b85\u0bb2\u0bbf ","education":"M.A","occupation":"\u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8","age":"44","annual_income":"0","source_of_income":"Grocery Shop","moveable_assets":"1,241,446.95","immoveable_assets":"5,000,000","total_assets":"6,241,446.95","liabilities":"0","net_assets":"6,241,446.95","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_20.jpg","party":{"id":"Makkal Needhi Maiam","short_name":"MNM","ta_label":"\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd","en_label":"Makkal Needhi Maiam","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BATTERY_TORCH.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8","cases_convicted_description":""}},{"en":{"candidate_id":"92fee3d2-e865-47b0-a6db-26bd96f534f2","name":"R.PANNERSELVAM","education":"5th std","occupation":"Politics","age":"58","annual_income":"0","source_of_income":"Politics","moveable_assets":"6,500","immoveable_assets":"2,636,000","total_assets":"2,642,500","liabilities":"0","net_assets":"2,642,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_18.jpg","party":{"id":"Bahujan Samaj Party","short_name":"BSP","ta_label":"\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Bahujan Samaj Party","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/ELEPHANT.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fee3d2-e865-47b0-a6db-26bd96f534f2","name":"R.\u0baa\u0ba9\u0bcd\u0ba9\u0bc0\u0bb0\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd","education":"5th std","occupation":"\u0bae\u0bc1\u0bb4\u0bc1\u0ba8\u0bc7\u0bb0 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd","age":"58","annual_income":"0","source_of_income":"Politics","moveable_assets":"6,500","immoveable_assets":"2,636,000","total_assets":"2,642,500","liabilities":"0","net_assets":"2,642,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_18.jpg","party":{"id":"Bahujan Samaj Party","short_name":"BSP","ta_label":"\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf","en_label":"Bahujan Samaj Party","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/ELEPHANT.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bae\u0bc1\u0bb4\u0bc1\u0ba8\u0bc7\u0bb0 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bae\u0bc1\u0bb4\u0bc1\u0ba8\u0bc7\u0bb0 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fed56b-5683-4e6a-9758-b59952cd58fd","name":"R.RAMAMOORTHY","education":"B.Sc, ","occupation":"Agriculture","age":"66","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"989,295","immoveable_assets":"1,667,650","total_assets":"2,656,945","liabilities":"0","net_assets":"2,656,945","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_14.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/FOOTBALL.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"451,050"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"610,652"}]},"ta":{"candidate_id":"92fed56b-5683-4e6a-9758-b59952cd58fd","name":"R.\u0b87\u0bb0\u0bbe\u0bae\u0bae\u0bc2\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf","education":"B.Sc, ","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"66","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"989,295","immoveable_assets":"1,667,650","total_assets":"2,656,945","liabilities":"0","net_assets":"2,656,945","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_14.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/FOOTBALL.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"451,050"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"610,652"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fee676-e441-4456-8eaf-9207ad2e0fd8","name":"V.VEERAKUMAR","education":"6th std","occupation":"Agriculture\/Farmer","age":"32","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"261,546","immoveable_assets":"800,000","total_assets":"1,061,546","liabilities":"10,000","net_assets":"1,051,546","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_19.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GIFT_PACKS.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fee676-e441-4456-8eaf-9207ad2e0fd8","name":"V.\u0bb5\u0bc0\u0bb0\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ","education":"6th std","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","age":"32","annual_income":"0","source_of_income":"Agriculture","moveable_assets":"261,546","immoveable_assets":"800,000","total_assets":"1,061,546","liabilities":"10,000","net_assets":"1,051,546","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_19.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/GIFT_PACKS.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd","cases_convicted_description":""}},{"en":{"candidate_id":"92fedb56-1e0b-4340-86f2-3dc42e1072c5","name":"P.V.THEENATHAYALAN","education":"Diploma in Mechanical","occupation":"Business","age":"44","annual_income":"804,448","source_of_income":"Business","moveable_assets":"13,694,582","immoveable_assets":"400,000","total_assets":"14,094,582","liabilities":"16,564,264","net_assets":"-2,469,682","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_15.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BALLOON.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"850,146","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"944,785","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"802,251","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"804,448","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fedb56-1e0b-4340-86f2-3dc42e1072c5","name":"P.V.\u0ba4\u0bc0\u0ba9\u0ba4\u0baf\u0bbe\u0bb3\u0ba9\u0bcd","education":"Diploma in Mechanical","occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","age":"44","annual_income":"804,448","source_of_income":"Business","moveable_assets":"13,694,582","immoveable_assets":"400,000","total_assets":"14,094,582","liabilities":"16,564,264","net_assets":"-2,469,682","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_15.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/BALLOON.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"850,146","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"944,785","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"802,251","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"804,448","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ","cases_convicted_description":""}},{"en":{"candidate_id":"92fee161-2ba1-4080-9855-75b0c0618299","name":"T.RAMAJAYAM","education":"Teacher Training ( Madha Teacher Training Institute, vedaranyam) - 2010 ","occupation":"AGRICULTURAL WAGE LABOUR ","age":"37","annual_income":"0","source_of_income":"AGRICULTURAL WAGE LABOUR ","moveable_assets":"5,500","immoveable_assets":"50,000","total_assets":"55,500","liabilities":"0","net_assets":"55,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_17.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIRCONDITIONER.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}]},"ta":{"candidate_id":"92fee161-2ba1-4080-9855-75b0c0618299","name":"T.\u0b87\u0bb0\u0bbe\u0bae\u0b9c\u0bc6\u0baf\u0bae\u0bcd","education":"Teacher Training ( Madha Teacher Training Institute, vedaranyam) - 2010 ","occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf","age":"37","annual_income":"0","source_of_income":"AGRICULTURAL WAGE LABOUR ","moveable_assets":"5,500","immoveable_assets":"50,000","total_assets":"55,500","liabilities":"0","net_assets":"55,500","no_of_criminal_cases":0,"cases_description":"","candidate_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/candidates\/VEDARANYAM_17.jpg","party":{"id":"Independent","short_name":"I","ta_label":"\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8","en_label":"Independent","party_image":"https:\/\/candidacy.s3.ap-south-1.amazonaws.com\/symbols\/AIRCONDITIONER.JPG"},"thokuthi":{"constituency_id":"VEDARANYAM","constituency_en_label":"Vedaranyam","constituency_ta_label":"\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd","district_id":"NAGAPATTINAM","district_en_label":"Nagapattinam","district_ta_label":"\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"},"holdings":[{"y_from":2015,"y_to":2016,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2016,"y_to":2017,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2017,"y_to":2018,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2018,"y_to":2019,"candidate":"0","spouse":"0","overall":"0"},{"y_from":2019,"y_to":2020,"candidate":"0","spouse":"0","overall":"0"}],"other_party_name":"","self_source_of_income":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf","cases_pending_description":"","self_education_description":"","self_profession_occupation":"\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf","cases_convicted_description":""}}]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "92fee3d2-e865-47b0-a6db-26bd96f534f2",
+                "name": "R.PANNERSELVAM",
+                "education": "5th std",
+                "occupation": "Politics",
+                "age": "58",
+                "annual_income": "0",
+                "source_of_income": "Politics",
+                "moveable_assets": "6,500",
+                "immoveable_assets": "2,636,000",
+                "total_assets": "2,642,500",
+                "liabilities": "0",
+                "net_assets": "2,642,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_18.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fee3d2-e865-47b0-a6db-26bd96f534f2",
+                "name": "R.\u0baa\u0ba9\u0bcd\u0ba9\u0bc0\u0bb0\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd",
+                "education": "5th std",
+                "occupation": "\u0bae\u0bc1\u0bb4\u0bc1\u0ba8\u0bc7\u0bb0 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd",
+                "age": "58",
+                "annual_income": "0",
+                "source_of_income": "Politics",
+                "moveable_assets": "6,500",
+                "immoveable_assets": "2,636,000",
+                "total_assets": "2,642,500",
+                "liabilities": "0",
+                "net_assets": "2,642,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_18.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bae\u0bc1\u0bb4\u0bc1\u0ba8\u0bc7\u0bb0 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bae\u0bc1\u0bb4\u0bc1\u0ba8\u0bc7\u0bb0 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f6a63c-518c-4a06-a6b4-b27d8250405e",
+                "name": "O.S.Manian",
+                "education": "PUC ",
+                "occupation": "Agriculture, former lok sabha & rajya sabha member, MLA & Minister",
+                "age": "66",
+                "annual_income": "1,598,230",
+                "source_of_income": "Agriculture, former lok sabha & rajya sabha member, MLA & Minister",
+                "moveable_assets": "11,387,930.01",
+                "immoveable_assets": "4,700,000",
+                "total_assets": "16,087,930.01",
+                "liabilities": "0",
+                "net_assets": "16,087,930.01",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_1.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "564,300",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "922,030",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "679,810",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,598,230",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f6a63c-518c-4a06-a6b4-b27d8250405e",
+                "name": "O.S.\u0bae\u0ba3\u0bbf\u0baf\u0ba9\u0bcd",
+                "education": "PUC ",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bb5\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bb5\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd, \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd, \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd.",
+                "age": "66",
+                "annual_income": "1,598,230",
+                "source_of_income": "Agriculture, former lok sabha & rajya sabha member, MLA & Minister",
+                "moveable_assets": "11,387,930.01",
+                "immoveable_assets": "4,700,000",
+                "total_assets": "16,087,930.01",
+                "liabilities": "0",
+                "net_assets": "16,087,930.01",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_1.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "564,300",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "922,030",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "679,810",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,598,230",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bb5\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bb5\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd, \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd, \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd.",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bb5\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bb5\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd, \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd, \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd.",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fcac56-c8bc-401b-a1fd-cde4f68bb7f6",
+                "name": "S.K.Vetharathinam",
+                "education": "SSLC ",
+                "occupation": "Farmer",
+                "age": "62",
+                "annual_income": "0",
+                "source_of_income": "Former MLA Pension & agriculture",
+                "moveable_assets": "6,748,087",
+                "immoveable_assets": "6,800,000",
+                "total_assets": "13,548,087",
+                "liabilities": "0",
+                "net_assets": "13,548,087",
+                "no_of_criminal_cases": 3,
+                "cases_description": "Member of an unlawful assembly,\nPunishment for wrongful restraint. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_12.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fcac56-c8bc-401b-a1fd-cde4f68bb7f6",
+                "name": "S.K.\u0bb5\u0bc7\u0ba4\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bae\u0bcd ",
+                "education": "SSLC ",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "62",
+                "annual_income": "0",
+                "source_of_income": "Former MLA Pension & agriculture",
+                "moveable_assets": "6,748,087",
+                "immoveable_assets": "6,800,000",
+                "total_assets": "13,548,087",
+                "liabilities": "0",
+                "net_assets": "13,548,087",
+                "no_of_criminal_cases": 3,
+                "cases_description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0bb1\u0bae\u0bcd\u0baa\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba4\u0bb5\u0bb1\u0bbe\u0b95 \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_12.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0bb1\u0bae\u0bcd\u0baa\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba4\u0bb5\u0bb1\u0bbe\u0b95 \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fca3a6-0392-41e8-979b-d110160aeda3",
+                "name": "P. S.Arumugam",
+                "education": "10th",
+                "occupation": "Farmer",
+                "age": "55",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "4,204,485",
+                "immoveable_assets": "1,499,050",
+                "total_assets": "5,703,535",
+                "liabilities": "800,000",
+                "net_assets": "4,903,535",
+                "no_of_criminal_cases": 1,
+                "cases_description": "for obscene acts in public place.\n. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_10.jpg",
+                "party": {
+                    "id": "Amma Makkal Munnetra kazhkam",
+                    "en_label": "Amma Makkal Munnetra kazhkam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fca3a6-0392-41e8-979b-d110160aeda3",
+                "name": "P. S.\u0b86\u0bb1\u0bc1\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+                "education": "10th",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "55",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "4,204,485",
+                "immoveable_assets": "1,499,050",
+                "total_assets": "5,703,535",
+                "liabilities": "800,000",
+                "net_assets": "4,903,535",
+                "no_of_criminal_cases": 1,
+                "cases_description": "\u0baa\u0bca\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd \u0baa\u0bc1\u0bb0\u0bbf\u0bb5\u0ba4\u0bc1. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_10.jpg",
+                "party": {
+                    "id": "Amma Makkal Munnetra kazhkam",
+                    "en_label": "Amma Makkal Munnetra kazhkam",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "\u0baa\u0bca\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd \u0baa\u0bc1\u0bb0\u0bbf\u0bb5\u0ba4\u0bc1",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f8e56b-30f9-4c62-a4f5-edccb4623d13",
+                "name": "K.RAJENDRAN",
+                "education": "DIPLOMA IN PHARMACY",
+                "occupation": "MEDICAL SHOP",
+                "age": "46",
+                "annual_income": "502,010",
+                "source_of_income": "MEDICAL SHOP",
+                "moveable_assets": "4,205,694.11",
+                "immoveable_assets": "3,800,000",
+                "total_assets": "8,005,694.11",
+                "liabilities": "2,412,460",
+                "net_assets": "5,593,234.11",
+                "no_of_criminal_cases": 1,
+                "cases_description": "ROAD BLOCK, unlawful assembly CASE NO : STC \n351 / 2018. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_6.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "432,570",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "491,510",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "490,560",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "502,010",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f8e56b-30f9-4c62-a4f5-edccb4623d13",
+                "name": "K.\u0b87\u0bb0\u0bbe\u0b9c\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd ",
+                "education": "DIPLOMA IN PHARMACY",
+                "occupation": "\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd",
+                "age": "46",
+                "annual_income": "502,010",
+                "source_of_income": "MEDICAL SHOP",
+                "moveable_assets": "4,205,694.11",
+                "immoveable_assets": "3,800,000",
+                "total_assets": "8,005,694.11",
+                "liabilities": "2,412,460",
+                "net_assets": "5,593,234.11",
+                "no_of_criminal_cases": 1,
+                "cases_description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b9a\u0bbe\u0bb2\u0bc8\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_6.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "432,570",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "491,510",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "490,560",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "502,010",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd",
+                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b9a\u0bbe\u0bb2\u0bc8\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fca858-f829-44ea-81ef-9569409ac7c0",
+                "name": "T.Sundaravadivelan",
+                "education": "12th, Dr(Doctor of Letters) from The International university,USA",
+                "occupation": "Own business",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "Own business",
+                "moveable_assets": "2,906,600",
+                "immoveable_assets": "0",
+                "total_assets": "2,906,600",
+                "liabilities": "0",
+                "net_assets": "2,906,600",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_11.jpg",
+                "party": {
+                    "id": "ShivSena",
+                    "en_label": "ShivSena",
+                    "ta_label": "\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HELMET.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fca858-f829-44ea-81ef-9569409ac7c0",
+                "name": "T.\u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0\u0bb5\u0b9f\u0bbf\u0bb5\u0bc7\u0bb2\u0ba9\u0bcd",
+                "education": "12th, Dr(Doctor of Letters) from The International university,USA",
+                "occupation": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "Own business",
+                "moveable_assets": "2,906,600",
+                "immoveable_assets": "0",
+                "total_assets": "2,906,600",
+                "liabilities": "0",
+                "net_assets": "2,906,600",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_11.jpg",
+                "party": {
+                    "id": "ShivSena",
+                    "en_label": "ShivSena",
+                    "ta_label": "\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HELMET.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b9a\u0bbf\u0bb5\u0b9a\u0bc7\u0ba9\u0bbe",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fee941-4de6-4f14-b5d6-6d4ae34cddf5",
+                "name": "J.MOHAMEDALI",
+                "education": "M.A",
+                "occupation": "Grocery Shop",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "Grocery Shop",
+                "moveable_assets": "1,241,446.95",
+                "immoveable_assets": "5,000,000",
+                "total_assets": "6,241,446.95",
+                "liabilities": "0",
+                "net_assets": "6,241,446.95",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_20.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fee941-4de6-4f14-b5d6-6d4ae34cddf5",
+                "name": "J.\u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1 \u0b85\u0bb2\u0bbf ",
+                "education": "M.A",
+                "occupation": "\u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "Grocery Shop",
+                "moveable_assets": "1,241,446.95",
+                "immoveable_assets": "5,000,000",
+                "total_assets": "6,241,446.95",
+                "liabilities": "0",
+                "net_assets": "6,241,446.95",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_20.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fed56b-5683-4e6a-9758-b59952cd58fd",
+                "name": "R.RAMAMOORTHY",
+                "education": "B.Sc, ",
+                "occupation": "Agriculture",
+                "age": "66",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "989,295",
+                "immoveable_assets": "1,667,650",
+                "total_assets": "2,656,945",
+                "liabilities": "0",
+                "net_assets": "2,656,945",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_14.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FOOTBALL.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "451,050"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "610,652"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fed56b-5683-4e6a-9758-b59952cd58fd",
+                "name": "R.\u0b87\u0bb0\u0bbe\u0bae\u0bae\u0bc2\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf",
+                "education": "B.Sc, ",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "66",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "989,295",
+                "immoveable_assets": "1,667,650",
+                "total_assets": "2,656,945",
+                "liabilities": "0",
+                "net_assets": "2,656,945",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_14.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FOOTBALL.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "451,050"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "610,652"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fee161-2ba1-4080-9855-75b0c0618299",
+                "name": "T.RAMAJAYAM",
+                "education": "Teacher Training",
+                "occupation": "AGRICULTURAL WAGE LABOUR ",
+                "age": "37",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURAL WAGE LABOUR ",
+                "moveable_assets": "5,500",
+                "immoveable_assets": "50,000",
+                "total_assets": "55,500",
+                "liabilities": "0",
+                "net_assets": "55,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_17.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AIRCONDITIONER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fee161-2ba1-4080-9855-75b0c0618299",
+                "name": "T.\u0b87\u0bb0\u0bbe\u0bae\u0b9c\u0bc6\u0baf\u0bae\u0bcd",
+                "education": "Teacher Training",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf",
+                "age": "37",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURAL WAGE LABOUR ",
+                "moveable_assets": "5,500",
+                "immoveable_assets": "50,000",
+                "total_assets": "55,500",
+                "liabilities": "0",
+                "net_assets": "55,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_17.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AIRCONDITIONER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f9178b-3112-46a1-950a-d4d0fddc5c05",
+                "name": "R.KATHIRVEL",
+                "education": "5TH STD",
+                "occupation": "SELF EMPLOYMENT",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE, SELF EMPOLYMENT",
+                "moveable_assets": "651,500",
+                "immoveable_assets": "3,025,000",
+                "total_assets": "3,676,500",
+                "liabilities": "0",
+                "net_assets": "3,676,500",
+                "no_of_criminal_cases": 2,
+                "cases_description": "Verbal abuse and attempt to murder\nDuring gaja cyclone, free food hoarding and attacked government servant and also caused damage to public property.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_7.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ROAD_ROLLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f9178b-3112-46a1-950a-d4d0fddc5c05",
+                "name": "R.\u0b95\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bc7\u0bb2\u0bcd",
+                "education": "5TH STD",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE, SELF EMPOLYMENT",
+                "moveable_assets": "651,500",
+                "immoveable_assets": "3,025,000",
+                "total_assets": "3,676,500",
+                "liabilities": "0",
+                "net_assets": "3,676,500",
+                "no_of_criminal_cases": 2,
+                "cases_description": "\u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0b95.\n\n\u0b95\u0b9c\u0bbe \u0baa\u0bc1\u0baf\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0b89\u0ba3\u0bb5\u0bc1 \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0b9a\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf, \u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1, \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0b95\u0bc2\u0bb1\u0bbf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0b95 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb4\u0bbf\u0bae\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0b95.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_7.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ROAD_ROLLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_pending_description": "\u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbe\u0b95.\n\n\u0b95\u0b9c\u0bbe \u0baa\u0bc1\u0baf\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0b89\u0ba3\u0bb5\u0bc1 \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0b9a\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbf, \u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1, \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbe\u0b95 \u0b95\u0bc2\u0bb1\u0bbf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bbe\u0b95 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb4\u0bbf\u0bae\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0b95.",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd, \u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fedb56-1e0b-4340-86f2-3dc42e1072c5",
+                "name": "P.V.THEENATHAYALAN",
+                "education": "Diploma in Mechanical",
+                "occupation": "Business",
+                "age": "44",
+                "annual_income": "804,448",
+                "source_of_income": "Business",
+                "moveable_assets": "13,694,582",
+                "immoveable_assets": "400,000",
+                "total_assets": "14,094,582",
+                "liabilities": "16,564,264",
+                "net_assets": "-2,469,682",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_15.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "850,146",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "944,785",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "802,251",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "804,448",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fedb56-1e0b-4340-86f2-3dc42e1072c5",
+                "name": "P.V.\u0ba4\u0bc0\u0ba9\u0ba4\u0baf\u0bbe\u0bb3\u0ba9\u0bcd",
+                "education": "Diploma in Mechanical",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "age": "44",
+                "annual_income": "804,448",
+                "source_of_income": "Business",
+                "moveable_assets": "13,694,582",
+                "immoveable_assets": "400,000",
+                "total_assets": "14,094,582",
+                "liabilities": "16,564,264",
+                "net_assets": "-2,469,682",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_15.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "850,146",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "944,785",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "802,251",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "804,448",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fee676-e441-4456-8eaf-9207ad2e0fd8",
+                "name": "V.VEERAKUMAR",
+                "education": "6th std",
+                "occupation": "Agriculture/Farmer",
+                "age": "32",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "261,546",
+                "immoveable_assets": "800,000",
+                "total_assets": "1,061,546",
+                "liabilities": "10,000",
+                "net_assets": "1,051,546",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_19.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GIFT_PACKS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fee676-e441-4456-8eaf-9207ad2e0fd8",
+                "name": "V.\u0bb5\u0bc0\u0bb0\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd ",
+                "education": "6th std",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "age": "32",
+                "annual_income": "0",
+                "source_of_income": "Agriculture",
+                "moveable_assets": "261,546",
+                "immoveable_assets": "800,000",
+                "total_assets": "1,061,546",
+                "liabilities": "10,000",
+                "net_assets": "1,051,546",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEDARANYAM_19.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GIFT_PACKS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "VEDARANYAM",
+                    "constituency_en_label": "Vedaranyam",
+                    "constituency_ta_label": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb0\u0ba3\u0bcd\u0baf\u0bae\u0bcd",
+                    "district_id": "NAGAPATTINAM",
+                    "district_en_label": "Nagapattinam",
+                    "district_ta_label": "\u0ba8\u0bbe\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

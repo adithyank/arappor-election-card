@@ -1,1 +1,1606 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "92f7aa2b-9d89-4b62-be59-762601ff4ae5",
+                "name": "C.SURESHKUMAR",
+                "education": "B.A.,B.L Bharathidasan Univeristy , Trichy (1989)",
+                "occupation": "Advocate & Notary Public",
+                "age": "54",
+                "annual_income": "0",
+                "source_of_income": "Advocate & Notary Public",
+                "moveable_assets": "7,630,454",
+                "immoveable_assets": "26,794,160",
+                "total_assets": "34,424,614",
+                "liabilities": "822,228",
+                "net_assets": "33,602,386",
+                "no_of_criminal_cases": 1,
+                "cases_description": "Rioting , armed with  deadly weapons, Voluntarily causing hurt to deter public servant from duty, Attempt Murder, Criminal Intimidation, Harassment of woman to death or suicide.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_2.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "1,051,299",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "349,948",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f7aa2b-9d89-4b62-be59-762601ff4ae5",
+                "name": "C.\u0b9a\u0bc1\u0bb0\u0bc7\u0bb7\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+                "education": "B.A.,B.L Bharathidasan Univeristy , Trichy (1989)",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bcb\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf",
+                "age": "54",
+                "annual_income": "0",
+                "source_of_income": "Advocate & Notary Public",
+                "moveable_assets": "7,630,454",
+                "immoveable_assets": "26,794,160",
+                "total_assets": "34,424,614",
+                "liabilities": "822,228",
+                "net_assets": "33,602,386",
+                "no_of_criminal_cases": 1,
+                "cases_description": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0 \u0b86\u0baf\u0bc1\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bb2\u0b95\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd. \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95  \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bae\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95 \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/\u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf, \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc8 (\u0b95\u0bca\u0bb2\u0bc8/\u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8) \u0ba4\u0bc1\u0ba9\u0bcd\u0baa\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_2.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "1,051,299",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "349,948",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bcb\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf",
+                "cases_pending_description": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0 \u0b86\u0baf\u0bc1\u0ba4\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bb2\u0b95\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd. \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95  \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bae\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95 \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/\u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf, \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc8 (\u0b95\u0bca\u0bb2\u0bc8/\u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8) \u0ba4\u0bc1\u0ba9\u0bcd\u0baa\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1.",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bcb\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f919e8-ce6b-4866-ac25-3324501b86bd",
+                "name": "K.MARIMUTHU",
+                "education": "H.S.C",
+                "occupation": "POLITICIAN AND PUBLIC SERVICE",
+                "age": "50",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "155,460",
+                "immoveable_assets": "175,000",
+                "total_assets": "330,460",
+                "liabilities": "0",
+                "net_assets": "330,460",
+                "no_of_criminal_cases": 3,
+                "cases_description": "Unlawful assembly, Wrongful restraint, Involving in act endangering life or safety of others, Malignant act like spread of infection of disease dangerous to life, Disobedience to order duly promulgated by public servant.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_7.jpg",
+                "party": {
+                    "id": "Communist Party of India",
+                    "short_name": "CPOI",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bae\u0bcd\u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Communist Party of India",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/EARS_OF_CORN_AND_SICKLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f919e8-ce6b-4866-ac25-3324501b86bd",
+                "name": "K.\u0bae\u0bbe\u0bb0\u0bbf\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1",
+                "education": "H.S.C",
+                "occupation": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0bb5\u0bbe\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8",
+                "age": "50",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "155,460",
+                "immoveable_assets": "175,000",
+                "total_assets": "330,460",
+                "liabilities": "0",
+                "net_assets": "330,460",
+                "no_of_criminal_cases": 3,
+                "cases_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0baa\u0bbf\u0bb1\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc0\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb4\u0bc8\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bc1\u0bb0\u0bbf\u0ba4\u0bb2\u0bcd, \u0b89\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0bb5\u0bc2\u0bb4\u0bbf\u0baf\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0baa\u0bbf\u0bb0\u0b95\u0b9f\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_7.jpg",
+                "party": {
+                    "id": "Communist Party of India",
+                    "short_name": "CPOI",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bae\u0bcd\u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Communist Party of India",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/EARS_OF_CORN_AND_SICKLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0baa\u0bbf\u0bb1\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc0\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb4\u0bc8\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bc1\u0bb0\u0bbf\u0ba4\u0bb2\u0bcd, \u0b89\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0bb5\u0bc2\u0bb4\u0bbf\u0baf\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0baa\u0bbf\u0bb0\u0b95\u0b9f\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8.",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0bb5\u0bbe\u0ba4\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9300b3bb-8c90-47db-8918-ac83b8be924b",
+                "name": "A.AARTHI ",
+                "education": "B.A (HISTORY), B.Ed.,",
+                "occupation": "HOME MAKER",
+                "age": "38",
+                "annual_income": "0",
+                "source_of_income": "HOME MAKER",
+                "moveable_assets": "330,000",
+                "immoveable_assets": "0",
+                "total_assets": "330,000",
+                "liabilities": "0",
+                "net_assets": "330,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_22.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9300b3bb-8c90-47db-8918-ac83b8be924b",
+                "name": "A.\u0b86\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf ",
+                "education": "B.A (HISTORY), B.Ed.,",
+                "occupation": "\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bae\u0bcd",
+                "age": "38",
+                "annual_income": "0",
+                "source_of_income": "HOME MAKER",
+                "moveable_assets": "330,000",
+                "immoveable_assets": "0",
+                "total_assets": "330,000",
+                "liabilities": "0",
+                "net_assets": "330,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_22.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bae\u0bcd",
+                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fb1258-ce9a-4173-a231-b810719cbd9f",
+                "name": "D.PARIVENTHAN",
+                "education": "B.A.,B.L., M.A.,",
+                "occupation": "ADVOCATE",
+                "age": "48",
+                "annual_income": "0",
+                "source_of_income": "ADVOCATE",
+                "moveable_assets": "227,681",
+                "immoveable_assets": "0",
+                "total_assets": "227,681",
+                "liabilities": "210,000",
+                "net_assets": "17,681",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_12.jpg",
+                "party": {
+                    "id": "AllIndiaSamathuvaMakhalKatchi",
+                    "en_label": "AllIndiaSamathuvaMakhalKatchi",
+                    "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEN_DRIVE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fb1258-ce9a-4173-a231-b810719cbd9f",
+                "name": "D.\u0baa\u0bbe\u0bb0\u0bbf\u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0ba9\u0bcd ",
+                "education": "B.A.,B.L., M.A.,",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "age": "48",
+                "annual_income": "0",
+                "source_of_income": "ADVOCATE",
+                "moveable_assets": "227,681",
+                "immoveable_assets": "0",
+                "total_assets": "227,681",
+                "liabilities": "210,000",
+                "net_assets": "17,681",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_12.jpg",
+                "party": {
+                    "id": "AllIndiaSamathuvaMakhalKatchi",
+                    "en_label": "AllIndiaSamathuvaMakhalKatchi",
+                    "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEN_DRIVE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_pending_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fd0843-4a73-4b68-a5f9-5511e14a21ab",
+                "name": "S.RAJINIKANTH",
+                "education": "B.Sc., M.A., B.L., L.L.M., ",
+                "occupation": "ADVOCATE",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "ADVOCATE SALARY",
+                "moveable_assets": "224,063",
+                "immoveable_assets": "200,000",
+                "total_assets": "424,063",
+                "liabilities": "0",
+                "net_assets": "424,063",
+                "no_of_criminal_cases": 23,
+                "cases_description": "Unlawful assembly, Disobedience to the order duly promulgated by the public servant, Wrongful restraint, Assault or criminal force to deter public servant from discharge of his duty, Criminal intimidation, Voluntarily causing hurt to deter public servant from duty, Involved in act endangering the life or safety of others, Rioting, Criminal trespass, Assault or criminal force with intent to dishonor a person, otherwise than on grave provocation, Mischief causing damage to public  property, Abetting to commit offence, Provocation to cause riot, Attempt murder, Mischief with fire or explosive with intent to destroy house, causing hurt in committing robbery, Illegal payments in connection with election, Imputation, assertions prejudicial to national integration.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_15.jpg",
+                "party": {
+                    "id": "AMMA MAKKAL MUNNETRA KAZHAGAM",
+                    "en_label": "AMMA MAKKAL MUNNETRA KAZHAGAM",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fd0843-4a73-4b68-a5f9-5511e14a21ab",
+                "name": "S.\u0bb0\u0b9c\u0bbf\u0ba9\u0bbf\u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bcd ",
+                "education": "B.Sc., M.A., B.L., L.L.M., ",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "ADVOCATE SALARY",
+                "moveable_assets": "224,063",
+                "immoveable_assets": "200,000",
+                "total_assets": "424,063",
+                "liabilities": "0",
+                "net_assets": "424,063",
+                "no_of_criminal_cases": 23,
+                "cases_description": "\u0b85\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bc0\u0bb1\u0bbf \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0b9f\u0bbf \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc7\u0ba4\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba4\u0bc0\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1 \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bb5\u0ba3\u0b95\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0ba3\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0b95\u0bb2\u0b95\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3 \u0ba4\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1, \u0b8e\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bc8 \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b92\u0bb0\u0bc1\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0b9a\u0bc0\u0bb0\u0bcd\u0b95\u0bc1\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bc1.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_15.jpg",
+                "party": {
+                    "id": "AMMA MAKKAL MUNNETRA KAZHAGAM",
+                    "en_label": "AMMA MAKKAL MUNNETRA KAZHAGAM",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_pending_description": "\u0b85\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bc0\u0bb1\u0bbf \u0b92\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0b9f\u0bbf \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc7\u0ba4\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba4\u0bc0\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1 \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bb5\u0ba3\u0b95\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0bb5\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0ba3\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0b95\u0bb2\u0b95\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3 \u0ba4\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1, \u0b8e\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bc8 \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b92\u0bb0\u0bc1\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0b9a\u0bc0\u0bb0\u0bcd\u0b95\u0bc1\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bc1.",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff3d39-5163-409e-b091-74a61db658b8",
+                "name": "V.SIVAPRAKASAM",
+                "education": "B.A(EDITING AND BOOKMAKING)",
+                "occupation": "Charitable Trust",
+                "age": "34",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURAL WAGES",
+                "moveable_assets": "115,700",
+                "immoveable_assets": "0",
+                "total_assets": "115,700",
+                "liabilities": "80,000",
+                "net_assets": "35,700",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_18.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WATERMELON.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff3d39-5163-409e-b091-74a61db658b8",
+                "name": "V.\u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0b9a\u0bae\u0bcd ",
+                "education": "B.A(EDITING AND BOOKMAKING)",
+                "occupation": "\u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd ",
+                "age": "34",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURAL WAGES",
+                "moveable_assets": "115,700",
+                "immoveable_assets": "0",
+                "total_assets": "115,700",
+                "liabilities": "80,000",
+                "net_assets": "35,700",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_18.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WATERMELON.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_pending_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd ",
+                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff2ce7-5ace-4be1-9412-bad6efe91ac6",
+                "name": "A.K.SURESH",
+                "education": "12th pass",
+                "occupation": "AGRICULTURAL WAGES",
+                "age": "47",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURAL WAGES",
+                "moveable_assets": "18,282",
+                "immoveable_assets": "150,000",
+                "total_assets": "168,282",
+                "liabilities": "0",
+                "net_assets": "168,282",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_16.jpg",
+                "party": {
+                    "id": "PUTHIYA TAMIZHAGAM KATCHI",
+                    "en_label": "PUTHIYA TAMIZHAGAM KATCHI",
+                    "ta_label": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff2ce7-5ace-4be1-9412-bad6efe91ac6",
+                "name": "A.K. \u0b9a\u0bc1\u0bb0\u0bc7\u0bb7\u0bcd ",
+                "education": "12th pass",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf ",
+                "age": "47",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURAL WAGES",
+                "moveable_assets": "18,282",
+                "immoveable_assets": "150,000",
+                "total_assets": "168,282",
+                "liabilities": "0",
+                "net_assets": "168,282",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_16.jpg",
+                "party": {
+                    "id": "PUTHIYA TAMIZHAGAM KATCHI",
+                    "en_label": "PUTHIYA TAMIZHAGAM KATCHI",
+                    "ta_label": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_pending_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9300aa67-9ccb-4088-ac3c-4a951629c1d1",
+                "name": "M.SENGUTTUVAN",
+                "education": "B.SC(PHYSICS),B.ED,M.C.A",
+                "occupation": "QUALITY INSPECTOR IN PRIVATE CLOTHING COMPANY",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "SALARY OF QUALITY INSPECTOR IN PRIVATE CLOTHING COMPANY",
+                "moveable_assets": "287,000",
+                "immoveable_assets": "75,000",
+                "total_assets": "362,000",
+                "liabilities": "0",
+                "net_assets": "362,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_20.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SEWING_MACHINE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9300aa67-9ccb-4088-ac3c-4a951629c1d1",
+                "name": "M.\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0ba9\u0bcd ",
+                "education": "B.SC(PHYSICS),B.ED,M.C.A",
+                "occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bb0 \u0b86\u0baf\u0bcd\u0bb5\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0ba3\u0bbf ",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "SALARY OF QUALITY INSPECTOR IN PRIVATE CLOTHING COMPANY",
+                "moveable_assets": "287,000",
+                "immoveable_assets": "75,000",
+                "total_assets": "362,000",
+                "liabilities": "0",
+                "net_assets": "362,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_20.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SEWING_MACHINE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bb0 \u0b86\u0baf\u0bcd\u0bb5\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0ba3\u0bbf ",
+                "cases_pending_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b9c\u0bb5\u0bc1\u0bb3\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bb0 \u0b86\u0baf\u0bcd\u0bb5\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0ba3\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9300b614-acb0-4c28-8c2c-cc8072905925",
+                "name": "R.THIRUVARUL SELVI",
+                "education": "B.Pharm., M.B.A., M.Phil.,",
+                "occupation": "HOME MAKER",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "NIL",
+                "moveable_assets": "246,000",
+                "immoveable_assets": "0",
+                "total_assets": "246,000",
+                "liabilities": "0",
+                "net_assets": "246,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_24.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SETHOSCOPE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "100,000",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9300b614-acb0-4c28-8c2c-cc8072905925",
+                "name": "R. \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0bb3\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bbf ",
+                "education": "B.Pharm., M.B.A., M.Phil.,",
+                "occupation": "\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bae\u0bcd ",
+                "age": "42",
+                "annual_income": "0",
+                "source_of_income": "NIL",
+                "moveable_assets": "246,000",
+                "immoveable_assets": "0",
+                "total_assets": "246,000",
+                "liabilities": "0",
+                "net_assets": "246,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_24.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SETHOSCOPE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "100,000",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "cases_pending_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0ba9\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9300b135-fb93-4f5e-adc2-d27ef16251e4",
+                "name": "R.THULASIRAMAN",
+                "education": "B.A.,B.L",
+                "occupation": "LAWYER",
+                "age": "35",
+                "annual_income": "0",
+                "source_of_income": "LAWYER SALARY",
+                "moveable_assets": "265,500",
+                "immoveable_assets": "0",
+                "total_assets": "265,500",
+                "liabilities": "0",
+                "net_assets": "265,500",
+                "no_of_criminal_cases": 2,
+                "cases_description": "Rioting, Use of abusive language in public, Criminal intimidation, Use of armed weapons during rioting, Voluntarily causing hurt to deter public servant from his duty, Attempt to murder.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_21.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HOUR_GLASS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9300b135-fb93-4f5e-adc2-d27ef16251e4",
+                "name": "R.\u0ba4\u0bc1\u0bb3\u0b9a\u0bbf\u0bb0\u0bbe\u0bae\u0ba9\u0bcd ",
+                "education": "B.A.,B.L",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "age": "35",
+                "annual_income": "0",
+                "source_of_income": "LAWYER SALARY",
+                "moveable_assets": "265,500",
+                "immoveable_assets": "0",
+                "total_assets": "265,500",
+                "liabilities": "0",
+                "net_assets": "265,500",
+                "no_of_criminal_cases": 2,
+                "cases_description": "\u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a \u0bae\u0bca\u0bb4\u0bbf \u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b89\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd \u0b89\u0baa\u0baf\u0bcb\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bbf \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bc2\u0bb4\u0bbf\u0baf\u0bb0\u0bc8 \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0b9f\u0bae\u0bc8\u0baf\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_21.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HOUR_GLASS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd \u0b8a\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "\u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a \u0bae\u0bca\u0bb4\u0bbf \u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, \u0b89\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd \u0b89\u0baa\u0baf\u0bcb\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bbf \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bc2\u0bb4\u0bbf\u0baf\u0bb0\u0bc8 \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0b9f\u0bae\u0bc8\u0baf\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf.",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff3925-8f0a-4312-81c6-176538f352fc",
+                "name": "K.PARAMASIVAM ",
+                "education": "8th pass",
+                "occupation": "FARMER",
+                "age": "55",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "235,500",
+                "immoveable_assets": "100,000",
+                "total_assets": "335,500",
+                "liabilities": "0",
+                "net_assets": "335,500",
+                "no_of_criminal_cases": 3,
+                "cases_description": "Unlawful Assembly\nWrongfully Restrains\nSings, recites or utters any obscene song, ballad or words, in or near any public place\nVoluntarily causing hurt\nAssaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person\nRioting, armed with deadly weapon\nStanding with crowd and illegally injuring\nCriminal Intimidation. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_17.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/STOOL.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff3925-8f0a-4312-81c6-176538f352fc",
+                "name": "K.\u0baa\u0bb0\u0bae\u0b9a\u0bbf\u0bb5\u0bae\u0bcd ",
+                "education": "8th pass",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "55",
+                "annual_income": "0",
+                "source_of_income": "FARMER",
+                "moveable_assets": "235,500",
+                "immoveable_assets": "100,000",
+                "total_assets": "335,500",
+                "liabilities": "0",
+                "net_assets": "335,500",
+                "no_of_criminal_cases": 3,
+                "cases_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bc2\u0b9f\u0bbf \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb5\u0bb1\u0bbe\u0b95 \u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0ba4\u0bc1, \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bbe\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd \u0ba4\u0bc2\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THIRUTHURAIPOONDI_17.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/STOOL.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "THIRUTHURAIPOONDI",
+                    "constituency_en_label": "Thiruthuraipoondi",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc2\u0ba3\u0bcd\u0b9f\u0bbf",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bc2\u0b9f\u0bbf \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb5\u0bb1\u0bbe\u0b95 \u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0ba4\u0bc1, \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bbe\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1, \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd \u0ba4\u0bc2\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd.",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}

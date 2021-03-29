@@ -1,1 +1,2044 @@
-{"status":true,"message":"Candidates fetched successfully!","data":[]}
+{
+    "status": true,
+    "message": "Candidates fetched successfully!",
+    "data": [
+        {
+            "en": {
+                "candidate_id": "92f57c65-9063-4b10-8b82-5563473f660a",
+                "name": "R.KAMARAJ",
+                "education": "M.A.,",
+                "occupation": "AGRICULTURIST",
+                "age": "60",
+                "annual_income": "822,150",
+                "source_of_income": "AGRICULTURE/SALARY",
+                "moveable_assets": "17,394,460.76",
+                "immoveable_assets": "15,959,310",
+                "total_assets": "33,353,770.76",
+                "liabilities": "0",
+                "net_assets": "33,353,770.76",
+                "no_of_criminal_cases": 1,
+                "cases_description": "HOUSE TRESPASS, RESISTANCE TO TAKING OF PROPERTY BY THE LAWFUL AUTHORITY, OBSTRUCT THE WORK OF THE GOVERNMENT OFFICIALS IN DISCHARGE OF THEIR OFFICIAL DUTIES, THREAT OF INJURY  TO PUBLIC SERVANT.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_1.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "286,690",
+                        "spouse": "344,040",
+                        "overall": "344,040"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "381,570",
+                        "spouse": "372,210",
+                        "overall": "372,210"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "344,530",
+                        "spouse": "417,120",
+                        "overall": "1,920"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "831,200",
+                        "spouse": "373,970",
+                        "overall": "8,340"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "822,150",
+                        "spouse": "48,393",
+                        "overall": "29,329"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f57c65-9063-4b10-8b82-5563473f660a",
+                "name": "R. \u0b95\u0bbe\u0bae\u0bb0\u0bbe\u0b9c\u0bcd ",
+                "education": "M.A.,",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "age": "60",
+                "annual_income": "822,150",
+                "source_of_income": "AGRICULTURE/SALARY",
+                "moveable_assets": "17,394,460.76",
+                "immoveable_assets": "15,959,310",
+                "total_assets": "33,353,770.76",
+                "liabilities": "0",
+                "net_assets": "33,353,770.76",
+                "no_of_criminal_cases": 1,
+                "cases_description": "\u0b85\u0bb0\u0b9a\u0bc1 \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0ba3\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bc2\u0bb4\u0bbf\u0baf\u0bb0\u0bc8 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0b85\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bc0\u0bb1\u0bbf \u0bb5\u0bc0\u0b9f\u0bc1 \u0ba8\u0bc1\u0bb4\u0bc8\u0ba4\u0bb2\u0bcd, . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_1.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "286,690",
+                        "spouse": "344,040",
+                        "overall": "344,040"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "381,570",
+                        "spouse": "372,210",
+                        "overall": "372,210"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "344,530",
+                        "spouse": "417,120",
+                        "overall": "1,920"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "831,200",
+                        "spouse": "373,970",
+                        "overall": "8,340"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "822,150",
+                        "spouse": "48,393",
+                        "overall": "29,329"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd/\u0b8a\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "\u0b85\u0bb0\u0b9a\u0bc1 \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0ba3\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bc2\u0bb4\u0bbf\u0baf\u0bb0\u0bc8 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0b85\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bc0\u0bb1\u0bbf \u0bb5\u0bc0\u0b9f\u0bc1 \u0ba8\u0bc1\u0bb4\u0bc8\u0ba4\u0bb2\u0bcd, ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304dbfc-740e-492a-a32b-ac92bb294fbd",
+                "name": "R.RAVICHANDRAN",
+                "education": "B.Sc., B.Ed.,",
+                "occupation": "Agriculture Wages",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": "Agricultural Wages ",
+                "moveable_assets": "176,000",
+                "immoveable_assets": "0",
+                "total_assets": "176,000",
+                "liabilities": "40,000",
+                "net_assets": "136,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RAVICHANDRANR_Nannilam.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304dbfc-740e-492a-a32b-ac92bb294fbd",
+                "name": "R.\u0bb0\u0bb5\u0bbf\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd",
+                "education": "B.Sc., B.Ed.,",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd  \u0b95\u0bc2\u0bb2\u0bbf",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": "Agricultural Wages ",
+                "moveable_assets": "176,000",
+                "immoveable_assets": "0",
+                "total_assets": "176,000",
+                "liabilities": "40,000",
+                "net_assets": "136,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RAVICHANDRANR_Nannilam.jpg",
+                "party": {
+                    "id": "Bahujan Samaj Party",
+                    "short_name": "BSP",
+                    "ta_label": "\u0baa\u0b95\u0bc1\u0b9c\u0ba9\u0bcd \u0b9a\u0bae\u0bbe\u0b9c\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Bahujan Samaj Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd  \u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd  \u0b95\u0bc2\u0bb2\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe94d3-645b-4efa-b97e-2a19b3d0833e",
+                "name": "S.JOTHIRAMAN",
+                "education": "B.Sc.,",
+                "occupation": "AGRICULTURE, EXECUTIVE COMMITTEE MEMBER",
+                "age": "57",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "5,898,391.09",
+                "immoveable_assets": "15,300,000",
+                "total_assets": "21,198,391.09",
+                "liabilities": "2,762,580.72",
+                "net_assets": "18,435,810.37",
+                "no_of_criminal_cases": 12,
+                "cases_description": "unlawful assembly, wrongful restraint, disobeying public servants order, malignant act of spreading infection of disease dangerous to life.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_34.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "650,600",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "680,368",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "829,219",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "837,160",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe94d3-645b-4efa-b97e-2a19b3d0833e",
+                "name": "S.\u0b9c\u0bcb\u0ba4\u0bbf\u0bb0\u0bbe\u0bae\u0ba9\u0bcd ",
+                "education": "B.Sc.,",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b95\u0bc1\u0bb4\u0bc1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd (\u0bb5\u0b9f\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bbf\u0bb2\u0bc8 \u0baa\u0bb3\u0bcd\u0bb3\u0bbf )",
+                "age": "57",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "5,898,391.09",
+                "immoveable_assets": "15,300,000",
+                "total_assets": "21,198,391.09",
+                "liabilities": "2,762,580.72",
+                "net_assets": "18,435,810.37",
+                "no_of_criminal_cases": 12,
+                "cases_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba8\u0bcb\u0baf\u0bcd \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd.. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_34.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "650,600",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "680,368",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "829,219",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "837,160",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba8\u0bcb\u0baf\u0bcd \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd.",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b95\u0bc1\u0bb4\u0bc1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd (\u0bb5\u0b9f\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bbf\u0bb2\u0bc8 \u0baa\u0bb3\u0bcd\u0bb3\u0bbf )",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe8050-08c6-4350-918e-7514b9421913",
+                "name": "D.GANESAN",
+                "education": "M.B.A., LL.B.,",
+                "occupation": "ADVOCATE (LAWYER)",
+                "age": "35",
+                "annual_income": "0",
+                "source_of_income": "ADVOCATE (LAWYER)",
+                "moveable_assets": "1,675,000",
+                "immoveable_assets": "0",
+                "total_assets": "1,675,000",
+                "liabilities": "0",
+                "net_assets": "1,675,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_25.jpg",
+                "party": {
+                    "id": "INDIYA JANANAYAKA KATCHI",
+                    "en_label": "INDIYA JANANAYAKA KATCHI",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe8050-08c6-4350-918e-7514b9421913",
+                "name": "D.\u0b95\u0ba3\u0bc7\u0b9a\u0ba9\u0bcd ",
+                "education": "M.B.A., LL.B.,",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "age": "35",
+                "annual_income": "0",
+                "source_of_income": "ADVOCATE (LAWYER)",
+                "moveable_assets": "1,675,000",
+                "immoveable_assets": "0",
+                "total_assets": "1,675,000",
+                "liabilities": "0",
+                "net_assets": "1,675,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_25.jpg",
+                "party": {
+                    "id": "INDIYA JANANAYAKA KATCHI",
+                    "en_label": "INDIYA JANANAYAKA KATCHI",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd",
+                "cases_pending_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fb1945-16fc-4737-a764-b50608066ca1",
+                "name": "S.NITHIYANANTHAM",
+                "education": "S.S.L.C",
+                "occupation": "TEMPLE PRIEST",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "TEMPLE PRIEST",
+                "moveable_assets": "448,000",
+                "immoveable_assets": "1,500,000",
+                "total_assets": "1,948,000",
+                "liabilities": "400,000",
+                "net_assets": "1,548,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_17.jpg",
+                "party": {
+                    "id": "ANAITHU MAKKAL ARASIYAL KATCHI",
+                    "en_label": "ANAITHU MAKKAL ARASIYAL KATCHI",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GAS_CYLINDER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fb1945-16fc-4737-a764-b50608066ca1",
+                "name": "S.\u0ba8\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0ba8\u0bcd\u0ba4\u0bae\u0bcd ",
+                "education": "S.S.L.C",
+                "occupation": "\u0b95\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd  ",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": "TEMPLE PRIEST",
+                "moveable_assets": "448,000",
+                "immoveable_assets": "1,500,000",
+                "total_assets": "1,948,000",
+                "liabilities": "400,000",
+                "net_assets": "1,548,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_17.jpg",
+                "party": {
+                    "id": "ANAITHU MAKKAL ARASIYAL KATCHI",
+                    "en_label": "ANAITHU MAKKAL ARASIYAL KATCHI",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GAS_CYLINDER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0b95\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
+                "cases_pending_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd  ",
+                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fa6ddd-5818-4318-ba91-6ed76e763c84",
+                "name": "PANASAIARANGAN",
+                "education": "10th pass",
+                "occupation": "BOOK SELLER",
+                "age": "58",
+                "annual_income": "0",
+                "source_of_income": "BOOK SELLER",
+                "moveable_assets": "152,000",
+                "immoveable_assets": "0",
+                "total_assets": "152,000",
+                "liabilities": "0",
+                "net_assets": "152,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_14.jpg",
+                "party": {
+                    "id": "Desiya Makkal Sakthi Katchi",
+                    "short_name": "DMSK",
+                    "ta_label": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Desiya Makkal Sakthi Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FOOTBALL.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fa6ddd-5818-4318-ba91-6ed76e763c84",
+                "name": "\u0baa\u0ba9\u0b9a\u0bc8 \u0b85\u0bb0\u0b99\u0bcd\u0b95\u0ba9\u0bcd ",
+                "education": "10th pass",
+                "occupation": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd ",
+                "age": "58",
+                "annual_income": "0",
+                "source_of_income": "BOOK SELLER",
+                "moveable_assets": "152,000",
+                "immoveable_assets": "0",
+                "total_assets": "152,000",
+                "liabilities": "0",
+                "net_assets": "152,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_14.jpg",
+                "party": {
+                    "id": "Desiya Makkal Sakthi Katchi",
+                    "short_name": "DMSK",
+                    "ta_label": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Desiya Makkal Sakthi Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FOOTBALL.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fc8709-1e94-4762-9ea3-b378907a9345",
+                "name": "S.FATHIMA FARHANA",
+                "education": "M.B.A.,",
+                "occupation": "EDUCATOR",
+                "age": "27",
+                "annual_income": "0",
+                "source_of_income": "EDUCATOR",
+                "moveable_assets": "1,118,307",
+                "immoveable_assets": "6,000,000",
+                "total_assets": "7,118,307",
+                "liabilities": "0",
+                "net_assets": "7,118,307",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_19.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fc8709-1e94-4762-9ea3-b378907a9345",
+                "name": "S.\u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bae\u0bbe \u0baa\u0bb0\u0bcd\u0bb9\u0bbe\u0ba9\u0bbe ",
+                "education": "M.B.A.,",
+                "occupation": "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd ",
+                "age": "27",
+                "annual_income": "0",
+                "source_of_income": "EDUCATOR",
+                "moveable_assets": "1,118,307",
+                "immoveable_assets": "6,000,000",
+                "total_assets": "7,118,307",
+                "liabilities": "0",
+                "net_assets": "7,118,307",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_19.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd ",
+                "cases_pending_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304e4da-8f7b-46d7-98a3-4ad623666826",
+                "name": "M.MURUGAVEL",
+                "education": "9th Standard",
+                "occupation": "AGRICULTURE",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURAL",
+                "moveable_assets": "1,312,000",
+                "immoveable_assets": "100,000",
+                "total_assets": "1,412,000",
+                "liabilities": "0",
+                "net_assets": "1,412,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MURUGAVELM_Nannilam.jpg",
+                "party": {
+                    "id": "Anna Dravidar Kazhagam",
+                    "en_label": "Anna Dravidar Kazhagam",
+                    "ta_label": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0bb0\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304e4da-8f7b-46d7-98a3-4ad623666826",
+                "name": "M.\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0bb5\u0bc7\u0bb2\u0bcd",
+                "education": "9th Standard",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "39",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURAL",
+                "moveable_assets": "1,312,000",
+                "immoveable_assets": "100,000",
+                "total_assets": "1,412,000",
+                "liabilities": "0",
+                "net_assets": "1,412,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MURUGAVELM_Nannilam.jpg",
+                "party": {
+                    "id": "Anna Dravidar Kazhagam",
+                    "en_label": "Anna Dravidar Kazhagam",
+                    "ta_label": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0bb0\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0bb0\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe88e1-17f8-4377-ad7c-53db6dca14ca",
+                "name": "T.ANUSHA",
+                "education": "M.A.,",
+                "occupation": "AGRICULTURE",
+                "age": "41",
+                "annual_income": "17,850",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "2,133,405",
+                "immoveable_assets": "8,500,000",
+                "total_assets": "10,633,405",
+                "liabilities": "909,000",
+                "net_assets": "9,724,405",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_28.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GIFT_PACKS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "17,850",
+                        "spouse": "1,420",
+                        "overall": "150,000"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe88e1-17f8-4377-ad7c-53db6dca14ca",
+                "name": "T.\u0b85\u0ba9\u0bc1\u0bb7\u0bbe ",
+                "education": "M.A.,",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "age": "41",
+                "annual_income": "17,850",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "2,133,405",
+                "immoveable_assets": "8,500,000",
+                "total_assets": "10,633,405",
+                "liabilities": "909,000",
+                "net_assets": "9,724,405",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_28.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GIFT_PACKS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "17,850",
+                        "spouse": "1,420",
+                        "overall": "150,000"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fb3a7f-fac7-4aa2-ba2e-b4ec703bdd57",
+                "name": "K .KRISHNAN",
+                "education": "12TH STD",
+                "occupation": "AGRICULTURE",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "510,000",
+                "immoveable_assets": "100,000",
+                "total_assets": "610,000",
+                "liabilities": "0",
+                "net_assets": "610,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_16.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BABY_WALKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fb3a7f-fac7-4aa2-ba2e-b4ec703bdd57",
+                "name": "K .\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd ",
+                "education": "12TH STD",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "510,000",
+                "immoveable_assets": "100,000",
+                "total_assets": "610,000",
+                "liabilities": "0",
+                "net_assets": "610,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_16.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BABY_WALKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe8314-95ab-4c39-a357-ecbfd1d42502",
+                "name": "R.KUMARAN",
+                "education": "6TH PASS",
+                "occupation": "AGRICULTURE",
+                "age": "28",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "99,000",
+                "immoveable_assets": "250,000",
+                "total_assets": "349,000",
+                "liabilities": "105,000",
+                "net_assets": "244,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_26.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BINOCULARS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe8314-95ab-4c39-a357-ecbfd1d42502",
+                "name": "R.\u0b95\u0bc1\u0bae\u0bb0\u0ba9\u0bcd ",
+                "education": "6TH PASS",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "28",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "99,000",
+                "immoveable_assets": "250,000",
+                "total_assets": "349,000",
+                "liabilities": "105,000",
+                "net_assets": "244,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_26.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BINOCULARS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe9813-553a-4a0a-ab6c-743accb78335",
+                "name": "S.R.TAMILSELVAN",
+                "education": "12TH DISCONTINUED",
+                "occupation": "AGRICULTURE",
+                "age": "52",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "2,380,155",
+                "immoveable_assets": "250,000",
+                "total_assets": "2,630,155",
+                "liabilities": "435,228",
+                "net_assets": "2,194,927",
+                "no_of_criminal_cases": 1,
+                "cases_description": "Wrongful restraint *(SUICIDAL PROTEST). ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_35.jpg",
+                "party": {
+                    "id": "Agila India Makkal Kazhagam",
+                    "short_name": "AIMK",
+                    "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Agila India Makkal Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SCISSORS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe9813-553a-4a0a-ab6c-743accb78335",
+                "name": "S.R.S.R. \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba9\u0bcd ",
+                "education": "12TH DISCONTINUED",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "52",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "2,380,155",
+                "immoveable_assets": "250,000",
+                "total_assets": "2,630,155",
+                "liabilities": "435,228",
+                "net_assets": "2,194,927",
+                "no_of_criminal_cases": 1,
+                "cases_description": "\u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bc1 \u0baa\u0bcb\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0b95 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_35.jpg",
+                "party": {
+                    "id": "Agila India Makkal Kazhagam",
+                    "short_name": "AIMK",
+                    "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Agila India Makkal Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SCISSORS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_pending_description": "\u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bc1 \u0baa\u0bcb\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0b95 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f586d9-f394-4b2e-bc67-10d0b3938a0f",
+                "name": "C.NATARAJAN",
+                "education": "8th pass",
+                "occupation": "AGRICULTURE",
+                "age": "49",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "220,000",
+                "immoveable_assets": "500,000",
+                "total_assets": "720,000",
+                "liabilities": "0",
+                "net_assets": "720,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_6.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BUCKET.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f586d9-f394-4b2e-bc67-10d0b3938a0f",
+                "name": "C. \u0ba8\u0b9f\u0bb0\u0bbe\u0b9c\u0ba9\u0bcd ",
+                "education": "8th pass",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "49",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURE",
+                "moveable_assets": "220,000",
+                "immoveable_assets": "500,000",
+                "total_assets": "720,000",
+                "liabilities": "0",
+                "net_assets": "720,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NANNILAM_6.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BUCKET.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304ea37-8ef4-4a22-8c22-df26a752a90e",
+                "name": "S.RAJA",
+                "education": "10th pass",
+                "occupation": "AGRICULTURE",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURAL INCOME",
+                "moveable_assets": "505,000",
+                "immoveable_assets": "685,000",
+                "total_assets": "1,190,000",
+                "liabilities": "0",
+                "net_assets": "1,190,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RAJAS_Nannilam.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BRIEF_CASE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304ea37-8ef4-4a22-8c22-df26a752a90e",
+                "name": "S.\u0bb0\u0bbe\u0b9c\u0bbe",
+                "education": "10th pass",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "AGRICULTURAL INCOME",
+                "moveable_assets": "505,000",
+                "immoveable_assets": "685,000",
+                "total_assets": "1,190,000",
+                "liabilities": "0",
+                "net_assets": "1,190,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RAJAS_Nannilam.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BRIEF_CASE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "NANNILAM",
+                    "constituency_en_label": "Nannilam",
+                    "constituency_ta_label": "\u0ba8\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bae\u0bcd",
+                    "district_id": "THIRUVARUR",
+                    "district_en_label": "Thiruvarur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        }
+    ]
+}
