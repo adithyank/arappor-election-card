@@ -7,3 +7,16 @@ repositories {
 dependencies {
     compile project(':java-app')
 }
+
+task downloadSourceData(type: JavaExec) {
+
+    main = 'com.indtele.videohelper.AMain'
+    classpath = sourceSets.main.runtimeClasspath
+    args name
+}
+
+task createTextFiles(type: JavaExec) {
+    main = 'com.indtele.videohelper.AMain'
+    classpath = sourceSets.main.runtimeClasspath
+    args name
+}
