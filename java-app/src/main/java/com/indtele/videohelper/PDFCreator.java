@@ -64,7 +64,7 @@ public class PDFCreator
     public PDFCreator() throws Exception
     {
         System.out.println("APP_HOME : "  + APP_HOME);
-        BaseFont base = BaseFont.createFont("/usr/share/fonts/truetype/noto/NotoSansTamilUI-Regular.ttf", BaseFont.IDENTITY_H, true);
+        //BaseFont base = BaseFont.createFont("/usr/share/fonts/truetype/noto/NotoSansTamilUI-Regular.ttf", BaseFont.IDENTITY_H, true);
         //TAMIL_FONT = new Font(base, 14f, Font.NORMAL);
     }
 
