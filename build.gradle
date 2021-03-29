@@ -12,6 +12,7 @@ task downloadSourceData(type: JavaExec) {
 
     main = 'com.indtele.videohelper.AMain'
     classpath = sourceSets.main.runtimeClasspath
+    systemProperties (['file.encoding': 'UTF-8'])
     args name
 }
 
@@ -19,4 +20,5 @@ task createTextFiles(type: JavaExec) {
     main = 'com.indtele.videohelper.AMain'
     classpath = sourceSets.main.runtimeClasspath
     args name
+    systemProperties (['file.encoding': 'UTF-8'])
 }
