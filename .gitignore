@@ -19,3 +19,4 @@ buildSrc/.gradle
 test-output/
 .idea
 out
+java-app/outputs/
