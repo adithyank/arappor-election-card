@@ -509,7 +509,7 @@ public class PDFCreator
         }
     }
 
-    private void preparePDF() throws Exception
+    public void prepareVideoHelperDoc() throws Exception
     {
         List<Constituency> cs = resp(false);
 
@@ -529,7 +529,7 @@ public class PDFCreator
     {
         long s = System.currentTimeMillis();
         PDFCreator creator = new PDFCreator();
-//        List<Constituency> resp = creator.resp(false);
+        List<Constituency> resp = creator.resp(false);
 //        creator.downloadImages(creator.resp(false));
 //        System.out.println(resp.stream().mapToInt(Constituency::noOfCandidates).sum());
 //        creator.downloadAll();
