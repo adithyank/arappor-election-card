@@ -1,0 +1,149 @@
+<div class="card-content election-card border">
+
+    <div class="row row-main-details">
+        <div class="col col-3 col-photo">
+            <img src="{{:soPhotoUrl}}">
+        </div>
+
+        <div class="col col-5 col-photo-details">
+            <div class="row">
+
+                <div class="col col-photo-details-english">
+                    <div class="label">பெயர்</div>
+                    <div class="value">{{:nameTamil}}</div>
+
+                    <div class="label">தொகுதி</div>
+                    <div class="valuesmall">{{:constituencyTamil}}</div>
+
+                    <div class="label">மாவட்டம்</div>
+                    <div class="valuesmall">{{:districtTamil}}</div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="col col-4 col-partysymbol border-left">
+
+            <div class="row partynamerow">
+                <div class="col">
+                    <div>{{:partyNameTamil}}</div>
+                </div>
+
+            </div>
+
+            <div class="row partysymbolrow">
+                <div class="col">
+                    <img src="{{:soSymbolUrl}}">
+                </div>
+            </div>
+
+            <div class="row partysymbolname">
+                <div class="col text-muted">
+                {{:symbolName}}
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <hr>
+
+    <div class="row row-kvs">
+        <div class="col">
+
+            <div class="row row-kv  border-bottom">
+                <div class="col col-kv-key">கல்வி</div>
+                <div class="col col-kv-value">{{:educationTamil}}</div>
+            </div>
+
+            <div class="row  row-kv border-bottom">
+                <div class="col col-kv-key">மொத்த சொத்து</div>
+                <div class="col col-kv-value">{{:totalAssetTamil}}</div>
+            </div>
+
+            <div class="row  row-kv border-bottom">
+                <div class="col col-kv-key">கடன்</div>
+                <div class="col col-kv-value">{{:liabilityTamil}}</div>
+            </div>
+
+            <div class="row row-kv border-bottom">
+                <div class="col col-kv-key">மொத்த நிகர சொத்து</div>
+                <div class="col col-kv-value">{{:netAssetTamil}}</div>
+            </div>
+
+            <div class="row  row-kv border-bottom">
+                <div class="col col-kv-key">தொழில்</div>
+                <div class="col col-kv-value">{{:occupationTamil}}</div>
+            </div>
+
+            <div class="row row-kv border-bottom">
+                <div class="col col-kv-key">கிரிமினல் வழக்குகள்</div>
+                <div class="col col-kv-value">{{:criminalCase}}</div>
+            </div>
+
+            <div class="row row-kv border-bottom">
+                <div class="col col-kv-key">கிரிமினல் வழக்குகள் விவரம்</div>
+                <div class="col col-kv-value">{{:caseDetailTamil}}</div>
+            </div>
+
+
+        </div>
+    </div>
+
+    <!--{{if propertyComparision}}-->
+    <!--{{/if}}-->
+
+    <div class="row row-property-comparison">
+        <div class="col-3"></div>
+        <div class="col-6 col-property-comparison">
+            <canvas id="propertyChart"></canvas>
+        </div>
+        <div class="col-3"></div>
+    </div>
+
+    <div class="row logo">
+        <div class="col-9"></div>
+
+    </div>
+
+    <div class="row row-footer">
+        <div class="col">
+            * தேர்தல் ஆணையத்திற்கு சமர்ப்பிக்கப்பட்ட தகவல்
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row m-2 ml-0">
+        <div class="col-auto">
+            <div class="text-muted">Website</div>
+            <div class="text-muted">Mobile App</div>
+            <div class="text-muted">Facebook</div>
+            <div class="text-muted">Twitter</div>
+        </div>
+        <div class="col-auto">
+            <div>https://arappor.org/</div>
+            <div>http://bit.ly/Arappor_android_app</div>
+            <div>https://www.facebook.com/Arappor</div>
+            <div>http://twitter.com/arappor</div>
+        </div>
+        <div class="col-auto">
+            <div class="text-muted">Youtube</div>
+        </div>
+        <div class="col-auto">
+            <div>https://www.youtube.com/c/arappor</div>
+        </div>
+        <div class="col">
+
+        </div>
+        <div class="col-auto logo-col">
+            <img src="assets/img/arappor-logo.png">
+        </div>
+    </div>
+
+    <script>
+        showPropertyChart()
+    </script>
+
+</div>

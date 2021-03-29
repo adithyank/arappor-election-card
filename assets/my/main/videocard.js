@@ -29,10 +29,27 @@ var candidatesTableConfig = {
                         var tableData = grid.get(sel[0])
 
                         sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/vcdesign.html", tableData)
+//                        sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/fullcard.html", tableData)
                     }
                 }
             }
         }
+
+$(document).on('click', '#btnViewFullCard', function(e) {
+    let sel = w2ui.candidatesTable.getSelection()
+    if (sel.length == 0)
+       return
+
+    sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/fullcard.html", w2ui.candidatesTable.get(sel[0]))
+})
+
+$(document).on('click', '#btnViewVideoCard', function(e) {
+    let sel = w2ui.candidatesTable.getSelection()
+    if (sel.length == 0)
+       return
+
+    sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/vcdesign.html", w2ui.candidatesTable.get(sel[0]))
+})
 
 var getConstituencyJson = function(constituencyName, obj)
 {
@@ -145,32 +162,6 @@ var saveAllVideoCards = function()
     }, 500)
 
 }
-
-var showCandidate = async function(obj)
-{
-    console.log("obj = ", obj)
-
-    var c = obj.data[0]
-
-    sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/vcdesign.html", o)
-    //await sirpi.sleep(1000)
-    await new Promise(r => setTimeout(r, 2000));
-
-    saveDivAsImage2()
-}
-
-var printJson = function()
-{
-    for (cname in constituencyList1)
-    {
-        getConstituencyJson(constituencyList1[cname], {
-            success: function(r) {
-                showCandidate(JSON.parse(r))
-            }
-        })
-    }
-}
-
 
 $(document).ready(function() {
     //printJson()

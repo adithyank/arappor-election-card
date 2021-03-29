@@ -66,6 +66,12 @@
                     <input type="button" id="btnLoadConstituency" class="btn btn-primary" value="Load">
                 </div>
                 <div class="col-auto">
+                    <input type="button" id="btnViewFullCard" class="btn btn-primary" value="Full Card">
+                </div>
+                <div class="col-auto">
+                    <input type="button" id="btnViewVideoCard" class="btn btn-primary" value="Video Card | சட்டத">
+                </div>
+                <div class="col-auto">
                     <input type="button" onclick="saveDivAsImage()" class="btn btn-primary" value="Save">
                 </div>
                 <div class="col-auto">
@@ -78,7 +84,7 @@
 
             <div class="row h-100">
 
-                <div id="tablediv" class="col-sm-4 h-100">
+                <div id="tablediv" class="col-sm-3 h-100">
                 </div>
 
                 <div id="carddiv" class="col-sm-8 h-100">
@@ -114,7 +120,7 @@
 <script>
 
 var saveDivAsImage = function(cons, name) {
-    html2canvas(document.querySelector(".vcdesign")).then(canvas => {
+    html2canvas(document.querySelector(".card-content")).then(canvas => {
         //document.body.appendChild(canvas)
 
       var link = document.createElement('a');
