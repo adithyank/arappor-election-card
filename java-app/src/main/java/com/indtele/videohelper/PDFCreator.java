@@ -42,14 +42,18 @@ public class PDFCreator
 {
     public static final long PHOTO_DOWNLOAD_DELAY = 10;
 
-    public static final String CONSTITUENCY_LIST = "/coding/repo/adithyank/arappor-election-card/assets/data/constituency-list.txt";
-    public static final String CONSTITUENCY_BASE_URL = "http://election.arappor.org/api/candidates-by-constituency";
-    public static final String JSON_STORE_PATH = "/coding/repo/adithyank/arappor-election-card/assets/data/retrieved-json";
-    public static final String CLIENT_JSON_STORE_PATH = "/coding/repo/adithyank/arappor-election-card/assets/data/clientjson";
-    public static final String PDF_STORE_PATH = "/home/adithyan/all-files/coding/repo/personal-git/others/myneta-site-data-extractor/outputs/pdf";
+    public static final String APP_HOME = System.getProperty("user.dir");
 
-    public static final String candidatePhotoDir    = "/coding/repo/adithyank/arappor-election-card/assets/data/retrieved-imgs/candidates";
-    public static final String candidateSymbolDir   = "/coding/repo/adithyank/arappor-election-card/assets/data/retrieved-imgs/symbol";
+    public static final String CONSTITUENCY_LIST        = APP_HOME + "/assets/data/constituency-list.txt";
+    public static final String CONSTITUENCY_BASE_URL    = "http://election.arappor.org/api/candidates-by-constituency";
+    public static final String JSON_STORE_PATH          = APP_HOME + "/assets/data/retrieved-json";
+    public static final String CLIENT_JSON_STORE_PATH   = APP_HOME + "/assets/data/clientjson";
+    public static final String OUTPUTS_PATH             = APP_HOME + "/outputs";
+    public static final String PDF_STORE_PATH           = OUTPUTS_PATH + "/pdf";
+
+    public static final String candidatePhotoDir        = APP_HOME + "/assets/data/retrieved-imgs/candidates";
+
+    public static final String candidateSymbolDir       = APP_HOME + "/assets/data/retrieved-imgs/symbol";
 
     private static Font TITLEFont = new Font(Font.FontFamily.HELVETICA, 18, Font.BOLD);
     private static Font redFont = new Font(Font.FontFamily.HELVETICA, 12, Font.NORMAL, BaseColor.RED);
@@ -59,6 +63,7 @@ public class PDFCreator
 
     public PDFCreator() throws Exception
     {
+        System.out.println("APP_HOME : "  + APP_HOME);
         BaseFont base = BaseFont.createFont("/usr/share/fonts/truetype/noto/NotoSansTamilUI-Regular.ttf", BaseFont.IDENTITY_H, true);
         //TAMIL_FONT = new Font(base, 14f, Font.NORMAL);
     }
@@ -180,7 +185,7 @@ public class PDFCreator
 
         map.put("candidates", propsList);
 
-        File dir = new File("/home/adithyan/all-files/coding/repo/personal-git/others/myneta-site-data-extractor/outputs/txt");
+        File dir = new File(APP_HOME + "/outputs/txt");
 
         File txt = new File(dir, constituency.name + ".txt");
         txt.getParentFile().mkdirs();
@@ -198,7 +203,7 @@ public class PDFCreator
 
         map.put("candidates", propsList);
 
-        File dir = new File("/home/adithyan/all-files/coding/repo/personal-git/others/myneta-site-data-extractor/outputs/pdf/");
+        File dir = new File(OUTPUTS_PATH + "/pdf/");
 
         File html = new File(new File(dir, "/html"), constituency.name + ".html");
         File pdf = new File(new File(dir, "/pdf"), constituency.name + ".pdf");
@@ -524,13 +529,13 @@ public class PDFCreator
     {
         long s = System.currentTimeMillis();
         PDFCreator creator = new PDFCreator();
-        List<Constituency> resp = creator.resp(false);
+//        List<Constituency> resp = creator.resp(false);
 //        creator.downloadImages(creator.resp(false));
 //        System.out.println(resp.stream().mapToInt(Constituency::noOfCandidates).sum());
 //        creator.downloadAll();
 //            creator.preparePDF();
 
-        creator.printCounts(creator.resp(false));
+//        creator.printCounts(creator.resp(false));
 
         long e = System.currentTimeMillis();
         System.out.println("Time taken = " + (e - s) / 1000 + " sec");
