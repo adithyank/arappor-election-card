@@ -1,0 +1,121 @@
+Constituency Document
+=====================
+
+Constituency Name : PERAVURANI
+No of Candidates : 8
+No of Independent Candidates : 2
+
+=====================
+
+Name : N.Ashokkumar
+Age : 63
+Party Name : Dravida Munnetra Kazhagam
+Education : S.S.L.C. 
+Occupation : Agriculture & Social service
+Total Assets : 6 crore 10 lacs
+Liability : 2 crore 23 lacs
+Net Asset : 3 crore 86 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.Sivakumar
+Age : 43
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 12th pass
+Occupation : Agriculture and Social Work
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 4
+Case Details : அரசியல் கட்சி சார்பாக நடந்த போராட்டத்தின் விளைவாக ஏற்பட்ட வழக்கு. 
+Symbol Name : NAGARA
+
+=====================
+
+Name : S.V.THIRUGNANASAMBANDAM
+Age : 57
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 12TH STD
+Occupation : AGRICULTURE
+Total Assets : 3 crore 92 lacs
+Liability : 39 lacs
+Net Asset : 3 crore 53 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIADMK
+
+=====================
+
+Name : G.Durairajan
+Age : 69
+Party Name : Bahujan Samaj Party
+Education : B.Sc
+Occupation : Retired Government Job
+Total Assets : 40500
+Liability : No
+Net Asset : 40500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.Delipan
+Age : 43
+Party Name : Naam Tamilar Katchi
+Education : 10th pass
+Occupation : FARMER
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P.PACHAMUTHU
+Age : 42
+Party Name : INDIYA JANANAYAKA KATCHI
+Education : D.E.E.E.,
+Occupation : PHOTOGRAPHER
+Total Assets : 17 lacs
+Liability : 12 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : G.Elangovan
+Age : 62
+Party Name : Independent
+Education : 10th pass
+Occupation : Agriculture
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SEWING_MACHINE
+
+=====================
+
+Name : U.Uthayakumar
+Age : 31
+Party Name : Independent
+Education : MA.,M.Ed.,M.Phil.
+Occupation : Agriculture and Social Work
+Total Assets : 5 lacs
+Liability : 4 lacs
+Net Asset : 70000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+

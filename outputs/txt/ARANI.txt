@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : ARANI
+No of Candidates : 15
+No of Independent Candidates : 8
+
+=====================
+
+Name : S.S.ANBALAGAN
+Age : 49
+Party Name : Dravida Munnetra Kazhagam
+Education : B.A History Not Completed
+Occupation : AGRICULTURE
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 2
+Case Details : தி மு க தலைவர் கைதை கண்டித்து ஆர்ப்பாட்டம், அரசை  கண்டித்து ஆர்ப்பாட்டம். 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K.ANBU
+Age : 38
+Party Name : Bahujan Samaj Party
+Education : B.A
+Occupation : AGRI LABOR
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : G.Baskaran
+Age : 38
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 8th Standard
+Occupation : Silk Sarees Sales
+Total Assets : 4 lacs
+Liability : 6 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : S.RAMACHANDRAN
+Age : 63
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 12th pass
+Occupation : AGRICULTURE, RICE TRADER
+Total Assets : 13 crore 82 lacs
+Liability : 3 crore 65 lacs
+Net Asset : 10 crore 17 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.THANIGAIVEL
+Age : 56
+Party Name : VeerathThiyagi Viswanathadoss Thozhilalarkal Katchi
+Education : 10th - not completed
+Occupation : AGRI LABOR, DRIVER
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : D.PRAKALATHA
+Age : 35
+Party Name : Naam Tamilar Katchi
+Education : B.Sc Chemistry, M.A., M.Ed.
+Occupation : Home maker
+Total Assets : 22 lacs
+Liability : 6 lacs
+Net Asset : 17 lacs
+Criminal Cases : 1
+Case Details : எட்டு வழி சாலைக்கு எதிராக ஆர்ப்பாட்டம் . பொருந்தாது 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : V.Manigandan
+Age : 28
+Party Name : Makkal Needhi Maiam
+Education : B.A., (History )Not completed
+Occupation : Agriculture
+Total Assets : 8 lacs
+Liability : 8 lacs
+Net Asset : 0 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : A.Arunkumar
+Age : 49
+Party Name : Independent
+Education : 10th
+Occupation : Business
+Total Assets : 31 lacs
+Liability : 13 lacs
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DUSBIN
+
+=====================
+
+Name : K.ANBALAGAN
+Age : 50
+Party Name : Independent
+Education : 10th pass
+Occupation : AGRICULTURE
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : DISH_ANTENNA
+
+=====================
+
+Name : M.ANBALAGAN
+Age : 35
+Party Name : Independent
+Education : 10th pass
+Occupation : AGRICULTRE LABOR
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : STOOL
+
+=====================
+
+Name : N.Karthikeyan
+Age : 36
+Party Name : Independent
+Education : 4th standard
+Occupation : Paddy Rice Business
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : S.SAKTHIVEL
+Age : 33
+Party Name : Independent
+Education : 10th Pass 
+Occupation : PRIVATE BUS DRIVER
+Total Assets : 48 lacs
+Liability : No
+Net Asset : 48 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PETROL_PUMP
+
+=====================
+
+Name : R.Dhakshanamoorthy
+Age : 37
+Party Name : Independent
+Education : 9th Standard
+Occupation : Agriculture
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SOFA
+
+=====================
+
+Name : S.Murali
+Age : 33
+Party Name : Independent
+Education : M.Sc., Ph.D.,
+Occupation : Research and politics
+Total Assets : 72 lacs
+Liability : 10 lacs
+Net Asset : 62 lacs
+Criminal Cases : 1
+Case Details : தவறான வார்த்தைகளால் திட்டுதல், மிரட்டுதல். 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : S.Ramachandran
+Age : 38
+Party Name : Independent
+Education : SSLC.,
+Occupation : LABOURER 
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAIL_CUTTER
+
+=====================
+

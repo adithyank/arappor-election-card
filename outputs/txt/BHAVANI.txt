@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : BHAVANI
+No of Candidates : 14
+No of Independent Candidates : 5
+
+=====================
+
+Name : K C.Karuppanan
+Age : 64
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : S.S.L.C
+Occupation : Agriculture
+Total Assets : 18 crore 18 lacs
+Liability : 38 lacs
+Net Asset : 17 crore 81 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.Gopal
+Age : 32
+Party Name : Bahujan Samaj Party
+Education : 8th pass
+Occupation : Self employment
+Total Assets : 5 lacs
+Liability : 3 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details :  .  
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K P.Durairaj
+Age : 53
+Party Name : Dravida Munnetra Kazhagam
+Education : 12th 
+Occupation : Agriculturist & Business
+Total Assets : 9 crore 68 lacs
+Liability : 99 lacs
+Net Asset : 8 crore 69 lacs
+Criminal Cases : 2
+Case Details : சுகாதாரத்துறைகோவிட் -19 விதிமுறை மீறியது. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K.Ammasai
+Age : 44
+Party Name : Kongudesa Marumalarchi Makkal Katchi
+Education : Government Boys High School Bhavani 1995
+Occupation : Tea stall
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : K. SADHANANDHAM
+Age : 52
+Party Name : Makkal Needhi Maiam
+Education : Government School, Alampalayam - 1986
+Occupation : Business
+Total Assets : 3 crore 23 lacs
+Liability : 68 lacs
+Net Asset : 2 crore 55 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : M.Sathya
+Age : 38
+Party Name : Naam Tamilar Katchi
+Education : ITI, Coimbatore I.T.I 2003,2004
+Occupation : Housewife
+Total Assets : 5 lacs
+Liability : 3 lacs
+Net Asset : 2 lacs
+Criminal Cases : 1
+Case Details : பவானிசாகர் ஈழத்தமிழர் முகாம் சென்று அவர்களை சந்தித்தது குறித்து . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M. RADHAKRISHNAN
+Age : 54
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : 7th Std Government School
+Occupation : Thread Business
+Total Assets : 18 lacs
+Liability : 11 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : RP.Janarthanam
+Age : 44
+Party Name : Tamilaga Makkal Thanurimai Katchi
+Education : 10th 
+Occupation : not provided in affidavit
+Total Assets : 19 lacs
+Liability : 7 lacs
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : A.Abdulkadher
+Age : 38
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : HSS (higher secondary school)
+Occupation : Daily Wages
+Total Assets : 30000
+Liability : No
+Net Asset : 30000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DOOR_HANDEL
+
+=====================
+
+Name : K.Appichi
+Age : 44
+Party Name : Independent
+Education : 9th class, Government Boys High School Bhavani 1991-92
+Occupation : Farming Labor
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details :  .  
+Symbol Name : HAT
+
+=====================
+
+Name : P.Karthikeyan
+Age : 40
+Party Name : Independent
+Education : B.Com
+Occupation : Private vehicle driver
+Total Assets : 66470
+Liability : No
+Net Asset : 66470
+Criminal Cases : 0
+Case Details :  
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : P.Sathishkumar
+Age : 42
+Party Name : Independent
+Education : Government High School Mailampadi 1993
+Occupation : Private business
+Total Assets : 2 crore 17 lacs
+Liability : 52 lacs
+Net Asset : 1 crore 66 lacs
+Criminal Cases : 0
+Case Details :  
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : V M.Perumal
+Age : 67
+Party Name : Independent
+Education : 5th Pass
+Occupation : Farmer ( Daily Wage Worker)
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : G.Stanley
+Age : 47
+Party Name : Independent
+Education : S.S.L.C
+Occupation : Daily wages
+Total Assets : 70000
+Liability : No
+Net Asset : 70000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DOOR_BELL
+
+=====================
+

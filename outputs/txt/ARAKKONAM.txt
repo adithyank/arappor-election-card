@@ -1,0 +1,193 @@
+Constituency Document
+=====================
+
+Constituency Name : ARAKKONAM
+No of Candidates : 13
+No of Independent Candidates : 7
+
+=====================
+
+Name : P.Sudhakar
+Age : 42
+Party Name : Bahujan Samaj Party
+Education : 12th pass
+Occupation : Business
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.Ravi
+Age : 57
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.L 
+Occupation : LAWYER
+Total Assets : 1 crore 15 lacs
+Liability : 1 crore 07 lacs
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : E.Abirmi
+Age : 27
+Party Name : Naam Tamilar Katchi
+Education : B.B.A
+Occupation : House wife
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : J.Gowthama sannah
+Age : 48
+Party Name : Viduthalai Chiruthaigal Katchi
+Education : M.A
+Occupation : Lawyer
+Total Assets : 1 crore 06 lacs
+Liability : 15 lacs
+Net Asset : 92 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : POT
+
+=====================
+
+Name : S.Baskaran
+Age : 37
+Party Name : Makkal Needhi Maiam
+Education : 12th pass
+Occupation : Private Company
+Total Assets : 6 lacs
+Liability : 3 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.C.Manivannan
+Age : 46
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : 12th pass
+Occupation : Farmer
+Total Assets : 69 lacs
+Liability : 22 lacs
+Net Asset : 47 lacs
+Criminal Cases : 1
+Case Details : அரசியல் சங்கம் தொடர்பாக கிராம நிர்வாக அதிகாரி புகார் அளித்தார் U/s 143,188, 281 IPC. சட்ட  விரோதமாக  கூடுதல் 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : V.Ravi
+Age : 54
+Party Name : Independent
+Education : 10th pass
+Occupation : Labor work
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : A.Gauthaman
+Age : 29
+Party Name : Independent
+Education : 10th Standard (2009).
+Occupation : Private Company
+Total Assets : 26500
+Liability : No
+Net Asset : 26500
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : C.M.Gowthaman
+Age : 30
+Party Name : Independent
+Education : B.Sc(Computer Science)
+Occupation : Job in Private company
+Total Assets : 20600
+Liability : No
+Net Asset : 20600
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : RING
+
+=====================
+
+Name : M.Manikandan
+Age : 27
+Party Name : Independent
+Education : B.A.L.L.B
+Occupation : Lawyer
+Total Assets : 27600
+Liability : No
+Net Asset : 27600
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : M.Madhanraj
+Age : 31
+Party Name : Independent
+Education : B.Sc.(computer Science),B.Ed.
+Occupation : Private Company
+Total Assets : 74490
+Liability : No
+Net Asset : 74490
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : C.Mohan
+Age : 40
+Party Name : Independent
+Education : 9th Standard (1994)
+Occupation : Driver
+Total Assets : 58400
+Liability : No
+Net Asset : 58400
+Criminal Cases : 0
+Case Details : இல்லை 
+. இல்லை 
+
+Symbol Name : CAMERA
+
+=====================
+
+Name : P.Ravi
+Age : 46
+Party Name : Independent
+Education : 5th pass
+Occupation : Agriculture Labor
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TELEVISION
+
+=====================
+

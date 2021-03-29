@@ -1,0 +1,401 @@
+Constituency Document
+=====================
+
+Constituency Name : TIRUCHENGODU
+No of Candidates : 28
+No of Independent Candidates : 18
+
+=====================
+
+Name : E.R.ESWARAN
+Age : 60
+Party Name : Dravida Munnetra Kazhagam
+Education : BE Mechanical
+Occupation : Business (Export of Readymade Garments)
+Total Assets : 40 crore 94 lacs
+Liability : 17 crore 08 lacs
+Net Asset : 23 crore 86 lacs
+Criminal Cases : 5
+Case Details : கலகம், பயங்கர ஆயுதங்களுடன் கலகம் செய்ததாக, கொலை செய்ய முயற்சி செய்தல், அடுத்தவரை காயப்படுத்தியத்திற்கு, குற்றங்கருதி மிரட்டல் விட்டதாக . பொருந்தாது 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : Pon.Saraswathi
+Age : 60
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Literature 
+Occupation : Real Estate, Transport, Agriculture
+Total Assets : 12 crore 43 lacs
+Liability : 81 lacs
+Net Asset : 11 crore 62 lacs
+Criminal Cases : 1
+Case Details : * மோசடி மற்றும் நேர்மையற்ற முறையில் சொத்து விநியோகத்தைத் தூண்டும். பொன். சரஸ்வதி அவர்களின் சகோதரி R.M. சாந்தி  போல் பொன். சரஸ்வதி கையெழுத்திட்டார்  என மோசடி குற்றச்சாட்டு . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : A.Kalaivanan
+Age : 66
+Party Name : My India Party
+Education : 10 th pass
+Occupation : Power loom
+Total Assets : 8 lacs
+Liability : 2 lacs
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது. .
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : K.Sivakumar
+Age : 45
+Party Name : Tamilaga Makkal Thannurimai Katchi
+Education : 10th pass
+Occupation : Driver
+Total Assets : 64000
+Liability : No
+Net Asset : 64000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : K.Chinnathambi
+Age : 62
+Party Name : Republican party of India
+Education : 5th pass
+Occupation : Dailywage
+Total Assets : 6000
+Liability : No
+Net Asset : 6000
+Criminal Cases : 0
+Case Details : பொருந்தாது. பொருந்தாது
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : N.SengottuVelu
+Age : 52
+Party Name : Ahimsa Socialist Party
+Education : 8th pass
+Occupation : textiles
+Total Assets : 1 crore 42 lacs
+Liability : 11 lacs
+Net Asset : 1 crore 31 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BATSMAN
+
+=====================
+
+Name : P.NATARAJAN
+Age : 40
+Party Name : Naam Tamilar Katchi
+Education : Vocational education
+Occupation : INDIVIDUAL AGRICULTURE
+Total Assets : 15 lacs
+Liability : 3 lacs
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.Yuvaraj kumar
+Age : 36
+Party Name :  Namathu Kongu Munnetra Kalagam
+Education : B.A, B.L
+Occupation : farmer, Lawyer
+Total Assets : 46 lacs
+Liability : 3 lacs
+Net Asset : 43 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது  . பொருந்தாது 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : R.JANAGARAJ
+Age : 46
+Party Name : Makkal Needhi Maiam
+Education : 8 th Pass
+Occupation : Lorry Business
+Total Assets : 1 crore 16 lacs
+Liability : 40 lacs
+Net Asset : 76 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : R.HEMALATHA
+Age : 65
+Party Name : Amma Makkal Munnettra Kazagam
+Education : B.A Political Science 
+Occupation : Agriculture
+Total Assets : 46 lacs
+Liability : 5 lacs
+Net Asset : 41 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : A.ESWARAN
+Age : 58
+Party Name : Independent
+Education : 2nd standard
+Occupation : Power loom labour 
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WINDOWS
+
+=====================
+
+Name : K.Eswaran
+Age : 43
+Party Name : Independent
+Education : 10th pass
+Occupation : Power loom wage work
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : LUDO
+
+=====================
+
+Name : G.Eswaran
+Age : 51
+Party Name : Independent
+Education : 5th pass
+Occupation : Power loom wage work
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : ஏதுவுமில்லை. ஏதுவுமில்லை
+Symbol Name : FRYING_PAN
+
+=====================
+
+Name : M.Eswaran
+Age : 49
+Party Name : Independent
+Education : 8th pass
+Occupation : Power loom wage work
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : S.Karthikeyan
+Age : 36
+Party Name : Independent
+Education : B.Com., M.Phil 
+Occupation : 3 Star Hotel Manager
+Total Assets : 35000
+Liability : No
+Net Asset : 35000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : HOCKEY_AND_BALL
+
+=====================
+
+Name : T.Shanmugasundaram
+Age : 38
+Party Name : Independent
+Education : 10th pass
+Occupation : Loom
+Total Assets : 5000
+Liability : No
+Net Asset : 5000
+Criminal Cases : 0
+Case Details : பொருந்தாது. பொருந்தாது
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : C.Sathishkumar
+Age : 28
+Party Name : Independent
+Education : 12th pass
+Occupation : Private Company Manager
+Total Assets : 25 lacs
+Liability : No
+Net Asset : 25 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : FOOTBALL_PLAYER
+
+=====================
+
+Name : R.CHANDRA
+Age : 44
+Party Name : Independent
+Education : B.A Tamil
+Occupation : Readymade Garments Production
+Total Assets : 42 lacs
+Liability : 11 lacs
+Net Asset : 31 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது. பொருந்தாது
+Symbol Name : ALMIRAH
+
+=====================
+
+Name : K.Saravanan
+Age : 38
+Party Name : Independent
+Education : B.E ECE
+Occupation : Private Company Manager
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை பொருந்தாது. பொருந்தாது
+Symbol Name : HAT
+
+=====================
+
+Name : M.Saraswathi
+Age : 65
+Party Name : Independent
+Education : 5th pass
+Occupation : Agriculture
+Total Assets : 24 lacs
+Liability : No
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : C.SenthilKumar
+Age : 35
+Party Name : Independent
+Education : DME DISCONTIUED  
+Occupation : Tourist car Service
+Total Assets : 36 lacs
+Liability : 7 lacs
+Net Asset : 29 lacs
+Criminal Cases : 0
+Case Details : இல்லை / பொருந்தாது. இல்லை / பொருந்தாது
+Symbol Name : COMPUTER
+
+=====================
+
+Name : R.Selvaramalingam
+Age : 45
+Party Name : Independent
+Education : M.B.A., HR
+Occupation : Retired IAF veteran
+Total Assets : 1 crore 78 lacs
+Liability : 40 lacs
+Net Asset : 1 crore 38 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : K.R.Selvaraj
+Age : 65
+Party Name : Independent
+Education : SSLC
+Occupation : Farmer, Borewell Consultant
+Total Assets : 1 crore 59 lacs
+Liability : No
+Net Asset : 1 crore 59 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : T
+
+=====================
+
+Name : C.Balamurughan
+Age : 31
+Party Name : Independent
+Education : B.COM
+Occupation : Travels
+Total Assets : 65 lacs
+Liability : 27 lacs
+Net Asset : 38 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : SAW
+
+=====================
+
+Name : S.BALAMURUGAN 
+Age : 40
+Party Name : Independent
+Education : 8th pass
+Occupation : WOOD WORKS
+Total Assets : 26 lacs
+Liability : 10 lacs
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : P.BALAJICHEZHIAN
+Age : 36
+Party Name : Independent
+Education : B.E
+Occupation : Agricultural wages
+Total Assets : 79000
+Liability : No
+Net Asset : 79000
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : SCISSORS
+
+=====================
+
+Name : R.Ranjith
+Age : 32
+Party Name : Independent
+Education : B.E CS
+Occupation : Nadhi Agencies - Iron Equipments
+Total Assets : 43 lacs
+Liability : 14 lacs
+Net Asset : 29 lacs
+Criminal Cases : 0
+Case Details : இல்லை . பொருந்தாது
+Symbol Name : RING
+
+=====================
+
+Name : K.Velu
+Age : 47
+Party Name : Independent
+Education : 10th pass
+Occupation : Agriculture
+Total Assets : 47 lacs
+Liability : No
+Net Asset : 47 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை.  பொருந்தாது
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+

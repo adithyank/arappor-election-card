@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : KATPADI
+No of Candidates : 15
+No of Independent Candidates : 7
+
+=====================
+
+Name : Duraimurugan
+Age : 83
+Party Name : Dravida Munnetra Kazhagam
+Education : M.A
+Occupation : Social worker
+Total Assets : 30 crore 80 lacs
+Liability : No
+Net Asset : 30 crore 80 lacs
+Criminal Cases : 8
+Case Details : COVID - 19 தொற்றுநோய்களுக்கு மத்தியில் பண்ணை மசோதா தொடர்பாக மத்திய அரசுக்கு எதிராக நாங்கள் எதிர்ப்பு தெரிவித்ததாக குற்றம் சாட்டி எஃப்.ஐ.ஆர் பதிவு , நானும்  60 பேர் காவேரி நீர் மேலாண்மை ஆணையத்திற்கு நாங்கள் எதிர்ப்பு தெரிவித்ததாகவும் குற்றம் சாட்டினர். காவிரி நீர் மேலாண்மை அதிகாரத்தை உருவாக்காததற்காக மையத்திற்கு எதிராக நான் எதிர்ப்பு தெரிவித்தேன் என்று குற்றம் சாட்டி எனக்கும் 627 உறுப்பினர்களுக்கும் எதிராக எஃப்.ஐ.ஆர் பதிவு . காவிரி நீர் பிரச்சினை தொடர்பாக கர்நாடக அரசுக்கு எதிராக நான் எதிர்ப்பு தெரிவித்தேன் என்று குற்றம் சாட்டி எனக்கும், 310 உறுப்பினர்களுக்கும் எதிராக எஃப்.ஐ.ஆர் பதிவு, சரத்குமார் விபத்து வழக்கு மற்றும் ராஜ்குமாரின் கொள்ளைவழக்கில் விசாரணை நடத்த கோரி ஆர்பாட்டம் செய்ததால் எனக்கும், இன்னும் சிலருக்கும் எதிராக எஃப்.ஐ.ஆர் பதிவு . வருமான ஆதாரத்திற்கு சமமற்ற சொத்துக்கள் சேர்த்துள்ளதாக புகார். 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : V.Ramu
+Age : 48
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.E Chemical Engineering 
+Occupation : Farmer
+Total Assets : 1 crore 37 lacs
+Liability : No
+Net Asset : 1 crore 37 lacs
+Criminal Cases : 1
+Case Details : தமிழ்நாடு திறந்தவெளி (அழகை சேதப்படுத்துதல் தடுப்பு) சட்டம் 1959. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : K.Raja
+Age : 59
+Party Name : Bahujan Samaj Party
+Education : 10th pass
+Occupation : Electrician
+Total Assets : 52500
+Liability : No
+Net Asset : 52500
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.P.Arumugam
+Age : 45
+Party Name : Indian Christian Front
+Education : Diploma in Civil Engineering
+Occupation : Press
+Total Assets : 8 lacs
+Liability : 4 lacs
+Net Asset : 4 lacs
+Criminal Cases : 1
+Case Details : இல்லை . 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : M.Sudharsan
+Age : 30
+Party Name : Indiya Jananayaka Katchi
+Education : B.Tech
+Occupation : Own Business
+Total Assets : 9 lacs
+Liability : 10 lacs
+Net Asset : -1 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S.Thirukumaran
+Age : 43
+Party Name : Naam Tamilar Katchi
+Education : M.A
+Occupation : Own Business
+Total Assets : 1 crore 13 lacs
+Liability : 27 lacs
+Net Asset : 87 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.S.RAJA
+Age : 60
+Party Name : Amma makkal munetra kalagam
+Education : B.A
+Occupation : NIL
+Total Assets : 25 lacs
+Liability : No
+Net Asset : 25 lacs
+Criminal Cases : 0
+Case Details : -. -
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.S.SRIDHAR
+Age : 61
+Party Name : Anna MGR Dravida Makkal Kalgam
+Education : NIL
+Occupation : DOCUMENT WRITER
+Total Assets : 50000
+Liability : No
+Net Asset : 50000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PAN
+
+=====================
+
+Name : J.Anandhi
+Age : 34
+Party Name : Independent
+Education : HSC
+Occupation : House wife
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ROAD_ROLLER
+
+=====================
+
+Name : P.Dhananjayan
+Age : 45
+Party Name : Independent
+Education : 10th pass
+Occupation : Agriculture
+Total Assets : 16 lacs
+Liability : 8 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : R.Baskaran
+Age : 55
+Party Name : Independent
+Education : SSLC
+Occupation : Business
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : R.Raman
+Age : 53
+Party Name : Independent
+Education : 10th pass
+Occupation : Painting Contract
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : K.Ramu
+Age : 43
+Party Name : Independent
+Education : D.C.E
+Occupation : Civil Engineer
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : D.Ramu
+Age : 49
+Party Name : Independent
+Education : 5th pass
+Occupation : Masnary work
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : PEAS
+
+=====================
+
+Name : V.Vinayagam
+Age : 34
+Party Name : Independent
+Education : B.A.L.L.B
+Occupation : Business
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+

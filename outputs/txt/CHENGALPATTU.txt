@@ -1,0 +1,191 @@
+Constituency Document
+=====================
+
+Constituency Name : CHENGALPATTU
+No of Candidates : 13
+No of Independent Candidates : 4
+
+=====================
+
+Name : M.Gajendran
+Age : 42
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : BA., (Political Science)
+Occupation : Director & Partner of private company
+Total Assets : 7 crore 96 lacs
+Liability : 5 crore 65 lacs
+Net Asset : 2 crore 31 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.Varalakshmi
+Age : 47
+Party Name : Dravida Munnetra Kazhagam
+Education : Village Health Nurse 
+Occupation : MLA, Agriculture, Rent
+Total Assets : 41 crore 44 lacs
+Liability : 23 crore 78 lacs
+Net Asset : 17 crore 65 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.Eraniappan
+Age : 60
+Party Name : Communist Party of India (Marxist-Leninist) (Liberation)
+Education : 10th standard (PUC)
+Occupation : Retired Government officer
+Total Assets : 87 lacs
+Liability : No
+Net Asset : 87 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . பொருந்தாது 
+Symbol Name : HAMMER_SICKLE_STAR
+
+=====================
+
+Name : K.SANJEEVINATHAN
+Age : 40
+Party Name : Naam Tamilar Katchi
+Education : 9TH STD, GOVERNMENT HIGHER SECONDERY SCHOOL
+Occupation : TRAVELS
+Total Assets : 1 crore 68 lacs
+Liability : 1 crore 06 lacs
+Net Asset : 61 lacs
+Criminal Cases : 1
+Case Details : வாய்தகராறு மற்றும் தள்ளுமுள்ளு மற்றும் கொலை மிரட்டல் வழக்கு . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.Sathishkumar
+Age : 34
+Party Name : Amma makkal munnetra kazhagam
+Education : MBBS.,
+Occupation : Government registered private doctor
+Total Assets : 4 crore 43 lacs
+Liability : 2 crore 59 lacs
+Net Asset : 1 crore 83 lacs
+Criminal Cases : 0
+Case Details : எதுவுமில்லை . பொருந்தாது 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : D.SARAVANAN
+Age : 33
+Party Name : All India Jananayaka Makkal Kazhagam 
+Education : BBA., LLB.,
+Occupation : Advocate
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : MIXEE
+
+=====================
+
+Name : S.Dillibabu
+Age : 46
+Party Name : Tipu Sultan Party
+Education : B.Com
+Occupation : Daily Labour
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : S.MUTHAMILSELVAN
+Age : 47
+Party Name : Indiya Jananaya kaKatchi
+Education : BCOM
+Occupation : BUSINESS
+Total Assets : 44 lacs
+Liability : 18 lacs
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : G.Vasumathi
+Age : 37
+Party Name : Anaithu Makkal Arasiyal Katchi
+Education : DPT
+Occupation : Private company employee
+Total Assets : 3 lacs
+Liability : 1 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : N.Gopalakrishnan
+Age : 49
+Party Name : Independent
+Education : B.A.,
+Occupation : Social Worker
+Total Assets : 10000
+Liability : No
+Net Asset : 10000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BANGLES
+
+=====================
+
+Name : I.Seethalakshmi
+Age : 27
+Party Name : Independent
+Education : 12th pass
+Occupation : NA
+Total Assets : 23000
+Liability : No
+Net Asset : 23000
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : G.Rajagopal
+Age : 35
+Party Name : Independent
+Education : M.B.A
+Occupation : Business Consultant
+Total Assets : 22 lacs
+Liability : 15 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : LAPTOP
+
+=====================
+
+Name : E.Veeradoss
+Age : 44
+Party Name : Independent
+Education : 12th pass
+Occupation : Manager at Private parcel service company
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : HAT
+
+=====================
+

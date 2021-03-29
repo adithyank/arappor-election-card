@@ -1,0 +1,206 @@
+Constituency Document
+=====================
+
+Constituency Name : METTUR
+No of Candidates : 14
+No of Independent Candidates : 6
+
+=====================
+
+Name : S.SRINIVASAPERUMAL
+Age : 46
+Party Name : Dravida Munnetra Kazhagam
+Education : 12th pass
+Occupation : REAL ESTATE
+Total Assets : 11 crore 39 lacs
+Liability : 7 crore 44 lacs
+Net Asset : 3 crore 94 lacs
+Criminal Cases : 5
+Case Details : பொது மக்களுக்கான அரசியல் போராட்டங்களின் பொது சட்ட்டங்களை மீறியதாக பதியப்பட்ட வழக்கு . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.RAMESH ARAVIND
+Age : 42
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 11 TH
+Occupation : SOCIAL SERVICE
+Total Assets : 12 lacs
+Liability : 4 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : P.ANUSUYA
+Age : 25
+Party Name : Makkal Needhi Maiam
+Education : DIPLOMA IN NURSING & OT
+Occupation : PRIVATE JOB
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.SADHASIVAM
+Age : 54
+Party Name : Pattali Makkal Katchi
+Education : M.A POLITICAL SCIENCE 2009, ANNAMALAI UNIVERSITY
+Occupation : SELF EMPLOYEE
+Total Assets : 2 crore 78 lacs
+Liability : 66 lacs
+Net Asset : 2 crore 11 lacs
+Criminal Cases : 2
+Case Details : மறியல் செய்தது, நிலப் பிரச்சனை சம்பந்தமாக 
+. 
+Symbol Name : MANGO
+
+=====================
+
+Name : K.THANGAVEL
+Age : 37
+Party Name : DHESIYA MAKKAL KAZHAGAM
+Education : Illiterate
+Occupation : WAGES
+Total Assets : 18000
+Liability : No
+Net Asset : 18000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WATERMELON
+
+=====================
+
+Name : P.BANUPRIYA
+Age : 25
+Party Name : Ganasangam Party of India
+Education : B.Sc. Nursing
+Occupation : NURSE
+Total Assets : 95000
+Liability : 40502
+Net Asset : 54498
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : C.MANIKANDAN
+Age : 29
+Party Name : Naam Tamilar Katchi
+Education : 
+Occupation : 
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.RASAPPAN
+Age : 57
+Party Name : MY INDIA PARTY
+Education : 9TH STD
+Occupation : AGRICULTURE
+Total Assets : 52 lacs
+Liability : 1 lacs
+Net Asset : 51 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : A.AMBIKA
+Age : 30
+Party Name : Independent
+Education : ITI
+Occupation : DAILY WAGE
+Total Assets : 25500
+Liability : No
+Net Asset : 25500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : P.Arivazhagan
+Age : 51
+Party Name : Independent
+Education : BIAM 
+Occupation : Vegetables business
+Total Assets : 4 crore 39 lacs
+Liability : 4 lacs
+Net Asset : 4 crore 35 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GRAPES
+
+=====================
+
+Name : P.SADHASIVAM
+Age : 32
+Party Name : Independent
+Education : DIPLOMA IN MECHANICAL ENGINEERING
+Occupation :  OWN BUSINESS
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 1
+Case Details : இலங்கை தமிழர் பிரச்சனைக்காக போராட்டத்தில் கலந்து கொண்டதால் . 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : A.SELVAN
+Age : 37
+Party Name : Independent
+Education : 5th pass
+Occupation : LABOUR WAGE
+Total Assets : 40000
+Liability : No
+Net Asset : 40000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : P.Sekar
+Age : 54
+Party Name : Independent
+Education : 8th pass
+Occupation : Handloom
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : Dr. K.PADMARAJAN
+Age : 60
+Party Name : Independent
+Education : M.A.History
+Occupation : TYRE WORKS
+Total Assets : 15 lacs
+Liability : No
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TYRES
+
+=====================
+

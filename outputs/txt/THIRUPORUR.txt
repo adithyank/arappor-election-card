@@ -1,0 +1,163 @@
+Constituency Document
+=====================
+
+Constituency Name : THIRUPORUR
+No of Candidates : 11
+No of Independent Candidates : 5
+
+=====================
+
+Name : V.K.Pakkiri Ambadkar
+Age : 54
+Party Name : Bahujan Samaj Party
+Education : SSLC.,
+Occupation : Agriculture
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.Arumugam
+Age : 60
+Party Name : Pattali Makkal Katchi
+Education : B.Sc.,
+Occupation : Agriculture, Rice Mill
+Total Assets : 10 crore 12 lacs
+Liability : 62 lacs
+Net Asset : 9 crore 50 lacs
+Criminal Cases : 3
+Case Details : கலவரம், குற்றவியல் மீறல், தீங்கிழைக்கும் நோக்கம், மத உணர்வை கொச்சைப்படுத்துதல்,அரசு ஊழியரை அவமரியாதை செய்தல், சட்ட விரோதமாக கும்பல் கூடுதல். பொருந்தாது 
+Symbol Name : MANGO
+
+=====================
+
+Name : M.Kothandapani
+Age : 62
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : B.A.,
+Occupation : Agriculture
+Total Assets : 6 crore 31 lacs
+Liability : 5 lacs
+Net Asset : 6 crore 26 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : S.S.Balaji
+Age : 51
+Party Name : Viduthalai Chiruthaigal Katchi
+Education : B.E., L.L.B
+Occupation : Advocate
+Total Assets : 3 crore 10 lacs
+Liability : 1 crore 33 lacs
+Net Asset : 1 crore 77 lacs
+Criminal Cases : 2
+Case Details : வி.சி.க ஆர்ப்பாட்டத்தின் போது தாக்குதல் . 
+Symbol Name : POT
+
+=====================
+
+Name : S.Mohanasundari
+Age : 36
+Party Name : Naam Tamilar Katchi
+Education : B.Pharm
+Occupation : House wife
+Total Assets : 62 lacs
+Liability : 25 lacs
+Net Asset : 37 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : N.Lavanya
+Age : 41
+Party Name : Makkal Needhi Maiam
+Education : B.Com., B.E.d, Diploma in Montessori, Diploma in Special Education
+Occupation : Self Business
+Total Assets : 1 crore 92 lacs
+Liability : 59 lacs
+Net Asset : 1 crore 34 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : U.Akbar Bhasha
+Age : 32
+Party Name : Independent
+Education : SSLC.,
+Occupation : Daily Labour
+Total Assets : 88000
+Liability : No
+Net Asset : 88000
+Criminal Cases : 1
+Case Details : விவரங்கள் குறிப்பிடப்படவில்லை. 
+Symbol Name : HAT
+
+=====================
+
+Name : M.Duraisamy
+Age : 39
+Party Name : Independent
+Education : 9th Standard
+Occupation : Self-Employed
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BISCUIT
+
+=====================
+
+Name : S.Nataraj
+Age : 37
+Party Name : Independent
+Education : 9th class
+Occupation : Business
+Total Assets : 7 lacs
+Liability : 20000
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : D.Ravi
+Age : 48
+Party Name : Independent
+Education : 3rd
+Occupation : Daily Wages Labour
+Total Assets : 14000
+Liability : No
+Net Asset : 14000
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : A.Joshva
+Age : 53
+Party Name : Independent
+Education : Not given
+Occupation : Self employment
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : SWINGS
+
+=====================
+

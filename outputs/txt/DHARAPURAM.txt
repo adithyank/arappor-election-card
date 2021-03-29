@@ -1,0 +1,206 @@
+Constituency Document
+=====================
+
+Constituency Name : DHARAPURAM
+No of Candidates : 14
+No of Independent Candidates : 6
+
+=====================
+
+Name : N.KAYALVIZHI
+Age : 52
+Party Name : Dravida Munnetra Kazhagam
+Education : M.Com. B.Ed.. -  B.Com(1989) M.Com(1993) from Kaveri Women's Arts College, Trichy. B.Ed from Universit of Madras 1994
+Occupation : House Wife
+Total Assets : 4 crore 17 lacs
+Liability : No
+Net Asset : 4 crore 17 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : L.MURUGAN
+Age : 43
+Party Name : Bharatiya Janata Party
+Education : PhD in Law, Univiersity of Madras 2019
+Occupation : Agriculture and Legal Consultant
+Total Assets : 2 crore 67 lacs
+Liability : No
+Net Asset : 2 crore 67 lacs
+Criminal Cases : 21
+Case Details : பொது மக்களுக்கான போராட்டங்களின் போது சட்டங்களை மீறியதாக பதிவு செய்யப்பட்ட வழக்கு 
+. 
+Symbol Name : LOTUS_BJP
+
+=====================
+
+Name : S.RANGASAMY
+Age : 35
+Party Name : Bahujan Samaj Party
+Education : GHSS, 1999 Sirupuluvappatti
+Occupation :  Labour
+Total Assets : 50000
+Liability : 15000
+Net Asset : 35000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : C.KALARANI
+Age : 58
+Party Name : Amma Makkal Munnettra Kazagam
+Education : SSLC Failed 1983 Mudurai Kamaraj Open University
+Occupation : Textile Business
+Total Assets : 54 lacs
+Liability : 30 lacs
+Net Asset : 23 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : A.CHARLI
+Age : 39
+Party Name : Makkal Needhi Maiam
+Education : 4th Std, Panchayat Union Primary School,  Pullakkalipalayam
+Occupation : Self Employment
+Total Assets : 4 lacs
+Liability : 2 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : V.CHIDAMBHARAM
+Age : 58
+Party Name : India Dravida  Makkal Munnetra Katchi
+Education : MA  (History)
+Occupation : Self Employed
+Total Assets : 13 lacs
+Liability : 8 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : A.MUNIYAPPAN
+Age : 32
+Party Name : Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam
+Education : 12 Pass & ITI Dharapuram
+Occupation : Labour
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : K.RANJITHA
+Age : 26
+Party Name : Naam Tamilar Katchi
+Education : N/A
+Occupation : Labourer
+Total Assets : 51000
+Liability : No
+Net Asset : 51000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Ananthi
+Age : 36
+Party Name : Independent
+Education : M.Sc B.Ed
+Occupation : Daily Wage Worker
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HOCKEY_AND_BALL
+
+=====================
+
+Name : K.KAYALVIZHI
+Age : 42
+Party Name : Independent
+Education : MA, BEd
+Occupation : Not Given
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : P.KAYALVIZHI
+Age : 27
+Party Name : Independent
+Education : M.A, B.Ed  - M.A - 2017 Barathiyar University,  B.Ed 2015, Secondary School, TN
+Occupation : Teacher - Private School
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : SWINGS
+
+=====================
+
+Name : A.KARTHIKEYAN
+Age : 26
+Party Name : Independent
+Education : 10th pass
+Occupation : Farm Labour
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : CLIPS
+
+=====================
+
+Name : V.SELVARAJ
+Age : 51
+Party Name : Independent
+Education : Illiterate
+Occupation : Farm Labour
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : BOX
+
+=====================
+
+Name : A.MURUGAN
+Age : 35
+Party Name : Independent
+Education : 12th(2004), 10th (2001) from GHSS, Markkampatti
+Occupation : Private Sector - Watchman
+Total Assets : 11000
+Liability : No
+Net Asset : 11000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : CAULIFLOWER
+
+=====================
+

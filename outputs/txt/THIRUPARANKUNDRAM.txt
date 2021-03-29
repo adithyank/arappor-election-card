@@ -1,0 +1,331 @@
+Constituency Document
+=====================
+
+Constituency Name : THIRUPARANKUNDRAM
+No of Candidates : 23
+No of Independent Candidates : 14
+
+=====================
+
+Name : K.PONNUTHAI
+Age : 47
+Party Name : Communist party of India (Marxist)
+Education : 12th PASS
+Occupation : PARTY OWNER
+Total Assets : 15 lacs
+Liability : 4 lacs
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : EARS_OF_CORN_AND_SICKLE
+
+=====================
+
+Name : V.V.Rajanchellappa
+Age : 70
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.A. (Political Science), Madurai Kamarajar University, Madurai (1984); B.L., Madras University (1977)
+Occupation : Agriculture
+Total Assets : 6 crore 54 lacs
+Liability : 1 crore 06 lacs
+Net Asset : 5 crore 47 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : R.SAVITHA
+Age : 36
+Party Name : AnnaM.G.R.JayalalithaDravidaMunnetraKazhagam
+Education : B.A,L.L.B
+Occupation : BUSINESS
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PAN
+
+=====================
+
+Name : K.DAVIDANNADURAI
+Age : 43
+Party Name : AmmaMakkalMunnettraKazagam
+Education : B.A.B.L
+Occupation : ADVOCATE
+Total Assets : 2 crore 34 lacs
+Liability : 2 lacs
+Net Asset : 2 crore 32 lacs
+Criminal Cases : 4
+Case Details : அனுமதியின்றி ஒன்றுகூடி போக்குவரத்துக்கு இடையூறு செய்ததாக, தேர்தல் நன்னடத்தை விதிகளை மீறி வாகனங்களில் வந்ததாக . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.Bharanirajan
+Age : 38
+Party Name : Makkal Needhi Maiam
+Education : 1. Diploma in EEE - 2001-2003, K.L.N. Polytechnic College, Sivagangai District; 2. H.Sc. - 1999-2000, U.C. Higher Sec. School, Madurai; 3. S.S.L.C.- 1995-1996, Sethupathy Higher Sec. School, Madurai
+Occupation : Own Businesses at Madurai - M.M. Healthcare Products, Madurai Grand Lead Centre Beverage Products
+Total Assets : 49 lacs
+Liability : 18 lacs
+Net Asset : 31 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : M.PALANIKUMAR
+Age : 37
+Party Name : AMBEDKAR POLITICAL PARTY
+Education : M.PHIL
+Occupation :  SOICAL WORKER
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : A.Murugesan
+Age : 53
+Party Name : My India Party
+Education : 12th PASS
+Occupation : Business
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : V.RAJAMANI
+Age : 34
+Party Name : NamadhuMakkalKatchi
+Education : 5th pass
+Occupation : DRIVER
+Total Assets : 4 lacs
+Liability : 65000
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COT
+
+=====================
+
+Name : R.REVATHY
+Age : 31
+Party Name : Naam Tamilar Katchi
+Education : 7TH STD
+Occupation : HOUSEWIFE
+Total Assets : 11 lacs
+Liability : 1 lacs
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : V.ARUMUGAM
+Age : 35
+Party Name : Independent
+Education : 5th pass
+Occupation : AUTO DRIVER
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name-
+
+=====================
+
+Name : P.Elangovan
+Age : 49
+Party Name : Independent
+Education : B.Sc., Zoology
+Occupation : Appu Road Carriers (Partnership) Madurai
+Total Assets : 22 lacs
+Liability : 17 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : S.UKKRA PANDIYAN
+Age : 28
+Party Name : Independent
+Education : B.Sc. (Information Technology), N.M.S.S. Vellaichamy Nadar College (2013-2016), Madurai; B.L., (Bachelor of Law), Government Law College, (2016-2019), Madurai; M.A. (Mass Communication & Journalism), Madurai Kamarajar University (2021), Madurai
+Occupation : Advocate, Madurai High Court, Madurai 
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : M.KARUNAKARAN
+Age : 36
+Party Name : Independent
+Education : 7th pass 
+Occupation : AUTO DRIVRE
+Total Assets : 11 lacs
+Liability : 4 lacs
+Net Asset : 7 lacs
+Criminal Cases : 1
+Case Details : பொது இடத்தில் ஆபாசச் வார்த்தைகளைப் பேசுதல், பயங்கரமான ஆயுதம் அல்லது வேறு வழிகளால் தன்னிச்சையாக காயம் ஏற்படுத்துதல், பாலியல் தொந்தரவு. 
+Symbol Name : HAND_CARPET
+
+=====================
+
+Name : M.SANKAR THAYAL SHARMA
+Age : 37
+Party Name : Independent
+Education : BA., B.L., Madurai Law College, Madurai (2013)
+Occupation : Advocate
+Total Assets : 6 lacs
+Liability : 1 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAMERA
+
+=====================
+
+Name : S.SEKAR
+Age : 56
+Party Name : Independent
+Education : 9TH CLASS
+Occupation : BUSINESS
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : K.PACKIYASELVI
+Age : 44
+Party Name : Independent
+Education : 12th Class - Kamuthi Abiramam Muslim High School (2009); Diploma in Teacher Training - Barathi Vidyalaya Pudukottai (2017)
+Occupation : House Wife
+Total Assets : 66000
+Liability : No
+Net Asset : 66000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DUSBIN
+
+=====================
+
+Name : R.BALAMURUGAN
+Age : 29
+Party Name : Independent
+Education : 2017- B.l., Madurai Law College.
+Occupation : Lawyer
+Total Assets : 49738
+Liability : No
+Net Asset : 49738
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SCISSORS
+
+=====================
+
+Name : M.M.PILLAI
+Age : 64
+Party Name : Independent
+Education : B.A,M.A
+Occupation : FREE LEGAL ADVISER AND SOCIAL ACTIVIST
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COAT
+
+=====================
+
+Name : S.MANIKANDAN
+Age : 29
+Party Name : Independent
+Education : 8th Standard, R.C. Middle School, Madurai (2006)
+Occupation : Construction worker
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DISH_ANTENNA
+
+=====================
+
+Name : M.K.MOHIDEEN ABDUL KADER
+Age : 44
+Party Name : Independent
+Education : M.A
+Occupation : FARMER
+Total Assets : 22774
+Liability : No
+Net Asset : 22774
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ROAD_ROLLER
+
+=====================
+
+Name : R.MURUGAN
+Age : 40
+Party Name : Independent
+Education : 5th pass
+Occupation : Bussiness
+Total Assets : 3 lacs
+Liability : 1 lacs
+Net Asset : 2 lacs
+Criminal Cases : 3
+Case Details : அரசியல் வழக்கு, உயிருக்கு ஆபத்தான தொற்றுநோயை அநேகமாக பரப்பக்கூடிய தீய எண்ணத்திலான செயல், சட்ட விரோதமாக கூடுதல், பொதுப் பணியாளர் உத்தரவிற்கு கீழ்ப்படியாமை, முறையற்ற தடுப்பு. 
+Symbol Name : WELL
+
+=====================
+
+Name : M.GUNASEKAR
+Age : 39
+Party Name : Independent
+Education : D.C.T ( DIPLOMA IN COMPUTER TECHNOLOGY)
+Occupation : DIGITAL MARKETING
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TYRES
+
+=====================
+
+Name : K.RAMACHANDRAN
+Age : 46
+Party Name : Independent
+Education : 10th pass
+Occupation : FARMER(COOLI)
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BALLOON
+
+=====================
+

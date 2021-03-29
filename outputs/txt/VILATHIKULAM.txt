@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : VILATHIKULAM
+No of Candidates : 15
+No of Independent Candidates : 5
+
+=====================
+
+Name : P.CHINNAPPAN
+Age : 51
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 10th pass
+Occupation : member of legislative assembly and farmer
+Total Assets : 2 crore 74 lacs
+Liability : No
+Net Asset : 2 crore 74 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : A.Manikkaraj
+Age : 38
+Party Name : Bahujan Samaj Party
+Education : B.A.,B.L., Tamilnadu Dr. Ambedkar Law University, 2005-2006
+Occupation : Advocate
+Total Assets : 18 lacs
+Liability : 50000
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : V.MARKANDAYAN
+Age : 44
+Party Name : Dravida Munnetra Kazhagam
+Education : B.L
+Occupation : Retired government employee
+Total Assets : 6 crore 22 lacs
+Liability : 1 crore 27 lacs
+Net Asset : 4 crore 95 lacs
+Criminal Cases : 5
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K .Karuppasamy
+Age : 61
+Party Name : Nam India Party
+Education : 8th pass
+Occupation : Electrician
+Total Assets : 36 lacs
+Liability : No
+Net Asset : 36 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : M.Gandhi
+Age : 52
+Party Name : Bahujan Dravida Katchi
+Education : S.S.L.C., Govt H.Sec School, Kulathur, 1986
+Occupation : Hotel Business
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUCKET
+
+=====================
+
+Name : K.SEENISELVI
+Age : 39
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : Bachelor of Physiotherapy
+Occupation : Physiotherapist 
+Total Assets : 1 crore 83 lacs
+Liability : 1 crore 12 lacs
+Net Asset : 71 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.BALAJI
+Age : 30
+Party Name : Naam Tamilar Katchi
+Education : MASTER OF ENGINEERING (M.E)
+Occupation : SELF EMPLOYMENT
+Total Assets : 29 lacs
+Liability : 4 lacs
+Net Asset : 25 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.MARIMUTHU
+Age : 39
+Party Name : South India  Forward Block
+Education : 7th Pass
+Occupation : Car Consulting Agency
+Total Assets : 32 lacs
+Liability : No
+Net Asset : 32 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : C.MUTHUKUMAR
+Age : 38
+Party Name : Puthiya Tamilagam
+Education : B.Tech., MBA
+Occupation : Management Consultant
+Total Assets : 4 crore 61 lacs
+Liability : 4 crore 00 lacs
+Net Asset : 61 lacs
+Criminal Cases : 2
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : X.WILSON
+Age : 47
+Party Name : Makkal Needhi Maiam
+Education : 10th pass
+Occupation : Banal Contractor
+Total Assets : 61 lacs
+Liability : 13 lacs
+Net Asset : 48 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.ARUMUGAPERUMAL
+Age : 30
+Party Name : Independent
+Education : BA.,BL
+Occupation : Lawyer, Farming
+Total Assets : 77857
+Liability : No
+Net Asset : 77857
+Criminal Cases : 1
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : S.ARUMUGAM
+Age : 53
+Party Name : Independent
+Education : 
+Occupation : Not mentioned
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : S.Chelladurai
+Age : 43
+Party Name : Independent
+Education : 7th std, TTDA Middle School, Vedapatti, 1990
+Occupation : Business
+Total Assets : 20 lacs
+Liability : No
+Net Asset : 20 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : M.MURUGANANTHAM
+Age : 53
+Party Name : Independent
+Education : 8th pass
+Occupation : Farmer
+Total Assets : 2 crore 54 lacs
+Liability : No
+Net Asset : 2 crore 54 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SHIP
+
+=====================
+
+Name : P.RAJAMANI
+Age : 36
+Party Name : Independent
+Education : null
+Occupation : 
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : THROWING_A_JAVELIN
+
+=====================
+

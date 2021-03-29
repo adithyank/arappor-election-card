@@ -1,0 +1,224 @@
+Constituency Document
+=====================
+
+Constituency Name : OMALUR
+No of Candidates : 15
+No of Independent Candidates : 6
+
+=====================
+
+Name : V.Thomas
+Age : 49
+Party Name : Bahujan Samaj Party
+Education : 8th pass
+Occupation : Self Employee 
+Total Assets : 10500
+Liability : No
+Net Asset : 10500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : R.MANI
+Age : 43
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A.,   LLB 
+Occupation : AGRIVULTURE / BUSINESS
+Total Assets : 4 crore 98 lacs
+Liability : 2 crore 06 lacs
+Net Asset : 2 crore 92 lacs
+Criminal Cases : 1
+Case Details : ஆபாசமான செயல்கள் மற்றும் பாடல்கள,
+தானாக முன்வந்து புண்படுத்தும் தண்டனை,
+ஆபத்தான ஆயுதங்கள் அல்லது வழிமுறைகளால் தானாகவே காயத்தை ஏற்படுத்துகிறது,
+நபரை அவமதிக்கும் நோக்கத்துடன் தாக்குதல் அல்லது கிரிமினல் படை, இல்லையெனில் கடுமையான ஆத்திரமூட்டல்,
+குற்றவியல் மிரட்டலுக்கான தண்டனை.. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : R.RANGARAJAN MOHAN KUMARAMANGALAM
+Age : 42
+Party Name : Indian National Congress
+Education : B.Sc.COMPUTER SCIENCE, MBA
+Occupation : MANAGING DIRECTOR, TRIPUTI ESTATES PVT LTD
+Total Assets : 48 crore 76 lacs
+Liability : 3 crore 26 lacs
+Net Asset : 45 crore 49 lacs
+Criminal Cases : 1
+Case Details : உபியில் தலித் பெண் கற்பழிப்பு, கொலைக்கு நீதிக்கிடைக்க போராட்டம், உபியில் ராகுல் காந்தியின் கைதை கண்டித்து போராட்டம் . 
+Symbol Name-
+
+=====================
+
+Name : M.KARUNAKARAN
+Age : 32
+Party Name : TAMILNADU YOUTH PARTY
+Education : M.Sc.,M.E.,
+Occupation :  OWN BUSINESS
+Total Assets : 2 lacs
+Liability : 12 lacs
+Net Asset : -10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : V.Srinivasan
+Age : 37
+Party Name : Makkal Needhi Maiam
+Education : M.Phil., Prist
+Occupation : Para Medical
+Total Assets : 15 lacs
+Liability : 7 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.Divya 
+Age : 27
+Party Name : Desiya Makkal Kazhagam 
+Education : BDS
+Occupation : NIL 
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WATERMELON
+
+=====================
+
+Name : K.K.MADHESHWARAN
+Age : 62
+Party Name : Amma Makkal Munnettra Kazhagam
+Education : M.A, B.SC, B.L 
+Occupation : LAWYER
+Total Assets : 1 crore 28 lacs
+Liability : 24 lacs
+Net Asset : 1 crore 03 lacs
+Criminal Cases : 2
+Case Details : பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறு ஏற்படுத்தும் வகையில் அனுமதி பெறாமல் பேனர்களை வைத்து விளம்பரம் செய்த குற்றம், மத்திய மாநில அரசுகள் நோய் பரவாமல் தடுக்கும் போருட்டு கு.வி.ந.ச. பிரிவு 144 கீழ் விதித்த தடை உத்தரவை மீறிய குற்றம். 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : A.RAJA
+Age : 59
+Party Name : Naam Tamilar Katchi
+Education : 12th pass
+Occupation : REAL ESTATE AND FARMING
+Total Assets : 1 crore 51 lacs
+Liability : No
+Net Asset : 1 crore 51 lacs
+Criminal Cases : 3
+Case Details : சட்ட விரோதமாக கூட்டம் கூடியதற்கு வி ஏ ஓ கொடுத்த புகார், பொதுப் பணியாளரால், முறைப்படி பிரகடனப்படுத்தப்பட்ட உத்தரவிற்கு கீழ்ப்படியாமை, முறையற்ற தடுப்புதற்கு.. 
+
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.GOVINDARAJU
+Age : 44
+Party Name : Independent
+Education : 10th pass
+Occupation : BUSINESS
+Total Assets : 24 lacs
+Liability : No
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : T.SURESH
+Age : 39
+Party Name : Vazhvaa Savaa Katchi
+Education : B.A. B.L
+Occupation : lawyer
+Total Assets : 82 lacs
+Liability : 2 lacs
+Net Asset : 80 lacs
+Criminal Cases : 7
+Case Details : சாதி, மத, இன மொழி, சமயம் சம்பந்தமாக விரோத உணர்ச்சிகளை தூண்டியது.கொலை செய்ய முயற்சி செய்தல், தன்னிச்சையாகக் காயம்  ஏற்படுத்தியதற்கு . 
+Symbol Name : BANGLES
+
+=====================
+
+Name : E.MANI
+Age : 47
+Party Name : Independent
+Education : 10th pass
+Occupation : DAILY WAGER
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : S.MANI
+Age : 53
+Party Name : Independent
+Education : 10th pass
+Occupation : HOTEL 
+Total Assets : 13 lacs
+Liability : 2 lacs
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : R.Mani
+Age : 56
+Party Name : Independent
+Education : 6th pass
+Occupation : Agriculture
+Total Assets : 16 lacs
+Liability : No
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : R.MURUGAN
+Age : 59
+Party Name : Independent
+Education : 5th pass
+Occupation : AGRICULTURE
+Total Assets : 2 lacs
+Liability : 70000
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : P.RAJA
+Age : 44
+Party Name : Independent
+Education : 5th pass
+Occupation : BUSINESS
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+

@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : NANNILAM
+No of Candidates : 14
+No of Independent Candidates : 5
+
+=====================
+
+Name : R.KAMARAJ
+Age : 60
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.A.,
+Occupation : AGRICULTURIST
+Total Assets : 3 crore 33 lacs
+Liability : No
+Net Asset : 3 crore 33 lacs
+Criminal Cases : 1
+Case Details : அரசு பணிகளைத் தடுத்தது, அரசு ஊழியர்களை பணி செய்யவிடாமல் தடுத்தல், பொதுவூழியரை காயப்படுத்துவதாக மிரட்டியது, அத்துமீறி வீடு நுழைதல், . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : R.RAVICHANDRAN
+Age : 36
+Party Name : Bahujan Samaj Party
+Education : B.Sc., B.Ed.,
+Occupation : Agriculture Wages
+Total Assets : 2 lacs
+Liability : 40000
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.JOTHIRAMAN
+Age : 57
+Party Name : Dravida Munnetra Kazhagam
+Education : B.Sc.,
+Occupation : AGRICULTURE, EXECUTIVE COMMITTEE MEMBER
+Total Assets : 2 crore 11 lacs
+Liability : 28 lacs
+Net Asset : 1 crore 84 lacs
+Criminal Cases : 12
+Case Details : சட்ட விரோதமாக கூடுதல் பொது ஊழியர் கட்டளைக்கு கீழ்ப்பணியாமை, சட்ட விரோதமாக கூடுதல், நோய் தொற்று பரப்புதல், முறையற்று தடுப்பமைத்தல்.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : D.GANESAN
+Age : 35
+Party Name : INDIYA JANANAYAKA KATCHI
+Education : M.B.A., LL.B.,
+Occupation : ADVOCATE (LAWYER)
+Total Assets : 17 lacs
+Liability : No
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S.NITHIYANANTHAM
+Age : 45
+Party Name : ANAITHU MAKKAL ARASIYAL KATCHI
+Education : S.S.L.C
+Occupation : TEMPLE PRIEST
+Total Assets : 19 lacs
+Liability : 4 lacs
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : PANASAIARANGAN
+Age : 58
+Party Name : Desiya Makkal Sakthi Katchi
+Education : 10th pass
+Occupation : BOOK SELLER
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : S.FATHIMA FARHANA
+Age : 27
+Party Name : Naam Tamilar Katchi
+Education : M.B.A.,
+Occupation : EDUCATOR
+Total Assets : 71 lacs
+Liability : No
+Net Asset : 71 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.MURUGAVEL
+Age : 39
+Party Name : Anna Dravidar Kazhagam
+Education : 9th Standard
+Occupation : AGRICULTURE
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : T.ANUSHA
+Age : 41
+Party Name : Independent
+Education : M.A.,
+Occupation : AGRICULTURE
+Total Assets : 1 crore 06 lacs
+Liability : 9 lacs
+Net Asset : 97 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : K .KRISHNAN
+Age : 40
+Party Name : Independent
+Education : 12TH STD
+Occupation : AGRICULTURE
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BABY_WALKER
+
+=====================
+
+Name : R.KUMARAN
+Age : 28
+Party Name : Independent
+Education : 6TH PASS
+Occupation : AGRICULTURE
+Total Assets : 3 lacs
+Liability : 1 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : S.R.TAMILSELVAN
+Age : 52
+Party Name : Agila India Makkal Kazhagam
+Education : 12TH DISCONTINUED
+Occupation : AGRICULTURE
+Total Assets : 26 lacs
+Liability : 4 lacs
+Net Asset : 22 lacs
+Criminal Cases : 1
+Case Details : தற்கொலை செய்ய முயற்சி செய்வது போல் போரட்டம் நடத்தியதாக . 
+Symbol Name : SCISSORS
+
+=====================
+
+Name : C.NATARAJAN
+Age : 49
+Party Name : Independent
+Education : 8th pass
+Occupation : AGRICULTURE
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BUCKET
+
+=====================
+
+Name : S.RAJA
+Age : 43
+Party Name : Independent
+Education : 10th pass
+Occupation : AGRICULTURE
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BRIEF_CASE
+
+=====================
+

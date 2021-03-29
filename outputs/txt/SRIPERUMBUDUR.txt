@@ -1,0 +1,221 @@
+Constituency Document
+=====================
+
+Constituency Name : SRIPERUMBUDUR
+No of Candidates : 15
+No of Independent Candidates : 8
+
+=====================
+
+Name : K.SELVAPERUNTHAGAI
+Age : 60
+Party Name : Indian National Congress
+Education : B.A.,B.L.,
+Occupation : SOCIAL WORKER & BUSINESS
+Total Assets : 27 crore 54 lacs
+Liability : 1 crore 63 lacs
+Net Asset : 25 crore 90 lacs
+Criminal Cases : 3
+Case Details : 1.பொது மக்கள்  இடையூறு மற்றும் சட்டவிரோத கூடுதல் 
+2. சட்டவிரோத கூடுதல்  மற்றும்  தவறான தடைகள்
+3. சொத்து குவிப்பு வழக்கு. 
+Symbol Name : Hand
+
+=====================
+
+Name : K.PALANI
+Age : 59
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 5th std
+Occupation : FARMER
+Total Assets : 1 crore 72 lacs
+Liability : 27 lacs
+Net Asset : 1 crore 45 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : E.VINOTH
+Age : 34
+Party Name : Bahujan Samaj Party
+Education : ITI diploma
+Occupation : CATERING
+Total Assets : 16 lacs
+Liability : 29 lacs
+Net Asset : - crore 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : M.Thanigaivel
+Age : 43
+Party Name : Makkal Needhi Maiam
+Education : EH., (Electro Homeopathy)
+Occupation : Doctor
+Total Assets : 71 lacs
+Liability : 7 lacs
+Net Asset : 64 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : D.Pushparaj
+Age : 45
+Party Name : Naam Tamilar Katchi
+Education : M.A.,
+Occupation : FARMER
+Total Assets : 38 lacs
+Liability : No
+Net Asset : 38 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : R.Perumal
+Age : 63
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : BA.,
+Occupation : Embroidary work, Real Estate Advisor, Agriculture
+Total Assets : 29 crore 98 lacs
+Liability : No
+Net Asset : 29 crore 98 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : E.Lokesh
+Age : 28
+Party Name : Desiya Makkal Sakthi Katchi
+Education : B.Com.,
+Occupation : Singer
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : S.Saroja
+Age : 68
+Party Name : Independent
+Education : 3rd Standard
+Occupation : Daily Labour
+Total Assets : 14000
+Liability : No
+Net Asset : 14000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BENCH
+
+=====================
+
+Name : P.SUDHAKAR
+Age : 41
+Party Name : Independent
+Education : SSLC.,
+Occupation : BUSINESS
+Total Assets : 43 lacs
+Liability : No
+Net Asset : 43 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NOODLES_BOWL
+
+=====================
+
+Name : K.DEVARAJAN
+Age : 41
+Party Name : Independent
+Education : LLB
+Occupation : ADVOCATE
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ROAD_ROLLER
+
+=====================
+
+Name : M.Parthiban
+Age : 38
+Party Name : Independent
+Education : B.Com.,
+Occupation : Agriculture
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : BOX
+
+=====================
+
+Name : V.LEENA
+Age : 39
+Party Name : Independent
+Education : SSLC.,
+Occupation : HOUSE WIFE
+Total Assets : 1 crore 60 lacs
+Liability : 52 lacs
+Net Asset : 1 crore 08 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GRAPES
+
+=====================
+
+Name : E.Vasanthi
+Age : 38
+Party Name : Independent
+Education : 12th
+Occupation : HOME MAKER
+Total Assets : 58 lacs
+Liability : No
+Net Asset : 58 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : IRON
+
+=====================
+
+Name : R.Vedhagiri
+Age : 51
+Party Name : Independent
+Education : 5th pass
+Occupation : Farming Wages
+Total Assets : 62600
+Liability : No
+Net Asset : 62600
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRUCK
+
+=====================
+
+Name : D.Vairamuthu
+Age : 43
+Party Name : Independent
+Education : SSLC.,
+Occupation : Enterprises owner
+Total Assets : 1 crore 60 lacs
+Liability : 50 lacs
+Net Asset : 1 crore 10 lacs
+Criminal Cases : 10
+Case Details : கிரிமினல் மிரட்டல், கொலை முயற்சி, கொலை, கலகம், கொடிய ஆயுதத்தால் ஆயுதம், தவறான கட்டுப்பாடு என அழைக்கப்படக்கூடிய குற்றமற்ற கொலை, தானாக முன்வந்து காயத்தை ஏற்படுத்துகிறது.. 
+Symbol Name : COT
+
+=====================
+

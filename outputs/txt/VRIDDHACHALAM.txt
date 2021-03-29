@@ -1,0 +1,416 @@
+Constituency Document
+=====================
+
+Constituency Name : VRIDDHACHALAM
+No of Candidates : 29
+No of Independent Candidates : 18
+
+=====================
+
+Name : A.Ayyasamy
+Age : 41
+Party Name : Bahujan Samaj Party
+Education : 12th
+Occupation : Business
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : Premalatha Vijayakanth
+Age : 55
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.A
+Occupation : Agriculture, Social service
+Total Assets : 86 crore 55 lacs
+Liability : 16 crore 30 lacs
+Net Asset : 70 crore 25 lacs
+Criminal Cases : 1
+Case Details : தேர்தல் பிரச்சாரத்தில் பேசியது தொடர்பாக
+. 
+Symbol Name : NAGARA
+
+=====================
+
+Name : P.Radhakrishnan
+Age : 53
+Party Name : Indian National Congress
+Education : S.S.L.C
+Occupation : Farmer
+Total Assets : 1 crore 54 lacs
+Liability : 61591
+Net Asset : 1 crore 53 lacs
+Criminal Cases : 5
+Case Details :  அனுமதியின்றி கூட்டம் கூடுதல், கெட்ட சொற்களைப் பயன்படுத்தி காயப்படுத்துதல், நோய் பரவ காரணமாய் இருத்தல்,சிறு காயங்கள் ஏற்படுத்தல். 
+Symbol Name : Hand
+
+=====================
+
+Name : N.Amutha
+Age : 52
+Party Name : Naam Tamilar Katchi
+Education : B.A
+Occupation : Reporter
+Total Assets : 15 lacs
+Liability : 2 lacs
+Net Asset : 13 lacs
+Criminal Cases : 2
+Case Details : கட்சி மாநாட்டில் பேசியது தொர்பாக. அனுமதியின்றி கூட்டம் கூடுதல்,தேசத் துரோக வழக்கு ,இரண்டு குழுவினருக்கு இடையே பகையை தூண்டுதல், அரசு அதிகாரியின் ஆணைக்கு கீழ்ப்படியாமை
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : B.Arasi
+Age : 28
+Party Name : Rashtriya Janata Dal
+Education : 10th
+Occupation : House Wife
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HURRICANE_LAMP
+
+=====================
+
+Name : J.Karthikeyan
+Age : 35
+Party Name : Pattali Makkal Katchi
+Education : MBA
+Occupation : Farmer
+Total Assets : 1 crore 38 lacs
+Liability : 35 lacs
+Net Asset : 1 crore 03 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MANGO
+
+=====================
+
+Name : R.Kesavaperumal
+Age : 35
+Party Name : Tamilnadu Youth Party 
+Education : M.A
+Occupation : Farmer
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 2
+Case Details : பொதுநல வழக்கு. 
+Symbol Name : RING
+
+=====================
+
+Name : G.Sathiyanathan
+Age : 32
+Party Name : Anaithu Makkal Puratchi Katchi
+Education : 10th ( Discontinued)
+Occupation : agricultural Wages
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : R.Sivasankar
+Age : 38
+Party Name : New Generation Peoples Party 
+Education : B.E, M.E
+Occupation : Asst. Professor
+Total Assets : 22 lacs
+Liability : 4 lacs
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : R.Parthasarathi
+Age : 42
+Party Name : Indiya Jananayaka Katchi
+Education : B.Ed., M.A.,
+Occupation : Teacher (Private School)
+Total Assets : 28 lacs
+Liability : 7 lacs
+Net Asset : 22 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : G.Pichamuthu
+Age : 58
+Party Name : DesiyaSirupanmayinarMakkalIyakkam
+Education : 5th
+Occupation : Farmer
+Total Assets : 60 lacs
+Liability : 10 lacs
+Net Asset : 49 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : S.Aruljothi
+Age : 44
+Party Name : Independent
+Education : 9th 
+Occupation : Farmer
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : M.AnwarBasha
+Age : 40
+Party Name : Independent
+Education : B.A English literature
+Occupation : Real Estate Business
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ALMIRAH
+
+=====================
+
+Name : S.Sadhasivam
+Age : 52
+Party Name : Independent
+Education : I.T.I
+Occupation : Farmer
+Total Assets : 62 lacs
+Liability : 6 lacs
+Net Asset : 57 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BLACK_BORD
+
+=====================
+
+Name : M.Sathiyaseelan
+Age : 39
+Party Name : Independent
+Education : 
+Occupation : 
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAMERA
+
+=====================
+
+Name : R.Saravanan
+Age : 41
+Party Name : Independent
+Education : B.A Sociology
+Occupation : Farmer
+Total Assets : 66 lacs
+Liability : 35 lacs
+Net Asset : 31 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BRUSH
+
+=====================
+
+Name : K.P.Senthilmurugan
+Age : 44
+Party Name : Independent
+Education : M.B.A
+Occupation : Insurance agent
+Total Assets : 52 lacs
+Liability : 4 lacs
+Net Asset : 48 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : C.Dhanasekar
+Age : 31
+Party Name : Independent
+Education : 10th pass
+Occupation : Agriculture Labour
+Total Assets : 1 lacs
+Liability : 50000
+Net Asset : 55500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : C.Perumal
+Age : 38
+Party Name : Independent
+Education : Illiterate
+Occupation : Farmer
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : S.Mahaveer Chand
+Age : 59
+Party Name : Independent
+Education : M.B.A.,
+Occupation : Business
+Total Assets : 4 crore 89 lacs
+Liability : 6 lacs
+Net Asset : 4 crore 83 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEPHONE
+
+=====================
+
+Name : A.Manikandan
+Age : 47
+Party Name : Independent
+Education : 8th
+Occupation : Constructions work
+Total Assets : 4 lacs
+Liability : 6 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BENCH
+
+=====================
+
+Name : S.Muruganantham
+Age : 28
+Party Name : Independent
+Education : M.B.A
+Occupation : Self employment
+Total Assets : 3 lacs
+Liability : 4 lacs
+Net Asset : -1 lacs
+Criminal Cases : 1
+Case Details : முன்விரோதம் தகராறு காரணமாக. 
+Symbol Name : CHAPPALS
+
+=====================
+
+Name : S.Radhakrishnan
+Age : 33
+Party Name : Independent
+Education : 6th
+Occupation : Farmer
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : N.Radhika
+Age : 40
+Party Name : Independent
+Education : Illiterate
+Occupation : HOUSE WIFE
+Total Assets : 25 lacs
+Liability : No
+Net Asset : 25 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : P.Ramasamy
+Age : 38
+Party Name : Independent
+Education : 3rd Pass
+Occupation : Mobile textile business
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 1
+Case Details : குறிப்பிடவில்லை. 
+Symbol Name : BOX
+
+=====================
+
+Name : S.Ramadoss
+Age : 60
+Party Name : Independent
+Education : B.Sc.
+Occupation : Farmer
+Total Assets : 24 lacs
+Liability : No
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BALLOON
+
+=====================
+
+Name : K.Ravichandiran
+Age : 56
+Party Name : Independent
+Education : 10th STD
+Occupation : Business
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : T.Veeramani
+Age : 31
+Party Name : Independent
+Education : B.A., B.L.,
+Occupation : Advocate
+Total Assets : 2 lacs
+Liability : 3 lacs
+Net Asset : 0 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COT
+
+=====================
+
+Name : K.Stalin
+Age : 36
+Party Name : Independent
+Education : 8th STD
+Occupation : Farmer
+Total Assets : 15 lacs
+Liability : 2 lacs
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+

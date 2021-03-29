@@ -220,7 +220,7 @@
             },
             "ta": {
                 "candidate_id": "9304d10d-dc1c-41db-b70e-13a09a7dc315",
-                "name": "G.\u0b95\u0b9a\u0bbf\u0ba4\u0bcd\u0bb0\u0bbe ",
+                "name": "G.\u0b9a\u0bbf\u0ba4\u0bcd\u0bb0\u0bbe ",
                 "education": "5th pass",
                 "occupation": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd (\u0b8e\u0bae\u0bcd \u0b8e\u0bb2\u0bcd \u0b8f )",
                 "age": "40",
@@ -287,11 +287,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "self_source_of_income": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0bae\u0bbe\u0ba4 \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd (\u0b8e\u0bae\u0bcd \u0b8e\u0bb2\u0bcd \u0b8f )",
                 "cases_pending_description": "",
-                "self_education_description": "",
+                "cases_convicted_description": "",
                 "self_profession_occupation": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd (\u0b8e\u0bae\u0bcd \u0b8e\u0bb2\u0bcd \u0b8f )",
-                "cases_convicted_description": ""
+                "self_source_of_income": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0bae\u0bbe\u0ba4 \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd (\u0b8e\u0bae\u0bcd \u0b8e\u0bb2\u0bcd \u0b8f )",
+                "self_education_description": ""
             }
         },
         {

@@ -1,0 +1,149 @@
+Constituency Document
+=====================
+
+Constituency Name : THONDAMUTHUR
+No of Candidates : 10
+No of Independent Candidates : 3
+
+=====================
+
+Name : S.KARTHIKEYA
+Age : 48
+Party Name : Dravida Munnetra Kazhagam
+Education : HSC
+Occupation : livestock farming, farmer
+Total Assets : 5 crore 40 lacs
+Liability : 78 lacs
+Net Asset : 4 crore 62 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.P.Velumani
+Age : 51
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.A , M.Phil
+Occupation : Farmer
+Total Assets : 5 crore 59 lacs
+Liability : No
+Net Asset : 5 crore 59 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.Kalaiarasi
+Age : 29
+Party Name : Naam Tamilar Katchi
+Education : BSc (Agri Business Management)
+Occupation : house wife
+Total Assets : 12 lacs
+Liability : 28 lacs
+Net Asset : - crore 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : R.SATHISHKUMAR
+Age : 36
+Party Name : Amma Makkal Munnettra Kazagam
+Education : B.com
+Occupation : Agriculture
+Total Assets : 50 crore 78 lacs
+Liability : No
+Net Asset : 50 crore 78 lacs
+Criminal Cases : 1
+Case Details : தனக்கு சொந்தமான சொத்திற்கு நரசிம்மன் என்பவருக்கு கொடுத்த பொது அதிகார பத்திரத்தை றது செய்ததாக வழக்கு. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.Badran
+Age : 57
+Party Name : Ganasangam Party of India
+Education : S.S.L.C
+Occupation : Agriculture Labour
+Total Assets : 9 lacs
+Liability : 8000
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : S.SHAJAHAN
+Age : 43
+Party Name : Makkal Needhi Maiam
+Education : BCom,
+Occupation : S Namma Auto (P) Ltd, Kovai
+Total Assets : 17 lacs
+Liability : 65000
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : A.Abdulgafoor
+Age : 73
+Party Name : Independent
+Education : B.A
+Occupation : Business
+Total Assets : 8000
+Liability : No
+Net Asset : 8000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : RING
+
+=====================
+
+Name : C C.Selvamohan
+Age : 46
+Party Name : VEDHA PERAVAI
+Education : B.Com
+Occupation : Loan Consultant
+Total Assets : 38 lacs
+Liability : 13 lacs
+Net Asset : 25 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : A.Mansoorali Khan
+Age : 58
+Party Name : Independent
+Education : SSLC
+Occupation : Actor and Producer
+Total Assets : 3 crore 88 lacs
+Liability : 10 lacs
+Net Asset : 3 crore 78 lacs
+Criminal Cases : 4
+Case Details : நிலம் வாங்கிய வகையில் ஏற்பட்ட பிரச்சனை, 8 வழி சாலை தொடர்பான அரசியல் வழக்கு, பிரதமர் எதிரான கருப்பு கோடி ஆர்ப்பாட்டம். ஸ்நேகா சர்மா என்ற பாரதி சர்மா என்பவரை மயக்க நிலையில் பாலுறவு கொண்டு ஏமாற்றயதாக புகார்
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : J.JOHNEDWARDVISUVASAM
+Age : 37
+Party Name : Independent
+Education : 10th std
+Occupation : Journalist, Business
+Total Assets : 36 lacs
+Liability : 25 lacs
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GAS_CYLINDER
+
+=====================
+

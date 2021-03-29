@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : SULUR
+No of Candidates : 15
+No of Independent Candidates : 6
+
+=====================
+
+Name : P.KANDASAMY
+Age : 62
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A - University of Madras; Chikanna college of Arts and Science, Tiruppur
+Occupation : MLA; Agriculture;Business
+Total Assets : 4 crore 38 lacs
+Liability : 17 lacs
+Net Asset : 4 crore 21 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.Kalichamy (a) Premier Selvam
+Age : 52
+Party Name : Dravida Munnetra Kazhagam
+Education : 8th pass
+Occupation : Business
+Total Assets : 19 crore 70 lacs
+Liability : 1 crore 05 lacs
+Net Asset : 18 crore 65 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : G.ELANGOVAN
+Age : 54
+Party Name : Naam Tamilar Katchi
+Education : 7th Std., Govt. High School, Ramanathapuram, CBE District, 1981
+Occupation : Self-Employed (Fabrication)
+Total Assets : 68 lacs
+Liability : 33 lacs
+Net Asset : 35 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S A.Senthil Kumar
+Age : 49
+Party Name : AMMA MAKKAL MUNNETTRA KAZHAGAM
+Education : Diploma DCE
+Occupation : Business
+Total Assets : 2 crore 65 lacs
+Liability : 54 lacs
+Net Asset : 2 crore 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : K.Nagaraj
+Age : 56
+Party Name : Ganasangam Party of India
+Education : 
+Occupation : Agriculture labor job
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : A.Ranganathan
+Age : 54
+Party Name : Makkal Needhi Maiam
+Education : Diploma in Mechanical Engineering
+Occupation : Business
+Total Assets : 11 crore 53 lacs
+Liability : 13 lacs
+Net Asset : 11 crore 40 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S. JAGADHEESH
+Age : 38
+Party Name : My India Party
+Education : B.B.A in Madras University in 2005
+Occupation : Administrative staff in a Private company
+Total Assets : 4 lacs
+Liability : 4 lacs
+Net Asset : 13500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : T. KANDASAMY
+Age : 39
+Party Name : Independent
+Education : Arulmigu Vazhaithottathu Ayyan Temple higher secondary school, Samalapuram in 1998-1999
+Occupation : Business
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : P.Karthikeyan
+Age : 49
+Party Name : Hindu Makkal Katchi
+Education : Higher Secondary School
+Occupation : Agriculture
+Total Assets : 4 crore 05 lacs
+Liability : 4 lacs
+Net Asset : 4 crore 02 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name :  SHANKARGURU
+Age : 35
+Party Name :  Puthiya Tamilagam
+Education : Government high school, chekapatti, Dindukal district in 2000-2001
+Occupation : Individual Construction ( Thaninabar katumanam)
+Total Assets : 4 lacs
+Liability : 4 lacs
+Net Asset : 79000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : R.Shanmugam
+Age : 51
+Party Name : Independent
+Education : 8th
+Occupation : Power Loom
+Total Assets : 11 lacs
+Liability : 2 lacs
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : P.Senthil Kumar
+Age : 38
+Party Name : Independent
+Education : 5th pass
+Occupation : Daily Labour
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : KETTLE
+
+=====================
+
+Name : D.Selva Kumar
+Age : 59
+Party Name : Independent
+Education : S.S.L.C
+Occupation : Private company job
+Total Assets : 31 lacs
+Liability : 15 lacs
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : S.Selvan
+Age : 52
+Party Name : Independent
+Education : SSLC
+Occupation : Agriculture labor
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : P.Premkumar
+Age : 31
+Party Name : Independent
+Education : RC model primary school in 2001
+Occupation : Private Service Labour
+Total Assets : 63000
+Liability : 1 lacs
+Net Asset : 0 lacs
+Criminal Cases : 2
+Case Details : மோசடி, கலவரம் மற்றும் வன்முறையில் ஈடுபடுவது. 
+Symbol Name : POT
+
+=====================
+

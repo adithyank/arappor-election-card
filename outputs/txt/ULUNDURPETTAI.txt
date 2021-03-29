@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : ULUNDURPETTAI
+No of Candidates : 15
+No of Independent Candidates : 4
+
+=====================
+
+Name : R.KUMARAGURU
+Age : 60
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : S.S.L.C
+Occupation : MLA
+Total Assets : 2 crore 71 lacs
+Liability : No
+Net Asset : 2 crore 71 lacs
+Criminal Cases : 1
+Case Details : தேர்தல் வழக்கு . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.SATHIYAMOORTHY
+Age : 37
+Party Name : Bahujan Samaj Party
+Education : B.A 
+Occupation : Farmer
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : A J.MANIKANNAN
+Age : 56
+Party Name : Dravida Munnetra Kazhagam
+Education : S.S.L.C
+Occupation : MLA Pension,Rental & Interest Income
+Total Assets : 5 crore 39 lacs
+Liability : 75 lacs
+Net Asset : 4 crore 65 lacs
+Criminal Cases : 4
+Case Details : குடியுரிமை சட்டம்  ,காவேரி மேலாண்மை வாரியம் ,மற்றும்  தி .மு .க  தலைவர்கள் கைது  குறித்த போராட்டங்கள்.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K.G.P.Rajamani
+Age : 48
+Party Name : Amma Makkal Munnettra Kazagam
+Education : M.A(Discontinued) -  Distance Education
+Occupation : agriculture,rent,business
+Total Assets : 1 crore 37 lacs
+Liability : 11 lacs
+Net Asset : 1 crore 26 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : A.KUMAR
+Age : 44
+Party Name : India Kudiarasu Katchi
+Education : 12th
+Occupation : Daily Wages
+Total Assets : 2 lacs
+Liability : 1 lacs
+Net Asset : 41999
+Criminal Cases : 1
+Case Details : இருவேல்பட்டு மாரியம்மன் கோவிலில் தகராறு. 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : S.CHINNAIYAN
+Age : 45
+Party Name : Makkal Needhi Maiam
+Education : 7th STD
+Occupation : Daily wages
+Total Assets : 50000
+Liability : No
+Net Asset : 50000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : P.DHANAPAL
+Age : 48
+Party Name : Lok Janshakti Party
+Education : 8th STD
+Occupation : Farmer
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUNGLOW
+
+=====================
+
+Name : L.Pushbamary
+Age : 36
+Party Name : Naam Tamilar Katchi
+Education : 5th
+Occupation : Farmer
+Total Assets : 9 lacs
+Liability : 2 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.VENKATESAN
+Age : 49
+Party Name : Communist Party of India (Marxist-Leninist) (Liberation)
+Education : B.A
+Occupation : AGRICULTURE
+Total Assets : 9 lacs
+Liability : 57500
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FLAG_AND_THREE_STARS
+
+=====================
+
+Name : K.RAJAMANI
+Age : 46
+Party Name : Independent
+Education : 10th
+Occupation : Farmer
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : M.KATHIRVEL
+Age : 51
+Party Name : Independent
+Education : 5th STD
+Occupation : AGRICULTURE
+Total Assets : 23 lacs
+Liability : No
+Net Asset : 23 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BEAD_NECKBANGLE
+
+=====================
+
+Name : M.Deepa
+Age : 30
+Party Name : My India Party
+Education : 10th (Fail)
+Occupation : House Wife
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : R.Mani
+Age : 60
+Party Name : Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi
+Education : S.S.L.C
+Occupation : pharmaceutical shop
+Total Assets : 58 lacs
+Liability : No
+Net Asset : 58 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SYRINGE
+
+=====================
+
+Name : M.MANIKANNAN
+Age : 64
+Party Name : Independent
+Education : 5th
+Occupation : Farmer
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : K.RAJASTALIN
+Age : 36
+Party Name : Independent
+Education : B.Sc
+Occupation : Medical Representative (private company)
+Total Assets : 13 lacs
+Liability : 8 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+

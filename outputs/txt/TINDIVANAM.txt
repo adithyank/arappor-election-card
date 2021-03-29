@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : TINDIVANAM
+No of Candidates : 15
+No of Independent Candidates : 5
+
+=====================
+
+Name : P.Arjunan
+Age : 51
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 10th pass
+Occupation : Agriculture
+Total Assets : 1 crore 51 lacs
+Liability : 31 lacs
+Net Asset : 1 crore 20 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : A.GOVINDASAMY
+Age : 51
+Party Name : Bahujan Samaj Party
+Education : BA
+Occupation :  SELF EMPLOYED
+Total Assets : 10 lacs
+Liability : 5 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.Chandralekha
+Age : 39
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : M.Sc. Nursing
+Occupation : TEACHER
+Total Assets : 71 lacs
+Liability : 25 lacs
+Net Asset : 46 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : P.SEETHAPATHY
+Age : 70
+Party Name : Dravida Munnetra Kazhagam
+Education : M.A
+Occupation : Retired Teacher & Agriculturist
+Total Assets : 1 crore 82 lacs
+Liability : 8 lacs
+Net Asset : 1 crore 74 lacs
+Criminal Cases : 5
+Case Details : குடியுரிமை சட்டம்  ,காவேரி மேலாண்மை வாரியம் ,மற்றும்  தி .மு .க  தலைவர்கள் கைது  குறித்த போராட்டங்கள்.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : Ilavarasan
+Age : 32
+Party Name : Anna Dravidar Kazhagam(ADK)
+Education : 10th (Fail)
+Occupation : Driver
+Total Assets : 3 lacs
+Liability : 60000
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : M.Settu
+Age : 56
+Party Name : Desiya Sirupanmayinar Makkal Iyakkam
+Education : 5th pass
+Occupation : Agriculture
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : P.PACHIMUTHU
+Age : 29
+Party Name : Naam Tamilar Katchi
+Education : B.E.B.L
+Occupation : Advocate
+Total Assets : 80000
+Liability : 2 lacs
+Net Asset : -1 lacs
+Criminal Cases : 1
+Case Details : ஹைட்ரொ கார்பன் எதிர்த்து போராட்டம் . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.POYATHU @ANBIN POYYAMOZHI
+Age : 50
+Party Name : Makkal Needhi Maiam
+Education : B.A.B.L
+Occupation : FARMER
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 1
+Case Details : சமூக பிரச்சினை . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : A.MOHAN
+Age : 39
+Party Name : MAKKAL SAKTHI KATCHI
+Education : 12th pass
+Occupation : PAINTER
+Total Assets : 1 lacs
+Liability : 37000
+Net Asset : 93733
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : S.VISWANATHAN
+Age : 44
+Party Name : ANAITHINTHIYA PATTALI MUNNETRA KATCHI
+Education : 5th
+Occupation : AGRICULTURE
+Total Assets : 24 lacs
+Liability : No
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WATERMELON
+
+=====================
+
+Name : J.Arulmaran
+Age : 46
+Party Name : Independent
+Education : M.A.
+Occupation : Business(Petty shop)
+Total Assets : 26 lacs
+Liability : 1 lacs
+Net Asset : 25 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GRAPES
+
+=====================
+
+Name : M.Gokulakrishnan
+Age : 29
+Party Name : Independent
+Education : 10th private study
+Occupation : AC Technician
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BOX
+
+=====================
+
+Name : A.Thambiraj
+Age : 36
+Party Name : Independent
+Education : D.T.Ed
+Occupation : Private Sector
+Total Assets : 40500
+Liability : No
+Net Asset : 40500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : S.Vinoth
+Age : 26
+Party Name : Independent
+Education : 9th
+Occupation : Photographer
+Total Assets : 29 lacs
+Liability : 6 lacs
+Net Asset : 23 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAMERA
+
+=====================
+
+Name : S.Vetrivendhan
+Age : 27
+Party Name : Independent
+Education : 12th
+Occupation : Coolie
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+

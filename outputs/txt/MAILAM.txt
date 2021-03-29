@@ -1,0 +1,206 @@
+Constituency Document
+=====================
+
+Constituency Name : MAILAM
+No of Candidates : 14
+No of Independent Candidates : 6
+
+=====================
+
+Name : A.SUNDARESAN
+Age : 40
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.A
+Occupation : ELECTRICAL CONTRACTOR
+Total Assets : 90 lacs
+Liability : 29 lacs
+Net Asset : 60 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : M.Durai
+Age : 37
+Party Name : Bahujan Samaj Party
+Education : Diploma EEE
+Occupation : Farming labour
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : R.Masilamani
+Age : 70
+Party Name : Dravida Munnetra Kazhagam
+Education : MBBS, Diploma in Radiology
+Occupation : Doctor
+Total Assets : 2 crore 02 lacs
+Liability : 33 lacs
+Net Asset : 1 crore 70 lacs
+Criminal Cases : 8
+Case Details : குடியுரிமை ,வேளாண்மை சட்டம் திருத்த மசோதாவை எதிர்த்து  போராட்டம்
+ காவேரி மேலாண்மை வாரியம் அமைக்க கோரி போராட்டம் , தி.மு .க  தலைவர்கள் கைதை கண்டித்து போராட்டம். 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : Umamaheswari
+Age : 27
+Party Name : Naam Tamilar Katchi
+Education : B. Com.
+Occupation : Software engineer
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : C.sivakumar
+Age : 47
+Party Name : Pattali Makkal Katchi
+Education : 9th 
+Occupation : AGRICULTURE
+Total Assets : 77 lacs
+Liability : 12 lacs
+Net Asset : 65 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MANGO
+
+=====================
+
+Name : A.MANAVALAN
+Age : 35
+Party Name : Anna MGR dravida makkal kalagam
+Education : 12th STD
+Occupation : ELECTRICAL CONTRACTOR
+Total Assets : 6000
+Liability : No
+Net Asset : 6000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PAN
+
+=====================
+
+Name : G.KANANAN
+Age : 49
+Party Name : Independent
+Education : KAMATCHI VILLAS MIDDLE SCHOOL
+Occupation : FARMER
+Total Assets : 10 lacs
+Liability : 3 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SHIP
+
+=====================
+
+Name : S.SATHIYARAJ
+Age : 31
+Party Name : Independent
+Education : 10th (Fail)
+Occupation : Agriculture
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : R.CHANDRA PRAKASH
+Age : 26
+Party Name : Independent
+Education : 12th pass
+Occupation : DRIVER
+Total Assets : 40500
+Liability : No
+Net Asset : 40500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : M.SEKAR NAYAKAR
+Age : 59
+Party Name : Independent
+Education : B.A 
+Occupation : FARMER
+Total Assets : 19 lacs
+Liability : No
+Net Asset : 19 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : V.MASILAMANI
+Age : 58
+Party Name : Independent
+Education : Illiterate
+Occupation : COOLI
+Total Assets : 11500
+Liability : No
+Net Asset : 11500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : V.MASILAMANI
+Age : 65
+Party Name : Independent
+Education : Not given
+Occupation : COOLI
+Total Assets : 11500
+Liability : No
+Net Asset : 11500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : M.RAJASEKAR
+Age : 26
+Party Name : Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi
+Education : M.Sc.,
+Occupation : Farmer
+Total Assets : 51 lacs
+Liability : 6 lacs
+Net Asset : 46 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : D.SRIDHAR
+Age : 30
+Party Name : India jananayaga katchi
+Education : 12th STD
+Occupation : Business
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+

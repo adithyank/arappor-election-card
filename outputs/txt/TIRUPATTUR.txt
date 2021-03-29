@@ -1,0 +1,220 @@
+Constituency Document
+=====================
+
+Constituency Name : TIRUPATTUR
+No of Candidates : 15
+No of Independent Candidates : 7
+
+=====================
+
+Name : A.NALLATHAMBI
+Age : 45
+Party Name : Dravida Munnetra Kazhagam
+Education : SSLC Pass, State board.
+Occupation : Business
+Total Assets : 1 crore 95 lacs
+Liability : 43 lacs
+Net Asset : 1 crore 52 lacs
+Criminal Cases : 5
+Case Details : சட்ட விரோதமாக கூட்டம் கூடியது, பொதுவூழியரின் உத்தவுக்கு கீழ்ப்படியாமை, உயிருக்கு ஆபத்தான நோய்தொற்று பரப்பும் வகையில் செயல்படுதல், கலகம் உண்டுபண்ணுதல், பொதுச்சொத்துக்கு சேதம் விளைவித்தல், பொதுவூழியரை கடமையைச் செய்யவிடாமல் தடுப்பது அல்லது தாக்குவது, அத்துமீறி பிறர் வீடு நுழைதல், கொலை மிரட்டல்.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.Kalasthri
+Age : 71
+Party Name : Agila India Uzhavargal Uzhaipaalargal Katchi
+Education : SSLC
+Occupation : Farmer
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : S.SATHIYAMOORTHY
+Age : 67
+Party Name : Makkal Nala Kazhagam
+Education : M.A.M.Ed
+Occupation : PRINCIPAL, GOV SCHOOL (Rtrd)
+Total Assets : 1 crore 67 lacs
+Liability : No
+Net Asset : 1 crore 67 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BEAD_NECKBANGLE
+
+=====================
+
+Name : M.Sumathi
+Age : 33
+Party Name : Naam Tamilar Katchi
+Education : M.Sc, B.Ed, M.phil.
+Occupation : House Wife
+Total Assets : 7 lacs
+Liability : 2 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.Gnanasekar
+Age : 50
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : 12th pass
+Occupation : Self Employed
+Total Assets : 53 crore 09 lacs
+Liability : 24 crore 07 lacs
+Net Asset : 29 crore 01 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : T K .RAJA
+Age : 55
+Party Name : Pattali Makkal Katchi
+Education : 10th pass
+Occupation : SMALL BUSINESSMAN
+Total Assets : 5 lacs
+Liability : 1 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : MANGO
+
+=====================
+
+Name : I.ROSELINJEEVA
+Age : 49
+Party Name : Samaniya Makkal Nala Katchi
+Education : B.Lit ,MSW
+Occupation : Social Service
+Total Assets : 1 crore 02 lacs
+Liability : 1 lacs
+Net Asset : 1 crore 01 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : WALKING_STICK
+
+=====================
+
+Name : A.JEYAMMA
+Age : 53
+Party Name : Anaithu Makkal Katchi
+Education : 5th pass
+Occupation : COOLIE
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : R.AROCKIA JOE PRABU
+Age : 31
+Party Name : Independent
+Education : M.SC COMPUTER SCIENCE
+Occupation : FARMER
+Total Assets : 30648
+Liability : No
+Net Asset : 30648
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : I.Goivndaraji
+Age : 44
+Party Name : Independent
+Education : 8th pass
+Occupation : SMALL TRADER
+Total Assets : 7 lacs
+Liability : 2 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை. இல்லை
+
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : M.NALLASIVAM
+Age : 35
+Party Name : Independent
+Education : BL
+Occupation : Lawyer
+Total Assets : 6 lacs
+Liability : 2 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : R.PALANI
+Age : 28
+Party Name : Independent
+Education : 5th pass
+Occupation : Labor worker
+Total Assets : 3 lacs
+Liability : 40000
+Net Asset : 3 lacs
+Criminal Cases : 7
+Case Details : திருட்டு, பூட்டிய வீட்டையுடைத்து நுழைதல், நபரை கடத்தி பணம் கேட்டது, கொலை செய்தது, தன்னிச்சையாக காயம் உண்டுபண்ணியது, குற்றம் செய்ய தூண்டியது, கொலை மிரட்டல், குற்றத்தின் ஆதாரங்களை அழித்தது, பொதுவிடத்தில் ஆபாசமாக பேசியது, உயிருக்கு ஆபத்தான  ஆயுதத்தால் காயம் உண்டுபண்ணியது.. 
+Symbol Name : WOOL_AND_NEEDLE
+
+=====================
+
+Name : A.Manithan
+Age : 53
+Party Name : Independent
+Education : D.E.E.E.,M.A., Sociology, P.G. JMC, D.C.S.C candidate education
+Occupation : Studio Internet Zerox
+Total Assets : 80000
+Liability : No
+Net Asset : 80000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : RING
+
+=====================
+
+Name : G.RAJA
+Age : 42
+Party Name : Independent
+Education : 7TH PASS
+Occupation : PHOTOGRAPHER
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : B.VIJAYKUMAR
+Age : 45
+Party Name : Independent
+Education : 5th pass
+Occupation : BUSINESS
+Total Assets : 25000
+Liability : No
+Net Asset : 25000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+

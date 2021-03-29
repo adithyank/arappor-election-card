@@ -1,0 +1,177 @@
+Constituency Document
+=====================
+
+Constituency Name : PADMANABHAPURAM
+No of Candidates : 12
+No of Independent Candidates : 6
+
+=====================
+
+Name : T.Mano Thangaraj
+Age : 53
+Party Name : Dravida Munnetra Kazhagam
+Education : MA in English
+Occupation : MLA
+Total Assets : 23 lacs
+Liability : 8 lacs
+Net Asset : 15 lacs
+Criminal Cases : 29
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.Latha
+Age : 40
+Party Name : Bahujan Samaj Party
+Education : 12th Discontinue
+Occupation : Housewife
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : D.John Thankam
+Age : 52
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A. in History (Course Completed)
+Occupation : Farmer
+Total Assets : 15 crore 97 lacs
+Liability : 1 crore 70 lacs
+Net Asset : 14 crore 26 lacs
+Criminal Cases : 3
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.Seelan
+Age : 35
+Party Name : Naam Tamilar Katchi
+Education : B.E.
+Occupation : Farmer and IT Engineer
+Total Assets : 73 lacs
+Liability : 67000
+Net Asset : 72 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : D.JENKINS
+Age : 54
+Party Name : AMMA MAKKAL MUNNETTRA KAZHAGAM
+Education : D.pharm
+Occupation : Agriculture
+Total Assets : 1 crore 06 lacs
+Liability : 4 lacs
+Net Asset : 1 crore 02 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.Jeyaraj
+Age : 43
+Party Name : Makkal Needhi Maiam
+Education : 12th pass
+Occupation : Business
+Total Assets : 45 lacs
+Liability : No
+Net Asset : 45 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : Y.Anchalose
+Age : 57
+Party Name : Independent
+Education : Literate
+Occupation : Driver
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SAFETY_PIN
+
+=====================
+
+Name : T.GLORY SELVI
+Age : 45
+Party Name : Independent
+Education : 10th pass
+Occupation :  Advocate clerk
+Total Assets : 74 lacs
+Liability : No
+Net Asset : 74 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELMET
+
+=====================
+
+Name : A.SYEDALI
+Age : 45
+Party Name : Independent
+Education : 12th pass
+Occupation : BUSINESS
+Total Assets : 59 lacs
+Liability : No
+Net Asset : 59 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : M.Nagarajan
+Age : 36
+Party Name : Independent
+Education : 10th pass
+Occupation : Agriculture
+Total Assets : 10000
+Liability : No
+Net Asset : 10000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SEWING_MACHINE
+
+=====================
+
+Name : F.MATHAN
+Age : 51
+Party Name : Independent
+Education : D.E.E.E
+Occupation : Lab Technical Assistant
+Total Assets : 23 lacs
+Liability : 6 lacs
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : I.Robert Singh
+Age : 53
+Party Name : Independent
+Education : 12th pass
+Occupation : Daily wage worker
+Total Assets : 13000
+Liability : No
+Net Asset : 13000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+

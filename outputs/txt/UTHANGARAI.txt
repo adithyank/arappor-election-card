@@ -1,0 +1,177 @@
+Constituency Document
+=====================
+
+Constituency Name : UTHANGARAI
+No of Candidates : 12
+No of Independent Candidates : 4
+
+=====================
+
+Name : S.Arumugam
+Age : 48
+Party Name : Indian National Congress
+Education : 12th pass
+Occupation : Sale of construction related materials, and Agriculture
+Total Assets : 1 crore 86 lacs
+Liability : 63 lacs
+Net Asset : 1 crore 23 lacs
+Criminal Cases : 3
+Case Details : சட்ட விரோதமாக கூட்டம் கூடியது, முத்திரையைக் குறிக்கும் அடையாளத்தை அழித்தல் , இந்திய சட்டத்தின் கீழ் வழங்கப்பட்ட எந்தவொரு கட்டளைகளையும் பின்பற்ற மறுத்தது.. 
+Symbol Name : Hand
+
+=====================
+
+Name : T.M.Tamilselvam
+Age : 47
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : SSLC
+Occupation : Agriculture and Brick Kiln
+Total Assets : 46 lacs
+Liability : No
+Net Asset : 46 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : K.Nagaraj
+Age : 54
+Party Name : Bahujan Samaj Party
+Education : 7th pass, Panchayat Union Middle School , Ottampatti , Uthangarai
+Occupation : Agriculture labour
+Total Assets : 10500
+Liability : No
+Net Asset : 10500
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : R.Bakiyaraj
+Age : 42
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.Ed
+Occupation : Social worker
+Total Assets : 66 lacs
+Liability : 9 lacs
+Net Asset : 57 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : NAGARA
+
+=====================
+
+Name : K.Elangovan
+Age : 49
+Party Name : Naam Tamilar Katchi
+Education : BABL
+Occupation : Advocate
+Total Assets : 45 lacs
+Liability : No
+Net Asset : 45 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Perumal
+Age : 35
+Party Name : Anna Puratchithalaivar Amma Dravida Munetra Kazhagam
+Education : Karapattu Government Higher Secondary School 2003
+Occupation : Agricultural labour
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : K.Murugesan
+Age : 46
+Party Name : Makkal Needhi Maiam
+Education : Knows to read and write tamil
+Occupation : Construction Work
+Total Assets : 1 crore 62 lacs
+Liability : 35 lacs
+Net Asset : 1 crore 27 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : T.Tamilarasan
+Age : 28
+Party Name : Independent
+Education : M.Sc.,
+Occupation : Private School Teacher
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : M.Thenmozhi
+Age : 32
+Party Name : Independent
+Education : SSLC
+Occupation : Labor work
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : BANGLES
+
+=====================
+
+Name : R.Manjunathan
+Age : 38
+Party Name : Vedha Peravai
+Education : Government Higher Secondary School , Aandandhur - 1998
+Occupation : UNEMPLOYED
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : GRAPES
+
+=====================
+
+Name : R.Vivekanandhan
+Age : 40
+Party Name : Independent
+Education : Bsc-Zology , Erode Arts College
+Occupation : Private Job
+Total Assets : 26 lacs
+Liability : 5 lacs
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : NAGRIK
+
+=====================
+
+Name : C.Jayaraman
+Age : 61
+Party Name : Independent
+Education : Illiterate
+Occupation : Construction worker
+Total Assets : 19 lacs
+Liability : 7 lacs
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : BRICKS
+
+=====================
+

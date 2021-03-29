@@ -1,0 +1,359 @@
+Constituency Document
+=====================
+
+Constituency Name : NAMAKKAL
+No of Candidates : 25
+No of Independent Candidates : 10
+
+=====================
+
+Name : P.RAMASAMY
+Age : 56
+Party Name : Bahujan Samaj Party
+Education : H.S.C 
+Occupation : Agricultural labour 
+Total Assets : 5 lacs
+Liability : 2 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : A.SARAVANAN
+Age : 52
+Party Name : National Peoples Party
+Education : 12th pass
+Occupation : BUSINESS
+Total Assets : 1 crore 48 lacs
+Liability : 4 lacs
+Net Asset : 1 crore 44 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name-
+
+=====================
+
+Name : k.SELVI
+Age : 50
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.A., L.L.B
+Occupation : LAWYER
+Total Assets : 16 crore 51 lacs
+Liability : 19 lacs
+Net Asset : 16 crore 32 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : K.P.P.BASKAR
+Age : 51
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : D. Cop.,
+Occupation : POLITICS, VEHICLE BUSINESS, AGRICULTURE
+Total Assets : 11 crore 26 lacs
+Liability : 6 crore 50 lacs
+Net Asset : 4 crore 76 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.RAMALINGAM
+Age : 55
+Party Name : Dravida Munnetra Kazhagam
+Education : M.Com
+Occupation : AGRICULTURE, TRANSPORT, FINANCE
+Total Assets : 27 crore 55 lacs
+Liability : 13 crore 43 lacs
+Net Asset : 14 crore 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.ADHAM FAROOK
+Age : 31
+Party Name : Makkal Needhi Maiam
+Education : B.A., ENGLISH
+Occupation : BUSINESS
+Total Assets : 1 crore 87 lacs
+Liability : 34 lacs
+Net Asset : 1 crore 54 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : T.RAMESH
+Age : 40
+Party Name : Ahimsa Socialist Party
+Education : CHATERED EDUCATION
+Occupation : YOGA TRAINING
+Total Assets : 71 lacs
+Liability : No
+Net Asset : 71 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATSMAN
+
+=====================
+
+Name : K.KANAKARAJ
+Age : 49
+Party Name : Ganasangam Party of India
+Education : Diploma 
+Occupation : CONSTRUCTION WORK,FARMER
+Total Assets : 22 lacs
+Liability : No
+Net Asset : 22 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : S.SARAVANAN
+Age : 31
+Party Name : Naadaalum Makkal Katchi
+Education :  M.A. Tamil Literature
+Occupation : PRIVATE JOB
+Total Assets : 38000
+Liability : No
+Net Asset : 38000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOUNTAIN
+
+=====================
+
+Name : D.SIVAKUMAR
+Age : 48
+Party Name : ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM
+Education : 12th pass
+Occupation : AGRICULTURE
+Total Assets : 52 lacs
+Liability : 28 lacs
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : E.SELVAKUMAR
+Age : 42
+Party Name : Manitha Urimaigal Kalaagam
+Education : B.Sc.
+Occupation : BUSINESS
+Total Assets : 43 lacs
+Liability : 38 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : K.TAMIZHVANAN
+Age : 63
+Party Name : Tamilaga Makkal Thannurimai Katchi
+Education : 9th Standard
+Occupation : Small farmer
+Total Assets : 9 lacs
+Liability : 80000
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : R.THIYAGARAJAN
+Age : 32
+Party Name : Samaniya Makkal Nala Katchi
+Education : 12th Incomplete
+Occupation : TUTION CENTRE MANAGEMENT
+Total Assets : 3 lacs
+Liability : 1 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WALKING_STICK
+
+=====================
+
+Name : B.BASKAR
+Age : 46
+Party Name : Naam Tamilar Katchi
+Education : M.V.Sc., Ph.D., 
+Occupation : VETERINARY DOCTOR
+Total Assets : 5 crore 38 lacs
+Liability : 3 crore 96 lacs
+Net Asset : 1 crore 42 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.MUTHUSAMY
+Age : 44
+Party Name : Independent
+Education : MEDICAL LABORATORY TECHNICIAN
+Occupation : Wage business
+Total Assets : 5 lacs
+Liability : 3 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SPANNER
+
+=====================
+
+Name : S.ARULSELVAN
+Age : 53
+Party Name : Independent
+Education : Diploma in Civil Engineering
+Occupation : SELF EMPLOYMENT
+Total Assets : 19 lacs
+Liability : No
+Net Asset : 19 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : COAT
+
+=====================
+
+Name : S.ANBUMANI
+Age : 43
+Party Name : Independent
+Education : 12th pass
+Occupation : FRIEGHT VEHICHLE INDUSTRY
+Total Assets : 14 lacs
+Liability : 6 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHEEL_BARROW
+
+=====================
+
+Name : M.KUPPUSAMY
+Age : 39
+Party Name : Independent
+Education : 8th pass
+Occupation : BUSINESS
+Total Assets : 86000
+Liability : No
+Net Asset : 86000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : L.SURESHKUMAR
+Age : 51
+Party Name : Independent
+Education : B.Sc. B.L.
+Occupation : LAWYER
+Total Assets : 27 lacs
+Liability : No
+Net Asset : 27 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name-
+
+=====================
+
+Name : R.SELVAKUMAR
+Age : 52
+Party Name : Puthiya Tamilagam Katchi
+Education : Diploma in Laboratory Technician
+Occupation : BUSINESS
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SCHOOL_BAG
+
+=====================
+
+Name : V.CHO
+Age : 49
+Party Name : Independent
+Education : B.A. Economics
+Occupation : COOLI
+Total Assets : 65500
+Liability : No
+Net Asset : 65500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : REFRIGIRATOR
+
+=====================
+
+Name : S.DEEPAN CHAKKRAVARTHI
+Age : 30
+Party Name : Independent
+Education : 12th pass
+Occupation : INDEPENDENT SOCIAL MEDIA JOURNALIST
+Total Assets : 21274
+Liability : No
+Net Asset : 21274
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRUCK
+
+=====================
+
+Name : K.RAMALINGAM
+Age : 65
+Party Name : Independent
+Education : 10th pass
+Occupation : LABOUR WORK
+Total Assets : 50046
+Liability : No
+Net Asset : 50046
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BLACK_BORD
+
+=====================
+
+Name : K.JAWAHAR
+Age : 27
+Party Name : Independent
+Education : 10th pass
+Occupation : PRIVATE COMPANY EMPLOYEE
+Total Assets : 56 lacs
+Liability : 38 lacs
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BABY_WALKER
+
+=====================
+
+Name : P.JAYARAMACHANDRAN
+Age : 38
+Party Name : Independent
+Education : 12th pass
+Occupation : BUSINESS
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+

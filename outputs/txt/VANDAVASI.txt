@@ -1,0 +1,163 @@
+Constituency Document
+=====================
+
+Constituency Name : VANDAVASI
+No of Candidates : 11
+No of Independent Candidates : 4
+
+=====================
+
+Name : S.Ambethkumar
+Age : 44
+Party Name : Dravida Munnetra Kazhagam
+Education : 10th Std ,Government High school - Vandavasi -1992
+Occupation : Construction Work
+Total Assets : 2 crore 75 lacs
+Liability : No
+Net Asset : 2 crore 75 lacs
+Criminal Cases : 2
+Case Details : 143- சட்டவிரோதமாக கூடுதல்,188-அரசு ஊழியர் பிறப்பித்த உத்தரவை கீழ்ப்படியாதல்,270- பெருந்தொற்றை பரப்ப முயல்வது ,269- கவனக்குறைவாக செயல்படுவது. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M. Archunan
+Age : 45
+Party Name : Bahujan Samaj Party
+Education : 9th STD In Goverment higher secondary school, R.Kunnathur - 1990
+Occupation : Driver
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.Suresh
+Age : 45
+Party Name : Makkal Needhi Maiam
+Education : B.A., B.L.
+Occupation : Business - Indane Gas Distributor, Goods transport
+Total Assets : 1 crore 27 lacs
+Liability : 85 lacs
+Net Asset : 43 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : B.Durai
+Age : 36
+Party Name : Ganasangam Party of India
+Education : 10th
+Occupation : Matrimonial Information Centre
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 4
+Case Details : 147-கலவரத்தில் ஈடுபடுதல்,294 (b)ஆபாச பாடல் - சொற்களை பயன்படுத்துதல், 506(I) குற்றவியல் மிரட்டல், 143- சட்டவிரோதமாக கூடுதல் ,341-தவறான கட்டுப்பாட்டை உருவாக்குதல் . 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : G.PRABAVATHI
+Age : 36
+Party Name : Naam Tamilar Katchi
+Education : DMLT
+Occupation : House wife
+Total Assets : 9 lacs
+Liability : 7 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Murali
+Age : 31
+Party Name : Pattali Makkal Katchi
+Education : B.com.,
+Occupation : Football Trainer
+Total Assets : 1 crore 73 lacs
+Liability : 59 lacs
+Net Asset : 1 crore 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MANGO
+
+=====================
+
+Name : P.Venkatesan
+Age : 50
+Party Name : Amma Makkal Munnettra Kazagam
+Education : B.L
+Occupation : Advocate
+Total Assets : 25 lacs
+Liability : No
+Net Asset : 25 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : K.Manikandan
+Age : 29
+Party Name : Independent
+Education : B.Sc., B.Ed.
+Occupation : Driver
+Total Assets : 10 lacs
+Liability : 9 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WATERMELON
+
+=====================
+
+Name : K.MuthuPerumal
+Age : 28
+Party Name : Independent
+Education : B.sc., B.L.,L.L.M
+Occupation : Advocate and argriculture
+Total Assets : 53 lacs
+Liability : 11 lacs
+Net Asset : 43 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BISCUIT
+
+=====================
+
+Name : C.Murali
+Age : 38
+Party Name : Independent
+Education : B.A. (History)
+Occupation : Agriculture Coolie
+Total Assets : 80488
+Liability : No
+Net Asset : 80488
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAPSICUM
+
+=====================
+
+Name : S.Vignesh
+Age : 25
+Party Name : Independent
+Education : 12th
+Occupation : Interior Decorator
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+

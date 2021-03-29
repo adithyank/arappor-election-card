@@ -1,0 +1,149 @@
+Constituency Document
+=====================
+
+Constituency Name : METTUPPALAYAM
+No of Candidates : 10
+No of Independent Candidates : 5
+
+=====================
+
+Name : R.SHANMUGASUNDARAM
+Age : 59
+Party Name : Dravida Munnetra Kazhagam
+Education : 6th
+Occupation : Agriculture, real estate
+Total Assets : 6 crore 54 lacs
+Liability : 1 crore 57 lacs
+Net Asset : 4 crore 96 lacs
+Criminal Cases : 2
+Case Details : காசோலை ஏமாற்றுதல் , சிறு காயங்கள் ஏற்படுத்துதல்
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : A.K.Selvaraj
+Age : 62
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A.
+Occupation : Agriculture/Party Local Secretary
+Total Assets : 1 crore 04 lacs
+Liability : No
+Net Asset : 1 crore 04 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.Saravanan
+Age : 51
+Party Name : Amma Makkal Munetra Kazhagam
+Education : S.S.L.C
+Occupation : Farming & Agriculture 
+Total Assets : 90 lacs
+Liability : 50 lacs
+Net Asset : 40 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : K.MAHESHWARAN
+Age : 47
+Party Name : VeerathThiyagiViswanathadossThozhilalarkalKatchi
+Education : 5th Government Primary School, Kavundampalayam, Coimbatore
+Occupation : Self employment - Hair Salon
+Total Assets : 29000
+Liability : No
+Net Asset : 29000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : K.YASMIN
+Age : 40
+Party Name : Naam Tamilar Katchi
+Education : D.EEE
+Occupation : house Wife
+Total Assets : 52 lacs
+Liability : 7 lacs
+Net Asset : 45 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.Sunmugasundaram
+Age : 45
+Party Name : Independent
+Education : HSC
+Occupation : Farmer
+Total Assets : 11 lacs
+Liability : 3 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : P .Shanmugasundaram
+Age : 38
+Party Name : Independent
+Education : B.Sc IT
+Occupation : Operator
+Total Assets : 25000
+Liability : No
+Net Asset : 25000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GRAPES
+
+=====================
+
+Name : T.Mariappan
+Age : 55
+Party Name : Independent
+Education : 8th Pass
+Occupation : Daily Wage Worker
+Total Assets : 20290
+Liability : No
+Net Asset : 20290
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BRIEF_CASE
+
+=====================
+
+Name : O.Liaquat Ali
+Age : 46
+Party Name : Independent
+Education : 8th Pass
+Occupation : Driver
+Total Assets : 1 lacs
+Liability : 3 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SETHOSCOPE
+
+=====================
+
+Name : S.Srinivasan
+Age : 47
+Party Name : Independent
+Education : MCA , Master Of Computer Application 1998, Bharathiar University
+Occupation : BUSINESS
+Total Assets : 96 lacs
+Liability : 39 lacs
+Net Asset : 57 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRIANGLE
+
+=====================
+

@@ -1,0 +1,261 @@
+Constituency Document
+=====================
+
+Constituency Name : KULITHALAI
+No of Candidates : 18
+No of Independent Candidates : 9
+
+=====================
+
+Name : P.ANBAZHAGAN
+Age : 37
+Party Name : Bahujan Samaj Party
+Education : 9TH PASS
+Occupation : COOLIE
+Total Assets : 12772
+Liability : No
+Net Asset : 12772
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : N.R.CHANDRASEKAR
+Age : 63
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : PUC.,
+Occupation : Agriculture
+Total Assets : 2 crore 67 lacs
+Liability : No
+Net Asset : 2 crore 67 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது   . பொருந்தாது   
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : R.Manickam
+Age : 61
+Party Name : Dravida Munnetra Kazhagam
+Education : P.U.C
+Occupation : Farmer and Coconut Business
+Total Assets : 1 crore 32 lacs
+Liability : 70 lacs
+Net Asset : 62 lacs
+Criminal Cases : 6
+Case Details : சட்ட விரோதமாக கூட்டம் கூடியதாக, ஆர்ப்பாட்டம் நடத்தியதாக. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.Sankar
+Age : 32
+Party Name : Samaniya Makkal Nala Katchi
+Education : 5th Standard
+Occupation : Agriculture Labour
+Total Assets : 50000
+Liability : No
+Net Asset : 50000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WALKING_STICK
+
+=====================
+
+Name : A.SUBETHAR
+Age : 38
+Party Name : TIPU SULTAN PARTY
+Education : 9th Grade
+Occupation : CELL PHONE SERVICE CENTRE
+Total Assets : 21 lacs
+Liability : No
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : v.NIROSHA .V
+Age : 32
+Party Name : Amma Makkal Munnettra Kazagam
+Education : S.S.L.C.,
+Occupation : Farmer
+Total Assets : 14 lacs
+Liability : 6 lacs
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : இல்லை  . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : Seeni.Prakasu
+Age : 47
+Party Name : Naam Tamilar Katchi
+Education : S.S.L.C.,
+Occupation : Owner of Hotels and Printers enterprise
+Total Assets : 95 lacs
+Liability : 13 lacs
+Net Asset : 82 lacs
+Criminal Cases : 1
+Case Details : காவிரி ஆற்றில்  விதிகளை மீறி மணல் குவாரி அமைக்கக்கூடாது என ஆர்ப்பாட்டம் செய்தது   இ.த.ச. 143,341,353. பொருந்தாது   
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.MANIKANDAN
+Age : 37
+Party Name : INDIYA JANANAYAGA KATCHI
+Education : MA M.Phil.,
+Occupation : Engineer
+Total Assets : 50 lacs
+Liability : 60 lacs
+Net Asset : - crore 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : V.ALEX MOURIS
+Age : 30
+Party Name : Independent
+Education : B.SC.Diploma in Hotel Management
+Occupation : CAR DEALER
+Total Assets : 19 lacs
+Liability : 1 lacs
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : S.KANDASAMY
+Age : 63
+Party Name : Independent
+Education : SSLC
+Occupation : ADVOCATE CLERK
+Total Assets : 88000
+Liability : No
+Net Asset : 88000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : R.Kalyana Sundaram
+Age : 54
+Party Name : Independent
+Education : Illiterate
+Occupation : AGRICULTURE
+Total Assets : 51000
+Liability : No
+Net Asset : 51000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : R.Chandrasekar
+Age : 36
+Party Name : Independent
+Education : 8th Standard
+Occupation : Mason
+Total Assets : 18 lacs
+Liability : No
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : M.SARAVANAN
+Age : 44
+Party Name : Independent
+Education : 12th pass
+Occupation : FARMER
+Total Assets : 20 lacs
+Liability : 8 lacs
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : CAMERA
+
+=====================
+
+Name : R.Saravanan
+Age : 54
+Party Name : Independent
+Education : Illiterate
+Occupation : AGRICULTURE
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : K.SURESH
+Age : 31
+Party Name : Independent
+Education : B.Sc., B.Ed., B.L.,
+Occupation : ADVOCATE
+Total Assets : 5 lacs
+Liability : 80000
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : B.SELVARAJ
+Age : 61
+Party Name : Independent
+Education : Illiterate
+Occupation : FARMER
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : S.BARANI
+Age : 27
+Party Name : Independent
+Education : LL.B.,
+Occupation : FARMER
+Total Assets : 51000
+Liability : No
+Net Asset : 51000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : FOOTBALL_PLAYER
+
+=====================
+
+Name : V.VELLAIYAN
+Age : 60
+Party Name : AGILA INDIA JEGAJEEVANRAM MAKKAL IYAKKAM
+Education : 5th pass
+Occupation : TENDER COCONUT VENDOR
+Total Assets : 26 lacs
+Liability : 1 lacs
+Net Asset : 25 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : SCISSORS
+
+=====================
+

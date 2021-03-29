@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : KALASAPAKKAM
+No of Candidates : 15
+No of Independent Candidates : 7
+
+=====================
+
+Name : T.Saravanan
+Age : 52
+Party Name : Dravida Munnetra Kazhagam
+Education : M.A., (history)
+Occupation : agriculture
+Total Assets : 3 crore 13 lacs
+Liability : 48 lacs
+Net Asset : 2 crore 65 lacs
+Criminal Cases : 1
+Case Details : 354- பெண்ணின் நானத்தை கலங்கப்படுத்தும் நோகத்துடன் தீவிர தாக்குதலில் ஈடுபடுதல், 506- குற்றவியல் மிரட்டல். 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.Nehru
+Age : 57
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 10th
+Occupation : Real Estate & Construction contractor 
+Total Assets : 5 crore 29 lacs
+Liability : 1 crore 37 lacs
+Net Asset : 3 crore 91 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : V.Paneerselvam
+Age : 48
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 10th Std ; ITI (Fitter)
+Occupation : Agriculture and Business
+Total Assets : 1 crore 64 lacs
+Liability : 53 lacs
+Net Asset : 1 crore 11 lacs
+Criminal Cases : 1
+Case Details : சட்டவிரோதமாக கூடுதல்,பொது இடத்தில் தொல்லை கொடுத்தல்,காயங்களை ஏற்படுத்துதல்,மிரட்டல் விடுத்தல். 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : E.Rajkumar
+Age : 44
+Party Name : Bahujan Samaj Party
+Education : 12th standard
+Occupation : Agriculture
+Total Assets : 26 lacs
+Liability : No
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : A.Kalyana Sundaram
+Age : 47
+Party Name : Veerathiyagi Viswanathadass Labour Party
+Education : 7th Class
+Occupation : Unemployed Graduate
+Total Assets : 15000
+Liability : No
+Net Asset : 15000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : R.V.SAMPATH
+Age : 56
+Party Name : Anna Dravidar Kazhagam
+Education : 7th Standard
+Occupation : FARMER
+Total Assets : 13 lacs
+Liability : 3 lacs
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : E.Balaji
+Age : 35
+Party Name : Naam Tamilar Katchi
+Education : Currently doing BA.,LLB 
+Occupation : Agriculture
+Total Assets : 19 lacs
+Liability : No
+Net Asset : 19 lacs
+Criminal Cases : 3
+Case Details : கலவரம் ஏற்படுத்தல், கீழ்ப்படியாமை,காவல் துறையின் முன்னெச்சரிக்கை நடவடிக்கை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.S.Rajendran
+Age : 60
+Party Name : Indiya Jananayaka Katchi
+Education : PUC 
+Occupation : PARTY WORKER
+Total Assets : 56 lacs
+Liability : No
+Net Asset : 56 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : G.Amutha
+Age : 32
+Party Name : Independent
+Education : B.Sc.,D.T.Ed
+Occupation : Business
+Total Assets : 24 lacs
+Liability : No
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : K.Saravanan
+Age : 46
+Party Name : Independent
+Education : SSLC.,
+Occupation : Wages
+Total Assets : 85000
+Liability : No
+Net Asset : 85000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : M.TIRUNAVUKARASU
+Age : 52
+Party Name : Independent
+Education : 12th
+Occupation : Agriculture 
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : S.PANEERSELVAM
+Age : 37
+Party Name : Independent
+Education : 10th
+Occupation : FARMER
+Total Assets : 33 lacs
+Liability : No
+Net Asset : 33 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : V.Paneerselvam
+Age : 50
+Party Name : Independent
+Education : SSLC
+Occupation : FARMER
+Total Assets : 6 lacs
+Liability : 80000
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : K.Rajamani
+Age : 57
+Party Name : Independent
+Education : 5th standard
+Occupation : Wages
+Total Assets : 70000
+Liability : No
+Net Asset : 70000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : R.Jaganathan
+Age : 43
+Party Name : Independent
+Education : M.COM.,B.Ed.,
+Occupation : FARMER
+Total Assets : 36 lacs
+Liability : No
+Net Asset : 36 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+

@@ -1,0 +1,177 @@
+Constituency Document
+=====================
+
+Constituency Name : THANJAVUR
+No of Candidates : 12
+No of Independent Candidates : 4
+
+=====================
+
+Name : V.ARIVUDAINAMBI
+Age : 51
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 10th FAIL
+Occupation : REAL ESTATE AGENT COMMISSION BUSINESS
+Total Assets : 3 crore 66 lacs
+Liability : 6 lacs
+Net Asset : 3 crore 59 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.RAMANATHAN
+Age : 49
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.D.S.,
+Occupation : DENTIST
+Total Assets : 20 lacs
+Liability : 4 lacs
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : S.KARIKALACHOLAN
+Age : 37
+Party Name : Desiyavadha congress
+Education : B.Lit, 
+Occupation : Business, Social Rights Defenders RTI Activist
+Total Assets : 8 lacs
+Liability : 60000
+Net Asset : 8 lacs
+Criminal Cases : 4
+Case Details : கலவரம், சட்ட விரோதமாக  கூடுதல், மரணத்தை உண்டாகக்கூடிய ஆயுதம் வைத்து ஒரு நபரை அடைத்து வைப்பதற்காக ரகசியமாகவும் தவறாகவும் கடத்தப்படுதல் அல்லது கடத்தல்.. 
+Symbol Name-
+
+=====================
+
+Name : T.K.G.NEELAMEGAM
+Age : 57
+Party Name : Dravida Munnetra Kazhagam
+Education : 10TH FAIL, 
+Occupation : AGRICULTURE
+Total Assets : 1 crore 56 lacs
+Liability : No
+Net Asset : 1 crore 56 lacs
+Criminal Cases : 5
+Case Details : வேளாண் சட்டங்களை ரத்து செய்யக்கோரி போராட்டத்திற்கு ஆதரவு, அனுமதி இன்றி விடியலை நோக்கி ஸ்டாலின் குரல் என்ற வாசகம் உள்ள ஆள் உயர கட்டவுட் வைத்ததற்காக வழக்குப்பதிவு செய்யப்பட்டது, சத்துணவு அமைப்பாளர் சங்கம் சார்பாக வரையறுக்கப்பட்ட கால ஊதியத்தை வழங்க கோரி அனுமதி பெறாமல் சாலைமறியல் செய்ததாக வழக்கு பதிவு செய்யப்பட்டது, சென்னையில் திமுக செயல் தலைவர் மு க ஸ்டாலின் கைது செய்ததை கண்டித்து சாலை மறியல், தஞ்சாவூர் பழைய பேருந்து நிலையம் முன்பு முகஸ்டாலின் சென்னையில் கைது செய்ததை கண்டித்து அனுமதியின்றி சாலை மறியல். 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : G.SUNDARAMOHAN
+Age : 49
+Party Name : Makkal Needhi Maiam
+Education : B.Com., M.Com.,
+Occupation : CABLE TV OWNER, BUSINESS
+Total Assets : 1 crore 89 lacs
+Liability : 3 lacs
+Net Asset : 1 crore 86 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : R.SUBHADEVI
+Age : 39
+Party Name : Naam Tamilar Katchi
+Education : B.Sc.,
+Occupation : HOUSE WIFE
+Total Assets : 5 lacs
+Liability : 3 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.XAVIER
+Age : 69
+Party Name : Peoples Party of India - Secular
+Education : 11th NOT COMPLETED
+Occupation : PENSIONER
+Total Assets : 48 lacs
+Liability : No
+Net Asset : 48 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : M.SANTHOSH
+Age : 42
+Party Name : Independent
+Education : H.S.C 
+Occupation : VEGETABLE VENDOR
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GRAPES
+
+=====================
+
+Name : R.SABTHAGIRI
+Age : 30
+Party Name : Independent
+Education : 12TH DISCONTINUED
+Occupation : AIR CONDITIONER MECHANIC
+Total Assets : 42450
+Liability : No
+Net Asset : 42450
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DISH_ANTENNA
+
+=====================
+
+Name : D.DINESHBABU
+Age : 34
+Party Name : Independent
+Education : 12TH STD
+Occupation : BUSINESS
+Total Assets : 37209
+Liability : No
+Net Asset : 37209
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WATERMELON
+
+=====================
+
+Name : B.BHARATH
+Age : 34
+Party Name : Independent
+Education : 8th pass
+Occupation : BUSINESS
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SCISSORS
+
+=====================
+
+Name : N.Vasuki
+Age : 45
+Party Name : VEDHA PERAVAI SUYETCHAI
+Education : Illiterate
+Occupation : House Wife
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SITAR
+
+=====================
+

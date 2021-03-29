@@ -150,6 +150,152 @@
         },
         {
             "en": {
+                "candidate_id": "92f6d2c8-818b-478f-a9c0-5a5914732bf8",
+                "name": "S.Rajasekar",
+                "education": "8TH PASS- PANCHAYAT UNION MEDIUM SCHOOL, PERUNGULAM, RAMANATHAPURAM DISTRICT",
+                "occupation": "BUSINESS",
+                "age": "65",
+                "annual_income": "1,096,990",
+                "source_of_income": "BUSINESS",
+                "moveable_assets": "13,140,684",
+                "immoveable_assets": "17,850,000",
+                "total_assets": "30,990,684",
+                "liabilities": "2,494,900",
+                "net_assets": "28,495,784",
+                "no_of_criminal_cases": 7,
+                "cases_description": "Cheating and life threatening . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUCHULI_8.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AIADMK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "TIRUCHULI",
+                    "constituency_en_label": "Tiruchuli",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bc1\u0bb4\u0bbf",
+                    "district_id": "VIRUDHUNAGAR",
+                    "district_en_label": "Virudhunagar",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0ba8\u0b95\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "474,386",
+                        "spouse": "587,839",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "652,250",
+                        "spouse": "390,340",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "483,350",
+                        "spouse": "612,330",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "466,370",
+                        "spouse": "980,580",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,096,990",
+                        "spouse": "674,720",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f6d2c8-818b-478f-a9c0-5a5914732bf8",
+                "name": "S.\u0bb0\u0bbe\u0b9c\u0b9a\u0bc7\u0b95\u0bb0\u0bcd",
+                "education": "8TH PASS- PANCHAYAT UNION MEDIUM SCHOOL, PERUNGULAM, RAMANATHAPURAM DISTRICT",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "age": "65",
+                "annual_income": "1,096,990",
+                "source_of_income": "BUSINESS",
+                "moveable_assets": "13,140,684",
+                "immoveable_assets": "17,850,000",
+                "total_assets": "30,990,684",
+                "liabilities": "2,494,900",
+                "net_assets": "28,495,784",
+                "no_of_criminal_cases": 7,
+                "cases_description": "\u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd , \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc8 \u0baa\u0ba3\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUCHULI_8.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AIADMK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "TIRUCHULI",
+                    "constituency_en_label": "Tiruchuli",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bc1\u0bb4\u0bbf",
+                    "district_id": "VIRUDHUNAGAR",
+                    "district_en_label": "Virudhunagar",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0ba8\u0b95\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "474,386",
+                        "spouse": "587,839",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "652,250",
+                        "spouse": "390,340",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "483,350",
+                        "spouse": "612,330",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "466,370",
+                        "spouse": "980,580",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,096,990",
+                        "spouse": "674,720",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "\u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd , \u0b85\u0bb0\u0b9a\u0bc1 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc8 \u0baa\u0ba3\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
                 "candidate_id": "930584ef-0491-4015-ab4a-e9d33ef5a22c",
                 "name": "A.ANANDHAJOTHI",
                 "education": "BA",

@@ -1,0 +1,223 @@
+Constituency Document
+=====================
+
+Constituency Name : TIRUPPUR_NORTH
+No of Candidates : 15
+No of Independent Candidates : 6
+
+=====================
+
+Name : R.CHANDRASEKARAN
+Age : 60
+Party Name : Bahujan Samaj Party
+Education :  S.S.L.C
+Occupation : Christian Preacher
+Total Assets : 21 lacs
+Liability : 1 lacs
+Net Asset : 20 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : M.Ravi (Alias) Subramanian
+Age : 64
+Party Name : Communist Party of India
+Education : 1972-73, Subramania Chettiar Higher Secondary School, Tirupur
+Occupation : Politics, Medical Shop Retail Business
+Total Assets : 3 crore 31 lacs
+Liability : No
+Net Asset : 3 crore 31 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name-
+
+=====================
+
+Name : M.SELVAKUMAR
+Age : 44
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 8th Pass
+Occupation : Vests Business
+Total Assets : 59 lacs
+Liability : 21 lacs
+Net Asset : 38 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : K.N.VIJEYAKUMAR
+Age : 64
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 6th
+Occupation : Real Estate Agent , Rent
+Total Assets : 2 crore 42 lacs
+Liability : 23 lacs
+Net Asset : 2 crore 19 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : B.ALAGHUSUNDARAM
+Age : 47
+Party Name : Anna Dravidar Kazhagam
+Education : 2008-2014, B.A.,L.L.B., Bangalore University, Bangalore.
+Occupation : Lawyer
+Total Assets : 53 lacs
+Liability : 27 lacs
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : S.Easwaran
+Age : 48
+Party Name : Naam Tamilar Katchi
+Education : ITI, BBA(Discontinued)
+Occupation : Social Service
+Total Assets : 50 lacs
+Liability : 55000
+Net Asset : 49 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Sivabalan
+Age : 62
+Party Name : Makkal Needhi Maiam
+Education : 8th
+Occupation : Real estate  agent
+Total Assets : 1 crore 38 lacs
+Liability : No
+Net Asset : 1 crore 38 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : V.Senthilkumar
+Age : 48
+Party Name : Anna Puratchi Talaivar Amma Dravida Munnetra Kazhagam
+Education : B.Com
+Occupation : graphics work
+Total Assets : 2 crore 42 lacs
+Liability : 77 lacs
+Net Asset : 1 crore 65 lacs
+Criminal Cases : 4
+Case Details : கணவனை கொலை செய்து புதைத்து, கேரளாவில் தலைமறைவாக இருந்த கள்ளக்காதல் ஜோடியை போலீசார் அதிரடியாக கைது செய்து விசாரணை நடத்தி வருகின்றனர்
+
+விழுப்புரம் மாவட்டம், விக்கிரவாண்டி அடுத்த பனையபுரத்தை சேர்ந்தவர் வேன் ஓட்டுநர் லியோபால்( 33).. கணவனை கொலை செய்து புதைத்து, கேரளாவில் தலைமறைவாக இருந்த கள்ளக்காதல் ஜோடியை போலீசார் அதிரடியாக கைது செய்து விசாரணை நடத்தி வருகின்றனர்
+
+விழுப்புரம் மாவட்டம், விக்கிரவாண்டி அடுத்த பனையபுரத்தை சேர்ந்தவர் வேன் ஓட்டுநர் லியோபால்( 33).
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : K.Deivasigamani
+Age : 57
+Party Name : Ezhuchi Tamilargal Munnetra Kazhagam
+Education : N/A
+Occupation : Real Estate Broker
+Total Assets : 6 lacs
+Liability : 45000
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : S.UDHAYAKUMAR
+Age : 32
+Party Name : Independent
+Education : 2008-2012, B.E (EEE), CIT Coimbatore, Anna University
+Occupation : Horse Rider
+Total Assets : 8 lacs
+Liability : 12 lacs
+Net Asset : -4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : T.N.SENTHILKUMAR
+Age : 43
+Party Name : Independent
+Education : 6th
+Occupation : Private Transport
+Total Assets : 28 lacs
+Liability : 8 lacs
+Net Asset : 19 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : R.SENTHILKUMAR
+Age : 45
+Party Name : Independent
+Education : 12th 
+Occupation : 
+Total Assets : 1 lacs
+Liability : 30000
+Net Asset : 80000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : A.SENTHILVEL
+Age : 48
+Party Name : Independent
+Education :  8th Pass 
+Occupation : Building Contractor
+Total Assets : 50 lacs
+Liability : 5 lacs
+Net Asset : 45 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : S.MURUGAPANDI
+Age : 38
+Party Name : Independent
+Education :  HSC
+Occupation : Garment Producer (Private Company)
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 1
+Case Details : கொலை குற்றம். 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : M.Rangasamy
+Age : 50
+Party Name : Independent
+Education : 8th pass
+Occupation : Self Defense Instructor (Karate)
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+

@@ -587,7 +587,7 @@
         {
             "en": {
                 "candidate_id": "930151e3-3088-4146-a13f-3ee3c76c2462",
-                "name": "PPC.RAMALINGASWAMI ADIHITHAN",
+                "name": "PPC.RAMALINGASWAMY ADHITHAN",
                 "education": "MA, LLB",
                 "occupation": "Farmer, Business",
                 "age": "48",
@@ -602,8 +602,8 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ARANTHANGI_13.jpg",
                 "party": {
-                    "id": "Akhila India Jananayaka Makkal Katchi",
-                    "en_label": "Akhila India Jananayaka Makkal Katchi",
+                    "id": "Akhila India Jananayaka Makkal Kazhagam",
+                    "en_label": "Akhila India Jananayaka Makkal Kazhagam",
                     "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/MIXEE.JPG"
                 },
@@ -670,8 +670,8 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ARANTHANGI_13.jpg",
                 "party": {
-                    "id": "Akhila India Jananayaka Makkal Katchi",
-                    "en_label": "Akhila India Jananayaka Makkal Katchi",
+                    "id": "Akhila India Jananayaka Makkal Kazhagam",
+                    "en_label": "Akhila India Jananayaka Makkal Kazhagam",
                     "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/MIXEE.JPG"
                 },
@@ -2041,7 +2041,7 @@
         {
             "en": {
                 "candidate_id": "93018317-68a4-4f2a-9cf4-af1f6942c369",
-                "name": "S.Dhetcheenamoorthy",
+                "name": "S.Dhetchenamoorthy",
                 "education": "MBBS",
                 "occupation": "Doctor",
                 "age": "40",

@@ -1,0 +1,261 @@
+Constituency Document
+=====================
+
+Constituency Name : HOSUR
+No of Candidates : 18
+No of Independent Candidates : 7
+
+=====================
+
+Name : Y.Prakaash
+Age : 56
+Party Name : Dravida Munnetra Kazhagam
+Education : 10th pass
+Occupation : Business (Brick manufacturing and Agriculture)
+Total Assets : 7 crore 85 lacs
+Liability : 7 crore 86 lacs
+Net Asset : -1 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.Jyothi
+Age : 44
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Sc Science & B.Ed
+Occupation : Private Tutor
+Total Assets : 27 crore 34 lacs
+Liability : 2 crore 12 lacs
+Net Asset : 25 crore 21 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.EZHILAN
+Age : 39
+Party Name : VEERATH THIYAGI VISWANATHADOSS THOZHILALARGAL KATCHI
+Education : 12th pass
+Occupation : Agricultural Labour
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : S.Geethalakshmi
+Age : 31
+Party Name : Naam Tamilar Katchi
+Education : B.Sc (Nursing)
+Occupation : House Wife
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : L.Sundar
+Age : 32
+Party Name : Shiv Sena
+Education : Diploma in Electrical and Electronics Engineering
+Occupation : Farmer
+Total Assets : 54 lacs
+Liability : No
+Net Asset : 54 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BABY_WALKER
+
+=====================
+
+Name : G.SELVAM
+Age : 59
+Party Name : New Generation People's Party
+Education : 12th pass
+Occupation : Retired 
+Total Assets : 30 lacs
+Liability : No
+Net Asset : 30 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : POT
+
+=====================
+
+Name : S.MASOOD
+Age : 29
+Party Name : Makkal Needhi Maiam
+Education : BBA., M.B.A.,
+Occupation : S.S. Tours & Travels and Textiles
+Total Assets : 68 lacs
+Liability : 23 lacs
+Net Asset : 45 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : M.MAREGOWDU
+Age : 46
+Party Name : Amma makkal munetra kalagam
+Education : M.A
+Occupation : BUSINESS
+Total Assets : 5 crore 84 lacs
+Liability : 1 crore 31 lacs
+Net Asset : 4 crore 53 lacs
+Criminal Cases : 1
+Case Details : விபச்சார விடுதி நடத்த அனுமதித்து இடம் வழங்கியது, விபச்சார வருமானத்தில் வாழ்க்கைநடத்தியது, ஒரு நபரை கட்டாயப்படுத்தி விபச்சாரத்திற்கு தூண்டியது, பொதுவிடத்தின் அருகாமையில் விபச்சாரம் நடத்தியது, ஆள்கடத்தல்.. ஆள்  கடத்தல் 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : G.Jayaseelan
+Age : 45
+Party Name : Anna Purachi Thalaivar Amma Thiravida Munneytra Kalagam
+Education : Illiterate
+Occupation : Social Service
+Total Assets : 21 lacs
+Liability : 40000
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : R.Kishore Kumar
+Age : 39
+Party Name : Independent
+Education : 12th
+Occupation : Agriculture
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAKE
+
+=====================
+
+Name : V.Geetha
+Age : 31
+Party Name : Independent
+Education : 12th pass
+Occupation : Business
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : DISH_ANTENNA
+
+=====================
+
+Name : R.Shanmugam
+Age : 45
+Party Name : Aikiya Murppoku Tamilar Kazhagam
+Education : LL.M,M.SC., M.D.(A,M)
+Occupation : Advocate
+Total Assets : 60 lacs
+Liability : No
+Net Asset : 60 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : SETHOSCOPE
+
+=====================
+
+Name : Y.Devappa
+Age : 53
+Party Name : Independent
+Education : 10th standard
+Occupation : Business
+Total Assets : 34 lacs
+Liability : No
+Net Asset : 34 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : WATER_TANK
+
+=====================
+
+Name : N.Balaraju
+Age : 47
+Party Name : Independent
+Education :  11th
+Occupation : Business
+Total Assets : 97 lacs
+Liability : No
+Net Asset : 97 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : IRON
+
+=====================
+
+Name : S.MUTHAMIZH MUDHALVAN
+Age : 65
+Party Name : Independent
+Education : B.A.
+Occupation : Retired Deputy Superintendent of Police
+Total Assets : 1 crore 02 lacs
+Liability : No
+Net Asset : 1 crore 02 lacs
+Criminal Cases : 1
+Case Details : 17 உறுப்பினர்களுக்கு எதிராக தாக்கல் செய்யப்பட்ட இந்த வழக்கை அரசியல் நோக்கம் கொண்டது, ஒருவர் அறிவிப்பை அச்சிட்டு எனக்கு தெரியாமல் விநியோகித்தார், பின்னர் எந்த ஆதாரமும் இல்லாமல் காவல்துறை என் மீது வழக்கு பதிவு செய்துள்ளது. விசாரணை நேரத்தில் இந்த வழக்கில் எனது குற்றமற்றவர் என்பதை நிரூபிக்க நான் தயாராக இருக்கிறேன்.. 
+Symbol Name : TRUCK
+
+=====================
+
+Name : R.K.MUTHU
+Age : 46
+Party Name : Independent
+Education : 5th Standard 
+Occupation : Auto driver
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GRAPES
+
+=====================
+
+Name : G.C.Ramasamy
+Age : 66
+Party Name : Dravida N T R Anna TeluguDesam Party
+Education : 7th Std
+Occupation : Farmer
+Total Assets : 86 lacs
+Liability : No
+Net Asset : 86 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BEAD_NECKBANGLE
+
+=====================
+
+Name : V.Lokesh Kumar
+Age : 27
+Party Name : Independent
+Education : 10th
+Occupation : Business
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ALMIRAH
+
+=====================
+

@@ -1,0 +1,206 @@
+Constituency Document
+=====================
+
+Constituency Name : ERODE_WEST
+No of Candidates : 14
+No of Independent Candidates : 4
+
+=====================
+
+Name : K.V.Ramalingam
+Age : 64
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A History
+Occupation : Farming
+Total Assets : 5 crore 91 lacs
+Liability : 19 lacs
+Net Asset : 5 crore 72 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : A.Dhanalakshmi
+Age : 65
+Party Name : Bahujan Samaj Party
+Education : Illiterate
+Occupation : Daily Wage Labour
+Total Assets : 30500
+Liability : No
+Net Asset : 30500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.Muthusamy
+Age : 71
+Party Name : Dravida Munnetra Kazhagam
+Education : MA
+Occupation : Agriculturist
+Total Assets : 13 crore 68 lacs
+Liability : No
+Net Asset : 13 crore 68 lacs
+Criminal Cases : 9
+Case Details : சட்டவிரோத சட்டசபை மற்றும் தடை உத்தரவுகளை மீறுவதாகக் கூறப்படுகிறது.
+COVID-19 கட்டுப்பாடுகளை மீறியதாகக் கூறப்படுகிறது. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.Chandrakumar
+Age : 41
+Party Name : Naam Tamilar Katchi
+Education : M.B.A
+Occupation : Agriculture, Sale of knitwear
+Total Assets : 62 lacs
+Liability : 33 lacs
+Net Asset : 29 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.Chandran
+Age : 32
+Party Name : Ambedkarite Party of India
+Education : 8th
+Occupation : mason
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COAT
+
+=====================
+
+Name : S.Sivasubramaniyan
+Age : 50
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : BA
+Occupation : Real Estate
+Total Assets : 13 crore 47 lacs
+Liability : No
+Net Asset : 13 crore 47 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : G.Thangavel
+Age : 48
+Party Name : United States of India Party
+Education : M.A., M.Ed (English)
+Occupation : Private College Lecturer
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TILLER
+
+=====================
+
+Name : Durai Sevugan
+Age : 41
+Party Name : Makkal Needhi Maiam
+Education : HSC
+Occupation : Managing Partner. Sri Jayadurga Textile Processors, Erode
+Total Assets : 32 lacs
+Liability : 8 lacs
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.Balasubramaniam
+Age : 55
+Party Name : IndiaDravidaMakkalMunnetraKatchi
+Education : 7th Panchayat Union Secondary School, Kavundachi Palayam - 1980
+Occupation : Agriculture Labor
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : K.Madhan
+Age : 55
+Party Name : Ganasangam Party of India
+Education : 3rd STD
+Occupation : Dye workshop worker
+Total Assets : 42600
+Liability : No
+Net Asset : 42600
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : R.Kalithass
+Age : 46
+Party Name : Independent
+Education : 6th, Government Boys High School, Mangalore, Karnataka - 1985
+Occupation : Labor
+Total Assets : 21000
+Liability : No
+Net Asset : 21000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : A.Muthusamy
+Age : 52
+Party Name : Independent
+Education : Government Primary School, Vadakkal Aandhiyur - 1980
+Occupation : Labor
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : M.Vimala
+Age : 35
+Party Name : Independent
+Education : Ph.D Bharthiyar University
+Occupation : Homemaker
+Total Assets : 1 lacs
+Liability : 28 lacs
+Net Asset : - crore 26 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEPHONE
+
+=====================
+
+Name : A.VENGATESAN
+Age : 43
+Party Name : Independent
+Education : ITI Mechanical, Jeeva Transport Technical Institute  - 1992-1994
+Occupation : Self employment
+Total Assets : 62 lacs
+Liability : 11 lacs
+Net Asset : 51 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GRAPES
+
+=====================
+

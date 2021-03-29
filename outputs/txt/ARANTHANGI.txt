@@ -1,0 +1,319 @@
+Constituency Document
+=====================
+
+Constituency Name : ARANTHANGI
+No of Candidates : 22
+No of Independent Candidates : 12
+
+=====================
+
+Name : T.RAMACHANDRAN
+Age : 40
+Party Name : Indian National Congress
+Education : B.B.A 
+Occupation : Politician, Businessman
+Total Assets : 1 crore 42 lacs
+Liability : 34 lacs
+Net Asset : 1 crore 08 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : Hand
+
+=====================
+
+Name : M.RAJANAYAGAM
+Age : 56
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : S.S.L.C.
+Occupation : Farmer
+Total Assets : 1 crore 95 lacs
+Liability : 7 lacs
+Net Asset : 1 crore 89 lacs
+Criminal Cases : 1
+Case Details : ஐபிசி பிரிவு 143 - சட்ட விரோதமான கூட்டத்தில் சேர்ந்திருப்பதற்கான தண்டனை
+ஐபிசி பிரிவு 188 - பொதுப் பணியாளரால், முறைப்படி பிரகடனப்படுத்தப்பட்ட உத்தரவிற்கு கீழ்ப்படியாமை
+. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : A.JEEVA
+Age : 52
+Party Name : Bahujan Samaj Party
+Education : Not given
+Occupation : Farmer
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : Amaladoss Sandhiyagu
+Age : 62
+Party Name : Puthiya Tamilagam
+Education : M.A, M.Ed 
+Occupation : Retd. Teacher
+Total Assets : 31 lacs
+Liability : 4 lacs
+Net Asset : 28 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : PPC.RAMALINGASWAMY ADHITHAN
+Age : 48
+Party Name : Akhila India Jananayaka Makkal Kazhagam
+Education : MA, LLB
+Occupation : Farmer, Business
+Total Assets : 4 crore 41 lacs
+Liability : 1 lacs
+Net Asset : 4 crore 39 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MIXEE
+
+=====================
+
+Name : B.KUMARAPPAN
+Age : 38
+Party Name : My India Party
+Education : M. Tech.
+Occupation : Business
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : K.SAKTHIVEL
+Age : 62
+Party Name : Tamizhaga Murpokku Makkal Katchi
+Education : M.com, B.L.,
+Occupation : ADVOCATE
+Total Assets : 1 crore 80 lacs
+Liability : 3 lacs
+Net Asset : 1 crore 76 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : K.Sivashanmugam
+Age : 69
+Party Name : Amma makkal munnetra kazhagam
+Education : SSLC
+Occupation : Retd Govt Bus conducted, Farmer
+Total Assets : 55 lacs
+Liability : No
+Net Asset : 55 lacs
+Criminal Cases : 3
+Case Details : 1. கூட்டுறவு வழக்கு, 2. கொரோனா விதிமுறைகளை மீறியதாக வழக்கு, 3. அரசியல் சார்ந்த வழக்கு. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : B.SHAIK MOHAMED
+Age : 54
+Party Name : Makkal Needhi Maiam
+Education : 6th Standard
+Occupation : Farmer
+Total Assets : 81 lacs
+Liability : 20 lacs
+Net Asset : 61 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : M.I.Humayun Kabir
+Age : 53
+Party Name : Naam Tamilar Katchi
+Education : BSc Physics
+Occupation : Educator
+Total Assets : 81 lacs
+Liability : No
+Net Asset : 81 lacs
+Criminal Cases : 2
+Case Details : சட்ட விரோதமான கூட்டத்தைச் சேர்த்ததற்கு , மிரட்டல், கலகம் செய்தல்,பொது ஊழியரை பனி செய்ய விடாமல் தடுத்தல்,,ஆபாசமான செயல்,. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : R.Arujunan
+Age : 43
+Party Name : Independent
+Education : Not given
+Occupation : Farmer
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : FLUTE
+
+=====================
+
+Name : A.Syed sulthan ibrahim
+Age : 37
+Party Name : Independent
+Education : 12th Standard
+Occupation : Textile shop
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BRUSH
+
+=====================
+
+Name : K.Selvakumar
+Age : 39
+Party Name : Independent
+Education : SSLC
+Occupation : Farmer
+Total Assets : 9 lacs
+Liability : 4 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : CAKE
+
+=====================
+
+Name : R.Thillainathan
+Age : 51
+Party Name : Independent
+Education : SSLC
+Occupation : Farmer
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S.Dhetchenamoorthy
+Age : 40
+Party Name : Independent
+Education : MBBS
+Occupation : Doctor
+Total Assets : 26 lacs
+Liability : 12 lacs
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BUCKET
+
+=====================
+
+Name : V.Pandiyan
+Age : 43
+Party Name : Independent
+Education : 10th Standard
+Occupation : Advocate
+Total Assets : 53250
+Liability : No
+Net Asset : 53250
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BICYCLE_PUMP
+
+=====================
+
+Name : K.Mahendran
+Age : 48
+Party Name : Independent
+Education : 12th Standard
+Occupation : Cylinder Delivery Job
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : K.Muthukaruppaiah
+Age : 68
+Party Name : Independent
+Education : SSLC
+Occupation : Retd Bus conductor
+Total Assets : 5 lacs
+Liability : 3 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GRAPES
+
+=====================
+
+Name : V.Muthuselvam
+Age : 50
+Party Name : Independent
+Education : Not given
+Occupation : Farmer
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : R S.Ramaswamy
+Age : 41
+Party Name : Independent
+Education : M.S (It&M) , BBA
+Occupation : Farmer
+Total Assets : 43 lacs
+Liability : 12 lacs
+Net Asset : 31 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : K.P.VELRAJ
+Age : 46
+Party Name : Independent
+Education : Primary education
+Occupation : Agriculture
+Total Assets : 93 lacs
+Liability : No
+Net Asset : 93 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : HAT
+
+=====================
+
+Name : R.Jegadeesan
+Age : 43
+Party Name : Independent
+Education : 10th Standard
+Occupation : Farmer
+Total Assets : 10 lacs
+Liability : -2
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BRIEF_CASE
+
+=====================
+

@@ -1,0 +1,135 @@
+Constituency Document
+=====================
+
+Constituency Name : POOMPUHAR
+No of Candidates : 9
+No of Independent Candidates : 3
+
+=====================
+
+Name : T.ILANCHEZHIAN
+Age : 45
+Party Name : Bahujan Samaj Party
+Education : B.Sc.,
+Occupation : Agriculture
+Total Assets : 35 lacs
+Liability : No
+Net Asset : 35 lacs
+Criminal Cases : 1
+Case Details : ஆர்ப்பாட்டம் செய்தல், அத்துமீறி மிரட்டல் செய்தது தொடர்பாக. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.PAVUNRAJ
+Age : 64
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : S.S.L.C. 
+Occupation : M.L.A
+Total Assets : 6 crore 09 lacs
+Liability : 1 crore 42 lacs
+Net Asset : 4 crore 67 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.NIVEDHA M MURUGAN
+Age : 55
+Party Name : Dravida Munnetra Kazhagam
+Education : Porayar Andavar Higher Secondary School
+Occupation : Nivedha Transport, Owner, Nivedha Pharmacy, Chairman, Nivedha Educational Trust, Correspondent, Nivedha Matriculation School, Owner, Nivedha Bricks
+Total Assets : 8 crore 25 lacs
+Liability : 3 crore 01 lacs
+Net Asset : 5 crore 24 lacs
+Criminal Cases : 8
+Case Details : சாலைத் தடுப்பு, ரயில் தடுப்பு. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.KALIYAMMAL
+Age : 35
+Party Name : Naam Tamilar Katchi
+Education : B.Com
+Occupation : NA
+Total Assets : 13 lacs
+Liability : 4 lacs
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.SENTHAMIZHAN
+Age : 41
+Party Name : Amma Makkal Munnettra Kazagam
+Education : H.S.C
+Occupation : Agriculture (Leased Land cultivation)
+Total Assets : 18 lacs
+Liability : No
+Net Asset : 18 lacs
+Criminal Cases : 2
+Case Details : அரசு பணியை செய்ய விடாமல் தடுத்தது மற்றும் பொது சொத்தை சேதப்படுத்தியதாக வழக்கு . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.H.MEHARAJDEEN
+Age : 54
+Party Name : Makkal Needhi Maiam
+Education : 9th Standard
+Occupation : Betel Farming and Agriculture cultivation on lease basis
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : A.KALAIVANAN
+Age : 31
+Party Name : Independent
+Education : S.S.L.C. 
+Occupation : Agriculture labour
+Total Assets : 2 lacs
+Liability : 1 lacs
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : S.Pandiyarajan
+Age : 30
+Party Name : Independent
+Education : B.Tech (IT) 
+Occupation : Employee at Visai Technologies
+Total Assets : 22093
+Liability : 2 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : S.Murugan
+Age : 43
+Party Name : Independent
+Education : H.S.C
+Occupation : Agriculture
+Total Assets : 2 lacs
+Liability : 5 lacs
+Net Asset : -3 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : CUP_&_SAUCER
+
+=====================
+

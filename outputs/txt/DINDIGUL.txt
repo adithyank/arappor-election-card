@@ -1,0 +1,305 @@
+Constituency Document
+=====================
+
+Constituency Name : DINDIGUL
+No of Candidates : 21
+No of Independent Candidates : 11
+
+=====================
+
+Name : S.Arasur Manoharan
+Age : 65
+Party Name : Bahujan Samaj Party
+Education : PUC
+Occupation : WAGES
+Total Assets : 19 lacs
+Liability : 13 lacs
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : C.SREENIVASAN
+Age : 72
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : MBA
+Occupation : MLA
+Total Assets : 7 crore 75 lacs
+Liability : No
+Net Asset : 7 crore 75 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : N.PANDI
+Age : 63
+Party Name : Communist Party of India(Marxist)
+Education : 12th pass
+Occupation : SOCIAL ACTIVIST
+Total Assets : 71 lacs
+Liability : 1 crore 10 lacs
+Net Asset : - crore 39 lacs
+Criminal Cases : 2
+Case Details : கூடுதல், பொதுமக்களுக்கு தொல்லைகளை உருவாக்குதல். 
+Symbol Name : HAMMER_SICKLE_AND_STAR
+
+=====================
+
+Name : S.AKKAMMAL
+Age : 53
+Party Name : MyIndiaParty
+Education : 5th pass
+Occupation : HOUSE WIFE, COOLIE
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : R.ALAGU PANDIAN
+Age : 54
+Party Name : Anaithu Makkal Munnetra Kazhagam
+Education : M.A.
+Occupation : BUSINESS
+Total Assets : 42 lacs
+Liability : 49025
+Net Asset : 41 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BOAT_WITH_MAN_SAIL
+
+=====================
+
+Name : R.RAJENDRAN
+Age : 69
+Party Name : Makkal Needhi Maiam
+Education : 10th pass
+Occupation : V.A.O (Retired), Agriculture
+Total Assets : 49 lacs
+Liability : 3 lacs
+Net Asset : 46 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : V.KARTHIKEYAN
+Age : 50
+Party Name : ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM
+Education : B.Com
+Occupation : PRIAVTE ACCOUNT
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : A.SIVAGANAM
+Age : 43
+Party Name : Independent
+Education : 9th PASS
+Occupation : FRUITS BUSINESS
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : A.MURUGESAN
+Age : 50
+Party Name : Independent
+Education : B.A.,
+Occupation : REAL ESTATE
+Total Assets : 15 lacs
+Liability : No
+Net Asset : 15 lacs
+Criminal Cases : 1
+Case Details : கோவில் கிடா வெட்டியது சம்பந்தமாக. 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : P.RAMUTHEVAR
+Age : 64
+Party Name : Amma Makkal Munnettra Kazagam
+Education : 5th pass
+Occupation : FARMER
+Total Assets : 3 crore 50 lacs
+Liability : No
+Net Asset : 3 crore 50 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.JAYASUNDAR
+Age : 49
+Party Name : Naam Tamilar Katchi
+Education : CHEMISTRY OF SCIENCE
+Occupation : private employee
+Total Assets : 31 lacs
+Liability : 22 lacs
+Net Asset : 9 lacs
+Criminal Cases : 2
+Case Details : கட்சி குறித்து துண்டறிக்கை வழங்கியபோது மாற்றுக்கட்சியினர் தடுத்து தகராறு செய்ததால் இரு தரப்பினரிடையே ஏற்பட்ட சம்பவத்திற்காக போடப்பட்ட வழக்கு.
+
+கடந்த 2019 திண்டுக்கல் நாடாளுமன்றத் தேர்தலின்போது வேட்பாளரை ஆதரித்து பொதுக்கூட்டம் நடைபெற்றபோது கூடுதலாக ஒலிபெருக்கிகள் வைத்ததாகவும், கூட்டத்தில் காவலாக இருந்த காவல் துறையினரை கடமை செய்யவிடாமல் தடுத்ததாகவும் வழக்கு பதிவு.. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : D.ANBUROSE
+Age : 49
+Party Name : Independent
+Education : 7th fail, B.A DISTANT EDUCATION (DISCONTINUED)
+Occupation : OWNER OF BRINDHA ASSOCIATION
+Total Assets : 4 crore 33 lacs
+Liability : 34 lacs
+Net Asset : 4 crore 00 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : A.SENTHILALAGAPPAN
+Age : 38
+Party Name : Independent
+Education : M.sc.,COMPUTER SCIENCE
+Occupation : SELF BUSINESS
+Total Assets : 75 lacs
+Liability : 7 lacs
+Net Asset : 67 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BRICKS
+
+=====================
+
+Name : C.Dhanasekaran
+Age : 31
+Party Name : VEDA PERAVAI KATCHI
+Education : NIL
+Occupation : NOT APPLICABLE
+Total Assets : 7000
+Liability : No
+Net Asset : 7000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : N.NAGARAJ
+Age : 37
+Party Name : Independent
+Education : M.B.A
+Occupation : BUSINESS
+Total Assets : 22 lacs
+Liability : 5 lacs
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HARMONIUM
+
+=====================
+
+Name : K.BALASUBRAMANI
+Age : 45
+Party Name : Independent
+Education : 10th pass
+Occupation : PHOTOGRAPHER
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 1
+Case Details : போராட்டம் நடத்தியது (சட்ட விரோதமான கூட்டத்தில், முறையற்ற தடுப்பு, உயிருக்கு ஆபத்தான தொற்றுநோயை அநேகமாக பரப்பக்கூடிய கவனக்குறைவான செயல்). 
+Symbol Name : HAT
+
+=====================
+
+Name : R.BALAJI
+Age : 31
+Party Name : Independent
+Education : 12th pass
+Occupation : Electrician
+Total Assets : 15000
+Liability : No
+Net Asset : 15000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SHIP
+
+=====================
+
+Name : J.BASKARAN CHELLAPPA
+Age : 56
+Party Name : Independent
+Education : 10th fail
+Occupation : EX ARMY 
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : M.Rahamathulla
+Age : 36
+Party Name : Independent
+Education : 8th pass
+Occupation : scrap iron business
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : P.Vijayapandi
+Age : 37
+Party Name : Independent
+Education : Political Science
+Occupation : Self Employed
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAMERA
+
+=====================
+
+Name : M.HARIPRAKASH
+Age : 25
+Party Name : Independent
+Education : DIPLOMA M.E
+Occupation : AC TECHANICAN
+Total Assets : 97680
+Liability : No
+Net Asset : 97680
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TILLER
+
+=====================
+

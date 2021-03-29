@@ -1,0 +1,373 @@
+Constituency Document
+=====================
+
+Constituency Name : PARAMATHI_VELUR
+No of Candidates : 26
+No of Independent Candidates : 18
+
+=====================
+
+Name : V.RAMAN
+Age : 48
+Party Name : Bahujan Samaj Party
+Education : 6th standard
+Occupation : TEMPO DRIVER
+Total Assets : 11000
+Liability : No
+Net Asset : 11000
+Criminal Cases : 0
+Case Details : பொருந்தாது. பொருந்தாது
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.SEKAR
+Age : 50
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : DCE
+Occupation : POLITICIAN, CIVIL ENGINEER, AGRICULTURE
+Total Assets : 2 crore 26 lacs
+Liability : 62 lacs
+Net Asset : 1 crore 64 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : K.S.MOORTHY
+Age : 59
+Party Name : Dravida Munnetra Kazhagam
+Education : B.Sc.,(chemistry)
+Occupation : AGRICULTURE
+Total Assets : 5 crore 53 lacs
+Liability : 78 lacs
+Net Asset : 4 crore 75 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.P.SAMINATHAN
+Age : 55
+Party Name : AMMA MAKKAL MUNNETTRA KAZHAGAM
+Education : D.EEE, D.CA
+Occupation : BUSINESS,AGRICULTURE
+Total Assets : 4 crore 75 lacs
+Liability : 23 lacs
+Net Asset : 4 crore 52 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : S .SUNDARAM
+Age : 63
+Party Name : United States of India Party
+Education : 8TH FAIL
+Occupation : BANANA LEAF BUSINESS
+Total Assets : 1634
+Liability : No
+Net Asset : 1634
+Criminal Cases : 0
+Case Details : ஏதுமில்லை  . ஏதுமில்லை  
+Symbol Name : TILLER
+
+=====================
+
+Name : K.NATARAJAN
+Age : 65
+Party Name : Makkal Needhi Maiam
+Education : MBBS
+Occupation : Profession DOCTOR
+Total Assets : 3 crore 03 lacs
+Liability : 15 lacs
+Net Asset : 2 crore 88 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.Mani
+Age : 49
+Party Name : GANA SANGAM PARTY OF INDIA 
+Education :   
+Occupation : Driver 
+Total Assets : 13777
+Liability : No
+Net Asset : 13777
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : K.UVARANI
+Age : 34
+Party Name : Naam Tamilar Katchi
+Education : M.A, M.Ed
+Occupation : AGRICULTURE
+Total Assets : 40 lacs
+Liability : 35000
+Net Asset : 40 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : N.KARTHIKEYAN
+Age : 38
+Party Name : Independent
+Education : 10th pass
+Occupation : CARPENTARY WORK
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : WINNOWER
+
+=====================
+
+Name : K.Kulanthaivelu
+Age : 36
+Party Name : Independent
+Education : 8th pass
+Occupation : kooli
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : ஏதுமில்லை  . ஏதுமில்லை  
+Symbol Name : BENCH
+
+=====================
+
+Name : D.SATHISKUMAR
+Age : 34
+Party Name : Independent
+Education : 10th pass
+Occupation : AGRICULTURE
+Total Assets : 25000
+Liability : No
+Net Asset : 25000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CUTTING_PLIERS
+
+=====================
+
+Name : G.Samynathan
+Age : 26
+Party Name : Independent
+Education : 12th pass
+Occupation : Auto Driver
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : LAPTOP
+
+=====================
+
+Name : P.SREERANGAN
+Age : 42
+Party Name : Independent
+Education : S.S.L.C
+Occupation : BUILDING COOLI WORKER
+Total Assets : 20 lacs
+Liability : No
+Net Asset : 20 lacs
+Criminal Cases : 0
+Case Details : இல்லை  . 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : N.SUNDARAM
+Age : 50
+Party Name : Independent
+Education : 5th pass
+Occupation : உணவு உற்ப்பித்த 
+Total Assets : 4 lacs
+Liability : 50000
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : TEA_FILTER
+
+=====================
+
+Name : N.SEKAR
+Age : 49
+Party Name : Independent
+Education : SSLC
+Occupation : LABOUR WORK
+Total Assets : 25000
+Liability : No
+Net Asset : 25000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை  . ஏதுமில்லை  
+Symbol Name : GRAPES
+
+=====================
+
+Name : R.sekar
+Age : 50
+Party Name : Independent
+Education : sslc
+Occupation : cooli
+Total Assets : 25000
+Liability : No
+Net Asset : 25000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை  . ஏதுமில்லை  
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : M.THANGARASU 
+Age : 29
+Party Name : Independent
+Education : HSS
+Occupation : WAGE
+Total Assets : 20000
+Liability : No
+Net Asset : 20000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை  . ஏதுமில்லை  
+Symbol Name : CAPSICUM
+
+=====================
+
+Name : G.DEVANDRAN
+Age : 34
+Party Name : Independent
+Education : DIPLOMA IN MECHANICAL ENGINEERING
+Occupation : AGRICULTURE
+Total Assets : 25000
+Liability : No
+Net Asset : 25000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TELEPHONE
+
+=====================
+
+Name : K.NALLAPPAN
+Age : 41
+Party Name : Independent
+Education : 7th PASS
+Occupation : WAGE WORK
+Total Assets : 25000
+Liability : No
+Net Asset : 25000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : R.Pappathi
+Age : 60
+Party Name : Independent
+Education : Illiterate
+Occupation : business
+Total Assets : 15000
+Liability : No
+Net Asset : 15000
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : A.BALASUBRAMANIAN
+Age : 37
+Party Name : Independent
+Education : 10th pass
+Occupation : AGRICULTURE
+Total Assets : 30000
+Liability : No
+Net Asset : 30000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : LUDO
+
+=====================
+
+Name : R.BALAJI
+Age : 41
+Party Name : Independent
+Education : 
+Occupation : 
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : இல்லை  . 
+Symbol Name : CAMERA
+
+=====================
+
+Name :  M.PRABHAHARAN M
+Age : 31
+Party Name : Independent
+Education : பட்டயப்படிப்பு  
+Occupation : BUSINESS
+Total Assets : 72000
+Liability : No
+Net Asset : 72000
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : R.PERIASAMY
+Age : 51
+Party Name : Independent
+Education : 12th pass
+Occupation : WAGES
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : SAW
+
+=====================
+
+Name : M.MOORTHY
+Age : 56
+Party Name : Independent
+Education : Illiterate
+Occupation : AGRICULTURE
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : TABLE
+
+=====================
+
+Name : K.Jayakumar
+Age : 48
+Party Name : Independent
+Education : degree
+Occupation : cooli
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : ஏதுமில்லை  . ஏதுமில்லை  
+Symbol Name : CAKE
+
+=====================
+

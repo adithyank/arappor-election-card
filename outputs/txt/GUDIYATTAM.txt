@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : GUDIYATTAM
+No of Candidates : 15
+No of Independent Candidates : 5
+
+=====================
+
+Name : V.Amalu
+Age : 39
+Party Name : Dravida Munnetra Kazhagam
+Education : SSLC Discontinued 1998
+Occupation : House Wife
+Total Assets : 34 lacs
+Liability : No
+Net Asset : 34 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : G.Paritha
+Age : 37
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.A., M.Ed., D.Ted.,
+Occupation : House wife
+Total Assets : 47 lacs
+Liability : No
+Net Asset : 47 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.Raja
+Age : 46
+Party Name : Bahujan Samaj Party
+Education : 12th pass
+Occupation : Labour
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : R.Kalaiyenthiri
+Age : 31
+Party Name : Naam Tamilar Katchi
+Education : B.A.B.L
+Occupation : Advocate
+Total Assets : 3 lacs
+Liability : 5 lacs
+Net Asset : -1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : D.Selvavinayagam
+Age : 68
+Party Name : All Pensioners Party
+Education : SSLC
+Occupation :  Pensioner - TNEB
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : HAT
+
+=====================
+
+Name : C.Rajan
+Age : 50
+Party Name : Indhiya Jananayaga Katchi
+Education : 12th pass
+Occupation : Social Activist
+Total Assets : 35000
+Liability : No
+Net Asset : 35000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : R.VENNILA
+Age : 50
+Party Name : REPUBLICAN PARTY OF INDIA ( ATWALE)
+Education : 12th pass
+Occupation : HOUSE WIFE
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : C.Jayanthi Padmanaban
+Age : 40
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : L.L.B - K.G.F Law College, K.G.F - 2006
+Occupation : Advocate , Farming , Proprietrix Jay Enterprises(formerly Jay footware tech)
+Total Assets : 6 crore 71 lacs
+Liability : 2 crore 80 lacs
+Net Asset : 3 crore 91 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.Elumalai
+Age : 33
+Party Name : Independent
+Education : L.L.B - Sri Venkateshwara Law College, Chittor , Andhra Pradesh - 2007-2012
+Occupation : Advocate
+Total Assets : 5 lacs
+Liability : 2 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : P.Gunaseelan
+Age : 40
+Party Name : Samuga Samathuva Padai
+Education : Muslim Mens Higher Secondary School - 1995
+Occupation : Social Activist
+Total Assets : 5500
+Liability : No
+Net Asset : 5500
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : RING
+
+=====================
+
+Name : M.Priya
+Age : 30
+Party Name : Independent
+Education : +2 fail , Concordia Higher Secondary School , 2007
+Occupation : house wife
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : G.MANOJKUMAR
+Age : 48
+Party Name : Independent
+Education : SSLC DISCONTINUED
+Occupation : AGRICULTURE
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : U.Radha
+Age : 45
+Party Name : Independent
+Education : STUDIED THIRD STANDARD 
+Occupation : NO 
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : N.LAKSHMPATHY
+Age : 44
+Party Name : Independent
+Education : B.A , B.SC, BD, LLB , D.EEE , D.T ED
+Occupation : iNDEPENDENT ADVOCATE
+Total Assets : 72500
+Liability : No
+Net Asset : 72500
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : K.Jaikarthikeyan
+Age : 43
+Party Name : Makkal Desiya Katchi
+Education : 10th pass
+Occupation : Social Service
+Total Assets : 38000
+Liability : No
+Net Asset : 38000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : SHIP
+
+=====================
+

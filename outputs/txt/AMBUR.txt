@@ -1,0 +1,191 @@
+Constituency Document
+=====================
+
+Constituency Name : AMBUR
+No of Candidates : 13
+No of Independent Candidates : 3
+
+=====================
+
+Name : K.Nazarmohamed
+Age : 49
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.com
+Occupation : Business / Tax Consultant
+Total Assets : 6 crore 58 lacs
+Liability : No
+Net Asset : 6 crore 58 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : J.Wazeerahmed
+Age : 49
+Party Name : Bahujan Samaj Party
+Education : 5th pass
+Occupation : Own Business
+Total Assets : 19 lacs
+Liability : No
+Net Asset : 19 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : A.C.Vilwanathan
+Age : 61
+Party Name : Dravida Munnetra Kazhagam
+Education : SSLC
+Occupation : Agriculturist
+Total Assets : 3 crore 86 lacs
+Liability : 10 lacs
+Net Asset : 3 crore 76 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : C.ASHOKKUMAR
+Age : 34
+Party Name : ANAITHU MAKKAL PURATCHI KATCHI
+Education : B.A (Tamil)
+Occupation : Photographer
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : A.MA.Umarfarook
+Age : 57
+Party Name : Social Democratic Party of India
+Education : 7th standard
+Occupation : Writter
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 2
+Case Details : போராட்டம் நடத்தியதற்காக வழக்கு . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : A.KAREEM BASHA
+Age : 48
+Party Name : Rashtriya Ulama Council
+Education : M.A (Political Science)
+Occupation : Independent Advertising Agent
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : SHOE
+
+=====================
+
+Name : V.PARTHIBAN
+Age : 40
+Party Name : All India Youth Development Party
+Education : SSLC
+Occupation : Farmer
+Total Assets : 26000
+Liability : No
+Net Asset : 26000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : CUP_&_SAUCER
+
+=====================
+
+Name : S.P.MANI
+Age : 63
+Party Name : All Pensioners Party
+Education : B.Sc
+Occupation : V.A.O (Rtrd)
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : HAT
+
+=====================
+
+Name : M.Maharunnisha
+Age : 38
+Party Name : Naam Tamilar Katchi
+Education : 5th Standard 
+Occupation : House Wife
+Total Assets : 8 lacs
+Liability : 50000
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Raja
+Age : 37
+Party Name : Agila Inthiya Samathuva Makkal Katchi
+Education : Illiterate
+Occupation : Driver
+Total Assets : 25 lacs
+Liability : 15 lacs
+Net Asset : 10 lacs
+Criminal Cases : 1
+Case Details : சண்டை வழக்கு. வழக்கு நிலுவையில் உள்ளது
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : L.Murugan
+Age : 53
+Party Name : Independent
+Education : 8th pass
+Occupation : Farmer
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : P.RAJINIKANTH
+Age : 41
+Party Name : Independent
+Education : 8th pass
+Occupation : Pvt Company Employee
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : V.A.George
+Age : 65
+Party Name : Independent
+Education : 7th Standard
+Occupation : NA
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BANGLES
+
+=====================
+

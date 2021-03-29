@@ -1,0 +1,149 @@
+Constituency Document
+=====================
+
+Constituency Name : PONNERI
+No of Candidates : 10
+No of Independent Candidates : 3
+
+=====================
+
+Name : D.Chandrasekar
+Age : 48
+Party Name : Indian National Congress
+Education : B.Sc., B.L
+Occupation : Lawyer
+Total Assets : 44 lacs
+Liability : No
+Net Asset : 44 lacs
+Criminal Cases : 1
+Case Details : தனியார் நிறுவனத்தில் பணிபுரிந்த தொழிலாளர்கள் நடத்திய போராட்டத்தில் ஆதரவு தெரிவித்ததாக வழக்கு பதிவு செய்யப்பட்டது. 
+Symbol Name : Hand
+
+=====================
+
+Name : P.Balaraman
+Age : 59
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.A 
+Occupation : Agriculturist
+Total Assets : 2 crore 46 lacs
+Liability : 10 lacs
+Net Asset : 2 crore 35 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : J.Bhavani
+Age : 31
+Party Name : Bahujan Samaj Party
+Education : B.A
+Occupation : self employed
+Total Assets : 3 lacs
+Liability : 15 lacs
+Net Asset : - crore 11 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : D.Desingurajan
+Age : 53
+Party Name : Makkal Needhi Maiam
+Education : 12th pass
+Occupation : Agriculture & Business
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : A.MAGESHWARI
+Age : 35
+Party Name : Naam Tamilar Katchi
+Education : 10th pass
+Occupation : NIL
+Total Assets : 62000
+Liability : No
+Net Asset : 62000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : Pon.Raja
+Age : 45
+Party Name : Amma Makkal Munnettra Kazhagam
+Education : B.Com., B.L 
+Occupation : Agriculture
+Total Assets : 9 crore 28 lacs
+Liability : 4 crore 37 lacs
+Net Asset : 4 crore 91 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : V.VIJAYAKUMAR
+Age : 41
+Party Name : Anna MGR Dravida Makkal Kalagam
+Education : 12th fail - Government boys school, Ponneri
+Occupation : 12th fail
+Total Assets : 2 lacs
+Liability : 3 lacs
+Net Asset : 0 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PAN
+
+=====================
+
+Name : S.Ashok Priyadarshan
+Age : 42
+Party Name : Independent
+Education : M.C.A., M.B.A
+Occupation : Social Activist, Teacher
+Total Assets : 99991
+Liability : No
+Net Asset : 99991
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : C.H.Sambathkumar
+Age : 50
+Party Name : Independent
+Education : 9th standard
+Occupation : Business
+Total Assets : 10 lacs
+Liability : 3 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ALMIRAH
+
+=====================
+
+Name : K.Sugumar
+Age : 40
+Party Name : Independent
+Education : B.A.,  B.L.,
+Occupation : Lawyer
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BELT
+
+=====================
+

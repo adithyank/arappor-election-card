@@ -1,0 +1,163 @@
+Constituency Document
+=====================
+
+Constituency Name : THIRUTHURAIPOONDI
+No of Candidates : 11
+No of Independent Candidates : 5
+
+=====================
+
+Name : C.SURESHKUMAR
+Age : 54
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A.,B.L Bharathidasan Univeristy , Trichy (1989)
+Occupation : Advocate & Notary Public
+Total Assets : 3 crore 44 lacs
+Liability : 8 lacs
+Net Asset : 3 crore 36 lacs
+Criminal Cases : 1
+Case Details : பயங்கர ஆயுதத்துடன் கலகம் உண்டுபண்ணுதல். தன்னிச்சையாக  காயம் உண்டுபண்ணுதல், பொதுஊழியரைக் கடமை செய்யவிடாமல் தன்னிச்சையாக தடுத்தல்/காயப்படுத்துதல், கொலை மிரட்டல், கொலை முயற்சி, பெண்ணை (கொலை/தற்கொலை) துன்புறுத்தியது.. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : K.MARIMUTHU
+Age : 50
+Party Name : Communist Party of India
+Education : H.S.C
+Occupation : POLITICIAN AND PUBLIC SERVICE
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 3
+Case Details : சட்ட விரோதமாக கூடுதல், சாலை மறியல், முறையற்ற தடுப்பமைத்தல், பிறர்க்கு தீங்கு விழைவிக்கும் செயல்களை புரிதல், உயிருக்கு ஆபத்தான தொற்றுநோய் பரப்பும் வகையில் கூட்டம்கூடியது, பொதுவிவூழியரால் முறைப்படி பிரகடனப்படுத்தப்பட்ட உத்தரவிற்கு கீழ்ப்படியாமை.. 
+Symbol Name : EARS_OF_CORN_AND_SICKLE
+
+=====================
+
+Name : A.AARTHI 
+Age : 38
+Party Name : Naam Tamilar Katchi
+Education : B.A (HISTORY), B.Ed.,
+Occupation : HOME MAKER
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : D.PARIVENTHAN
+Age : 48
+Party Name : AllIndiaSamathuvaMakhalKatchi
+Education : B.A.,B.L., M.A.,
+Occupation : ADVOCATE
+Total Assets : 2 lacs
+Liability : 2 lacs
+Net Asset : 17681
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : PEN_DRIVE
+
+=====================
+
+Name : S.RAJINIKANTH
+Age : 43
+Party Name : AMMA MAKKAL MUNNETRA KAZHAGAM
+Education : B.Sc., M.A., B.L., L.L.M., 
+Occupation : ADVOCATE
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 23
+Case Details : அத்துமீறி ஒன்று கூடி பொது சொத்தை சேதப்படுத்துதல், ஆர்ப்பாட்டம் செய்கையில் பொது சொத்திற்கு சேதம் ஏற்படுத்துதல், தீப்பற்ற கூடிய பொருட்களை கொண்டு கவணகக்குறைவாக செயல்படுவது, கொலை செய்ய முயற்சித்தது, அரசு ஊழியர்களை பணி செய்ய விடாமல் தடுத்தது, முறையற்ற தடுப்பமைத்தல், கலகம் உண்டுபண்ண தூண்டியது, கொலை மிரட்டல், காயம் ஏற்படுத்தி அச்சுறுத்தியது, பேச்சு, எழுத்து, செய்கை மூலம் தேசிய ஒருமைப்பாட்டை சீர்குலைப்பது.. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : V.SIVAPRAKASAM
+Age : 34
+Party Name : Independent
+Education : B.A(EDITING AND BOOKMAKING)
+Occupation : Charitable Trust
+Total Assets : 1 lacs
+Liability : 80000
+Net Asset : 35700
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : WATERMELON
+
+=====================
+
+Name : A.K.SURESH
+Age : 47
+Party Name : PUTHIYA TAMIZHAGAM KATCHI
+Education : 12th pass
+Occupation : AGRICULTURAL WAGES
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : M.SENGUTTUVAN
+Age : 44
+Party Name : Independent
+Education : B.SC(PHYSICS),B.ED,M.C.A
+Occupation : QUALITY INSPECTOR IN PRIVATE CLOTHING COMPANY
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : SEWING_MACHINE
+
+=====================
+
+Name : R.THIRUVARUL SELVI
+Age : 42
+Party Name : Independent
+Education : B.Pharm., M.B.A., M.Phil.,
+Occupation : HOME MAKER
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : SETHOSCOPE
+
+=====================
+
+Name : R.THULASIRAMAN
+Age : 35
+Party Name : Independent
+Education : B.A.,B.L
+Occupation : LAWYER
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 2
+Case Details : கலவரம் உண்டுபண்ணியது, பொதுவிடத்தில் ஆபாச மொழி பேசியது, கொலை மிரட்டல், உயிருக்கு ஆபத்தான ஆயுதம் உபயோகித்தது, தன்னிச்சையாக காயம் உண்டுபண்ணி பொதுவூழியரை அவர் கடமையை செய்யவிடாமல் தடுத்தது, கொலை முயற்சி.. 
+Symbol Name : HOUR_GLASS
+
+=====================
+
+Name : K.PARAMASIVAM 
+Age : 55
+Party Name : Independent
+Education : 8th pass
+Occupation : FARMER
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 3
+Case Details : சட்ட விரோதமாக ஒன்றுகூடி அனுமதியற்ற தடை ஏற்படுத்தியது, பொது வெளியில் தவறாக பேசியது, காயம் ஏற்படுத்தி தாக்க முற்பட்டது, கூட்டத்தில் கலவரம் தூண்டும் வகையில் ஆபத்தான ஆயுதம் மூலம் தாக்கியது, கொலை மிரட்டல்.. 
+Symbol Name : STOOL
+
+=====================
+

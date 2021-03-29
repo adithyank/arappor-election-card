@@ -1,0 +1,303 @@
+Constituency Document
+=====================
+
+Constituency Name : PUDUKKOTTAI
+No of Candidates : 21
+No of Independent Candidates : 13
+
+=====================
+
+Name : VR.KARTHIK THONDAIMAN
+Age : 49
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Sc., PGDBA
+Occupation : Land Lord
+Total Assets : 35 crore 83 lacs
+Liability : 2 crore 66 lacs
+Net Asset : 33 crore 17 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.SUBRAMANIAN
+Age : 45
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 7th standard
+Occupation : Business- Owner(Plastic and Jute Company)
+Total Assets : 47 lacs
+Liability : 7 lacs
+Net Asset : 40 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : V.MUTHURAJA
+Age : 44
+Party Name : Dravida Munnetra Kazhagam
+Education : M.B.B.S.
+Occupation : Doctor
+Total Assets : 9 crore 12 lacs
+Liability : 4 crore 44 lacs
+Net Asset : 4 crore 67 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.  VENGADESHWARAN
+Age : 26
+Party Name : Bahujan Samaj Party
+Education : B.A.,L.L.B.
+Occupation : Advocate
+Total Assets : 20000
+Liability : No
+Net Asset : 20000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : V.KUMAR
+Age : 53
+Party Name : MY INDIA PARTY
+Education : 8th standard
+Occupation : Furniture carpenter
+Total Assets : 19 lacs
+Liability : No
+Net Asset : 19 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : T.SASIKUMAR
+Age : 43
+Party Name : Naam Tamilar Katchi
+Education : M.B.A
+Occupation : Agriculture
+Total Assets : 1 crore 12 lacs
+Liability : No
+Net Asset : 1 crore 12 lacs
+Criminal Cases : 1
+Case Details : பொதுஇடத்தில் அஜாக்கிரதையாக வண்டியோட்டுதல் அல்லது சவாரி செய்யுதல், உயிருக்கு (அ) தனி நபருடைய பாதுகாப்பிற்கு ஒரு செயலால் காயம் ஏற்படுத்துதல், அஜாக்கிரதையாக மரணம் விளைவித்தல். 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.Saravana deva
+Age : 49
+Party Name : Namathu Makkal Katchi
+Education : Aalangudi Govt high school
+Occupation : Farmer
+Total Assets : 8 lacs
+Liability : 2 lacs
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SAW
+
+=====================
+
+Name : S.MOORTHY
+Age : 52
+Party Name : Makkal Needhi Maiam
+Education : 12th standard
+Occupation : Agriculture
+Total Assets : 1 crore 88 lacs
+Liability : No
+Net Asset : 1 crore 88 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : I.ABDULLAH
+Age : 26
+Party Name : Independent
+Education : 10th standard
+Occupation : Driver
+Total Assets : 2 lacs
+Liability : 40000
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : C.KARUPPAIAH
+Age : 41
+Party Name : Independent
+Education : B.Sc. (Physics)
+Occupation : Business Owner
+Total Assets : 12 lacs
+Liability : 4 lacs
+Net Asset : 7 lacs
+Criminal Cases : 2
+Case Details : பேச்சாலோ,எழுத்தாலோ,சைகையாலோ சாதி, மத, இன மொழி, சமயம் சம்பந்தமாக விரோத உணர்ச்சிகளை தூண்டிவிடுதல், பொதுஇடத்தில் அஜாக்கிரதையாக வண்டியோட்டுதல் அல்லது சவாரி செய்யுதல், உயிருக்கு (அ) தனி நபருடைய பாதுகாப்பிற்கு ஒரு செயலால் காயம் ஏற்படுத்துதல், அஜாக்கிரதையாக மரணம் விளைவித்தல். 
+Symbol Name : RING
+
+=====================
+
+Name : S.KARTHIKEYAN
+Age : 41
+Party Name : Independent
+Education : 11th standard
+Occupation : Wager
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAMERA
+
+=====================
+
+Name : R.KARTHIKEYAN
+Age : 35
+Party Name : Independent
+Education : B.A.,B.L.
+Occupation : Advocate
+Total Assets : 50000
+Liability : No
+Net Asset : 50000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : S.SAHUL AMEEDU
+Age : 48
+Party Name : Independent
+Education : 7th Standard
+Occupation : Mechanic
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : IRON
+
+=====================
+
+Name : S.SOUNDAR RAJA
+Age : 37
+Party Name : Independent
+Education : M.C.A
+Occupation : Working in Private Company
+Total Assets : 15 lacs
+Liability : 7 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : K.DHANAGOPAL
+Age : 41
+Party Name : Independent
+Education : 10th Standard 
+Occupation : Unskilled labour
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : D.DURAI GUNA
+Age : 41
+Party Name : Independent
+Education : 8th Standard
+Occupation : Writer
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 4
+Case Details : பயங்கர ஆயுதங்களுடன் கலகம், ஆபாசமான செயல், கொலை முயற்சி, முறையற்ற தடுப்பு, பயங்கரமான ஆயுதம் அல்லது வேறு வழிகளால் தன்னிச்சையாக காயம் ஏற்படுத்துதல், குற்றங்கருதி மிரட்டுதல். 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : V.N.MUTHUKUMAR
+Age : 40
+Party Name : Independent
+Education : 12th standard
+Occupation : Wager
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ALMIRAH
+
+=====================
+
+Name : M.RAJINIKANTH
+Age : 38
+Party Name : Independent
+Education : Dip. (H.M )& B.A,.
+Occupation : Provisional Store
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : A.RAJASEKAR
+Age : 37
+Party Name : Independent
+Education : 12th standard
+Occupation : Astrologer
+Total Assets : 63500
+Liability : No
+Net Asset : 63500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : T
+
+=====================
+
+Name : P.VIJAYAKUMAR
+Age : 44
+Party Name : Independent
+Education : 12th standard
+Occupation : Farmer
+Total Assets : 21 lacs
+Liability : 5 lacs
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : N.VEERIAH
+Age : 48
+Party Name : Independent
+Education : B.A., M.A., B.L.
+Occupation : Advocate & Notary Public
+Total Assets : 18 lacs
+Liability : 7 lacs
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TABLE
+
+=====================
+

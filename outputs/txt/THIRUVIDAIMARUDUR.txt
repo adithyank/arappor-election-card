@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : THIRUVIDAIMARUDUR
+No of Candidates : 14
+No of Independent Candidates : 6
+
+=====================
+
+Name : GOVI.CHEZHIYAAN
+Age : 54
+Party Name : Dravida Munnetra Kazhagam
+Education : M.A., B.L., M.phil., P.hd.,
+Occupation : ADVOCATE
+Total Assets : 59 lacs
+Liability : 3 lacs
+Net Asset : 56 lacs
+Criminal Cases : 4
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.PURATCHIMANI
+Age : 38
+Party Name : Bahujan Samaj Party
+Education : M.Sc., B.Ed., M.Phil., Phd.
+Occupation : BUSINESS
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 5
+Case Details : சட்டத்திற்கு புரம்பாக ஒன்றூ கூடுதல், அனுமதியின்றி தடை ஏற்படுத்துதல், நோய் பரவலை ஏற்படுத்துதல்,அரச ஊழியரால் முறையாக அறிவிக்கப்பட்ட உத்தரவுக்கு கீழ்ப்படியாமை.. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.VEERAMANI
+Age : 58
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : D.E.E.E.,
+Occupation : AGRICULTURE WAGE LABOUR
+Total Assets : 34 lacs
+Liability : No
+Net Asset : 34 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIADMK
+
+=====================
+
+Name : T.KANNAIYAN
+Age : 60
+Party Name : Communist Party of India (Marxist-Leninist) (Liberation)
+Education : 8TH STANDARD
+Occupation : AGRICULTURE WAGES
+Total Assets : 2 lacs
+Liability : 2 lacs
+Net Asset : 0 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FLAG_AND_THREE_STARS
+
+=====================
+
+Name : J.KUDANTHAI ARASAN
+Age : 47
+Party Name : AMMA MAKKAL MUNNETRA KAZHAGAM
+Education : B.Sc., LL.B.,
+Occupation : BUSINESS
+Total Assets : 15 lacs
+Liability : No
+Net Asset : 15 lacs
+Criminal Cases : 2
+Case Details : அனுமதியற்ற தடை விதித்தல், காயப்படுத்தி அச்சுறுத்தல், அனுமதியின்றி ஒன்று கூடுதல், ஆர்ப்பாட்டம் செய்தல், பொது வெளியில் மற்றவர்களுக்கு துன்பம் ஏற்படுத்துதல்.. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.SURESH
+Age : 31
+Party Name : Anaithu Makkal Puratchi Katchi
+Education : 9th Standard
+Occupation : FARMING WORKER
+Total Assets : 51000
+Liability : No
+Net Asset : 51000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : M.DIVYABHARATHI
+Age : 26
+Party Name : Naam Tamilar Katchi
+Education : B.E.(Civil Engineer), K.Ramakrishna College Of Technology, Trichy - 2016
+Occupation : Draughtman, Self Business
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name :   R.MADHAN KUMAR
+Age : 35
+Party Name : Indhiya Jananayaga Katchi
+Education : 10th Std, Govt Hr Secondary School, 2003
+Occupation : FARMING WORKER
+Total Assets : 82200
+Liability : No
+Net Asset : 82200
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BLACK_BORD
+
+=====================
+
+Name : N.KANNAIYAN
+Age : 64
+Party Name : Independent
+Education : OLD S.S.L.C.
+Occupation : FARMER
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : V.DHANASEKAR
+Age : 36
+Party Name : Independent
+Education : B.E.,
+Occupation : FARMER
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BABY_WALKER
+
+=====================
+
+Name : S.NEDUMARAN
+Age : 39
+Party Name : Independent
+Education : H.S.C
+Occupation : BUSINESS
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BEAD_NECKBANGLE
+
+=====================
+
+Name : M.MATHI
+Age : 42
+Party Name : Independent
+Education : 9th Standard
+Occupation : Business
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : G.MARIMUTHU
+Age : 51
+Party Name : Independent
+Education : I.T.I
+Occupation : AGRICULTURE
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BALLOON
+
+=====================
+
+Name : N .MARIYAPPAN
+Age : 37
+Party Name : Independent
+Education : S.S.L.C.
+Occupation : Farming
+Total Assets : 50500
+Liability : No
+Net Asset : 50500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATSMAN
+
+=====================
+

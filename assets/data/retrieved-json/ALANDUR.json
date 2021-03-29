@@ -2,6 +2,3633 @@
     "status": true,
     "message": "Candidates fetched successfully!",
     "data": [
-        
+        {
+            "en": {
+                "candidate_id": "92f6764d-e32c-4f59-a582-62b938d68a0e",
+                "name": "T.M.ANBARASAN",
+                "education": "(11th STANDARD) at Govt Higher Sec School, Kundrathur",
+                "occupation": "HANDLOOM WEAVING AND AGRICULTURE",
+                "age": "61",
+                "annual_income": "1,026,486",
+                "source_of_income": "M.L.A. SALARY, PROPERTY RENTAL INCOME",
+                "moveable_assets": "16,997,457",
+                "immoveable_assets": "65,575,000",
+                "total_assets": "82,572,457",
+                "liabilities": "0",
+                "net_assets": "82,572,457",
+                "no_of_criminal_cases": 3,
+                "cases_description": "accumulation of assets beyond his known source of income, offence relating election violation of rules, public property damages act. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_11.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "864,320",
+                        "spouse": "463,290",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "2,023,650",
+                        "spouse": "475,890",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,281,738",
+                        "spouse": "406,690",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,026,486",
+                        "spouse": "299,987",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f6764d-e32c-4f59-a582-62b938d68a0e",
+                "name": "T.M..\u0ba4\u0bbe \u0bae\u0bcb \u0b85\u0ba9\u0bcd\u0baa\u0bb0\u0b9a\u0ba9\u0bcd ",
+                "education": "(11th STANDARD) at Govt Higher Sec School, Kundrathur",
+                "occupation": "\u0b95\u0bc8\u0ba4\u0bcd\u0ba4\u0bb1\u0bbf \u0ba8\u0bc6\u0b9a\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "age": "61",
+                "annual_income": "1,026,486",
+                "source_of_income": "M.L.A. SALARY, PROPERTY RENTAL INCOME",
+                "moveable_assets": "16,997,457",
+                "immoveable_assets": "65,575,000",
+                "total_assets": "82,572,457",
+                "liabilities": "0",
+                "net_assets": "82,572,457",
+                "no_of_criminal_cases": 3,
+                "cases_description": "\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0baf\u0ba4\u0bc1 , \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc7\u0ba4\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_11.jpg",
+                "party": {
+                    "id": "Dravida Munnetra Kazhagam",
+                    "short_name": "DMK",
+                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "Dravida Munnetra Kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "864,320",
+                        "spouse": "463,290",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "2,023,650",
+                        "spouse": "475,890",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "1,281,738",
+                        "spouse": "406,690",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "1,026,486",
+                        "spouse": "299,987",
+                        "overall": "0"
+                    }
+                ],
+                "self_source_of_income": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd , \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbe\u0b9f\u0b95\u0bc8 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0baf\u0ba4\u0bc1 , \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc7\u0ba4\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 ",
+                "self_education_description": "11 \u0b86\u0bae\u0bcd \u0bb5\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+                "self_profession_occupation": "\u0b95\u0bc8\u0ba4\u0bcd\u0ba4\u0bb1\u0bbf \u0ba8\u0bc6\u0b9a\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92f66fa8-0871-4ef9-8b42-84d12206baa9",
+                "name": "P.VALARMATHI",
+                "education": "SSLC.,",
+                "occupation": "SOCIAL SERVICE AND HOME MAKER",
+                "age": "62",
+                "annual_income": "425,020",
+                "source_of_income": "REFER INCOME TAX RETURN",
+                "moveable_assets": "18,237,735",
+                "immoveable_assets": "51,375,580",
+                "total_assets": "69,613,315",
+                "liabilities": "0",
+                "net_assets": "69,613,315",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_6.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "663,400",
+                        "spouse": "738,090",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "678,200",
+                        "spouse": "484,090",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "640,270",
+                        "spouse": "447,350",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "570,310",
+                        "spouse": "434,700",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "425,020",
+                        "spouse": "12,260",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92f66fa8-0871-4ef9-8b42-84d12206baa9",
+                "name": "P.\u0baa\u0bbe . \u0bb5\u0bb3\u0bb0\u0bcd\u0bae\u0ba4\u0bbf ",
+                "education": "SSLC.,",
+                "occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0b95\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb9\u0bcb\u0bae\u0bcd \u0bae\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bcd ",
+                "age": "62",
+                "annual_income": "425,020",
+                "source_of_income": "REFER INCOME TAX RETURN",
+                "moveable_assets": "18,237,735",
+                "immoveable_assets": "51,375,580",
+                "total_assets": "69,613,315",
+                "liabilities": "0",
+                "net_assets": "69,613,315",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_6.jpg",
+                "party": {
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "663,400",
+                        "spouse": "738,090",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "678,200",
+                        "spouse": "484,090",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "640,270",
+                        "spouse": "447,350",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "570,310",
+                        "spouse": "434,700",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "425,020",
+                        "spouse": "12,260",
+                        "overall": "0"
+                    }
+                ],
+                "self_source_of_income": "\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bb5\u0bb0\u0bbf \u0bb5\u0bbf\u0bb5\u0bb0 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": "1973-74 \u0b86\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bcd \u0bae\u0ba4\u0bc1\u0bb0\u0bc8 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bb2\u0bb0\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc7\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8 \u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd 10 \u0b86\u0bae\u0bcd \u0bb5\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1 ",
+                "self_profession_occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0b95\u0bb0\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb9\u0bcb\u0bae\u0bcd \u0bae\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "931144df-395b-4e13-8c3c-20336ef7aed2",
+                "name": "N.RAJA",
+                "education": "MA,Mphil",
+                "occupation": "YOGA TEACHER",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": "teacher  Monthly salary",
+                "moveable_assets": "322,900",
+                "immoveable_assets": "0",
+                "total_assets": "322,900",
+                "liabilities": "0",
+                "net_assets": "322,900",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/N_Raja_Alandur.jpg",
+                "party": {
+                    "id": "Desiya Makkal Sakthi Katchi",
+                    "short_name": "DMSK",
+                    "ta_label": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Desiya Makkal Sakthi Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FOOTBALL.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "931144df-395b-4e13-8c3c-20336ef7aed2",
+                "name": "N.N.RAJA",
+                "education": "MA,Mphil",
+                "occupation": "YOGA TEACHER",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": "teacher  Monthly salary",
+                "moveable_assets": "322,900",
+                "immoveable_assets": "0",
+                "total_assets": "322,900",
+                "liabilities": "0",
+                "net_assets": "322,900",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/N_Raja_Alandur.jpg",
+                "party": {
+                    "id": "Desiya Makkal Sakthi Katchi",
+                    "short_name": "DMSK",
+                    "ta_label": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Desiya Makkal Sakthi Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FOOTBALL.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe914d-63b4-4c74-9ccf-310f3ddbf774",
+                "name": "G.Kamalakannan",
+                "education": "M.B.A.,",
+                "occupation": "Private Concern",
+                "age": "34",
+                "annual_income": "621,180",
+                "source_of_income": "Salary",
+                "moveable_assets": "3,021,363",
+                "immoveable_assets": "0",
+                "total_assets": "3,021,363",
+                "liabilities": "0",
+                "net_assets": "3,021,363",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_40.jpg",
+                "party": {
+                    "id": "Tamil Nadu Youth Party",
+                    "en_label": "Tamil Nadu Youth Party",
+                    "ta_label": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RING.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "621,180",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe914d-63b4-4c74-9ccf-310f3ddbf774",
+                "name": "G.\u0b95\u0bae\u0bb2\u0b95\u0bcd\u0b95\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd",
+                "education": "M.B.A.,",
+                "occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd ",
+                "age": "34",
+                "annual_income": "621,180",
+                "source_of_income": "Salary",
+                "moveable_assets": "3,021,363",
+                "immoveable_assets": "0",
+                "total_assets": "3,021,363",
+                "liabilities": "0",
+                "net_assets": "3,021,363",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_40.jpg",
+                "party": {
+                    "id": "Tamil Nadu Youth Party",
+                    "en_label": "Tamil Nadu Youth Party",
+                    "ta_label": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RING.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "621,180",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                "self_source_of_income": "\u0b9a\u0bae\u0bcd\u0baa\u0bb3 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe8f53-fdfb-482a-9503-c8fed564a4a3",
+                "name": "R.Dr.KARTHIKEYAN",
+                "education": "Master of Dental Surgery",
+                "occupation": "Dentist, Dental Surgeon",
+                "age": "33",
+                "annual_income": "680,160",
+                "source_of_income": "Profession- Dentist",
+                "moveable_assets": "4,731,192",
+                "immoveable_assets": "14,000,000",
+                "total_assets": "18,731,192",
+                "liabilities": "9,519,283",
+                "net_assets": "9,211,909",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_27.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "473,597",
+                        "spouse": "267,500",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "1,210,761",
+                        "spouse": "224,800",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "814,403",
+                        "spouse": "234,600",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "669,613",
+                        "spouse": "218,500",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "680,160",
+                        "spouse": "284,300",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe8f53-fdfb-482a-9503-c8fed564a4a3",
+                "name": "R.\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bc7\u0baf\u0ba9\u0bcd",
+                "education": "Master of Dental Surgery",
+                "occupation": "\u0baa\u0bb2\u0bcd  \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd ",
+                "age": "33",
+                "annual_income": "680,160",
+                "source_of_income": "Profession- Dentist",
+                "moveable_assets": "4,731,192",
+                "immoveable_assets": "14,000,000",
+                "total_assets": "18,731,192",
+                "liabilities": "9,519,283",
+                "net_assets": "9,211,909",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_27.jpg",
+                "party": {
+                    "id": "Naam Tamilar Katchi",
+                    "short_name": "NTK",
+                    "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Naam Tamilar Katchi",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "473,597",
+                        "spouse": "267,500",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "1,210,761",
+                        "spouse": "224,800",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "814,403",
+                        "spouse": "234,600",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "669,613",
+                        "spouse": "218,500",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "680,160",
+                        "spouse": "284,300",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0baa\u0bb2\u0bcd  \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0baa\u0bb2\u0bcd  \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92feade5-25bf-41ec-ba00-ef1d7478303f",
+                "name": "E.SARATHBABU",
+                "education": "B.E (HONS) -BITS PILANI,PGDM,IIM AHMEDABAD",
+                "occupation": "BUSINESS (FOOD)",
+                "age": "42",
+                "annual_income": "332,942",
+                "source_of_income": "BUSINESS",
+                "moveable_assets": "3,363,612",
+                "immoveable_assets": "2,800,000",
+                "total_assets": "6,163,612",
+                "liabilities": "2,403,000",
+                "net_assets": "3,760,612",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_38.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "261,480",
+                        "spouse": "32,800",
+                        "overall": "268,980"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "285,350",
+                        "spouse": "232,780",
+                        "overall": "298,655"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "298,337",
+                        "spouse": "237,520",
+                        "overall": "296,745"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "297,560",
+                        "spouse": "242,015",
+                        "overall": "299,560"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "332,942",
+                        "spouse": "245,750",
+                        "overall": "274,562"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92feade5-25bf-41ec-ba00-ef1d7478303f",
+                "name": "E.\u0b9a\u0bb0\u0ba4\u0bcd\u0baa\u0bbe\u0baa\u0bc1 ",
+                "education": "B.E (HONS) -BITS PILANI,PGDM,IIM AHMEDABAD",
+                "occupation": "\u0b89\u0ba3\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "age": "42",
+                "annual_income": "332,942",
+                "source_of_income": "BUSINESS",
+                "moveable_assets": "3,363,612",
+                "immoveable_assets": "2,800,000",
+                "total_assets": "6,163,612",
+                "liabilities": "2,403,000",
+                "net_assets": "3,760,612",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_38.jpg",
+                "party": {
+                    "id": "Makkal Needhi Maiam",
+                    "short_name": "MNM",
+                    "ta_label": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0bae\u0baf\u0bcd\u0baf\u0bae\u0bcd",
+                    "en_label": "Makkal Needhi Maiam",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "261,480",
+                        "spouse": "32,800",
+                        "overall": "268,980"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "285,350",
+                        "spouse": "232,780",
+                        "overall": "298,655"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "298,337",
+                        "spouse": "237,520",
+                        "overall": "296,745"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "297,560",
+                        "spouse": "242,015",
+                        "overall": "299,560"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "332,942",
+                        "spouse": "245,750",
+                        "overall": "274,562"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b89\u0ba3\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fea22c-02ee-4bfa-957f-9b25ce4e25d9",
+                "name": "R.SUBASHREE",
+                "education": "B.B.A (DISTANCE EDUCATION)",
+                "occupation": "NOT DISCLOSED",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "NOT DISCLOSED",
+                "moveable_assets": "1,147,888",
+                "immoveable_assets": "0",
+                "total_assets": "1,147,888",
+                "liabilities": "276,000",
+                "net_assets": "871,888",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_35.jpg",
+                "party": {
+                    "id": "ANAITHU MAKKAL ARASIYAL KATCHI",
+                    "en_label": "ANAITHU MAKKAL ARASIYAL KATCHI",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GAS_CYLINDER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fea22c-02ee-4bfa-957f-9b25ce4e25d9",
+                "name": "R.\u0b9a\u0bc1\u0baa\u0bb8\u0bcd\u0bb0\u0bc0 ",
+                "education": "B.B.A (DISTANCE EDUCATION)",
+                "occupation": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "age": "40",
+                "annual_income": "0",
+                "source_of_income": "NOT DISCLOSED",
+                "moveable_assets": "1,147,888",
+                "immoveable_assets": "0",
+                "total_assets": "1,147,888",
+                "liabilities": "276,000",
+                "net_assets": "871,888",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_35.jpg",
+                "party": {
+                    "id": "ANAITHU MAKKAL ARASIYAL KATCHI",
+                    "en_label": "ANAITHU MAKKAL ARASIYAL KATCHI",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GAS_CYLINDER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                "self_source_of_income": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93113919-faf3-4324-9459-fc0d9c695be3",
+                "name": "Dr R.SURESH",
+                "education": "AFFIDAVIT NOT AVAILABLE",
+                "occupation": "AFFIDAVIT NOT AVAILABLE",
+                "age": "57",
+                "annual_income": "0",
+                "source_of_income": "AFFIDAVIT NOT AVAILABLE",
+                "moveable_assets": "0",
+                "immoveable_assets": "0",
+                "total_assets": "0",
+                "liabilities": "0",
+                "net_assets": "0",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Dr_R_Suresh_Alandur.jpg",
+                "party": {
+                    "id": "Bhartiya Manavadhikaar Federal Party",
+                    "en_label": "Bhartiya Manavadhikaar Federal Party",
+                    "ta_label": "Bhartiya Manavadhikaar Federal Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BISCUIT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93113919-faf3-4324-9459-fc0d9c695be3",
+                "name": "Dr R.Dr R.SURESH",
+                "education": "AFFIDAVIT NOT AVAILABLE",
+                "occupation": "AFFIDAVIT NOT AVAILABLE",
+                "age": "57",
+                "annual_income": "0",
+                "source_of_income": "AFFIDAVIT NOT AVAILABLE",
+                "moveable_assets": "0",
+                "immoveable_assets": "0",
+                "total_assets": "0",
+                "liabilities": "0",
+                "net_assets": "0",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Dr_R_Suresh_Alandur.jpg",
+                "party": {
+                    "id": "Bhartiya Manavadhikaar Federal Party",
+                    "en_label": "Bhartiya Manavadhikaar Federal Party",
+                    "ta_label": "Bhartiya Manavadhikaar Federal Party",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BISCUIT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fa7cb6-30c8-4e4e-b057-c2d3944b7725",
+                "name": "M.Mohammed Thameem Ansari",
+                "education": "SSLC",
+                "occupation": "Business, Iron Scrap Merchant",
+                "age": "39",
+                "annual_income": "748,960",
+                "source_of_income": "Business & Rent ",
+                "moveable_assets": "5,701,106",
+                "immoveable_assets": "33,538,236",
+                "total_assets": "39,239,342",
+                "liabilities": "220,001",
+                "net_assets": "39,019,341",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_12.jpg",
+                "party": {
+                    "id": "Social Democratic Party of India",
+                    "short_name": "SDPOI",
+                    "ta_label": "\u0b9a\u0bcb\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b9f\u0bc6\u0bae\u0bbe\u0b95\u0bcd\u0bb0\u0b9f\u0bbf\u0b95\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf \u0b86\u0b83\u0baa\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+                    "en_label": "Social Democratic Party of India",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "672,750",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "748,960",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fa7cb6-30c8-4e4e-b057-c2d3944b7725",
+                "name": "M.\u0bae\u0bca\u0b95\u0bae\u0ba4\u0bcd \u0ba4\u0bae\u0bc0\u0ba9\u0bcd \u0b85\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bbf",
+                "education": "SSLC",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd, \u0baa\u0bb4\u0bc8\u0baf \u0b87\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf \n",
+                "age": "39",
+                "annual_income": "748,960",
+                "source_of_income": "Business & Rent ",
+                "moveable_assets": "5,701,106",
+                "immoveable_assets": "33,538,236",
+                "total_assets": "39,239,342",
+                "liabilities": "220,001",
+                "net_assets": "39,019,341",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_12.jpg",
+                "party": {
+                    "id": "Social Democratic Party of India",
+                    "short_name": "SDPOI",
+                    "ta_label": "\u0b9a\u0bcb\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b9f\u0bc6\u0bae\u0bbe\u0b95\u0bcd\u0bb0\u0b9f\u0bbf\u0b95\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf \u0b86\u0b83\u0baa\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+                    "en_label": "Social Democratic Party of India",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "672,750",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "748,960",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0b9f\u0b95\u0bc8 \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd, \u0baa\u0bb4\u0bc8\u0baf \u0b87\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf \n",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9304d75b-d97b-4a69-b7d6-ae82ee7c27ab",
+                "name": "C.Rajesh Chinnadurai",
+                "education": "MBA.,",
+                "occupation": "Business - Managing Director",
+                "age": "33",
+                "annual_income": "260,000",
+                "source_of_income": "Business Employee",
+                "moveable_assets": "2,582,511",
+                "immoveable_assets": "4,500,000",
+                "total_assets": "7,082,511",
+                "liabilities": "4,320,000",
+                "net_assets": "2,762,511",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RajeshChinnadurai_Alandur.jpg",
+                "party": {
+                    "id": "National Democratic Party of South India ",
+                    "en_label": "National Democratic Party of South India ",
+                    "ta_label": "\u0ba8\u0bc7\u0bb7\u0ba9\u0bb2\u0bcd \u0b9f\u0bc6\u0bae\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0b9f\u0bbf\u0b95\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf \u0b86\u0b83\u0baa\u0bcd \u0b9a\u0bb5\u0bc1\u0ba4\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AIRCONDITIONER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "315,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "382,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "785,000",
+                        "spouse": "460,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "260,000",
+                        "spouse": "540,000",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9304d75b-d97b-4a69-b7d6-ae82ee7c27ab",
+                "name": "C.\u0bb0\u0bbe\u0b9c\u0bc7\u0bb7\u0bcd \u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0ba4\u0bc1\u0bb0\u0bc8 ",
+                "education": "MBA.,",
+                "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd - \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba9\u0bb0\u0bcd",
+                "age": "33",
+                "annual_income": "260,000",
+                "source_of_income": "Business Employee",
+                "moveable_assets": "2,582,511",
+                "immoveable_assets": "4,500,000",
+                "total_assets": "7,082,511",
+                "liabilities": "4,320,000",
+                "net_assets": "2,762,511",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RajeshChinnadurai_Alandur.jpg",
+                "party": {
+                    "id": "National Democratic Party of South India ",
+                    "en_label": "National Democratic Party of South India ",
+                    "ta_label": "\u0ba8\u0bc7\u0bb7\u0ba9\u0bb2\u0bcd \u0b9f\u0bc6\u0bae\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0b9f\u0bbf\u0b95\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf \u0b86\u0b83\u0baa\u0bcd \u0b9a\u0bb5\u0bc1\u0ba4\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AIRCONDITIONER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "315,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "382,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "785,000",
+                        "spouse": "460,000",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "260,000",
+                        "spouse": "540,000",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0ba8\u0bc7\u0bb7\u0ba9\u0bb2\u0bcd \u0b9f\u0bc6\u0bae\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0b9f\u0bbf\u0b95\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf \u0b86\u0b83\u0baa\u0bcd \u0b9a\u0bb5\u0bc1\u0ba4\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_pending_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd - \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba9\u0bb0\u0bcd",
+                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe9365-a01b-4199-8f07-7ed3e587efb0",
+                "name": "J.Vincent",
+                "education": "Diploma (Computer Science)",
+                "occupation": "Driver",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": "Driver",
+                "moveable_assets": "433,000",
+                "immoveable_assets": "0",
+                "total_assets": "433,000",
+                "liabilities": "0",
+                "net_assets": "433,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_31.jpg",
+                "party": {
+                    "id": "Republican party of India",
+                    "short_name": "RPOI",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Republican party of India",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HELICOPTER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe9365-a01b-4199-8f07-7ed3e587efb0",
+                "name": "J.\u0bb5\u0bbf\u0ba9\u0bcd\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd",
+                "education": "Diploma (Computer Science)",
+                "occupation": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba9\u0bb0\u0bcd",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": "Driver",
+                "moveable_assets": "433,000",
+                "immoveable_assets": "0",
+                "total_assets": "433,000",
+                "liabilities": "0",
+                "net_assets": "433,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_31.jpg",
+                "party": {
+                    "id": "Republican party of India",
+                    "short_name": "RPOI",
+                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "en_label": "Republican party of India",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HELICOPTER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba9\u0bb0\u0bcd \u0bb5\u0bb1\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba9\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fc94de-dc98-4d2e-87e1-88df871a632d",
+                "name": "E.Anbarasu",
+                "education": "10th pass",
+                "occupation": "Real Estate ",
+                "age": "55",
+                "annual_income": "347,700",
+                "source_of_income": "Real Estate ",
+                "moveable_assets": "1,606,812",
+                "immoveable_assets": "2,567,756",
+                "total_assets": "4,174,568",
+                "liabilities": "5,925,632",
+                "net_assets": "-1,751,064",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_19.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEN_NIB_WITH_SEVEN_RAYS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "293,600",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "324,680",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "347,690",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "347,700",
+                        "spouse": "466,500",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fc94de-dc98-4d2e-87e1-88df871a632d",
+                "name": "E.\u0b85\u0ba9\u0bcd\u0baa\u0bb0\u0b9a\u0bc1 ",
+                "education": "10th pass",
+                "occupation": "\u0bae\u0ba9\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "age": "55",
+                "annual_income": "347,700",
+                "source_of_income": "Real Estate ",
+                "moveable_assets": "1,606,812",
+                "immoveable_assets": "2,567,756",
+                "total_assets": "4,174,568",
+                "liabilities": "5,925,632",
+                "net_assets": "-1,751,064",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_19.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PEN_NIB_WITH_SEVEN_RAYS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "293,600",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "324,680",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "347,690",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "347,700",
+                        "spouse": "466,500",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bae\u0ba9\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bae\u0ba9\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92faada2-9a38-4916-8538-2287bf0428bf",
+                "name": "S.ANBARASU",
+                "education": "10th standard",
+                "occupation": "Daily wages",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "Daily Wages",
+                "moveable_assets": "48,000",
+                "immoveable_assets": "0",
+                "total_assets": "48,000",
+                "liabilities": "0",
+                "net_assets": "48,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/S_Anbarasu_Alandur.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92faada2-9a38-4916-8538-2287bf0428bf",
+                "name": "S.\u0b85\u0ba9\u0bcd\u0baa\u0bb0\u0b9a\u0bc1 ",
+                "education": "10th standard",
+                "occupation": "\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bc2\u0bb2\u0bbf ",
+                "age": "43",
+                "annual_income": "0",
+                "source_of_income": "Daily Wages",
+                "moveable_assets": "48,000",
+                "immoveable_assets": "0",
+                "total_assets": "48,000",
+                "liabilities": "0",
+                "net_assets": "48,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/S_Anbarasu_Alandur.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fac821-bd7c-4c7e-ad59-fdfa5c4954af",
+                "name": "M.Anbarasu",
+                "education": "8th standard",
+                "occupation": "Auto Driving",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": "Auto Driver",
+                "moveable_assets": "288,000",
+                "immoveable_assets": "0",
+                "total_assets": "288,000",
+                "liabilities": "0",
+                "net_assets": "288,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_15.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DIAMOND.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fac821-bd7c-4c7e-ad59-fdfa5c4954af",
+                "name": "M.\u0b85\u0ba9\u0bcd\u0baa\u0bb0\u0b9a\u0bc1 ",
+                "education": "8th standard",
+                "occupation": "\u0b86\u0b9f\u0bcd\u0b9f\u0bcb  \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": "Auto Driver",
+                "moveable_assets": "288,000",
+                "immoveable_assets": "0",
+                "total_assets": "288,000",
+                "liabilities": "0",
+                "net_assets": "288,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_15.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DIAMOND.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "  \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b86\u0b9f\u0bcd\u0b9f\u0bcb  \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe87d5-14e9-416f-be7f-c34f50418f39",
+                "name": "M.ASHOK KUMAR",
+                "education": "12th Standard",
+                "occupation": "WORKING IN PRIVATE COMPANY",
+                "age": "34",
+                "annual_income": "0",
+                "source_of_income": "SALARY",
+                "moveable_assets": "685,916",
+                "immoveable_assets": "0",
+                "total_assets": "685,916",
+                "liabilities": "0",
+                "net_assets": "685,916",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_25.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SCISSORS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe87d5-14e9-416f-be7f-c34f50418f39",
+                "name": "M.\u0b85\u0b9a\u0bcb\u0b95\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+                "education": "12th Standard",
+                "occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd ",
+                "age": "34",
+                "annual_income": "0",
+                "source_of_income": "SALARY",
+                "moveable_assets": "685,916",
+                "immoveable_assets": "0",
+                "total_assets": "685,916",
+                "liabilities": "0",
+                "net_assets": "685,916",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_25.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SCISSORS.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bae\u0bbe\u0ba4 \u0b8a\u0ba4\u0bbf\u0baf \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd ,  \u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fa94e3-89ad-4960-a441-9e39575fbcd3",
+                "name": "H.Ali Mohammed",
+                "education": "B.A.,",
+                "occupation": "Real Estate",
+                "age": "46",
+                "annual_income": "0",
+                "source_of_income": "Real Estate",
+                "moveable_assets": "610,000",
+                "immoveable_assets": "0",
+                "total_assets": "610,000",
+                "liabilities": "0",
+                "net_assets": "610,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_14.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BEAD_NECKBANGLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fa94e3-89ad-4960-a441-9e39575fbcd3",
+                "name": "H.\u0b85\u0bb2\u0bbf \u0bae\u0bc1\u0b95\u0bae\u0ba4\u0bc1",
+                "education": "B.A.,",
+                "occupation": "\u0bae\u0ba9\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "age": "46",
+                "annual_income": "0",
+                "source_of_income": "Real Estate",
+                "moveable_assets": "610,000",
+                "immoveable_assets": "0",
+                "total_assets": "610,000",
+                "liabilities": "0",
+                "net_assets": "610,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_14.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BEAD_NECKBANGLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bae\u0ba9\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bae\u0ba9\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe962f-b730-414b-9d50-2f5f870bb4e5",
+                "name": "A.ABRAHAM LINCON",
+                "education": "B.Th (Bachelor in Theology)",
+                "occupation": "PASTOR IN CHURCH",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": "SALARY",
+                "moveable_assets": "31,632",
+                "immoveable_assets": "0",
+                "total_assets": "31,632",
+                "liabilities": "0",
+                "net_assets": "31,632",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_32.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BREAD.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe962f-b730-414b-9d50-2f5f870bb4e5",
+                "name": "A.\u0b86\u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bae\u0bcd \u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0ba9\u0bcd",
+                "education": "B.Th (Bachelor in Theology)",
+                "occupation": "\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd \u0b86\u0baf\u0bb0\u0bcd",
+                "age": "36",
+                "annual_income": "0",
+                "source_of_income": "SALARY",
+                "moveable_assets": "31,632",
+                "immoveable_assets": "0",
+                "total_assets": "31,632",
+                "liabilities": "0",
+                "net_assets": "31,632",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_32.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BREAD.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd \u0b86\u0baf\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fecbae-d187-4572-be0c-40eb57043604",
+                "name": "P.Sathiyaraj",
+                "education": "10th",
+                "occupation": "Private Company Worker",
+                "age": "32",
+                "annual_income": "0",
+                "source_of_income": "Monthly salary",
+                "moveable_assets": "403,949",
+                "immoveable_assets": "0",
+                "total_assets": "403,949",
+                "liabilities": "0",
+                "net_assets": "403,949",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_47.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fecbae-d187-4572-be0c-40eb57043604",
+                "name": "P.\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bbe\u0b9c\u0bcd",
+                "education": "10th",
+                "occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd ",
+                "age": "32",
+                "annual_income": "0",
+                "source_of_income": "Monthly salary",
+                "moveable_assets": "403,949",
+                "immoveable_assets": "0",
+                "total_assets": "403,949",
+                "liabilities": "0",
+                "net_assets": "403,949",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_47.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b9a\u0bae\u0bcd\u0baa\u0bb3 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fea434-466f-4062-8be1-e319552daec6",
+                "name": "K.SARAVANAN",
+                "education": "10th pass",
+                "occupation": "VEGETABLE VENDOR",
+                "age": "29",
+                "annual_income": "0",
+                "source_of_income": "VEGETABLE VENDING BUSINESS",
+                "moveable_assets": "46,000",
+                "immoveable_assets": "0",
+                "total_assets": "46,000",
+                "liabilities": "0",
+                "net_assets": "46,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_36.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fea434-466f-4062-8be1-e319552daec6",
+                "name": "K.\u0b9a\u0bb0\u0bb5\u0ba3\u0ba9\u0bcd",
+                "education": "10th pass",
+                "occupation": "\u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd",
+                "age": "29",
+                "annual_income": "0",
+                "source_of_income": "VEGETABLE VENDING BUSINESS",
+                "moveable_assets": "46,000",
+                "immoveable_assets": "0",
+                "total_assets": "46,000",
+                "liabilities": "0",
+                "net_assets": "46,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_36.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bb1\u0bbf \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fe9970-a6ad-4eae-a4ae-d134cdb1a2f9",
+                "name": "C.SARAVANAN",
+                "education": "B.B.A.,",
+                "occupation": "General Insurance Agent",
+                "age": "41",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "1,633,000",
+                "immoveable_assets": "1,700,000",
+                "total_assets": "3,333,000",
+                "liabilities": "0",
+                "net_assets": "3,333,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_33.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/COMPUTER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fe9970-a6ad-4eae-a4ae-d134cdb1a2f9",
+                "name": "C.\u0b9a\u0bb0\u0bb5\u0ba3\u0ba9\u0bcd",
+                "education": "B.B.A.,",
+                "occupation": "\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd",
+                "age": "41",
+                "annual_income": "0",
+                "source_of_income": "Business",
+                "moveable_assets": "1,633,000",
+                "immoveable_assets": "1,700,000",
+                "total_assets": "3,333,000",
+                "liabilities": "0",
+                "net_assets": "3,333,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_33.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/COMPUTER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0ba3\u0bbf\u0b95 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1 \u0bae\u0bc1\u0b95\u0bb5\u0bb0\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fea690-7141-4325-ac66-2fc04d4ba863",
+                "name": "S V.SARAVANAN",
+                "education": "",
+                "occupation": "DETAILS NOT GIVEN",
+                "age": "31",
+                "annual_income": "0",
+                "source_of_income": "DETAILS NOT GIVEN",
+                "moveable_assets": "0",
+                "immoveable_assets": "0",
+                "total_assets": "0",
+                "liabilities": "0",
+                "net_assets": "0",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_37.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GLASS_TUMBLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fea690-7141-4325-ac66-2fc04d4ba863",
+                "name": "S V.\u0b9a\u0bb0\u0bb5\u0ba3\u0ba9\u0bcd",
+                "education": "",
+                "occupation": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\n",
+                "age": "31",
+                "annual_income": "0",
+                "source_of_income": "DETAILS NOT GIVEN",
+                "moveable_assets": "0",
+                "immoveable_assets": "0",
+                "total_assets": "0",
+                "liabilities": "0",
+                "net_assets": "0",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_37.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GLASS_TUMBLER.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\n",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fea112-221d-4ca3-b0bb-fbbd0b892d0b",
+                "name": "S.Nithyanandham",
+                "education": "9th",
+                "occupation": "Daily Wages",
+                "age": "35",
+                "annual_income": "0",
+                "source_of_income": "Daily Wages",
+                "moveable_assets": "44,000",
+                "immoveable_assets": "0",
+                "total_assets": "44,000",
+                "liabilities": "0",
+                "net_assets": "44,000",
+                "no_of_criminal_cases": 1,
+                "cases_description": "Street Fight. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_43.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fea112-221d-4ca3-b0bb-fbbd0b892d0b",
+                "name": "S.\u0ba8\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0ba8\u0bcd\u0ba4\u0bae\u0bcd",
+                "education": "9th",
+                "occupation": "\u0b95\u0bc2\u0bb2\u0bbf\u0ba4\u0bcd  \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "age": "35",
+                "annual_income": "0",
+                "source_of_income": "Daily Wages",
+                "moveable_assets": "44,000",
+                "immoveable_assets": "0",
+                "total_assets": "44,000",
+                "liabilities": "0",
+                "net_assets": "44,000",
+                "no_of_criminal_cases": 1,
+                "cases_description": "\u0ba4\u0bc6\u0bb0\u0bc1 \u0b9a\u0ba3\u0bcd\u0b9f\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_43.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0b95\u0bc2\u0bb2\u0bbf\u0ba4\u0bcd  \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_pending_description": "\u0ba4\u0bc6\u0bb0\u0bc1 \u0b9a\u0ba3\u0bcd\u0b9f\u0bc8 ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b95\u0bc2\u0bb2\u0bbf\u0ba4\u0bcd  \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fac9e9-f80c-4c1c-a755-a55227d93410",
+                "name": "B.Raji",
+                "education": "MA., B.L.,",
+                "occupation": "Advocate",
+                "age": "30",
+                "annual_income": "0",
+                "source_of_income": "Advocate",
+                "moveable_assets": "57,500",
+                "immoveable_assets": "0",
+                "total_assets": "57,500",
+                "liabilities": "0",
+                "net_assets": "57,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_16.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WATER_TANK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fac9e9-f80c-4c1c-a755-a55227d93410",
+                "name": "B. \u0bb0\u0bbe\u0b9c\u0bc0",
+                "education": "MA., B.L.,",
+                "occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "age": "30",
+                "annual_income": "0",
+                "source_of_income": "Advocate",
+                "moveable_assets": "57,500",
+                "immoveable_assets": "0",
+                "total_assets": "57,500",
+                "liabilities": "0",
+                "net_assets": "57,500",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_16.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WATER_TANK.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92fec59f-6a6d-48b3-af34-b37731a2601b",
+                "name": "M.Valarmathi",
+                "education": "6th",
+                "occupation": "Social Worker, Home Maker",
+                "age": "41",
+                "annual_income": "0",
+                "source_of_income": "Daily Wages",
+                "moveable_assets": "322,000",
+                "immoveable_assets": "0",
+                "total_assets": "322,000",
+                "liabilities": "0",
+                "net_assets": "322,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_46.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELECTRIC_POLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fec59f-6a6d-48b3-af34-b37731a2601b",
+                "name": "M.\u0bb5\u0bb3\u0bb0\u0bcd\u0bae\u0ba4\u0bbf ",
+                "education": "6th",
+                "occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0b95\u0bb0\u0bcd, \u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "age": "41",
+                "annual_income": "0",
+                "source_of_income": "Daily Wages",
+                "moveable_assets": "322,000",
+                "immoveable_assets": "0",
+                "total_assets": "322,000",
+                "liabilities": "0",
+                "net_assets": "322,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_46.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELECTRIC_POLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba4\u0bbf\u0ba9\u0b95\u0bcd\u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0b95\u0bb0\u0bcd, \u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bb0\u0b9a\u0bbf",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "92ff042a-143b-4fce-9ba2-f9c90334f0e8",
+                "name": "S.Sridhar",
+                "education": "",
+                "occupation": "",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": 0,
+                "moveable_assets": "0",
+                "immoveable_assets": "0",
+                "total_assets": "0",
+                "liabilities": "0",
+                "net_assets": "0",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_44.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/COCONUT_FARM.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92ff042a-143b-4fce-9ba2-f9c90334f0e8",
+                "name": "S.\u0bb8\u0bcd\u0bb0\u0bc0\u0ba4\u0bb0\u0bcd",
+                "education": "",
+                "occupation": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "age": "45",
+                "annual_income": "0",
+                "source_of_income": 0,
+                "moveable_assets": "0",
+                "immoveable_assets": "0",
+                "total_assets": "0",
+                "liabilities": "0",
+                "net_assets": "0",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8. \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ALANDUR_44.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/COCONUT_FARM.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ALANDUR",
+                    "constituency_en_label": "Alandur",
+                    "constituency_ta_label": "\u0b86\u0bb2\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "KANCHEEPURAM",
+                    "district_en_label": "Kancheepuram",
+                    "district_ta_label": "\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "cases_pending_description": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+                "cases_convicted_description": "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8"
+            }
+        }
     ]
 }

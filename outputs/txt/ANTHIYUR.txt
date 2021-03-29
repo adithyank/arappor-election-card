@@ -1,0 +1,295 @@
+Constituency Document
+=====================
+
+Constituency Name : ANTHIYUR
+No of Candidates : 20
+No of Independent Candidates : 10
+
+=====================
+
+Name : K.S.Shanmugavel
+Age : 62
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : SSLC
+Occupation : Farmer
+Total Assets : 80 lacs
+Liability : 6 lacs
+Net Asset : 73 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : G.Pattan
+Age : 44
+Party Name : Bahujan Samaj Party
+Education :  
+Occupation : Business
+Total Assets : 5 lacs
+Liability : 6 lacs
+Net Asset : -1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : A G.Venkatachalam
+Age : 61
+Party Name : Dravida Munnetra Kazhagam
+Education : 10th  
+Occupation : Agriculture
+Total Assets : 4 crore 29 lacs
+Liability : 74 lacs
+Net Asset : 3 crore 55 lacs
+Criminal Cases : 5
+Case Details : COVID-19 கட்டுப்பாட்டை மீறியதாகக் கூறப்படுகிறது.
+. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.Gurunathan
+Age : 46
+Party Name : Makkal Needhi Maiam
+Education : 6th Standard, Boys Higher Secondary School, Andhiyur (1985-86)
+Occupation : Farmer
+Total Assets : 14 lacs
+Liability : 40000
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : M.Saravanan
+Age : 42
+Party Name : Naam Tamilar Katchi
+Education : B.Sc (chemistry)
+Occupation : Business
+Total Assets : 37 lacs
+Liability : 10 lacs
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S R.Selvam
+Age : 67
+Party Name : AMMA MAKKAL MUNNETRA KAZHGAM
+Education : 8th
+Occupation : Agriculture, yarn production Business  
+Total Assets : 2 crore 74 lacs
+Liability : 21 lacs
+Net Asset : 2 crore 53 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M. BAKKIYAMM
+Age : 45
+Party Name : India Dravida Makkal Munnetra Katchi
+Education : M.A History, Annamalai University, 1998
+Occupation : Unemployed
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+. 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : A.Prathaban
+Age : 44
+Party Name : Ahimsa Socialist Party
+Education : 7th Standard, Gandhi Kalvi Nilayam Higher Secondary School, Kugalur (1989-1990)
+Occupation : Farmer, Public Service/Politics
+Total Assets : 29 lacs
+Liability : 5 lacs
+Net Asset : 25 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATSMAN
+
+=====================
+
+Name : K.Rajendran
+Age : 55
+Party Name : Ganasangam Party of India
+Education : Odamedu Government School
+Occupation : Farm Worker
+Total Assets : 21650
+Liability : No
+Net Asset : 21650
+Criminal Cases : 0
+Case Details : 
+. 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : K.Anbazhagan
+Age : 38
+Party Name : Independent
+Education : 11th Standard, Government High School, Pangalapur (2003-2004)
+Occupation : Farm Labor
+Total Assets : 27858
+Liability : No
+Net Asset : 27858
+Criminal Cases : 1
+Case Details : தன்னிச்சையாக காயத்தை ஏற்படுத்துகிறது, அச்சுறுத்துகிறது, கெட்ட வார்த்தைகளைப் பயன்படுத்துகிறது. 
+
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : R.Karthikeyan
+Age : 37
+Party Name : Independent
+Education : MBA
+Occupation : HDFC Life Insurance Agent
+Total Assets : 14 lacs
+Liability : 9 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : M.GEETHA
+Age : 47
+Party Name : Independent
+Education : BA , B.Ed.
+Occupation : Pension
+Total Assets : 28 lacs
+Liability : No
+Net Asset : 28 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BANGLES
+
+=====================
+
+Name : R.Kumarasamy
+Age : 47
+Party Name : Independent
+Education : Diploma pharmacy
+Occupation : AGRICULTURE, ASST.ADVOCATE
+Total Assets : 1 lacs
+Liability : 41817
+Net Asset : 99114
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LAPTOP
+
+=====================
+
+Name : K.Shanmugam
+Age : 64
+Party Name : Independent
+Education : Illiterate
+Occupation : Farmer
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+. 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : MR  .Senguttuvan
+Age : 67
+Party Name : Independent
+Education : SSLC, CSTC
+Occupation : Retired
+Total Assets : 6 lacs
+Liability : 28000
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : M.Thangavel
+Age : 42
+Party Name : Independent
+Education : B.Sc Maths
+Occupation : Corporate Sales Representative
+Total Assets : 70000
+Liability : No
+Net Asset : 70000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S.Poornachandran
+Age : 37
+Party Name : Independent
+Education : M.Sc Finance, University of Glamorgan (UK)
+Occupation : Farmer, Business, Threading/Spinning Business
+Total Assets : 2 crore 36 lacs
+Liability : 65 lacs
+Net Asset : 1 crore 70 lacs
+Criminal Cases : 1
+Case Details :  தகாத் துணிச்சலுடன் ஓட்டுதல் மற்றும் விபத்து
+ . 
+Symbol Name : BAT
+
+=====================
+
+Name : T.Periyasamy
+Age : 44
+Party Name : Pudhiya Tamizhagam Katchi
+Education : 9th Standard, Government Higher Secondary School, Moongilpatti (1995-96)
+Occupation : Real Estate
+Total Assets : 10
+Liability : No
+Net Asset : 10
+Criminal Cases : 2
+Case Details : 2 நிலுவையில் உள்ள வழக்குகள். வழங்கப்பட்ட பிரிவுகள் பற்றிய விவரங்கள் எதுவும் இல்லை. 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : M.Muthusamy
+Age : 35
+Party Name : Independent
+Education : Kamban Higher Secondary School, Gobichettipalayam
+Occupation : Setting up Marquee (Panthal)
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : AM.Sheik Dawood
+Age : 58
+Party Name : Independent
+Education : B.A (History)
+Occupation : Daily wage Worker
+Total Assets : No
+Liability : 50000
+Net Asset : 0 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SOFA
+
+=====================
+

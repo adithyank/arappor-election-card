@@ -1,0 +1,261 @@
+Constituency Document
+=====================
+
+Constituency Name : EGMORE
+No of Candidates : 18
+No of Independent Candidates : 8
+
+=====================
+
+Name : K.P.SundaraPradhaban
+Age : 74
+Party Name : Bahujan Samaj Party
+Education : 8th pass
+Occupation : Electrician
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : I.PARANTHAMEN
+Age : 44
+Party Name : Dravida Munnetra Kazhagam
+Education : B.A., B.L.,
+Occupation : ADVOCATE
+Total Assets : 1 crore 12 lacs
+Liability : No
+Net Asset : 1 crore 12 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : T.PRABU
+Age : 40
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : (B.A.)
+Occupation : DIGITAL PRINTING
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : NAGARA
+
+=====================
+
+Name : B.JOHN PANDIAN
+Age : 65
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.A.
+Occupation : BUSINESS
+Total Assets : 11 crore 73 lacs
+Liability : 10 lacs
+Net Asset : 11 crore 63 lacs
+Criminal Cases : 2
+Case Details : வகுப்பு  மோதல்உருவாக்குதல்,  அரசு ஊழியரை பணி செய்ய விடாமல் தடுத்தல் . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.GEETHA LAKSHMI
+Age : 38
+Party Name : Naam Tamilar Katchi
+Education : BACHELOR OF PHYSIOTHERAPY
+Occupation : PHYSIOTHERAPIST
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : J.Chandrakala
+Age : 42
+Party Name : Lok JanaSakthi Katchi
+Education : 12th pass
+Occupation : House Wife
+Total Assets : 91001
+Liability : No
+Net Asset : 91001
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BUNGLOW
+
+=====================
+
+Name : U.PRIYADARSINI
+Age : 33
+Party Name : Makkal Needhi Maiam
+Education : B.TECH; L.L.B.,
+Occupation : ADVOCATE
+Total Assets : 9 lacs
+Liability : 7 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : R.Revanth
+Age : 26
+Party Name : Anaithu Makkal Katchi
+Education : D.C.E 
+Occupation : Coach
+Total Assets : 9 lacs
+Liability : 7 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : G.SHEEJA
+Age : 39
+Party Name : Nam India Naam Indhiyar Katchi
+Education : (B.B.A.,)
+Occupation : BUSINESS -SHEEJA TRADING MART
+Total Assets : 54 lacs
+Liability : 53 lacs
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : N.Aravinthkumar
+Age : 29
+Party Name : Independent
+Education : D.E.C.E
+Occupation : Agriculture
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BUCKET
+
+=====================
+
+Name : V.Eswaran
+Age : 44
+Party Name : Independent
+Education : SSLC
+Occupation : Agriculture
+Total Assets : 55000
+Liability : No
+Net Asset : 55000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : M.Udhayakumar
+Age : 41
+Party Name : Independent
+Education : B.A B.P.E.D
+Occupation : Agriculture
+Total Assets : 90000
+Liability : No
+Net Asset : 90000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : N.GUNASEKAR
+Age : 31
+Party Name : Independent
+Education : B.TH
+Occupation : SOCIAL WORKER
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 1
+Case Details : கலகம் செய்தல், ஆபாசமான செயல், கொலை செய்ய முயற்சி செய்தல் . 
+Symbol Name : HELMET
+
+=====================
+
+Name : V.Sekar
+Age : 38
+Party Name : Independent
+Education : SSLC
+Occupation : Agriculture
+Total Assets : 68000
+Liability : No
+Net Asset : 68000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : SCISSORS
+
+=====================
+
+Name : A.Parandhaman
+Age : 36
+Party Name : Independent
+Education : M.A. B.Ed
+Occupation : Private school teacher
+Total Assets : 93000
+Liability : No
+Net Asset : 93000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : POT
+
+=====================
+
+Name : V.Prabhu
+Age : 50
+Party Name : Independent
+Education : L.L.B
+Occupation : Advocate
+Total Assets : 1 crore 41 lacs
+Liability : 4 lacs
+Net Asset : 1 crore 38 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : G.R.Rajendran
+Age : 26
+Party Name : Akhil Bharat Hindu Mahasaba
+Education : 10th pass
+Occupation : Catering 
+Total Assets : 65200
+Liability : No
+Net Asset : 65200
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : S.Jayakalpana
+Age : 50
+Party Name : Independent
+Education : 9th standard 
+Occupation : Self Employed
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+

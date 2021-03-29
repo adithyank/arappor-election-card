@@ -1,0 +1,247 @@
+Constituency Document
+=====================
+
+Constituency Name : OTTAPIDARAM
+No of Candidates : 17
+No of Independent Candidates : 9
+
+=====================
+
+Name : S.ARUMUGANAINAR
+Age : 63
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 10th pass
+Occupation : EX.Servicemen , Business
+Total Assets : 2 crore 82 lacs
+Liability : 73 lacs
+Net Asset : 2 crore 09 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : C.SHUNMUGAIAH
+Age : 50
+Party Name : Dravida Munnetra Kazhagam
+Education : B.A., L.L.B.,
+Occupation : lawyer , Ex-MLA , farmer
+Total Assets : 1 crore 42 lacs
+Liability : 14 lacs
+Net Asset : 1 crore 28 lacs
+Criminal Cases : 10
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.MOHAN
+Age : 45
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Sc.,
+Occupation : Self employment , farmer , ex-MLA
+Total Assets : 4 crore 88 lacs
+Liability : No
+Net Asset : 4 crore 88 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : R.ARUNA DEVI
+Age : 35
+Party Name : India Jananayaga Katchi
+Education : B.Litt. (Pursuing)
+Occupation : House Wife
+Total Assets : 21 lacs
+Liability : 3 lacs
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : K.KRISHNASAMY
+Age : 68
+Party Name : Puthiya Tamilagam
+Education : M.B.B.S, M.D (General Medicine)
+Occupation : Doctor
+Total Assets : 28 crore 62 lacs
+Liability : 4 crore 24 lacs
+Net Asset : 24 crore 37 lacs
+Criminal Cases : 4
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : A.   MAHARAJAN
+Age : 31
+Party Name : Bahujan Dravida Party
+Education : ITI
+Occupation : SELF EMPLOYMENT(Plumber)
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUCKET
+
+=====================
+
+Name : P.MURUGAN
+Age : 41
+Party Name : Nam India Party
+Education : 9th standard
+Occupation : FARMER
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : M.VAIKUNDA MARI
+Age : 39
+Party Name : Naam Tamilar Katchi
+Education : B.Sc. (Chemistry - Discontinue) 
+Occupation : Private Employee
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P.ELAMBIRAI MANIMARAN
+Age : 30
+Party Name : Independent
+Education : 10th pass
+Occupation : Wages
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MIKE
+
+=====================
+
+Name : M.GANESHKUMAR
+Age : 38
+Party Name : Independent
+Education : I.T.I (Fitter) 
+Occupation : Agricultural Wage
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : S.KARUPPARAJA
+Age : 26
+Party Name : Independent
+Education : 10th pass
+Occupation : FARMER
+Total Assets : 84420
+Liability : No
+Net Asset : 84420
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : K.GUNA SEKARAN
+Age : 41
+Party Name : Independent
+Education : Illiterate
+Occupation : Wages
+Total Assets : 64420
+Liability : No
+Net Asset : 64420
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CUTTING_PLIERS
+
+=====================
+
+Name : C.SASI MURUGAN
+Age : 27
+Party Name : Independent
+Education : 10th fail
+Occupation : Labour
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : P.SAMUTHIRAM
+Age : 37
+Party Name : Independent
+Education : 10th pass
+Occupation : Agricultutral  Wage
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : M.A.DHARMAR
+Age : 54
+Party Name : Independent
+Education : B.A.
+Occupation : Contract Worker
+Total Assets : 10500
+Liability : No
+Net Asset : 10500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : V.RAJ
+Age : 35
+Party Name : Independent
+Education : B.A. (History)
+Occupation : Private Employee
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CHAPPALS
+
+=====================
+
+Name : S.VELMURUGAN
+Age : 33
+Party Name : Independent
+Education : 10th pass
+Occupation : Wages
+Total Assets : 87860
+Liability : No
+Net Asset : 87860
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HOCKEY_AND_BALL
+
+=====================
+

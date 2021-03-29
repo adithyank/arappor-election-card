@@ -1,0 +1,320 @@
+Constituency Document
+=====================
+
+Constituency Name : THIRUMAYAM
+No of Candidates : 22
+No of Independent Candidates : 14
+
+=====================
+
+Name : S.REGUPATHY
+Age : 70
+Party Name : Dravida Munnetra Kazhagam
+Education : B.Sc., B.L.
+Occupation : ADVOCATE
+Total Assets : 15 crore 32 lacs
+Liability : No
+Net Asset : 15 crore 32 lacs
+Criminal Cases : 26
+Case Details : சட்ட விரோதமான கூட்டத்தில் சேர்ந்திருத்தல், அரசு தடை உத்தரவை மீறி ஒன்று கூடியது, ஐந்து அல்லது அதற்கு மேலான நபர்கள் அதை கலைக்கக் கட்டளையிடப்பட்ட பின்னர் கூடுவது அல்லது தொடர்வது, பயங்கர ஆயுதங்களுடன் கலகம் செய்வது, கலகம் செய்வதற்கு தூண்டிவிடுவது, பொதுப் பணியாளரால், முறைப்படி பிரகடனப்படுத்தப்பட்ட உத்தரவிற்கு கீழ்ப்படியாமை, உயிருக்கு ஆபத்தான தொற்றுநோயை அநேகமாக பரப்பக்கூடிய கவனக்குறைவான செயல், தொற்றுத்தடை தனிமை விதிக்கு கீழ்ப்படியாமை, பொதுப் பாதையில் அல்லது நீர்வழிப் பாதையில் ஆபத்து அல்லது தடை, போலியானது என தெரிந்த ஒரு அரசாங்க முத்திரையை உண்மையானதுபோல் பயன்படுத்துதல், குறிப்பிட்டு வகை செய்யப்படாத பிற வழக்குகளில் பொதுத் தொல்லை, ஆபாசமான செயல், ஊழல் குற்றச்சாட்டுகள். 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.K.VAIRAMUTHU
+Age : 66
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : PUC
+Occupation : Agriculture
+Total Assets : 5 crore 95 lacs
+Liability : 2 crore 66 lacs
+Net Asset : 3 crore 28 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.GANDIPAN
+Age : 47
+Party Name : My India Party
+Education : 7th Standard
+Occupation : Self Employed
+Total Assets : 66800
+Liability : No
+Net Asset : 66800
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : R.SIVAKUMAR
+Age : 56
+Party Name : Puthiya Tamilagam
+Education : B.com
+Occupation : Teacher
+Total Assets : 57 lacs
+Liability : 3 lacs
+Net Asset : 54 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : U.SIVARAMAN
+Age : 37
+Party Name : Naam Tamilar Katchi
+Education : 10 std
+Occupation : Farmer
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : R.THIRUMENI
+Age : 44
+Party Name : Makkal Needhi Maiam
+Education : B.Sc. PHYSICS
+Occupation : Not Provided
+Total Assets : 99 lacs
+Liability : 15 lacs
+Net Asset : 84 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.PURACHIBALAN
+Age : 67
+Party Name : Anna Dravidar Kazhagam
+Education : 9th Standard
+Occupation : NA
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : S.Muniyaraju
+Age : 43
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : M.A. 
+Occupation : contractor
+Total Assets : 18 lacs
+Liability : 7 lacs
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : C.ALAGU SUBBIAH
+Age : 57
+Party Name : Independent
+Education : 5th Standard
+Occupation : Agriculture
+Total Assets : 29 lacs
+Liability : No
+Net Asset : 29 lacs
+Criminal Cases : 1
+Case Details : ஏமாற்றி மற்றும் நேர்மையின்றித் தூண்டிப் பொருளை பெறுதல் அல்லது கொடுக்கும்படி செய்தல். 
+Symbol Name : GRAPES
+
+=====================
+
+Name : M.KARTHICK
+Age : 32
+Party Name : Independent
+Education : M.A., B.Ed.
+Occupation : Waged Labour
+Total Assets : 11500
+Liability : No
+Net Asset : 11500
+Criminal Cases : 1
+Case Details : சட்ட விரோதமான கூட்டத்தில் சேர்ந்திருப்பது, பொதுப் பாதையில் அல்லது நீர்வழிப் பாதையில் ஆபத்து அல்லது தடை, பொது இடத்தில் ஆட்சேபிக்கத்தக்க அல்லது அங்கீகரிக்கப்படாத விளம்பரங்கள் செய்தல். 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : R.Sundaram
+Age : 67
+Party Name : Independent
+Education : SSLC
+Occupation : Farming
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : K.SELVAKUMAR
+Age : 33
+Party Name : Independent
+Education : 12th pass
+Occupation : Business
+Total Assets : 51000
+Liability : No
+Net Asset : 51000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PILLOW
+
+=====================
+
+Name : M.SELVAKUMAR
+Age : 27
+Party Name : Independent
+Education : B.E (EEE)
+Occupation : Business
+Total Assets : 52000
+Liability : No
+Net Asset : 52000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : S.SELVAKUMAR
+Age : 28
+Party Name : Independent
+Education : B.E (CIVIL)
+Occupation : Business
+Total Assets : 52000
+Liability : No
+Net Asset : 52000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : STOOL
+
+=====================
+
+Name : M.Selvakumar
+Age : 26
+Party Name : Independent
+Education : B.E (CS)
+Occupation : Business
+Total Assets : 52000
+Liability : No
+Net Asset : 52000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : STAPLER
+
+=====================
+
+Name : K.Selvakumar
+Age : 41
+Party Name : Independent
+Education : B.A.
+Occupation : Agriculture
+Total Assets : 30 lacs
+Liability : No
+Net Asset : 30 lacs
+Criminal Cases : 4
+Case Details : 1. அனுமதியின்றி சிலை வைத்ததாகவம், காயமேற்படுத்தியதாகவும், கொலை முயற்சி செய்ததாகவும் வழக்கு
+2. திட்டமிட்டு சாதிவெறிபேச்சு, மிறட்டல் மற்றும் கூச்சல் போட்டதாகவும், பென்களை அவமரியாதையாக பேசியதாகவும்
+3. கொரோனா விதிமுறைகளை மீறியதாக
+4. முகநூல் மற்றும் வாட்ஸ் ஆப் மூலமாக ஆபாசமாக புகைப்படம் வெளியிட்டதாக வழக்கு. 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : M.Selvakumar
+Age : 28
+Party Name : Independent
+Education : DME
+Occupation : Business
+Total Assets : 31000
+Liability : No
+Net Asset : 31000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BLACK_BORD
+
+=====================
+
+Name : M.DURAIRAJAN
+Age : 52
+Party Name : Independent
+Education : 8th Standard
+Occupation : AUTO DRIVER
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : R.PALANIYAPPAN
+Age : 36
+Party Name : Independent
+Education : DCE., B.Tech
+Occupation : Agriculture
+Total Assets : 4 lacs
+Liability : 30000
+Net Asset : 3 lacs
+Criminal Cases : 1
+Case Details : சிவில் வழக்கு தொடர்பாக. 
+Symbol Name : CHAPPALS
+
+=====================
+
+Name : S.MANIKANDAN
+Age : 29
+Party Name : Independent
+Education : 9th Standard
+Occupation : DRIVER
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CARROM_BOARD
+
+=====================
+
+Name : AL.MATHIALAGAN
+Age : 27
+Party Name : Independent
+Education : B.Com., MBA
+Occupation : OWN BUSINESS
+Total Assets : 95000
+Liability : No
+Net Asset : 95000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : C.MUTHUADAIKKAN @ ADAIKKALAM
+Age : 54
+Party Name : Independent
+Education : 10th Standard
+Occupation : TAILOR
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+

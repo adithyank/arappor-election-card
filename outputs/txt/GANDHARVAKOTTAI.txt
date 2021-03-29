@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : GANDHARVAKOTTAI
+No of Candidates : 14
+No of Independent Candidates : 6
+
+=====================
+
+Name : M.CHINNADURAI
+Age : 58
+Party Name : Communist party of India (Marxist)
+Education : 10th Standard Fail
+Occupation : Full time Party member in India Communist Party (Marxist)
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAMMER_SICKLE_AND_STAR
+
+=====================
+
+Name : S.JAYABHARATHI
+Age : 37
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.A.,B.Ed.
+Occupation : Agriculture
+Total Assets : 49 lacs
+Liability : 13 lacs
+Net Asset : 37 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.ASAITHAMBI
+Age : 49
+Party Name : Communist Party of India (Marxist-Leninist) (Liberation)
+Education : B.A., B.Ed.
+Occupation : Agriculture Wage
+Total Assets : 20000
+Liability : No
+Net Asset : 20000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FLAG_AND_THREE_STARS
+
+=====================
+
+Name : KRM.Adhidravidar
+Age : 71
+Party Name : Makkal Needhi Maiam
+Education : 10th Standard Pass
+Occupation : Retired TNEB employee
+Total Assets : 26 lacs
+Liability : No
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : M.THANARAJ
+Age : 53
+Party Name : Namadhu Makkal Katchi
+Education : 8th standard
+Occupation : Agriculture
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BOX
+
+=====================
+
+Name : S.MALARVIZHI
+Age : 47
+Party Name : Anaithu Makkal Arasiyal Katchi
+Education : 9th Standard
+Occupation : Tailor
+Total Assets : 22 lacs
+Liability : 1 lacs
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : M.Ramila
+Age : 30
+Party Name : Naam Tamilar Katchi
+Education : 10th fail
+Occupation : Home maker
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P.Lenin
+Age : 38
+Party Name : Amma makkal munetra kazhagam
+Education : B.B.A, M.A
+Occupation : Farmer
+Total Assets : 29 lacs
+Liability : 3 lacs
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : V.Ilaiyaraja
+Age : 38
+Party Name : Independent
+Education : Knows to read and write
+Occupation : Farmer
+Total Assets : 73000
+Liability : No
+Net Asset : 73000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CHAIN
+
+=====================
+
+Name : B.KARTHIKEYAN
+Age : 39
+Party Name : Independent
+Education : 10th Standard Pass
+Occupation : Dairy Agent
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 3
+Case Details : கலகம், பயங்கர ஆயுதங்களுடன் கலகம், ஆபாசமான செயல்,கொலை முயற்சி,பயங்கரமான ஆயுதம் அல்லது வேறு வழிகளால் தன்னிச்சையாக காயம் ஏற்படுத்துதல், குற்றங்கருதி மிரட்டுதல். 
+Symbol Name : RING
+
+=====================
+
+Name : A.T.KEERAI CHINNAPPA
+Age : 47
+Party Name : Independent
+Education : BFA,D.F.Tech,DMA.,
+Occupation : NA
+Total Assets : 62000
+Liability : No
+Net Asset : 62000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : K.MANIMUTHU
+Age : 40
+Party Name : Independent
+Education : BSc.,
+Occupation : Plastic Business
+Total Assets : 26 lacs
+Liability : No
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : P.RENGASAMY
+Age : 35
+Party Name : Independent
+Education : B.E (EEE)
+Occupation : Engineer
+Total Assets : 73500
+Liability : 3 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUCKET
+
+=====================
+
+Name : V.RETHINAM
+Age : 57
+Party Name : Independent
+Education : M.A.
+Occupation : Farmer
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+

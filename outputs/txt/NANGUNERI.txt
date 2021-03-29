@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : NANGUNERI
+No of Candidates : 15
+No of Independent Candidates : 5
+
+=====================
+
+Name : N.GANESARAJA
+Age : 59
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 10th pass
+Occupation : BUSINESS AND AGRICULTURE
+Total Assets : 9 crore 94 lacs
+Liability : 1 crore 90 lacs
+Net Asset : 8 crore 04 lacs
+Criminal Cases : 30
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : R.SUBBULAKSHMI
+Age : 35
+Party Name : Bahujan Samaj Party
+Education : 12th pass
+Occupation : Daily wage (Agricultre) and House Keeping
+Total Assets : 24 lacs
+Liability : No
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : R.MANOHARAN
+Age : 61
+Party Name : Indian National Congress
+Education : SSLC
+Occupation : Managing Partner & Director - Ruby Construction
+Total Assets : 100 crore 63 lacs
+Liability : 12 crore 28 lacs
+Net Asset : 88 crore 34 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : Hand
+
+=====================
+
+Name : M.KANDHAN
+Age : 68
+Party Name : Anaithu Ulaga Tamilargal Munnetra Kalagam
+Education : 2nd standard
+Occupation : Farmer &  Construction Work
+Total Assets : 60 lacs
+Liability : 25 lacs
+Net Asset : 35 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : S.SHUNMUGASUNDARAM
+Age : 33
+Party Name : Nam India Party
+Education : 12th pass
+Occupation : Daily wage worker
+Total Assets : 1 lacs
+Liability : 40000
+Net Asset : 71000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : S.PARAMASIVAIYYAPPAN
+Age : 48
+Party Name : Amma Makkal Munnettra Kazagam
+Education : Bachelor of Engineering 
+Occupation : marriage hall owner, Ricemill partner
+Total Assets : 5 crore 22 lacs
+Liability : 3 crore 04 lacs
+Net Asset : 2 crore 17 lacs
+Criminal Cases : 2
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : A.PRABAKARAN
+Age : 32
+Party Name : VeeraThiyagi Viswanathadas Thozhilarkal Katchi
+Education : 5th pass
+Occupation : Barber
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : P.VEERAPANDI
+Age : 35
+Party Name : Naam Tamilar Katchi
+Education : 9th Pass
+Occupation : UNSKILLED LABOUR
+Total Assets : 38 lacs
+Liability : 5 lacs
+Net Asset : 33 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : N.ASHOK KUMAR
+Age : 35
+Party Name : Puthiya Tamilagam Katchi 
+Education : B.A., B.L.
+Occupation : Lawyer
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 3
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : T.KATHIRAVAN
+Age : 33
+Party Name : Makkal Desam Katchi
+Education : B.A., B.L.
+Occupation : Advocate
+Total Assets : 6 lacs
+Liability : 4 lacs
+Net Asset : 2 lacs
+Criminal Cases : 3
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : T.KANDASAMY
+Age : 37
+Party Name : Independent
+Education : 10th pass
+Occupation : Farmer
+Total Assets : 21 lacs
+Liability : No
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : D.GNANABALAJI
+Age : 33
+Party Name : Independent
+Education : P.Ed
+Occupation : Farming labour
+Total Assets : 50000
+Liability : No
+Net Asset : 50000
+Criminal Cases : 3
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : S.MUTHUDURAI
+Age : 45
+Party Name : Independent
+Education : 8th pass
+Occupation : Business
+Total Assets : 22 lacs
+Liability : No
+Net Asset : 22 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : H.MUTHURAJ
+Age : 32
+Party Name : Independent
+Education : DME , BCA
+Occupation : Business
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : K.LENIN
+Age : 33
+Party Name : Independent
+Education : M.E.
+Occupation : Private college lecture 
+Total Assets : 14 lacs
+Liability : 5 lacs
+Net Asset : 10 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : BOAT_WITH_MAN_SAIL
+
+=====================
+

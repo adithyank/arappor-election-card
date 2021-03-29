@@ -141,11 +141,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
                 "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
-                "self_education_description": "",
+                "cases_convicted_description": "",
                 "self_profession_occupation": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
-                "cases_convicted_description": ""
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "self_education_description": ""
             }
         },
         {

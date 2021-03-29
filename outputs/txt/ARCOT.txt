@@ -1,0 +1,178 @@
+Constituency Document
+=====================
+
+Constituency Name : ARCOT
+No of Candidates : 12
+No of Independent Candidates : 3
+
+=====================
+
+Name : J.L.Eswarappan
+Age : 42
+Party Name : Dravida Munnetra Kazhagam
+Education : B.E., (Mech) 
+Occupation : Rice, Bran, Fodder Wholesale 
+Total Assets : 13 crore 17 lacs
+Liability : 7 crore 11 lacs
+Net Asset : 6 crore 05 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : A.C.Kesavan
+Age : 32
+Party Name : Bahujan Samaj Party
+Education : 11th Standard 
+Occupation : Own Business (Sign Board)
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.L.ELAVAZAGAN
+Age : 52
+Party Name : Pattali Makkal Katchi
+Education : SSLC 1985
+Occupation : FARMER, INDIAN OIL PETROL RETAILS
+Total Assets : 1 crore 10 lacs
+Liability : 61 lacs
+Net Asset : 49 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : MANGO
+
+=====================
+
+Name : R.KATHIRAVAN
+Age : 29
+Party Name : Naam Tamilar Katchi
+Education : 12th pass
+Occupation : IRON WORKSHOP
+Total Assets : 2 lacs
+Liability : 15000
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : H.Mohamed Ghouse
+Age : 38
+Party Name : Tipu Sultan Party
+Education : B.L.,
+Occupation : Lawyer
+Total Assets : 22 lacs
+Liability : 3 lacs
+Net Asset : 19 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : A.R.Mohammed Rafi
+Age : 39
+Party Name : Makkal Needhi Maiam
+Education : ITI Fitter
+Occupation : Tier Shop and Home appliances
+Total Assets : 4 lacs
+Liability : 36 lacs
+Net Asset : - crore 31 lacs
+Criminal Cases : 1
+Case Details : இ .பி .கோ .147,148,149,323,324,506(ii ). சட்ட  விரோதமாக  கூடுதல் ,பயங்கர ஆயுதங்களில்  தாக்குதல் 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.Munivel
+Age : 45
+Party Name : Social Democratic Party of India
+Education : SSLC (1989)
+Occupation : Business
+Total Assets : 6 lacs
+Liability : 61 lacs
+Net Asset : - crore 54 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : N.Janardhanan
+Age : 57
+Party Name : Amma Makkal Munetra Kazhagam / அம்மா மக்கள் முன்னேற்ற கழகம்
+Education : SSLC
+Occupation : Business
+Total Assets : 22 lacs
+Liability : 13 lacs
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : இல்லை. இல்லை 
+
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : P.Eswaran
+Age : 47
+Party Name : Independent
+Education : 10th pass
+Occupation : Business, photographer
+Total Assets : 3 lacs
+Liability : 3 lacs
+Net Asset : 0 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : CAMERA
+
+=====================
+
+Name : T.D.SANMUGAM
+Age : 63
+Party Name : Independent
+Education : B.COM
+Occupation : RETIRED SENIOR ACCOUNTING OFFICER 
+Total Assets : 1 crore 01 lacs
+Liability : No
+Net Asset : 1 crore 01 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : K.Manigandan
+Age : 42
+Party Name : Independent
+Education : SSLC
+Occupation : Dairy business
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : G.Vasanthakumar
+Age : 41
+Party Name : Makkal Desam Party
+Education : 10th pass
+Occupation : Farmer
+Total Assets : 25 lacs
+Liability : No
+Net Asset : 25 lacs
+Criminal Cases : 1
+Case Details : இ .பி .கோ .7(1). சண்டை வழக்கு 
+Symbol Name : POT
+
+=====================
+

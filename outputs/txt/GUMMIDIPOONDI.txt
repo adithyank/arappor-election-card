@@ -1,0 +1,177 @@
+Constituency Document
+=====================
+
+Constituency Name : GUMMIDIPOONDI
+No of Candidates : 12
+No of Independent Candidates : 4
+
+=====================
+
+Name : T.J.Govindarajan
+Age : 60
+Party Name : Dravida Munnetra Kazhagam
+Education : SSLC
+Occupation : Business
+Total Assets : 7 crore 48 lacs
+Liability : 2 crore 18 lacs
+Net Asset : 5 crore 30 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K.M.Dilliy
+Age : 45
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 9th standard
+Occupation : Lorry Transport public service
+Total Assets : 1 crore 70 lacs
+Liability : 99 lacs
+Net Asset : 72 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : S.NAGARAJ
+Age : 28
+Party Name : Bahujan Samaj Party
+Education : B.A., LLB
+Occupation : Self employeed
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : U.Usha
+Age : 31
+Party Name : Naam Tamilar Katchi
+Education : SSLC
+Occupation : Agriculture
+Total Assets : 64 lacs
+Liability : No
+Net Asset : 64 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : J.GOWTHAM
+Age : 26
+Party Name : Anaithu Makkal Arasiyal Katchi
+Education : BE EEE
+Occupation : COMPUTER SERVICE
+Total Assets : 4 lacs
+Liability : 3 lacs
+Net Asset : 65000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : V.SARAVANAN
+Age : 33
+Party Name : Indiya Jananayaka Katchi
+Education : HOTEL MANAGEMENT
+Occupation : SELF EMPLOYMENT
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : M.Prakash
+Age : 50
+Party Name : Pattali Makkal Katchi
+Education : 10th pass
+Occupation : Entrepreneur
+Total Assets : 18 crore 48 lacs
+Liability : 2 crore 76 lacs
+Net Asset : 15 crore 72 lacs
+Criminal Cases : 1
+Case Details : அனுமதியின்றி ஊர்வலத்தில் ஈடுபட்ட குற்றம். 
+Symbol Name : MANGO
+
+=====================
+
+Name : E.Saravanan
+Age : 44
+Party Name : Sirupanmai Makkal Nala Katchi
+Education : 10th pass
+Occupation : Tailor
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : R.Devanathan
+Age : 26
+Party Name : Independent
+Education : B.Tech.,
+Occupation : Temporary worker in pvt oil co. 
+Total Assets : 10000
+Liability : No
+Net Asset : 10000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : K.Prakash
+Age : 49
+Party Name : Independent
+Education : B.Sc.,
+Occupation : Business
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : M.Prakash
+Age : 52
+Party Name : Independent
+Education : B.Sc., Botany
+Occupation : Farmer
+Total Assets : 83 lacs
+Liability : 2 lacs
+Net Asset : 81 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GRAPES
+
+=====================
+
+Name : R.Lakshmi
+Age : 56
+Party Name : Independent
+Education : 10th pass
+Occupation : House wife
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+

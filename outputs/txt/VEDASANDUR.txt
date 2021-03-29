@@ -1,0 +1,294 @@
+Constituency Document
+=====================
+
+Constituency Name : VEDASANDUR
+No of Candidates : 20
+No of Independent Candidates : 10
+
+=====================
+
+Name : S.GANDHIRAJAN
+Age : 70
+Party Name : Dravida Munnetra Kazhagam
+Education : B.A., B.L.,
+Occupation : BUSINESS, AGRICULTURIST AND SCHOOL CORRESPONDENT
+Total Assets : 9 crore 93 lacs
+Liability : 1 crore 27 lacs
+Net Asset : 8 crore 65 lacs
+Criminal Cases : 2
+Case Details : சட்டத்துக்கு விரோதமாக கூட்டம்கூடுதல், உயிருக்கு ஆபத்தான நோய்த்தொற்றை பரப்பும் வகையில் கூடியது, தவறான கட்டுப்பாட்டுக்கான தண்டனை.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : V.P.B.Paramasivam
+Age : 40
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : MBBS, D.ORTHO, MCH
+Occupation : Doctor
+Total Assets : 10 crore 42 lacs
+Liability : No
+Net Asset : 10 crore 42 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : A.KARTHIKEYAN
+Age : 43
+Party Name : MY INDIA PARTY
+Education : 12th pass
+Occupation : SELF BUSINESS
+Total Assets : 16 lacs
+Liability : 10 lacs
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : V.KALIMUTHU
+Age : 30
+Party Name : SAMANIYA  MAKKAL NALA KATCHI
+Education : 7TH PASS
+Occupation : TAILOR
+Total Assets : 13 lacs
+Liability : 15 lacs
+Net Asset : -1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WALKING_STICK
+
+=====================
+
+Name : R.POTHUMANI
+Age : 53
+Party Name : Naam Tamilar Katchi
+Education : B.A HISTORY
+Occupation : HOUSEWIFE
+Total Assets : 11 lacs
+Liability : 3 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.G.Maneeshankar
+Age : 46
+Party Name : Rashtriya Samaj Paksha
+Education : Diploma in Tool Engineering, Diploma.
+Occupation : self business
+Total Assets : 41000
+Liability : No
+Net Asset : 41000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CUP_&_SAUCER
+
+=====================
+
+Name : K.MURUGESAN
+Age : 49
+Party Name : Ganasangam Party of India
+Education : 12th pass
+Occupation : Self Business
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : P.RAMASAMY
+Age : 43
+Party Name : Anaithu Makkal Munnetra Kazhagam
+Education : 9th pass
+Occupation : PRESIDENT OF A FINANCIAL INSTITUION/FARMER
+Total Assets : 81 lacs
+Liability : 3 crore 18 lacs
+Net Asset : -2 crore 37 lacs
+Criminal Cases : 3
+Case Details : குற்றத்திற்கான சான்றுகள் காணாமல் போதல் அல்லது குற்றவாளியைத் திரையிட தவறான தகவல்களை வழங்குதல்,
+குற்றமற்ற கொலைக்கு முயற்சி,
+தானாக முன்வந்து புண்படுத்தும் தண்டனை,
+ஆபத்தான ஆயுதங்கள் அல்லது வழிமுறைகளால் தானாகவே காயத்தை ஏற்படுத்துகிறது.. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : S.VETRIVEL
+Age : 31
+Party Name : Makkal Needhi Maiam
+Education : M.E
+Occupation : Business 
+Total Assets : 26 lacs
+Liability : 15 lacs
+Net Asset : 11 lacs
+Criminal Cases : 1
+Case Details : சட்டத்துக்கு விரோதமாக கூட்டம்கூடுதல்,
+அரச ஊழியரின்  கட்டளைக்கு கீழ்ப்படியாமை,
+ உயிருக்கு ஆபத்தான நோய்த்தொற்றை பரப்பும் வகையில் கூடியது. . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.R.SARAVANAKUMAR
+Age : 33
+Party Name : Independent
+Education : DIPLOMA IN TEXTILE TECHNOLOGY
+Occupation : PRIVATE THREAD MILL EMPLOYEE
+Total Assets : 43 lacs
+Liability : No
+Net Asset : 43 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : V.SUKUMAR
+Age : 43
+Party Name : HINDU MAKKAL KATCHI
+Education : 8th pass
+Occupation : SELF EMPLOYED
+Total Assets : 21 lacs
+Liability : 3 lacs
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : v.SELVARAJ
+Age : 50
+Party Name : Independent
+Education : 10th pass
+Occupation : SOCIAL SERVICE
+Total Assets : 75000
+Liability : No
+Net Asset : 75000
+Criminal Cases : 1
+Case Details : தடுப்பு காவல்.. 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : Dr MARUR N DHARMALINGAM
+Age : 76
+Party Name : Independent
+Education : 10th pass
+Occupation : EX.M.L.A 
+Total Assets : 8856
+Liability : No
+Net Asset : 8856
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : P.NANDAKUMAR
+Age : 31
+Party Name : Independent
+Education : MBA
+Occupation : SELF BUSINESS
+Total Assets : 17 lacs
+Liability : No
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SAFETY_PIN
+
+=====================
+
+Name : B.PALANICHAMY
+Age : 59
+Party Name : Independent
+Education : 10th pass
+Occupation : Agriculture
+Total Assets : 18 lacs
+Liability : 2 lacs
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : R.PRASATH
+Age : 29
+Party Name : Independent
+Education : 8TH PASS
+Occupation : SELF EMPLOYED
+Total Assets : 38 lacs
+Liability : 6 lacs
+Net Asset : 32 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : V.MUTHUSAMY
+Age : 45
+Party Name : Independent
+Education : 8th pass
+Occupation : EMPLOYEE
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : P.MURUGAN
+Age : 48
+Party Name : Independent
+Education : Illiterate
+Occupation : SALARY
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SKIPPING_ROLE
+
+=====================
+
+Name : S.MOORTHY
+Age : 45
+Party Name : Independent
+Education : 12th PASS
+Occupation : EMPLOYMENT 
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : K.K.RAMASAMY
+Age : 65
+Party Name : Independent
+Education : 9TH STD
+Occupation : FARMER
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIRCONDITIONER
+
+=====================
+

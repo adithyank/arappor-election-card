@@ -1,0 +1,231 @@
+Constituency Document
+=====================
+
+Constituency Name : MODAKKURICHI
+No of Candidates : 15
+No of Independent Candidates : 5
+
+=====================
+
+Name : C.Saraswathi
+Age : 76
+Party Name : Bharatiya Janata Party
+Education : MBBS (1986) DCH (1972) - Madras University
+Occupation : Doctor
+Total Assets : 11 crore 87 lacs
+Liability : 63 lacs
+Net Asset : 11 crore 24 lacs
+Criminal Cases : 0
+Case Details :  
+.  
+
+Symbol Name : LOTUS_BJP
+
+=====================
+
+Name : J.SUBBULAKSHMI JEGADEESAN
+Age : 73
+Party Name : Dravida Munnetra Kazhagam
+Education : B.Sc., BT
+Occupation : AGRICULTURIST
+Total Assets : 7 crore 64 lacs
+Liability : No
+Net Asset : 7 crore 64 lacs
+Criminal Cases : 7
+Case Details : COVID-19 கட்டுப்பாடுகளை மீறியதாகக் கூறப்படுகிறது. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : R .BOOPATHI
+Age : 28
+Party Name : Bahujan Samaj Party
+Education : B.Sc Micro Biology , B.Education 
+Occupation : DAILY WAGE LABOUR
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : D.Thangaraj
+Age : 45
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : 9th Standard, Government School, Avalpoondurai
+Occupation : Bus owner, Farmer
+Total Assets : 12 crore 66 lacs
+Liability : 1 crore 56 lacs
+Net Asset : 11 crore 10 lacs
+Criminal Cases : 0
+Case Details :  
+.  
+
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : G.PRAKASH
+Age : 33
+Party Name : Naam Tamilar Katchi
+Education : 10TH STD
+Occupation : Business
+Total Assets : 16 lacs
+Liability : 2 lacs
+Net Asset : 14 lacs
+Criminal Cases : 2
+Case Details : காழ்ப்புணர்ச்சி பொது சொத்துக்கள், தடையை மீறி ஊர்வலம். 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.Maheswaran
+Age : 43
+Party Name : My India Party
+Education : B.Com., Nagamalai Navarasam Arts & Science College, Arachalur, Erode. 1995-1998
+Occupation : Grocery Store
+Total Assets : 4 lacs
+Liability : 7 lacs
+Net Asset : -3 lacs
+Criminal Cases : 0
+Case Details :  
+.  
+
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : P.Mani
+Age : 57
+Party Name : India Dravida Makkal Munnetra Katchi
+Education : Illiterate
+Occupation : Laborer
+Total Assets : 4 lacs
+Liability : 1 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details :  .  
+
+Symbol Name : HAT
+
+=====================
+
+Name : R.Manickam
+Age : 52
+Party Name : Ganasangam Party of India
+Education : 9th Standard, Soorampatti Government Higher Secondary School
+Occupation : Vegetable Business and Clothing Store
+Total Assets : 4 lacs
+Liability : 2 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details :  
+.  
+
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : M.RAMESH
+Age : 41
+Party Name : Namathu Kongu Munnetra Kazhagam
+Education : M.B.A
+Occupation : Farming, Training Centre
+Total Assets : 84 lacs
+Liability : 22 lacs
+Net Asset : 62 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : M.Rajeshkumar
+Age : 39
+Party Name : Makkal Needhi Maiam
+Education : NSVV Higher Secondary School, Pattiveeran Patti (1999)
+Occupation : Business
+Total Assets : 48 lacs
+Liability : 8 lacs
+Net Asset : 40 lacs
+Criminal Cases : 0
+Case Details :  
+.  
+
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.S.GovanamThangavel
+Age : 62
+Party Name : Independent
+Education : 9th grade, Govt High School, Unjalur
+Occupation : Agriculture
+Total Assets : 13 lacs
+Liability : 3 lacs
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details :  .  
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : Sami Kandasamy
+Age : 55
+Party Name : Independent
+Education : +2 Pass, SSV Matriculation Hr Sec School, Kodumudi, 1981-82
+Occupation : Agriculture
+Total Assets : 1 lacs
+Liability : 80000
+Net Asset : 40210
+Criminal Cases : 1
+Case Details : கொரன காலத்தில் விதி மீறி கூட்டம் கூடியது .  
+
+Symbol Name : DIAMOND
+
+=====================
+
+Name : L.BHARATHI
+Age : 46
+Party Name : Independent
+Education : 5TH STD
+Occupation : Business
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : P.Mayilsamy
+Age : 42
+Party Name : Independent
+Education : 8th Pass
+Occupation : Daily wage worker
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details :  .  
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : M.Vijayakumar
+Age : 38
+Party Name : Independent
+Education : Chartered Accountant (CA) - Institute of Chartered Accountants of India, New Delhi - January 2011
+Occupation : Profession Chartered Accountant
+Total Assets : 1 crore 09 lacs
+Liability : 8 lacs
+Net Asset : 1 crore 00 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+

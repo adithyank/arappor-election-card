@@ -1,0 +1,360 @@
+Constituency Document
+=====================
+
+Constituency Name : PERUNDURAI
+No of Candidates : 25
+No of Independent Candidates : 15
+
+=====================
+
+Name : P.R.Kozhandaivel
+Age : 45
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : Illiterate
+Occupation : Powerloom Industry
+Total Assets : 48 lacs
+Liability : 11 lacs
+Net Asset : 37 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : K K C.Balu
+Age : 59
+Party Name : Dravida Munnetra Kazhagam
+Education : B.E
+Occupation : Transport Business
+Total Assets : 6 crore 73 lacs
+Liability : 84 lacs
+Net Asset : 5 crore 88 lacs
+Criminal Cases : 3
+Case Details : சட்டவிரோத சட்டசபை, சட்டவிரோதமாக நோய்த்தொற்றைப் பரப்புதல், தனிமைப்படுத்தப்பட்ட விதிகளை மீறுதல், தொற்றுநோயைப் பரப்புதல், பொதுத் தொல்லை, தொல்லைகளின் தொடர்ச்சி.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.Thambi
+Age : 43
+Party Name : Bahujan Samaj Party
+Education : 12th pass
+Occupation : LIC Agent, Star Health Agent, Labour Contract
+Total Assets : 46 lacs
+Liability : 25 lacs
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.Jayakumar
+Age : 41
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : Diploma  ( DCM )
+Occupation : Self-Employed
+Total Assets : 8 crore 72 lacs
+Liability : 2 crore 69 lacs
+Net Asset : 6 crore 02 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : K.S.Dhakshinamurthi
+Age : 47
+Party Name : Desiya Makkal Sakthi Katchi
+Education : BBM
+Occupation : Agriculture
+Total Assets : 39 lacs
+Liability : 1 lacs
+Net Asset : 38 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : C.K.Nandhakumar
+Age : 42
+Party Name : Makkal Needhi Maiam
+Education : Diploma in Civil Engineering
+Occupation : Construction
+Total Assets : 29 lacs
+Liability : No
+Net Asset : 29 lacs
+Criminal Cases : 6
+Case Details : வேட்பாளர் கூற்றுக்கள் தவறான வழக்குகள். மோசமான சொற்களைப் பயன்படுத்துவதற்கான வழக்குகள், தவறான சிறைவாசம், மிரட்டி பணம் பறித்தல், மிரட்டல் / அச்சுறுத்தல், மோசடி, சட்டவிரோத உழைப்பு, ஆயுதங்களால் தாக்கியது.. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : D.PRABHAKARAN
+Age : 46
+Party Name : Akhila India Jananayaka Makkal Kazhagam
+Education : 10th pass
+Occupation : Agriculture
+Total Assets : 8 lacs
+Liability : 3 lacs
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MIXEE
+
+=====================
+
+Name : M.Ramesh
+Age : 41
+Party Name : Namathu Kongu Munnetra Kalagam
+Education : M.B.A
+Occupation : Agriculture; Training Center
+Total Assets : 84 lacs
+Liability : 22 lacs
+Net Asset : 62 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : C.Loganathan
+Age : 44
+Party Name : Naam Tamilar Katchi
+Education : ITI
+Occupation : Departmental Store
+Total Assets : 60 lacs
+Liability : 16 lacs
+Net Asset : 44 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P.Velusamy
+Age : 62
+Party Name : ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM
+Education : Illiterate
+Occupation : Agriculture
+Total Assets : 1 crore 52 lacs
+Liability : No
+Net Asset : 1 crore 52 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : KARTHI
+Age : 25
+Party Name : Independent
+Education : Diploma in Agriculture
+Occupation : Self Employed
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TILLER
+
+=====================
+
+Name : S.Krishnan
+Age : 46
+Party Name : Independent
+Education : 8th pass
+Occupation : Driver
+Total Assets : 13500
+Liability : No
+Net Asset : 13500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LIGHTER
+
+=====================
+
+Name : J.Gopalakrishnan
+Age : 31
+Party Name : Independent
+Education : Diploma in Computer Engineering
+Occupation : Share Brokerage Authorized Person
+Total Assets : 6 lacs
+Liability : 30000
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : A.P.Sankersamy
+Age : 54
+Party Name : Independent
+Education : 6th Pass
+Occupation : Business
+Total Assets : 16 lacs
+Liability : 10 lacs
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COT
+
+=====================
+
+Name : N.SATHISHKUMAR
+Age : 34
+Party Name : Independent
+Education : 9th
+Occupation : Real Estate
+Total Assets : 13 lacs
+Liability : 8 lacs
+Net Asset : 5 lacs
+Criminal Cases : 1
+Case Details : செல்போன் மூலம் மிரட்டுதல்
+. 
+Symbol Name : HELMET
+
+=====================
+
+Name : K.SAMPATHKUMAR
+Age : 38
+Party Name : Independent
+Education : 8th Pass
+Occupation : Business
+Total Assets : 3 crore 09 lacs
+Liability : 19 lacs
+Net Asset : 2 crore 90 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : S R.Devendaramanickam
+Age : 62
+Party Name : Independent
+Education : M.A., B.L
+Occupation :  Advocate
+Total Assets : 75 lacs
+Liability : 10 lacs
+Net Asset : 65 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name :  N.D.Thoppu (a) Venkatachalam
+Age : 57
+Party Name : Independent
+Education : B.A
+Occupation :  MLA Perundurai Assembly Salary & Agriculturist
+Total Assets : 12 crore 20 lacs
+Liability : 1 crore 84 lacs
+Net Asset : 10 crore 35 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : V.M.Balasubramani
+Age : 63
+Party Name : Independent
+Education : 5th pass
+Occupation : Self Employed
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : M.Balamurugan
+Age : 26
+Party Name : Independent
+Education : DECE, Kongu Vellalar Polytechnic college, Seenapuram 
+Occupation : Accountant
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : MYILSAMY
+Age : 33
+Party Name : Independent
+Education : B Tech
+Occupation : Self Employed
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEPHONE
+
+=====================
+
+Name : K.Venkatachalam
+Age : 48
+Party Name : Independent
+Education : 4th standard
+Occupation : Self Employed
+Total Assets : 9 lacs
+Liability : 1 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WATER_TANK
+
+=====================
+
+Name : P.R.Venkatachalam
+Age : 62
+Party Name : Independent
+Education : Old SSLC 
+Occupation : Agriculture
+Total Assets : 83 lacs
+Liability : No
+Net Asset : 83 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : N.JEEVA
+Age : 29
+Party Name : Independent
+Education : 10th pass
+Occupation : Self Employed (Mechanic)
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : P.JothiMurugan
+Age : 39
+Party Name : Independent
+Education : Government High School, Thingalur
+Occupation : Agriculture Labourer
+Total Assets : 50500
+Liability : No
+Net Asset : 50500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+

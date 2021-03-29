@@ -1,0 +1,375 @@
+Constituency Document
+=====================
+
+Constituency Name : KANGAYAM
+No of Candidates : 26
+No of Independent Candidates : 19
+
+=====================
+
+Name : N.Ayyavu
+Age : 56
+Party Name : Bahujan Samaj Party
+Education : Illiterate
+Occupation : Auto Driver
+Total Assets : 10500
+Liability : No
+Net Asset : 10500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : M.P.Saminathan
+Age : 57
+Party Name : Dravida Munnetra Kazhagam
+Education : BA (Sociology)
+Occupation : Business and Farming
+Total Assets : 17 crore 63 lacs
+Liability : 3 crore 47 lacs
+Net Asset : 14 crore 16 lacs
+Criminal Cases : 3
+Case Details : 1.புகாரளித்த கோபிநாத்தை கொலை செய்வதாகவும், கனகராஜுக்கு ஆதரவாக, அவர் காரணமாக இருந்த பணத்தை உடனடியாக செலுத்தக் கோரி அச்சுறுத்தினார்.
+2. சமூக தூரமின்றி ஊரடங்கு உத்தரவின் போது மீறப்படுவதாக புகார்.
+3.முதல் தகவல் அறிக்கை சட்டவிரோதமாக ஒரு பொது இடத்தில் வைக்கப்படலாம் என்ற அரசியல் நோக்கத்துடன் தாக்கல் செய்யப்பட்டுள்ளது.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : A.S.RAMALINGAM
+Age : 49
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : HSC
+Occupation : Agriculture, Poultry Business
+Total Assets : 66 crore 16 lacs
+Liability : 20 crore 81 lacs
+Net Asset : 45 crore 35 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : K.SIVANANTHAM
+Age : 33
+Party Name : Naam Tamilar Katchi
+Education : BBM
+Occupation : Agriculture, Poultry business
+Total Assets : 37 lacs
+Liability : 5 lacs
+Net Asset : 32 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Manoharan
+Age : 53
+Party Name : Anna Purathchi Thalaivar Amma Dravida Munnetra Kazhagam
+Education : 9th Pass
+Occupation : Daily Wages
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : C.Ramesh
+Age : 42
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : DCE(Incomplete) 1996 Kongu Poly Technic, Perundurai
+Occupation : Building Contractor
+Total Assets : 71 lacs
+Liability : 27 lacs
+Net Asset : 43 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.Appasamy
+Age : 57
+Party Name : JanataDal(Secular)
+Education : Selva Vinayakam Educational Institution, Sevandham Palayam, Tirupur District 1968-1969
+Occupation : Laborer
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : R.Immanuvel
+Age : 35
+Party Name : Independent
+Education : HSS (higher secondary school)
+Occupation : Manager in Private Ltd Company
+Total Assets : 59100
+Liability : No
+Net Asset : 59100
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEPHONE
+
+=====================
+
+Name : P.Gopinath
+Age : 29
+Party Name : Independent
+Education : MBA., S.N.S College of Technology, Vazhyampalayam
+Occupation : Business
+Total Assets : 2 lacs
+Liability : 76000
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : P.SathishKumar
+Age : 37
+Party Name : Independent
+Education : 12th grade - 2001
+Occupation : Agriculture
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S.Sathyamoorthy
+Age : 34
+Party Name : Independent
+Education : BE., CSE., Kongu Engineering College, Perundurai
+Occupation : Computer Engineer
+Total Assets : 17 lacs
+Liability : 9 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : N.Sukumaran
+Age : 64
+Party Name : Independent
+Education : 5th Pass
+Occupation : Business
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BENCH
+
+=====================
+
+Name : D.Subramaniyan
+Age : 53
+Party Name : Independent
+Education : 11th Discontiuned
+Occupation : Private Job & Agriculture
+Total Assets : 58 lacs
+Liability : 2 lacs
+Net Asset : 56 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIESEL_PUMP
+
+=====================
+
+Name : K.Selvakumar
+Age : 26
+Party Name : Independent
+Education : M.Sc (Tamilnadu Open University) Year of passing June 2017
+Occupation : Student
+Total Assets : 4 lacs
+Liability : 1 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : P.Nallamuthu
+Age : 69
+Party Name : Independent
+Education : 8th pass
+Occupation : Retired TNEB Employee
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : C.Nithyananthan
+Age : 36
+Party Name : Independent
+Education : Not given
+Occupation : N/A
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : G.Prabhakaran
+Age : 31
+Party Name : Independent
+Education : Msc; Bharathiyar University, year passing 2011
+Occupation : System Admin
+Total Assets : 6 lacs
+Liability : 7 lacs
+Net Asset : -1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATSMAN
+
+=====================
+
+Name : A.Mani
+Age : 54
+Party Name : Independent
+Education : 4th standard
+Occupation : Tailor
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LAPTOP
+
+=====================
+
+Name : R.Manikandan
+Age : 51
+Party Name : Independent
+Education :  HSC
+Occupation : Business
+Total Assets : 61 lacs
+Liability : 11 lacs
+Net Asset : 50 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : R.Ravikumar
+Age : 28
+Party Name : Independent
+Education : SVM Matriculation School, Kangayam, April 2010
+Occupation : Chicken Farm
+Total Assets : 25 lacs
+Liability : No
+Net Asset : 25 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : N.Ramalingam
+Age : 57
+Party Name : Independent
+Education : 5th std, Government Primary School, Chinnakampalayam, Tharapuram Thaluk, April 1974
+Occupation : Business
+Total Assets : 13 lacs
+Liability : 35000
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : B.RAJENDRAN
+Age : 64
+Party Name : Independent
+Education : BA
+Occupation : Equipment Director in Films
+Total Assets : 19 lacs
+Liability : No
+Net Asset : 19 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CHAIN
+
+=====================
+
+Name : P.Rajendran
+Age : 61
+Party Name : Independent
+Education : 8th Pass Government High School, Vellakovil, April 1972
+Occupation : Business
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : K.K.Vaduganathan
+Age : 54
+Party Name : Independent
+Education : 6th
+Occupation : Farmer
+Total Assets : 50292
+Liability : 3 lacs
+Net Asset : -3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : K.O.Jahangir
+Age : 70
+Party Name : Independent
+Education : 6th Std, Government High School, Kangayam, April 1962
+Occupation : Not given
+Total Assets : 60500
+Liability : No
+Net Asset : 60500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : G.Jothi Kalimuthu
+Age : 29
+Party Name : Independent
+Education :  
+Occupation : kongu dairy farm and textiles  
+Total Assets : 39 lacs
+Liability : 16 lacs
+Net Asset : 23 lacs
+Criminal Cases : 2
+Case Details : இரு கட்சிகளுக்கும் இடையே சண்டை. இரு கட்சிகளுக்கும் இடையே சண்டை
+Symbol Name : WATER_TANK
+
+=====================
+

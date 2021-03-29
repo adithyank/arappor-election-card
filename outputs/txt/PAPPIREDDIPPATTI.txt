@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : PAPPIREDDIPPATTI
+No of Candidates : 15
+No of Independent Candidates : 8
+
+=====================
+
+Name : K.GOPI
+Age : 45
+Party Name : Bahujan Samaj Party
+Education : 8 th pass
+Occupation : SELF EMPLOYMENT
+Total Assets : 6671
+Liability : No
+Net Asset : 6671
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : A.GOVINDASAMY
+Age : 49
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : DIPLOMA IN PHARMACY
+Occupation : AGRICULTURE
+Total Assets : 2 crore 84 lacs
+Liability : 23 lacs
+Net Asset : 2 crore 61 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.PRABHU RAJASEKAR
+Age : 37
+Party Name : Dravida Munnetra Kazhagam
+Education : MBBS
+Occupation : DOCTOR
+Total Assets : 2 crore 37 lacs
+Liability : 71 lacs
+Net Asset : 1 crore 66 lacs
+Criminal Cases : 2
+Case Details : தூத்துக்குடி துப்பாக்கி சூடு சம்பவத்தை கண்டித்து தடையை மீறி ஆர்ப்பாட்டம். 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : N.SRINIVASAN
+Age : 33
+Party Name : Makkal Needhi Maiam
+Education : B.Tech
+Occupation : PAINT PRODUCTION COMPANY
+Total Assets : 89000
+Liability : No
+Net Asset : 89000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : P.PALANIYAPPAN
+Age : 59
+Party Name : AMMA MAKKAL MUNNETT RAKAZAGAM
+Education : M.SC.,
+Occupation : FARMER
+Total Assets : 5 crore 55 lacs
+Liability : 3 crore 30 lacs
+Net Asset : 2 crore 25 lacs
+Criminal Cases : 2
+Case Details : TNOPPD act - முதல் தகவல் அறிக்கை பாலக்கோடு காவல் நிலையத்தில் பதியப்பட்டு உள்ளது. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.MURUGAN
+Age : 44
+Party Name : Anaithu Makkal Puratchi Katchi
+Education : 12 th Pass
+Occupation : WAGES
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : R.RAMESH
+Age : 38
+Party Name : Naam Tamilar Katchi
+Education : B.Sc.COMPUTER SCIENCE
+Occupation : BANK & FINANCE SERVICE
+Total Assets : 22 lacs
+Liability : 11 lacs
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details :  . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.ANANDKUMAR
+Age : 53
+Party Name : Independent
+Education : SCHOOLING
+Occupation : SELF EMPLOYED
+Total Assets : 35 lacs
+Liability : 5 lacs
+Net Asset : 30 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAPSICUM
+
+=====================
+
+Name : S.ELANGO
+Age : 61
+Party Name : Independent
+Education : B.Sc., B.S.M.S
+Occupation : DOCTOR
+Total Assets : 83 lacs
+Liability : No
+Net Asset : 83 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : R.GOVINDASAMY
+Age : 50
+Party Name : Independent
+Education : 5th pass
+Occupation : AGRICULTURE
+Total Assets : 36 lacs
+Liability : 5 lacs
+Net Asset : 32 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : P.SELVAM
+Age : 36
+Party Name : Independent
+Education : M.A.,B.Ed.
+Occupation : OWN BUSINESS
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BALLOON
+
+=====================
+
+Name : R.PALANIYAPPAN
+Age : 43
+Party Name : Independent
+Education : 10th STANDARD FAIL
+Occupation : PRIVATE JOB
+Total Assets : 7 lacs
+Liability : 4 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LETTER_BOX
+
+=====================
+
+Name : K.MANIVANNAN
+Age : 60
+Party Name : Independent
+Education :   B.Sc.,  B.L
+Occupation : LAWYER
+Total Assets : 58 lacs
+Liability : 1 lacs
+Net Asset : 57 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CHIMNEY
+
+=====================
+
+Name : S.MURUGAN
+Age : 48
+Party Name : Independent
+Education : B.SC, B.ED
+Occupation : AGRICULTURE
+Total Assets : 28 lacs
+Liability : 4 lacs
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BEAD_NECKBANGLE
+
+=====================
+
+Name : T.VEERAMANI
+Age : 45
+Party Name : Independent
+Education : 10th pass
+Occupation : PRIVATE DRIVER
+Total Assets : 55 lacs
+Liability : No
+Net Asset : 55 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ROAD_ROLLER
+
+=====================
+

@@ -1,0 +1,324 @@
+Constituency Document
+=====================
+
+Constituency Name : COIMBATORE_SOUTH
+No of Candidates : 21
+No of Independent Candidates : 10
+
+=====================
+
+Name : S.MAYURA S JAYAKUMAR
+Age : 47
+Party Name : Indian National Congress
+Education : MBA, Vinayaka Mission University, Salem 2009
+Occupation : BUSINESS
+Total Assets : 2 crore 17 lacs
+Liability : 1 crore 62 lacs
+Net Asset : 55 lacs
+Criminal Cases : 1
+Case Details : கோரிக்கைகளை முன்னிலைப்படுத்தி ஆர்ப்பாட்டம். கோரிக்கைகளை முன்னிலைப்படுத்தி ஆர்ப்பாட்டம்
+Symbol Name : Hand
+
+=====================
+
+Name : S.Roshan
+Age : 42
+Party Name : Bahujan Samaj Party
+Education : S.S.L.C
+Occupation : Photographer
+Total Assets : 51000
+Liability : No
+Net Asset : 51000
+Criminal Cases : 0
+Case Details :  
+.  
+
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.VANATHISRINIVASAN 
+Age : 50
+Party Name : Bharatiya Janata Party
+Education : B.SC ., M. L
+Occupation : Advocate
+Total Assets : 9 crore 41 lacs
+Liability : 59 lacs
+Net Asset : 8 crore 82 lacs
+Criminal Cases : 2
+Case Details : போட்டி கட்சியுடன் தேர்தல் பிரச்சாரத்தின்போது ஒரு குழு மோதல் ஏற்பட்டதாக குற்றச்சாட்டு - தேர்தல் பிரச்சாரத்தின் போது கட்சி அடையாளத்துடன் கோவிலில் துண்டு பிரசுரங்களை விநியோகிப்பதாக குற்றச்சாட்டு. பொருந்தாது
+
+Symbol Name : LOTUS_BJP
+
+=====================
+
+Name : A.ABDULWAHAB
+Age : 44
+Party Name : Naam Tamilar Katchi
+Education : 10th
+Occupation : Self Employee, Real estate
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Kamal Haasan
+Age : 66
+Party Name : Makkal Needhi Maiam
+Education : 8th Pass
+Occupation : Artist 
+Total Assets : 176 crore 93 lacs
+Liability : 49 crore 50 lacs
+Net Asset : 127 crore 43 lacs
+Criminal Cases : 2
+Case Details : 1.மதம், இனம், பிறந்த இடம், வசிப்பிடம், மொழி போன்ற பல்வேறு குழுக்களுக்கிடையில் பகைமையை வளர்த்தது மற்றும் மத உணர்வுகளையும் சீற்றப்படுத்தும் நோக்கில் மற்றும் மதம் அல்லது மத நம்பிக்கைகளை அவமதிக்கும் வண்ணம்  வேண்டுமென்றே தீங்கிழைக்கும் செயல்கள் .
+2.சட்டவிரோத கூடுதல், அரசு ஊழியரால் அறிவிக்கப்பட்ட கடமைக்கு கீழ்ப்படியாமை . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : M.Gopalakrishnan
+Age : 47
+Party Name : New generation People's Party 
+Education : 8th Pass
+Occupation : Pet food Store
+Total Assets : 99 lacs
+Liability : 2 lacs
+Net Asset : 97 lacs
+Criminal Cases : 0
+Case Details :  .  
+
+Symbol Name : POT
+
+=====================
+
+Name : T.SANMUGAVEL
+Age : 54
+Party Name : Ganasangam Party of India
+Education : B.A
+Occupation : Matrimony center
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : R.Duraisamy
+Age : 62
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : M.A. (Sociology)
+Occupation : Own Business & Farming
+Total Assets : 41 crore 08 lacs
+Liability : 6 crore 22 lacs
+Net Asset : 34 crore 86 lacs
+Criminal Cases : 3
+Case Details : 1. அரச ஊழியரால் முறையாக அறிவிக்கப்பட்ட உத்தரவுக்கு கீழ்ப்படியாமை, சட்ட விரோதமாக கூடுதல் & எந்தவொரு நபரையும் தவறாக கட்டுப்படுத்துதல். 2. கலகம், கலகம், கொடிய ஆயுதம் மற்றும் குற்றவியல் மிரட்டல். 3. கலகம், & கொலை முயற்சி. . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : K.Raghul Gandhi
+Age : 32
+Party Name : HINDUSTAN JANTA PARTY
+Education : S.S.L.C
+Occupation : Financial Consultant
+Total Assets : 2 lacs
+Liability : 60000
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details :  .  
+
+Symbol Name : BAT
+
+=====================
+
+Name : M.Vivek Subramaniyam
+Age : 35
+Party Name : MANITHA URIMAIGAL KALAAGAM
+Education : BBA Discontinued
+Occupation : Journalist
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details :  
+.  
+
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : S.Vellimalai
+Age : 45
+Party Name : Makkal Sananayaga Kudiyarasu Katchi
+Education : N/A
+Occupation : Full time politician
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details :  
+.  
+
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : M.Alphonseraj
+Age : 52
+Party Name : Independent
+Education : 5th Pass
+Occupation : Driver
+Total Assets : 20000
+Liability : No
+Net Asset : 20000
+Criminal Cases : 0
+Case Details :  
+. 
+Symbol Name : HELMET
+
+=====================
+
+Name : K.Kumaresan
+Age : 38
+Party Name : Independent
+Education : S.S.L.C
+Occupation : Farmer
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAPSICUM
+
+=====================
+
+Name : N.SUNDARAVADIVELU
+Age : 63
+Party Name : Independent
+Education : Bachelor of Law, Law college Coimbatore 1982
+Occupation : ADVOCATE
+Total Assets : 5 crore 65 lacs
+Liability : No
+Net Asset : 5 crore 65 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது
+. பொருந்தாது
+
+Symbol Name : TRIANGLE
+
+=====================
+
+Name : S.Chelladurai
+Age : 60
+Party Name : Independent
+Education : HSC
+Occupation : Interior Decorator
+Total Assets : 20000
+Liability : No
+Net Asset : 20000
+Criminal Cases : 0
+Case Details :  
+.  
+
+Symbol Name : VIOLIN
+
+=====================
+
+Name : K.SELVAKUMAR
+Age : 25
+Party Name : Independent
+Education : B Com, Chennai Loyola College, 2016
+Occupation : Business 
+Total Assets : 60 lacs
+Liability : 6 lacs
+Net Asset : 54 lacs
+Criminal Cases : 0
+Case Details : 
+. 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : B.Dhandabani
+Age : 47
+Party Name : Independent
+Education : 6th STD
+Occupation : Chinathamani Co-operative Society, Gas Delivery person and Pandimuni Pictures, Producer.
+Total Assets : 61 lacs
+Liability : 5 lacs
+Net Asset : 56 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : S.Nagavalli
+Age : 42
+Party Name : Independent
+Education : B.A., MBA.
+Occupation : House Wife
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது
+. பொருந்தாது
+
+Symbol Name : RING
+
+=====================
+
+Name : V.PALANIKUMAR
+Age : 35
+Party Name : Independent
+Education : ITI
+Occupation : Daily wages 
+Total Assets : 58000
+Liability : 36557
+Net Asset : 21443
+Criminal Cases : 1
+Case Details : இந்திய தண்டனை சட்டம விண்ணப்பதாரர் மற்றும் அவரது குடும்பத்திற்கு எதிராக அவரது மனைவி அவரை கொடுமை படுத்தியதாகவும், கொலை மிரட்டல் விடுத்ததாகவும் மற்றும் நம்பிக்கை மோசடி செய்ததாகவும் வழக்கு.   பிரிவுகள் - 498(யூ), 506(1), மற்றும் 406 இந்திய தண்டனை சட்டம்..  
+Symbol Name : FLUTE
+
+=====================
+
+Name : S.JAYACHANDRAN
+Age : 51
+Party Name : Independent
+Education : MBA
+Occupation : Self Employed
+Total Assets : 35 lacs
+Liability : 58 lacs
+Net Asset : - crore 22 lacs
+Criminal Cases : 0
+Case Details :  
+.   
+
+Symbol Name : T
+
+=====================
+
+Name : N.JAYAPRAKASH
+Age : 36
+Party Name : Independent
+Education : B.com
+Occupation : coconut Business
+Total Assets : 50 lacs
+Liability : 10 lacs
+Net Asset : 40 lacs
+Criminal Cases : 0
+Case Details :  .  
+
+Symbol Name : HAND_CARPET
+
+=====================
+

@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : VILAVANCODE
+No of Candidates : 15
+No of Independent Candidates : 6
+
+=====================
+
+Name : L.IDEN SONI
+Age : 45
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.A, L.L.B.
+Occupation : Lawyer
+Total Assets : 2 crore 00 lacs
+Liability : 7 lacs
+Net Asset : 1 crore 93 lacs
+Criminal Cases : 2
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : S.VIJAYADHARANI
+Age : 51
+Party Name : Indian National Congress
+Education : B.L.
+Occupation : LAWYER
+Total Assets : 9 crore 11 lacs
+Liability : 2 crore 19 lacs
+Net Asset : 6 crore 92 lacs
+Criminal Cases : 8
+Case Details : 
+Symbol Name : Hand
+
+=====================
+
+Name : R.JAYASEELAN
+Age : 56
+Party Name : Bharatiya Janata Party
+Education : M.com, M phil, B.Ed, LLB
+Occupation : Lawyer
+Total Assets : 82 lacs
+Liability : 1 lacs
+Net Asset : 81 lacs
+Criminal Cases : 2
+Case Details : 
+Symbol Name : LOTUS_BJP
+
+=====================
+
+Name : L.MARY ADLIN
+Age : 28
+Party Name : Naam Tamilar Katchi
+Education : MSc (csc)
+Occupation : Head Manager
+Total Assets : 71650
+Liability : No
+Net Asset : 71650
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : R.Rajakumar
+Age : 45
+Party Name : Makkal Needhi Maiam
+Education : MBA
+Occupation : Trading
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.RAJESHKUMAR
+Age : 27
+Party Name : National Democratic Party of South India
+Education : SSLC, DMRT
+Occupation : Radiology (Private Hospial)
+Total Assets : 74422
+Liability : No
+Net Asset : 74422
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : E.Vasantheeswaran
+Age : 49
+Party Name : Ulaga Makkal Katchi
+Education : 8th Standard
+Occupation : NA
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : G.Wilson
+Age : 49
+Party Name : Shiva sena
+Education : 10th pass
+Occupation : Daily wages
+Total Assets : 17 lacs
+Liability : No
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S .Amose
+Age : 68
+Party Name : Independent
+Education : 11th completed
+Occupation : Farmer, social worker
+Total Assets : 34 lacs
+Liability : No
+Net Asset : 34 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SEWING_MACHINE
+
+=====================
+
+Name : S.Shateesh Sathya Nesan
+Age : 31
+Party Name : Independent
+Education : 10th pass
+Occupation : Driver
+Total Assets : 15 lacs
+Liability : No
+Net Asset : 15 lacs
+Criminal Cases : 6
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : G.Samuel George Kalai Arasar
+Age : 58
+Party Name : Independent
+Education : MBBS, MD(Gen Med)
+Occupation : Doctor
+Total Assets : 2 crore 62 lacs
+Liability : 2 crore 00 lacs
+Net Asset : 63 lacs
+Criminal Cases : 8
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : Y.MARIASELVAN
+Age : 49
+Party Name : Communist Party of India (Marxist-Leninist) (Liberation)
+Education : 12th pass
+Occupation : Small Business
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 2
+Case Details : 
+Symbol Name : FLAG_AND_THREE_STARS
+
+=====================
+
+Name : M.Mohan Kumar
+Age : 58
+Party Name : Independent
+Education : 5th pass
+Occupation : Daily wage, Social Worker
+Total Assets : 10000
+Liability : No
+Net Asset : 10000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CHAPPALS
+
+=====================
+
+Name : K H.Raja Murugan
+Age : 30
+Party Name : Independent
+Education : B.Tech, LLB
+Occupation : Self Employment
+Total Assets : 10000
+Liability : No
+Net Asset : 10000
+Criminal Cases : 1
+Case Details : 
+Symbol Name : ALMIRAH
+
+=====================
+
+Name : P.VIJAYKUMAR
+Age : 40
+Party Name : Independent
+Education : B.A. History
+Occupation : Contractor- Construction
+Total Assets : 18 lacs
+Liability : No
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FLUTE
+
+=====================
+

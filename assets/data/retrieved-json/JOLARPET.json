@@ -163,7 +163,7 @@
                 "liabilities": "3,747,482",
                 "net_assets": "25,956,847",
                 "no_of_criminal_cases": 3,
-                "cases_description": "Political Offence. ",
+                "cases_description": "Unlawful assembly, Negligent act likely to spread infectious disease dangerous to life, Malignant act likely to spread infectious disease dangerous to life, Illegal payments in connection with election.. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/JOLARPET_34.jpg",
                 "party": {
                     "id": "Dravida Munnetra Kazhagam",
@@ -232,7 +232,7 @@
                 "liabilities": "3,747,482",
                 "net_assets": "25,956,847",
                 "no_of_criminal_cases": 3,
-                "cases_description": "143,269,270,171(H) IPC \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd . ",
+                "cases_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b89\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0ba8\u0bcb\u0baf\u0bcd\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0baa\u0ba3\u0bae\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/JOLARPET_34.jpg",
                 "party": {
                     "id": "Dravida Munnetra Kazhagam",
@@ -287,11 +287,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
-                "cases_pending_description": "143,269,270,171(H) IPC \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd ",
-                "self_education_description": "",
+                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b89\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0ba8\u0bcb\u0baf\u0bcd\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0baa\u0ba3\u0bae\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.",
+                "cases_convicted_description": "",
                 "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
-                "cases_convicted_description": ""
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf ",
+                "self_education_description": ""
             }
         },
         {
@@ -747,7 +747,7 @@
                 "liabilities": "34,883,087",
                 "net_assets": "104,440,125",
                 "no_of_criminal_cases": 1,
-                "cases_description": "Dowry Issue . ",
+                "cases_description": "Husband subjecting wife to cruelty, Obscene language uttered in public, Marrying again during lifetime of wife.. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THENNARASUSAAMRAJ_Jolarpet.jpg",
                 "party": {
                     "id": "Amma Makkal Munnetra Kazhagam",
@@ -815,7 +815,7 @@
                 "liabilities": "34,883,087",
                 "net_assets": "104,440,125",
                 "no_of_criminal_cases": 1,
-                "cases_description": "\u0bb5\u0bb0\u0ba4\u0b9f\u0bcd\u0b9a\u0ba9\u0bc8 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0ba9\u0bc8. ",
+                "cases_description": "\u0b95\u0ba3\u0bb5\u0bb0\u0bbe\u0bb2\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8\u0b95\u0bb3\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0ba4\u0bc2\u0bb1\u0bbe\u0b95 \u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0ba4\u0bc1, \u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbe\u0bb4\u0bcd\u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0ba3\u0bb5\u0ba9\u0bcd \u0bae\u0bb1\u0bc1\u0bae\u0ba3\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bc1. . ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THENNARASUSAAMRAJ_Jolarpet.jpg",
                 "party": {
                     "id": "Amma Makkal Munnetra Kazhagam",
@@ -869,11 +869,155 @@
                     }
                 ],
                 "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
-                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
-                "cases_pending_description": "\u0bb5\u0bb0\u0ba4\u0b9f\u0bcd\u0b9a\u0ba9\u0bc8 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0ba9\u0bc8",
-                "self_education_description": "",
+                "cases_pending_description": "\u0b95\u0ba3\u0bb5\u0bb0\u0bbe\u0bb2\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8\u0b95\u0bb3\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb5\u0ba4\u0bc2\u0bb1\u0bbe\u0b95 \u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0ba4\u0bc1, \u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbe\u0bb4\u0bcd\u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0ba3\u0bb5\u0ba9\u0bcd \u0bae\u0bb1\u0bc1\u0bae\u0ba3\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bc1. ",
+                "cases_convicted_description": "",
                 "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
-                "cases_convicted_description": ""
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "self_education_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "9306fcae-7448-4603-9212-3bb24303998a",
+                "name": "R.Karunanidhi",
+                "education": "6th Standard",
+                "occupation": "Grocery Shop",
+                "age": "47",
+                "annual_income": "0",
+                "source_of_income": "Grocery Shop",
+                "moveable_assets": "3,000",
+                "immoveable_assets": "1,000,000",
+                "total_assets": "1,003,000",
+                "liabilities": "85,000",
+                "net_assets": "918,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KARUNANIDHI_R__Jolarpet.jpg",
+                "party": {
+                    "id": "Agila Indhiya Samathuva Makkal Katchi",
+                    "en_label": "Agila Indhiya Samathuva Makkal Katchi",
+                    "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "JOLARPET",
+                    "constituency_en_label": "Jolarpet",
+                    "constituency_ta_label": "\u0b9c\u0bcb\u0bb2\u0bbe\u0bb0\u0bcd\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9306fcae-7448-4603-9212-3bb24303998a",
+                "name": "R.\u0b95\u0bb0\u0bc1\u0ba3\u0bbe\u0ba8\u0bbf\u0ba4\u0bbf ",
+                "education": "6th Standard",
+                "occupation": "\u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8 ",
+                "age": "47",
+                "annual_income": "0",
+                "source_of_income": "Grocery Shop",
+                "moveable_assets": "3,000",
+                "immoveable_assets": "1,000,000",
+                "total_assets": "1,003,000",
+                "liabilities": "85,000",
+                "net_assets": "918,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KARUNANIDHI_R__Jolarpet.jpg",
+                "party": {
+                    "id": "Agila Indhiya Samathuva Makkal Katchi",
+                    "en_label": "Agila Indhiya Samathuva Makkal Katchi",
+                    "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "JOLARPET",
+                    "constituency_en_label": "Jolarpet",
+                    "constituency_ta_label": "\u0b9c\u0bcb\u0bb2\u0bbe\u0bb0\u0bcd\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+                    "district_id": "VELLORE",
+                    "district_en_label": "Vellore",
+                    "district_ta_label": "\u0bb5\u0bc7\u0bb2\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "cases_convicted_description": "",
+                "self_profession_occupation": "\u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8 ",
+                "self_source_of_income": "\u0bae\u0bb3\u0bbf\u0b95\u0bc8 \u0b95\u0b9f\u0bc8 ",
+                "self_education_description": ""
             }
         },
         {
@@ -1094,7 +1238,7 @@
             },
             "ta": {
                 "candidate_id": "92fa9d57-c84b-48d1-8c40-428f0c164591",
-                "name": "V.K.\u0ba4\u0bc7\u0bb5\u0bb0\u0bbe\u0b9c\u0bbf ",
+                "name": "V.K.\u0ba4\u0bc7\u0bb5\u0bb0\u0bbe\u0b9c\u0bcd  ",
                 "education": "10th pass",
                 "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
                 "age": "61",
@@ -1161,11 +1305,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
                 "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
-                "self_education_description": "",
+                "cases_convicted_description": "",
                 "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
-                "cases_convicted_description": ""
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd ",
+                "self_education_description": ""
             }
         },
         {

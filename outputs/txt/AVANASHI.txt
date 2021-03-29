@@ -1,0 +1,183 @@
+Constituency Document
+=====================
+
+Constituency Name : AVANASHI
+No of Candidates : 12
+No of Independent Candidates : 4
+
+=====================
+
+Name : R.Athiyamaan Raju
+Age : 68
+Party Name : Dravida Munnetra Kazhagam
+Education : SSLC - School in Vadakovai
+Occupation : Retired Government Employee, Social worker
+Total Assets : 4 crore 97 lacs
+Liability : No
+Net Asset : 4 crore 97 lacs
+Criminal Cases : 2
+Case Details : 
+தவறான கட்டுப்பாடு என்று கூறப்படுகிறது.  
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.Dhanapal
+Age : 69
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.A (History)
+Occupation : Farmer
+Total Assets : 4 crore 94 lacs
+Liability : 1 crore 81 lacs
+Net Asset : 3 crore 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.Durai samy
+Age : 54
+Party Name : Bahujan Samaj Party
+Education : Government School Sevur, Avanashi
+Occupation : Tailoring cutting master
+Total Assets : 80000
+Liability : No
+Net Asset : 80000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.Meera
+Age : 28
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.E. Teja Sakthi Institute, Coimbatore 2013-2014
+Occupation : Grocery Business
+Total Assets : 83 lacs
+Liability : 10 lacs
+Net Asset : 73 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : K.Subramani
+Age : 62
+Party Name : India Dravida Makkal Munnetra Party
+Education : School in Punjaipuliyampati 
+Occupation : Security Guard
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details :  .  
+
+Symbol Name : RING
+
+=====================
+
+Name : G.Shobha
+Age : 36
+Party Name : Naam Tamilar Katchi
+Education : B.A. Economics - Calicut University - 2005
+Occupation : Homemaker
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details :  .  
+
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.VENKATESWARAN
+Age : 50
+Party Name : Makkal Needhi Maiam
+Education : MBBS, DPM, MD( PSYCHIATRY)
+Occupation : PSYCHIATRIST
+Total Assets : 2 crore 84 lacs
+Liability : 82 lacs
+Net Asset : 2 crore 03 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : P.Annamalai
+Age : 40
+Party Name : Independent
+Education : 2nd std
+Occupation : Mason
+Total Assets : 9 lacs
+Liability : 6 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை
+. ஏதுமில்லை
+
+Symbol Name : HELMET
+
+=====================
+
+Name : P.Arumugam
+Age : 45
+Party Name : Independent
+Education : Illiterate
+Occupation : Labour
+Total Assets : 53000
+Liability : No
+Net Asset : 53000
+Criminal Cases : 4
+Case Details : கலவரம், முறையற்று தடுத்தல், பயங்கரமான ஆயுதம் வைத்திருத்தல், சேதம் விளைவிக்கும் செயல், அத்துமீறி வீட்டினுள் நுழைதல், கொலை முயற்சி, கீழ்ப்படியாமை. 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : T.Sakunthala
+Age : 35
+Party Name : Independent
+Education : School in Nanjapagoundanputhur
+Occupation : Social Worker
+Total Assets : 94000
+Liability : No
+Net Asset : 94000
+Criminal Cases : 14
+Case Details : போராட்டம் .  
+
+Symbol Name : POT
+
+=====================
+
+Name : R.Murugesan
+Age : 54
+Party Name : Independent
+Education : School in Avanashi - 1986 
+Occupation : Company Job
+Total Assets : 97500
+Liability : No
+Net Asset : 97500
+Criminal Cases : 0
+Case Details :  .  
+Symbol Name : DIAMOND
+
+=====================
+
+Name : P.Ranagsamy
+Age : 42
+Party Name : Shiv Sena
+Education : Government School, Avanashi 1996-1997
+Occupation : Land Broker
+Total Assets : 54000
+Liability : No
+Net Asset : 54000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+

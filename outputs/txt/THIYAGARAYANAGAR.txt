@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : THIYAGARAYANAGAR
+No of Candidates : 14
+No of Independent Candidates : 3
+
+=====================
+
+Name : J.KARUNANIDHI
+Age : 51
+Party Name : Dravida Munnetra Kazhagam
+Education : 9TH STD
+Occupation : SELF EMPLOYMENT
+Total Assets : 3 crore 44 lacs
+Liability : 1 crore 65 lacs
+Net Asset : 1 crore 79 lacs
+Criminal Cases : 3
+Case Details : பொதுமக்களுக்கான அரசியல் போராட்டங்களில் சட்டத்தை மீறியது. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : B.SATHIYANAARAYANAN
+Age : 57
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.COM
+Occupation : BUSINESS
+Total Assets : 17 crore 44 lacs
+Liability : 16 crore 46 lacs
+Net Asset : 98 lacs
+Criminal Cases : 1
+Case Details : நம்பிக்கை மோசடி. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : R.JOHNSON
+Age : 38
+Party Name : Bahujan Samaj Party
+Education : SSLC
+Occupation : Self employed
+Total Assets : 35 lacs
+Liability : 2 lacs
+Net Asset : 33 lacs
+Criminal Cases : 2
+Case Details : guilty of rioting,  sings, recites or utters any obscene song, Voluntarily causing hurt by dangerous weapons, voluntarily causes hurt to any person being a public servant, criminal intimidation. 
+Symbol Name-
+
+=====================
+
+Name : A.K.D.ELLAPPAN
+Age : 53
+Party Name : MAHATHMA MAKKAL MUNNETRA KAZHAKAM
+Education : D.M.E
+Occupation : ASSISTANT DIRECTOR IN CINEMA
+Total Assets : No
+Liability : 3 lacs
+Net Asset : -3 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ROBOT
+
+=====================
+
+Name : P.KARUPAIAH
+Age : 77
+Party Name : Makkal Needhi Maiam
+Education : 10th pass
+Occupation : FILM ACTOR, ORATOR & WRITER
+Total Assets : 1 crore 25 lacs
+Liability : 20 lacs
+Net Asset : 1 crore 05 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.SIVASANKARI
+Age : 33
+Party Name : Naam Tamilar Katchi
+Education : BTECH
+Occupation : IT PROFESSIONAL
+Total Assets : 33 lacs
+Liability : 4 lacs
+Net Asset : 29 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : R.DHANASEKARAN
+Age : 60
+Party Name : Desiya Makkal Sakthi Katchi
+Education : SECONDARY SCHOOL LEAVING CERTIFICATE
+Occupation : ADVISOR
+Total Assets : 14 lacs
+Liability : 8 lacs
+Net Asset : 6 lacs
+Criminal Cases : 2
+Case Details : நம்பிக்கை மோசடி, ஏமாற்றுதல், ஆபாசமான செயல்கள் மற்றும் பாடல்கள் பாடுதல். 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : M.DHANUSH
+Age : 25
+Party Name : United States of India Party
+Education : M.COM
+Occupation : ACCOUNTANT- SUDHAKAR TAX CONSULTANT
+Total Assets : 74529
+Liability : No
+Net Asset : 74529
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TILLER
+
+=====================
+
+Name : V.THIRUNAVUKKARASU
+Age : 43
+Party Name : Makkalatchi Katchi
+Education : 10th pass
+Occupation : ADVOCATE HELPER
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TELEPHONE
+
+=====================
+
+Name : R.Bharaneeswaran
+Age : 40
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : B.Sc.
+Occupation : Business
+Total Assets : 1 crore 13 lacs
+Liability : 21 lacs
+Net Asset : 92 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : Vetriselvi
+Age : 47
+Party Name : Anaithu Makkal Katchi
+Education : M.Sc. Psychology
+Occupation : House Wife 
+Total Assets : 96 lacs
+Liability : 16 lacs
+Net Asset : 80 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : S.KANNAN
+Age : 29
+Party Name : Independent
+Education : B.A LL.B
+Occupation : ADVOCATE
+Total Assets : 75000
+Liability : No
+Net Asset : 75000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : WALLET
+
+=====================
+
+Name : R.PALAYAN
+Age : 30
+Party Name : Independent
+Education : B.A.,;  LL.B
+Occupation : ADVOCATE
+Total Assets : 39000
+Liability : No
+Net Asset : 39000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : MIKE
+
+=====================
+
+Name : D.RAJASEKARAN
+Age : 38
+Party Name : Independent
+Education : Diploma in ECE, B.B.A
+Occupation : Engineer
+Total Assets : 8 lacs
+Liability : 2 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : LAPTOP
+
+=====================
+

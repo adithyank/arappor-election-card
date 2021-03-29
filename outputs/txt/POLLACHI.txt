@@ -1,0 +1,128 @@
+Constituency Document
+=====================
+
+Constituency Name : POLLACHI
+No of Candidates : 8
+No of Independent Candidates : 2
+
+=====================
+
+Name : C.M.Aruchamy
+Age : 56
+Party Name : Bahujan Samaj Party
+Education : 6th Pass
+Occupation : Self Employed
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : V.Pollachi Jayaraman
+Age : 67
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : Doctorate in Economics, University of Madras, May 2015
+Occupation : Business, Agriculture
+Total Assets : 30 crore 88 lacs
+Liability : 2 crore 49 lacs
+Net Asset : 28 crore 39 lacs
+Criminal Cases : 0
+Case Details :  . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : K.Varadharajan
+Age : 67
+Party Name : Dravida Munnetra Kazhagam
+Education : MBBS. MS Ortho
+Occupation : Doctor
+Total Assets : 18 crore 03 lacs
+Liability : 87 lacs
+Net Asset : 17 crore 15 lacs
+Criminal Cases : 14
+Case Details : 1.அமைச்சர்களை எதிர்த்து செய்த அறப்போராட்டம்
+2. அதிமுக அரசின் ஊழலை கண்டித்து கண்டன ஆர்ப்பாட்டம்
+3.ஊரடங்கு சமயத்தில் மக்களுக்கு நிவாரணம் வழங்கியது 
+4. ஊரடங்கு சமயத்தில் கூட்டமாக கூட்டியது  
+5.மின்சாரம் கட்டணம் உயர்த்தியதற்காக அரசை எதிர்த்து ஆர்ப்பாட்டம் நடத்தியது
+6.ஊரடங்கு சமயத்தில் மக்களுக்கு நிவாரணம் வழங்கியது
+7.இளைஞர் அணி செயலாளர் உதயநிதி அவர்களை கைது செய்ததை கண்டித்து ஆர்ப்பாட்டம். இல்லை 
+
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : T.Sathiesh Kumar
+Age : 46
+Party Name : Makkal Needhi Maiam
+Education : HSC
+Occupation : Agriculture
+Total Assets : 6 crore 40 lacs
+Liability : 4 lacs
+Net Asset : 6 crore 37 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.Sugumar
+Age : 60
+Party Name : Amma Makkal Munnettra Kazagam
+Education : B.Com, PSG Arts and Science College Coimbatore
+Occupation : Agriculture and Business
+Total Assets : 20 crore 02 lacs
+Liability : 1 crore 42 lacs
+Net Asset : 18 crore 60 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : N.Logeswari
+Age : 32
+Party Name : Naam Tamilar Katchi
+Education : B.Sc (Computer Science)
+Occupation : Self Employment
+Total Assets : 67 lacs
+Liability : 8 lacs
+Net Asset : 59 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.Shanthu Mohamed
+Age : 38
+Party Name : Independent
+Education : S.S.L.C
+Occupation : Daily Wage Worker
+Total Assets : 1015
+Liability : No
+Net Asset : 1015
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : COAT
+
+=====================
+
+Name : R.Muthukumarasamy
+Age : 46
+Party Name : Independent
+Education : HSC
+Occupation : Press Reporter
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+

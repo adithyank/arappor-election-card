@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : CUDDALORE
+No of Candidates : 15
+No of Independent Candidates : 5
+
+=====================
+
+Name : G.Iyyapan
+Age : 63
+Party Name : Dravida Munnetra Kazhagam
+Education : M.A
+Occupation : Real Estate, Agriculture
+Total Assets : 2 crore 34 lacs
+Liability : 75 lacs
+Net Asset : 1 crore 59 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.C.Sampath
+Age : 62
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Sc
+Occupation : MLA
+Total Assets : 13 crore 05 lacs
+Liability : 74 lacs
+Net Asset : 12 crore 30 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : A.GNANAPANDITHAN
+Age : 45
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.A., B.L.
+Occupation : Advocate & Farmer
+Total Assets : 1 crore 49 lacs
+Liability : 30 lacs
+Net Asset : 1 crore 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : R.Vallalkumar
+Age : 37
+Party Name : Bahujan Samaj Party
+Education : M.A. B.Ed
+Occupation : Advocate Clerk
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.ANANDRAJ
+Age : 38
+Party Name : Makkal Needhi Maiam
+Education : 10th pass
+Occupation : Driver
+Total Assets : 8 lacs
+Liability : 3 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.PUSHBARAJ
+Age : 29
+Party Name : Tamilnadu Youth Party
+Education : M.A., M.S.W
+Occupation : Agriculture
+Total Assets : 7 lacs
+Liability : 2 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : A.Mohamed Usman
+Age : 54
+Party Name :  Anna Puratchithalaivar Amma Dravida Munnetra Kazhagam
+Education : 10th STD
+Occupation : Business
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : S.V.Rajarajan
+Age : 46
+Party Name : Desiya Makkal Sakthi Katchi
+Education : A.M.I.E
+Occupation : Self Employed
+Total Assets : 1 crore 81 lacs
+Liability : 88 lacs
+Net Asset : 93 lacs
+Criminal Cases : 1
+Case Details : நிறுவன பங்குதாரரால் ஏற்பட்ட வழக்கு . 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : V.JALADEEPAN
+Age : 40
+Party Name : Naam Tamilar Katchi
+Education : B.B.A.,
+Occupation : Project trainer
+Total Assets : 12 lacs
+Liability : 5 lacs
+Net Asset : 7 lacs
+Criminal Cases : 3
+Case Details : மத்திய அரசை கண்டித்து போராட்டம், காவேரி நீர் மற்றும் தொழிற்சங்க தொழிலாளர்களுக்கான போராட்டம். 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : G.Krishnan
+Age : 70
+Party Name : Independent
+Education : B.A
+Occupation : Fishing 
+Total Assets : 23 lacs
+Liability : 53000
+Net Asset : 22 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WATER_TANK
+
+=====================
+
+Name : S.SAMPATH
+Age : 49
+Party Name : Independent
+Education : 5th pass
+Occupation : Daily Wager
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : K.Thangarasu
+Age : 64
+Party Name : Independent
+Education : 10th STD
+Occupation : AGRICULTURE
+Total Assets : 1 crore 00 lacs
+Liability : No
+Net Asset : 1 crore 00 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : V.DAKSHANAMOORTHY
+Age : 44
+Party Name : Independent
+Education : 10th STD
+Occupation : Laundry Business & Insurance Agent
+Total Assets : 2 lacs
+Liability : 85000
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : S.Deenadhayalan
+Age : 28
+Party Name : Independent
+Education : M.B.A
+Occupation : Document Register Writer(pvt)
+Total Assets : 1 lacs
+Liability : 50000
+Net Asset : 85500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : VIOLIN
+
+=====================
+
+Name : J.JACOB
+Age : 36
+Party Name : Vedha Peravai
+Education : B.E
+Occupation : Business
+Total Assets : 74 lacs
+Liability : 10 lacs
+Net Asset : 64 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WATERMELON
+
+=====================
+

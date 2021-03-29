@@ -1,0 +1,220 @@
+Constituency Document
+=====================
+
+Constituency Name : THIRUVERUMBUR
+No of Candidates : 15
+No of Independent Candidates : 4
+
+=====================
+
+Name : A.P.ANBIL MAHESH POOYYAMOZHI
+Age : 43
+Party Name : Dravida Munnetra Kazhagam
+Education : MCA
+Occupation : POLITICIAN
+Total Assets : 9 crore 01 lacs
+Liability : 5 lacs
+Net Asset : 8 crore 96 lacs
+Criminal Cases : 9
+Case Details : வேளாண் சட்டத்தை எதிர்த்து போராட்டம், 
+சட்டவிரோதமாக ஒன்றுகூடுதல், உதயநிதி ஸ்டாலின் கைதுக்கு எதிர்ப்பு. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.Kumar
+Age : 49
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : Bachelor of Law
+Occupation : Advocate, Agriculture, Social service
+Total Assets : 6 crore 32 lacs
+Liability : No
+Net Asset : 6 crore 32 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.Senthil Kumar
+Age : 51
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : Not given
+Occupation : Agriculture
+Total Assets : 74 lacs
+Liability : No
+Net Asset : 74 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : R.MALATHI
+Age : 34
+Party Name : Bahujan Samaj Party
+Education : 9th Standard
+Occupation : NIL
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.M.KARTHIK
+Age : 38
+Party Name : TAMIL NADU YOUTH PARTY
+Education : B.E., M.Tech.
+Occupation : SOCIAL WORKER, PART TIME TEACHER
+Total Assets : 6 lacs
+Liability : 4 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : S.Sakthivel
+Age : 65
+Party Name : NEW GENERATION PEOPLE'S PARTY
+Education : Bachelor of Engineering
+Occupation : Self retired employee of PSU
+Total Assets : 1 crore 65 lacs
+Liability : No
+Net Asset : 1 crore 65 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : V.CHOLASOORAN
+Age : 40
+Party Name : Naam Tamilar Katchi
+Education : B.Sc., M.C.A.
+Occupation : LAKSHMI TRADERS (Rice and Grocery Wholesale) OWNER
+Total Assets : 21956
+Liability : No
+Net Asset : 21956
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.Palanisamy
+Age : 32
+Party Name : Veerathiyagi Viswanathathas Thozhilargal Katchi
+Education : 5th Standard
+Occupation : Business
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : M.MURUGANANDAM
+Age : 45
+Party Name : Makkal Needhi Maiam
+Education : B.E., M.B.A., M.S., MFT., PGDMM., DEM.
+Occupation :  Director, Excel Group of Companies
+Total Assets : 15 crore 39 lacs
+Liability : No
+Net Asset : 15 crore 39 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.Charles
+Age : 65
+Party Name : Independent
+Education : PUC
+Occupation : Retried from Land Registration Department
+Total Assets : 75 lacs
+Liability : No
+Net Asset : 75 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : R.Priya
+Age : 40
+Party Name : Lok Janasakthi Party
+Education : B.A., B.L.,
+Occupation : Advocate
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : WINDOWS
+
+=====================
+
+Name : N.Muniyandi
+Age : 49
+Party Name : Independent
+Education : 10th Standard
+Occupation : Car dealer & driver
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : A.Raja Mohamed
+Age : 47
+Party Name : Independent
+Education : 7th std
+Occupation : Transport & water supplier
+Total Assets : 11 lacs
+Liability : 3 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : N.RAJU
+Age : 55
+Party Name : MGR PURATCHI MUNNETTRA KAZHAGAM JANANAYAGAM
+Education : 5th Standard
+Occupation : SOCIAL ACTIVIST
+Total Assets : 2068
+Liability : No
+Net Asset : 2068
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : R.JESTIN RAJA
+Age : 45
+Party Name : Independent
+Education : BBA
+Occupation : Manager
+Total Assets : 2 lacs
+Liability : 1 lacs
+Net Asset : 52000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BREAD
+
+=====================
+

@@ -24,7 +24,7 @@
                     "short_name": "INC",
                     "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd",
                     "en_label": "Indian National Congress",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/Hand.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "UDHAGAMANDALAM",
@@ -93,7 +93,7 @@
                     "short_name": "INC",
                     "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd",
                     "en_label": "Indian National Congress",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/Hand.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "UDHAGAMANDALAM",
@@ -170,7 +170,7 @@
                     "short_name": "BJP",
                     "ta_label": "\u0baa\u0bbe\u0bb0\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba4\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
                     "en_label": "Bharatiya Janata Party",
-                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/LOTUS.JPG"
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/LOTUS_BJP.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "UDHAGAMANDALAM",
@@ -239,7 +239,7 @@
                     "short_name": "BJP",
                     "ta_label": "\u0baa\u0bbe\u0bb0\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba4\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
                     "en_label": "Bharatiya Janata Party",
-                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/LOTUS.JPG"
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/LOTUS_BJP.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "UDHAGAMANDALAM",

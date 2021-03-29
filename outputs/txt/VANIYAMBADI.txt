@@ -1,0 +1,191 @@
+Constituency Document
+=====================
+
+Constituency Name : VANIYAMBADI
+No of Candidates : 13
+No of Independent Candidates : 3
+
+=====================
+
+Name : G.Senthil kumar
+Age : 36
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : BE Civil Engineering
+Occupation : Civil Contractor
+Total Assets : 2 crore 50 lacs
+Liability : 66 lacs
+Net Asset : 1 crore 84 lacs
+Criminal Cases : 2
+Case Details : தடை செய்யப்பட்ட காலத்தில் அனுமதி இல்லாமல் பெயர் பதாகை வைத்த  குற்றம் . தடை செய்யப்பட்ட காலத்தில் அனுமதி இல்லாமல் பெயர் பதாகை வைத்த த குற்றம் 
+Symbol Name : AIADMK
+
+=====================
+
+Name : D.RAMU
+Age : 37
+Party Name : Bahujan Samaj Party
+Education : 8th standard
+Occupation : ELECTRICIAN
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : R.SEKAR
+Age : 42
+Party Name : ALL INDIA YOUTH DEVELOPMENT PARTY
+Education : 8th Standard 
+Occupation : FARMER WORKER
+Total Assets : 16000
+Liability : No
+Net Asset : 16000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CUP_&_SAUCER
+
+=====================
+
+Name : M.GNANADOSS
+Age : 37
+Party Name : Makkal Needhi Maiam
+Education : 12th Standard 
+Occupation : LAND SALES AGENT
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name :  AJ.Devendhiran
+Age : 47
+Party Name : Naam Tamilar Katchi
+Education : Electronics and Communication Engineering
+Occupation : Agriculture
+Total Assets : 21 lacs
+Liability : 13 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : N.MOHAMMED NAYEEM
+Age : 65
+Party Name : Indian Union Muslim League
+Education : S.S.L.C.,B.A.
+Occupation : REAL ESTATE
+Total Assets : 87 lacs
+Liability : 9 lacs
+Net Asset : 78 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADDER
+
+=====================
+
+Name : T.S.VAKEEL AHMED
+Age : 38
+Party Name : ALL INDIA MAJLIS-E-ITTEHADUL MUSLIMEEN
+Education : I.T.I
+Occupation : BUSINESS
+Total Assets : 53 lacs
+Liability : 34 lacs
+Net Asset : 18 lacs
+Criminal Cases : 5
+Case Details : நீர் பிரச்சனைக்காக போராட்டம்,மதம் சார்ந்த அவதூறு வழக்கு,சட்டவிரோதமாக கூடுதல்,தொற்று நோய் பரப்பும் வண்ணம் கவனக்குறைவு, முறையற்ற தடுப்பு. 
+Symbol Name : KITE
+
+=====================
+
+Name : B.JAGAN
+Age : 27
+Party Name : AKHIL BHARAT HINDU MAHASABHA
+Education : BSC, MULTIMEDIA AND ANIMATION
+Occupation :  BUSINESS
+Total Assets : 20 lacs
+Liability : No
+Net Asset : 20 lacs
+Criminal Cases : 2
+Case Details : இருசக்கர வாகன திருட்டு, ஏமாற்றுதல். 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : P.Abdul Wahid
+Age : 55
+Party Name : Independent
+Education : 7th
+Occupation : Self
+Total Assets : 10208
+Liability : No
+Net Asset : 10208
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : M.SURESH
+Age : 37
+Party Name : Independent
+Education : MBA
+Occupation : SELF BUSINESS
+Total Assets : 10 lacs
+Liability : 17 lacs
+Net Asset : -7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : A.SYED MOHAMMED SALEEM
+Age : 46
+Party Name : Independent
+Education : B.A., LL.B., (PURSUING)
+Occupation : SMALL SKIN MATERIAL BUSINESS
+Total Assets : 55000
+Liability : No
+Net Asset : 55000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ALMIRAH
+
+=====================
+
+Name : S.DELHIRAJI
+Age : 33
+Party Name : MYINDIA PARTY
+Education : 12th Standard 
+Occupation : BUSINESS
+Total Assets : 25000
+Liability : No
+Net Asset : 25000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : C M.Mohammed Hussain
+Age : 40
+Party Name : Desiya Makkal Sakthi Katchi
+Education : 9th Pass
+Occupation : Auto Driver
+Total Assets : 4 lacs
+Liability : 3 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : FOOTBALL
+
+=====================
+

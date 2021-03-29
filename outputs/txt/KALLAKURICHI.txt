@@ -1,0 +1,247 @@
+Constituency Document
+=====================
+
+Constituency Name : KALLAKURICHI
+No of Candidates : 17
+No of Independent Candidates : 8
+
+=====================
+
+Name : M.Suriyaprakash
+Age : 25
+Party Name : Independent
+Education : I.T.I 
+Occupation : Driver
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : Dhravida Muthamizh selvi
+Age : 37
+Party Name : Naam Tamilar Katchi
+Education : M.Phil.
+Occupation : House wife
+Total Assets : 19 lacs
+Liability : No
+Net Asset : 19 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.I.Manirathinam
+Age : 62
+Party Name : Indian National Congress
+Education : Ph.D 
+Occupation : social service,business
+Total Assets : 6 crore 36 lacs
+Liability : No
+Net Asset : 6 crore 36 lacs
+Criminal Cases : 4
+Case Details : நிலம் வாங்கியதில் முறைகேடு, ஏமாற்றுதல்,தாக்குதல்,,கலவரம்,அச்சுறுத்தல். 
+Symbol Name : Hand
+
+=====================
+
+Name : N.Vijaya kumar
+Age : 39
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.sc,B.Ed
+Occupation : Farmer
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : M.Senthilkumar
+Age : 43
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 12th pass
+Occupation : Business
+Total Assets : 55 lacs
+Liability : 11 lacs
+Net Asset : 44 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIADMK
+
+=====================
+
+Name : M.Dinesh
+Age : 44
+Party Name : My India Party
+Education : D.E.E.E
+Occupation : Farmer
+Total Assets : 92 lacs
+Liability : No
+Net Asset : 92 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : M.Ayyasamy
+Age : 40
+Party Name : Indiya Jannayaka Katchi
+Education : 9th STD
+Occupation : Agriculture
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : K.Devi Mangayarkarasi
+Age : 40
+Party Name : Independent
+Education : M.D.,PHd
+Occupation : House Wife
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : C.Prabu
+Age : 38
+Party Name : Independent
+Education : M.P.Ed
+Occupation : Farmer
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : M.Gurusamy
+Age : 42
+Party Name : Independent
+Education : 10th STD
+Occupation : Farmer
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : M.Selvaraj
+Age : 52
+Party Name : Independent
+Education : DEEE
+Occupation : Farmer
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : T
+
+=====================
+
+Name : A.Palanisamy
+Age : 50
+Party Name : Bahujan Samaj Party
+Education : 10th pass
+Occupation : Agricultural Daily wager
+Total Assets : 81000
+Liability : No
+Net Asset : 81000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.Kuppusamy
+Age : 45
+Party Name : Anna MGR Dravida Makkal Kalgam
+Education : 5th pass
+Occupation : Farmer
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PAN
+
+=====================
+
+Name : C.Oviyar Ananth
+Age : 40
+Party Name : Lok JanShakti Party
+Education : Drawing Teacher Training
+Occupation : Self employment
+Total Assets : 17 lacs
+Liability : No
+Net Asset : 17 lacs
+Criminal Cases : 2
+Case Details : காவல்துறை கண்டித்து ஆர்ப்பாட்டம் , பணம் கொடுத்தால் தகராறு. 
+Symbol Name : BUNGLOW
+
+=====================
+
+Name : K.Elaiyaperumal
+Age : 45
+Party Name : Independent
+Education : S.S.L.C
+Occupation : Farmer
+Total Assets : 30 lacs
+Liability : 13 lacs
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : S.Sivakumar
+Age : 37
+Party Name : Independent
+Education : ITI
+Occupation : Labour (Mechanic)
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRUCK
+
+=====================
+
+Name : P.Subramaniyan
+Age : 38
+Party Name : Independent
+Education : 8th pass
+Occupation : Farmer
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+

@@ -1,0 +1,209 @@
+Constituency Document
+=====================
+
+Constituency Name : UDUMALAIPETTAI
+No of Candidates : 14
+No of Independent Candidates : 6
+
+=====================
+
+Name : K.Kumar
+Age : 41
+Party Name : Bahujan Samaj Party
+Education : 8th Pas
+Occupation : Vegetables Business
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.Thennarasu
+Age : 55
+Party Name : Indian National Congress
+Education : B.Sc in PSG 1987 and B.L in Govt.Law college covai
+Occupation : Lawyer & Agriculture
+Total Assets : 2 crore 01 lacs
+Liability : 32 lacs
+Net Asset : 1 crore 69 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : Hand
+
+=====================
+
+Name : K.Rathakrishnan
+Age : 55
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.COM
+Occupation : JCB Owner, Farmer
+Total Assets : 2 crore 12 lacs
+Liability : 3 lacs
+Net Asset : 2 crore 09 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : T.Krishnan
+Age : 60
+Party Name : Anna Puratchi thalaivar Amma Dravida Munnetra kazhagam
+Education : Illiterate
+Occupation : Daily wage labor
+Total Assets : 81000
+Liability : No
+Net Asset : 81000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : K.Nachammal
+Age : 45
+Party Name : ANAITHU MAKKAL ARASIYAL KATCHI
+Education : SSLC
+Occupation : Daily Wage Worker
+Total Assets : 10000
+Liability : No
+Net Asset : 10000
+Criminal Cases : 0
+Case Details : 
+. 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : R.Palanisami
+Age : 49
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : HSC
+Occupation : Agriculture and Business
+Total Assets : 1 crore 69 lacs
+Liability : 14 lacs
+Net Asset : 1 crore 56 lacs
+Criminal Cases : 0
+Case Details : 
+. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : A.Babu Rajendra Prasath
+Age : 36
+Party Name : Naam Tamilar Katchi
+Education : M.A, M.Phil.
+Occupation : Business
+Total Assets : 16 lacs
+Liability : No
+Net Asset : 16 lacs
+Criminal Cases : 1
+Case Details : போராட்டம் நடத்துதல். 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : V.Shrinithi
+Age : 32
+Party Name : Makkal Needhi Maiam
+Education : B.E., M.S., NJIT, B.eD. 
+Occupation : Shareholder M/S Sashwat Shuttless Looms and Owner of Shrinithu Medicals
+Total Assets : 1 crore 02 lacs
+Liability : 35 lacs
+Net Asset : 68 lacs
+Criminal Cases : 0
+Case Details : 
+. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.Ashokkumar
+Age : 41
+Party Name : Independent
+Education :  S.S.L.C
+Occupation : Helper to Advocate 
+Total Assets : 9 lacs
+Liability : 31538
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRUCK
+
+=====================
+
+Name : P.Arumugam 
+Age : 35
+Party Name : Independent
+Education : 6th std
+Occupation : Fabrication work
+Total Assets : 31 lacs
+Liability : 28 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DRILL_MACHINE
+
+=====================
+
+Name : D.Umarali
+Age : 53
+Party Name : Independent
+Education : Illiterate
+Occupation : Iron Scrap Business
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+. 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : C.Elsy
+Age : 60
+Party Name : Independent
+Education : D.C.D (Diploma)
+Occupation : Business
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : S.Karthikeyan
+Age : 60
+Party Name : Independent
+Education : 11th
+Occupation : Subcontract for Building Elevation work and power tool services
+Total Assets : 29 lacs
+Liability : 3 lacs
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : D.Divya
+Age : 26
+Party Name : Independent
+Education : B.Com
+Occupation : N/A
+Total Assets : 20000
+Liability : No
+Net Asset : 20000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+

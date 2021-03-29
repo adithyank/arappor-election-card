@@ -1,0 +1,149 @@
+Constituency Document
+=====================
+
+Constituency Name : SIRKAZHI
+No of Candidates : 10
+No of Independent Candidates : 3
+
+=====================
+
+Name : M.PANNEERSELVAM
+Age : 66
+Party Name : Dravida Munnetra Kazhagam
+Education : M.A., B.L.,
+Occupation : AGRICULTURE
+Total Assets : 2 crore 08 lacs
+Liability : 40 lacs
+Net Asset : 1 crore 68 lacs
+Criminal Cases : 11
+Case Details : நோய் பரவும் என்று தெரிந்தே சட்டவிரோதமாக கூடி அரசு உத்தரவை மதிக்காமல் செயல்பட்டு வழி மறிப்பது, சட்டவிரோதமாக கூடி இருதரப்புக்கு இடையே பகையை தூண்டுவது, அமைதியை சீர் குலைப்பது, சட்டவிரோதமாக ஒன்று கூடி தாக்க முற்படுவது, கொலை மிரட்டல் செய்வது, பொது சொத்துக்களுக்கு சேதம் விளைவிப்பது, சட்டவிரோதமாக கூடி வழி மறிப்பது, குற்றச் செயல் செய்ய முயற்சிப்பது. அமைதியை குலைப்பது.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.V.BHARATHI
+Age : 62
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.COM
+Occupation : AGRICULTURE
+Total Assets : 1 crore 75 lacs
+Liability : 75000
+Net Asset : 1 crore 74 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : G.SRIDHAR
+Age : 37
+Party Name : Bahujan Samaj Party
+Education : M.Sc., B.Ed., Ph.D.,
+Occupation : SMALL SCALE FARMER 
+Total Assets : 19 lacs
+Liability : 8 lacs
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.Kamban
+Age : 35
+Party Name : Anaithu Makkal Arasiyal Katchi
+Education : D.M.E.,
+Occupation : Agriculutre
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : KAVITHA
+Age : 37
+Party Name : Naam Tamilar Katchi
+Education : 10th pass
+Occupation : HOUSE WIFE
+Total Assets : 5 lacs
+Liability : 35000
+Net Asset : 4 lacs
+Criminal Cases : 1
+Case Details : சட்டத்திற்கு புறம்பாக ஒன்று கூடுதல், அரசு ஊழியரை வேலை செய்ய விடாமல் தடுத்தல், தவறாக தடுத்தல். 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P.BALU
+Age : 63
+Party Name : AMMA MAKKAL MUNNETRA KAZHAGAM
+Education : M.A.,
+Occupation : RETIRED GOVT EMPLOYEE
+Total Assets : 63 lacs
+Liability : 10 lacs
+Net Asset : 53 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.Prabhu
+Age : 52
+Party Name : Makkal Needhi Maiam
+Education : H.S.C
+Occupation : Collection Agent, Manna Furniture
+Total Assets : 2 lacs
+Liability : 13 lacs
+Net Asset : - crore 11 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : R.Anusuya
+Age : 41
+Party Name : Independent
+Education : H.S.C
+Occupation : Agriculture Labour
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : BUCKET
+
+=====================
+
+Name : C.Silambarasan
+Age : 34
+Party Name : Independent
+Education : I.T.I 
+Occupation : Electrician (self-Employed)
+Total Assets : 86000
+Liability : No
+Net Asset : 86000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : A.BHARATHI
+Age : 33
+Party Name : Independent
+Education : M.A., B.L.,
+Occupation : Agriculture
+Total Assets : 51000
+Liability : No
+Net Asset : 51000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : BINOCULARS
+
+=====================
+

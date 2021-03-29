@@ -1,0 +1,149 @@
+Constituency Document
+=====================
+
+Constituency Name : ALANGULAM
+No of Candidates : 10
+No of Independent Candidates : 4
+
+=====================
+
+Name : P.H.PAUL MANOJ PANDIAN
+Age : 49
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.L, M.L
+Occupation : Advocate Profession
+Total Assets : 16 crore 95 lacs
+Liability : 2 crore 20 lacs
+Net Asset : 14 crore 75 lacs
+Criminal Cases : 3
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : Poongothai Aladi Aruna
+Age : 56
+Party Name : Dravida Munnetra Kazhagam
+Education : MBBS (MRCOG) LONDON
+Occupation : DOCTOR (MEDICAL PRACTITIONER)
+Total Assets : 14 crore 71 lacs
+Liability : 18 lacs
+Net Asset : 14 crore 53 lacs
+Criminal Cases : 9
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.RAJENDRANATHAN
+Age : 56
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.Sc & Diploma in Fashion Technology
+Occupation : Acting profession
+Total Assets : 66 lacs
+Liability : 1 lacs
+Net Asset : 65 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : A.UDHAYAKUMAR
+Age : 28
+Party Name : Puthiya Tamilagam
+Education : B.A(Economics)
+Occupation : Daily wage (Agricultre)
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : M.SANGEETHA ESAK
+Age : 36
+Party Name : Naam Tamilar Katchi
+Education : 10th pass
+Occupation : FARMER & TAILOR
+Total Assets : 50 lacs
+Liability : 4 lacs
+Net Asset : 46 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.SELVAKUMAR
+Age : 36
+Party Name : Makkal Needhi Maiam
+Education : B.Sc
+Occupation : Music concert coordinator
+Total Assets : 34 lacs
+Liability : 5 lacs
+Net Asset : 29 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.ARUNKUMAR
+Age : 30
+Party Name : Independent
+Education : B.E- Civil 
+Occupation : Business
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : S.SANKARGANESH
+Age : 46
+Party Name : Independent
+Education : 12th pass
+Occupation : JRS Consulting and Finance ,Alangulam
+Total Assets : 100 lacs
+Liability : 11 lacs
+Net Asset : 88 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FLUTE
+
+=====================
+
+Name : K.SIVARAM
+Age : 47
+Party Name : Independent
+Education : 5th pass
+Occupation : Business
+Total Assets : 16 lacs
+Liability : 11 lacs
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SHIP
+
+=====================
+
+Name : A.HARINADAR
+Age : 39
+Party Name : Independent
+Education : S.S.L.C
+Occupation : Business Man & Social Worker
+Total Assets : 10 crore 84 lacs
+Liability : 2 crore 00 lacs
+Net Asset : 8 crore 84 lacs
+Criminal Cases : 15
+Case Details : 
+Symbol Name : HELMET
+
+=====================
+

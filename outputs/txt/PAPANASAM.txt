@@ -1,0 +1,192 @@
+Constituency Document
+=====================
+
+Constituency Name : PAPANASAM
+No of Candidates : 13
+No of Independent Candidates : 5
+
+=====================
+
+Name : k.GOPINATHAN
+Age : 51
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 12th pass
+Occupation : FARMER
+Total Assets : 38 lacs
+Liability : 5 lacs
+Net Asset : 33 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.H.JAWAHIRULLAH
+Age : 61
+Party Name : Dravida Munnetra Kazhagam
+Education : AISLC,PUC,B.Com.,MBA., MPHIL., PHD.,
+Occupation : EDUCATIONAL CONSULTANT
+Total Assets : 2 crore 75 lacs
+Liability : No
+Net Asset : 2 crore 75 lacs
+Criminal Cases : 1
+Case Details : சங்கத்தை பதிவு செய்யாமல் வெளிநாட்டு நிதியை ஏற்றுக்கொள்வது மற்றும் உள்துறை அமைச்சகத்திடம் முன் அனுமதி பெறாதது
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : N.KRISHNA KUMAR
+Age : 46
+Party Name : Naam Tamilar Katchi
+Education : B.A., DISCONTINUED
+Occupation : FARMING
+Total Assets : 68 lacs
+Liability : 10 lacs
+Net Asset : 58 lacs
+Criminal Cases : 5
+Case Details : பொது மக்களுக்காக சாலை மறியல் மற்றும் வன்கொடுமை தடுப்பு சட்டம். 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.SHANTA
+Age : 40
+Party Name : Makkal Needhi Maiam
+Education : 12TH STD
+Occupation : FARMER
+Total Assets : 3 lacs
+Liability : 7 lacs
+Net Asset : -4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : R.MUTHUKUMAR
+Age : 33
+Party Name : Anaithu Makkal Puratchi Katchi
+Education : M.A, B.Ed., M.Phil.,
+Occupation : FARMER
+Total Assets : 20 lacs
+Liability : No
+Net Asset : 20 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : N.MEHRAJBANU
+Age : 45
+Party Name : INDIA JANANAYAGA MAKKAL KAZHAGAM
+Education : 9th Standard
+Occupation : Agriculture
+Total Assets : 23 lacs
+Liability : No
+Net Asset : 23 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : MIXEE
+
+=====================
+
+Name : M.RENGASAMY
+Age : 64
+Party Name : Amma makkal munetra kalagam
+Education : B.Sc., B.L., 
+Occupation : ADVOCATE
+Total Assets : 84 lacs
+Liability : No
+Net Asset : 84 lacs
+Criminal Cases : 2
+Case Details :  கொரானா வைரஸ் தொற்று காரணமாக அரசு விதித்திருக்கும் தடை உத்தரவை மீறி விவசாய பணிக்கு செல்லும் கிராம மக்களுக்கு இடையூறு செய்ததாக குற்றச்சாட்டு
+ குழுவினர்களுக்கு இடையே கழகம் மூட்டுதல் அவதூறு பிரச்சாரம் செய்தல் சட்டத்திற்கு புறம்பான கூட்டம் கூடியதாக குற்றச்சாட்டு. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : N.GOPI
+Age : 46
+Party Name : Independent
+Education : 7th Std,
+Occupation : FARMER
+Total Assets : 7510
+Liability : No
+Net Asset : 7510
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : R.GOPINATHAN
+Age : 37
+Party Name : Independent
+Education : B.E.,
+Occupation : INDIVIDUAL BUSINESS
+Total Assets : 15000
+Liability : No
+Net Asset : 15000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : S.XAVIER
+Age : 53
+Party Name : VEDHA PERAVAI SUYETCHAI
+Education : 10th pass
+Occupation : AGRICULTURE
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : V.THIYAGARAJAN
+Age : 34
+Party Name : Independent
+Education : B.E.,
+Occupation : FARMER
+Total Assets : 10000
+Liability : No
+Net Asset : 10000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DISH_ANTENNA
+
+=====================
+
+Name : A.RAJA
+Age : 35
+Party Name : Independent
+Education : B.Lit, B.Ed., UMAMAHESWARANAR COLLEGE, THANJAVUR - 2009&2010 (NOT COMPLETED)
+Occupation : WAGE FARMER
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 1
+Case Details : கொலை முயற்சி. 
+Symbol Name : TILLER
+
+=====================
+
+Name : A.RAJA
+Age : 60
+Party Name : Independent
+Education : B.com, B.L
+Occupation : Lawyer
+Total Assets : 34 lacs
+Liability : No
+Net Asset : 34 lacs
+Criminal Cases : 1
+Case Details : பொய் வழக்கு. 
+Symbol Name-
+
+=====================
+

@@ -1,0 +1,191 @@
+Constituency Document
+=====================
+
+Constituency Name : MADURAI_SOUTH
+No of Candidates : 13
+No of Independent Candidates : 6
+
+=====================
+
+Name : S.S.SARAVANAN
+Age : 45
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.Tech.,
+Occupation : CIVIL ENGINEER, MLA 
+Total Assets : 78 lacs
+Liability : No
+Net Asset : 78 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.BOOMINATHAN
+Age : 61
+Party Name : Dravida Munnetra Kazhagam
+Education : Not given by candidate
+Occupation : FARMER,REAL ESTATE
+Total Assets : 7 crore 00 lacs
+Liability : 85 lacs
+Net Asset : 6 crore 14 lacs
+Criminal Cases : 2
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.ABBAS
+Age : 50
+Party Name : Naam Tamilar Katchi
+Education : 7TH CLASS
+Occupation : TEXTILE BUSINESS
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : G.ESWARAN
+Age : 45
+Party Name : Makkal Needhi Maiam
+Education : B.SC, M.BA
+Occupation : MANAGING DIRECTOR DOCTOR (PIRVATE)
+Total Assets : 5 crore 76 lacs
+Liability : 5 crore 15 lacs
+Net Asset : 61 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.SADAM HUSSAIN
+Age : 31
+Party Name : My India Party
+Education : 9th Standard
+Occupation : Business
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : S.BHARATHIKANNAMMA
+Age : 66
+Party Name : NEW GENERATION PEOPLE'S PARTY
+Education : B.A ECONOMICS
+Occupation : advocacy to the public/police & legal,advocacy lokh adalat member/legal advisor,dist.free legal aid
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : SHA.RAAJALINGAM
+Age : 46
+Party Name : AmmaMakkalMunnettraKazagam
+Education : M.A, M.PHIL
+Occupation : BUSINESS
+Total Assets : 2 crore 06 lacs
+Liability : 1 crore 10 lacs
+Net Asset : 96 lacs
+Criminal Cases : 4
+Case Details : சட்ட விரோதமான கூட்டத்தில் சேர்ந்திருப்பது, விளம்பர தட்டி வைத்ததாக. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : K.R.Umesh
+Age : 60
+Party Name : Independent
+Education : B.Com- Incomplete
+Occupation : COOLIE
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAMERA
+
+=====================
+
+Name : V.C.RAVICHANDRAN
+Age : 53
+Party Name : Independent
+Education : 8TH DISCONTINUE
+Occupation : REAL ESTATE BROKER,CIVIL ACTIVIST
+Total Assets : 22000
+Liability : No
+Net Asset : 22000
+Criminal Cases : 2
+Case Details : தெருச்சண்டை, தீக்குளிக்க முயற்சி. 
+Symbol Name : CARROM_BOARD
+
+=====================
+
+Name : K.RAJKUMAR (A) MANIKANDAN
+Age : 47
+Party Name : Independent
+Education : 7 th pass
+Occupation : TAILOR
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : R.SARAVANAN
+Age : 33
+Party Name : Independent
+Education : 10th pass
+Occupation : REPORTER
+Total Assets : 12000
+Liability : 2 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DUSBIN
+
+=====================
+
+Name : K.JEYA
+Age : 45
+Party Name : Independent
+Education : 8th pass
+Occupation : Travels
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WALLET
+
+=====================
+
+Name : T.S.VENGADACHALAPATHY
+Age : 54
+Party Name : Independent
+Education : 10th pass
+Occupation : COOLI
+Total Assets : 17 lacs
+Liability : No
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FUNNEL
+
+=====================
+

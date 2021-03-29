@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : BHUVANAGIRI
+No of Candidates : 14
+No of Independent Candidates : 7
+
+=====================
+
+Name : A.Arunmozhithevan
+Age : 52
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Sc,B.L.
+Occupation : Agriculture, Advocate
+Total Assets : 3 crore 94 lacs
+Liability : 2 crore 20 lacs
+Net Asset : 1 crore 74 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : R.Ezhilvendhan
+Age : 31
+Party Name : Bahujan Samaj Party
+Education : M.Sc.,IT
+Occupation : Self employment
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.SARAVANAN
+Age : 54
+Party Name : Dravida Munnetra Kazhagam
+Education : M.E
+Occupation : MLA, FARMER, BUSINESS
+Total Assets : 10 crore 29 lacs
+Liability : 1 crore 00 lacs
+Net Asset : 9 crore 28 lacs
+Criminal Cases : 7
+Case Details : வேளாண்  மற்றும் குடியுரிமை திருத்த சட்டம் ,தூத்துக்குடி ஸ்டெர்லிட் விவகாரம் , ரேஷன் கடை மானியம் ,ரத யாத்திரை ,காவேரி நீர் ,தி .மு .க  தலைவர்கள் கைது தொடர்பாக அரசை கண்டித்து சாலை மறியல் மற்றும் ஆர்ப்பாட்டம் . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K.S.K.Balamurugan
+Age : 39
+Party Name : Amma Makkal Munnettra Kazagam
+Education : pre -Foundation Programme
+Occupation : Farmer
+Total Assets : 9 crore 96 lacs
+Liability : 1 crore 09 lacs
+Net Asset : 8 crore 87 lacs
+Criminal Cases : 2
+Case Details : உட்கட்சி பிரச்சனையில் ஏற்பட்ட வழக்கு, உருவ பொம்மை எரிப்பு. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.Rathinavel
+Age : 45
+Party Name : Naam Tamilar Katchi
+Education : S.S.L.C
+Occupation : self employment
+Total Assets : 38 lacs
+Liability : No
+Net Asset : 38 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : R.Revathi
+Age : 49
+Party Name : Indiya Jananayaka Katchi
+Education : 6th
+Occupation : House Wife
+Total Assets : 95 lacs
+Liability : 6 lacs
+Net Asset : 89 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S.Anandan
+Age : 43
+Party Name : Independent
+Education : 12th
+Occupation : Writer
+Total Assets : 10143
+Liability : No
+Net Asset : 10143
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : P.Ezhilvendan
+Age : 54
+Party Name : Independent
+Education : 12th
+Occupation : jewelry covering shop
+Total Assets : 23 lacs
+Liability : No
+Net Asset : 23 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : J.Saravanan
+Age : 57
+Party Name : Independent
+Education : diploma in co-operative
+Occupation : Textile shop manager
+Total Assets : 31 lacs
+Liability : No
+Net Asset : 31 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : T.Sivakumari
+Age : 43
+Party Name : Independent
+Education : 9th Pass
+Occupation : House Wife
+Total Assets : 5 lacs
+Liability : 15 lacs
+Net Asset : - crore 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUCKET
+
+=====================
+
+Name : M.Pazhanivel
+Age : 55
+Party Name : Samuga Samathuva Padai Katchi
+Education : Certification course
+Occupation : Farming Worker
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : G.C. .Balamurugan
+Age : 39
+Party Name : Independent
+Education : 10th Pass
+Occupation : Farmer
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : KETTLE
+
+=====================
+
+Name : R.Ranjith
+Age : 27
+Party Name : Independent
+Education : 12th
+Occupation : Agriculture Wages
+Total Assets : 40000
+Liability : No
+Net Asset : 40000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SHOE
+
+=====================
+
+Name : K.Jeyakumar
+Age : 46
+Party Name : Independent
+Education : 12th
+Occupation : Farmer
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CHAPPALS
+
+=====================
+

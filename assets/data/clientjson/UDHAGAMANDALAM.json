@@ -25,9 +25,11 @@
       "criminalCase": "1",
       "caseDetailEnglish": "Human chain Agitation on public place without permission of police or government . ",
       "caseDetailTamil": "பொலிஸ் அல்லது அரசாங்கத்தின் அனுமதியின்றி பொது இடத்தில் \nமனித சங்கிலி போராட்டம். ",
-      "symbolUrl": "",
+      "symbolName": "Hand",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/Hand.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/GANESH_R__Udhagamandalam.jpg",
       "photoName": "GANESH_R__Udhagamandalam",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/Hand.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANESH_R__Udhagamandalam.jpg"
     },
     {
@@ -54,11 +56,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolName": "LOTUS",
-      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/LOTUS.JPG",
+      "symbolName": "LOTUS_BJP",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/LOTUS_BJP.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/BHOJARAJAN_M__Udhagamandalam.jpg",
       "photoName": "BHOJARAJAN_M__Udhagamandalam",
-      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/LOTUS.JPG",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/LOTUS_BJP.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BHOJARAJAN_M__Udhagamandalam.jpg"
     },
     {

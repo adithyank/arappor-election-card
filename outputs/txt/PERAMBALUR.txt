@@ -1,0 +1,135 @@
+Constituency Document
+=====================
+
+Constituency Name : PERAMBALUR
+No of Candidates : 9
+No of Independent Candidates : 1
+
+=====================
+
+Name : K.Rajendran
+Age : 55
+Party Name : Bahujan Samajwadi Party
+Education : ITI Electrician
+Occupation : Agricultural Labour
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : A.Gunasekaran
+Age : 47
+Party Name : Nationalist Congress Party
+Education : B.Lit., M.A., M.Phil., MR.,DCE.
+Occupation : FARMER
+Total Assets : 22 lacs
+Liability : No
+Net Asset : 22 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : CLOCK
+
+=====================
+
+Name : R.Thamilselvan
+Age : 47
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A
+Occupation : Agriculture
+Total Assets : 1 crore 87 lacs
+Liability : 55 lacs
+Net Asset : 1 crore 32 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.Prabhaharan
+Age : 46
+Party Name : Dravida Munnetra Kazhagam
+Education : B.E, MBA
+Occupation : Business
+Total Assets : 3 crore 36 lacs
+Liability : 3 crore 68 lacs
+Net Asset : - crore 31 lacs
+Criminal Cases : 6
+Case Details : பொது இடங்களில் கலவரத்தில் ஈடுபடுதல், தானாக தன்னைதானே புண்படுத்திக்கொள்வது, சட்டவிரோதமாக பொது இடங்களில் கூட்டம் கூடுவது, ஏமாற்றுதல்.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K.RAJENDRAN
+Age : 38
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : ITI
+Occupation : Business and Agriculture
+Total Assets : 83 lacs
+Liability : 8 lacs
+Net Asset : 74 lacs
+Criminal Cases : 3
+Case Details : பொது இடத்தில ஆபாசமான செயல், தன்னிச்சையாக காயம் ஏற்படுத்துதல்,சட்ட விரோதமாக கூட்டம் கூடுதல், வேகமாக வாகனம் ஓட்டுதல்  . 
+Symbol Name : NAGARA
+
+=====================
+
+Name : M.SASIKALA
+Age : 43
+Party Name : INDIA JANAYAKA KATCHI
+Education : B.A., BEd.,
+Occupation : House wife
+Total Assets : 89 lacs
+Liability : No
+Net Asset : 89 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : M.Maheshwari
+Age : 39
+Party Name : Naam Tamilar Katchi
+Education : B.A.,
+Occupation : Housewife
+Total Assets : 10 lacs
+Liability : 4 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : T.RADHIKA
+Age : 29
+Party Name : Puthiya Tamilagam katchi
+Education : B.A., B.Ed.,
+Occupation : House wife
+Total Assets : 7 lacs
+Liability : 3 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : S.Sathish
+Age : 42
+Party Name : Independent
+Education : B.E.,
+Occupation : Agriculture
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : HAT
+
+=====================
+

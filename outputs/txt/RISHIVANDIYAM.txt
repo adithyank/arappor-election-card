@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : RISHIVANDIYAM
+No of Candidates : 15
+No of Independent Candidates : 5
+
+=====================
+
+Name : K.KARTHIKEYAN
+Age : 43
+Party Name : Dravida Munnetra Kazhagam
+Education : B.Sc
+Occupation : BUSINESS
+Total Assets : 15 crore 13 lacs
+Liability : 4 crore 70 lacs
+Net Asset : 10 crore 43 lacs
+Criminal Cases : 23
+Case Details : அனுமதியின்றி கூட்டம் கூடுதல் ,அரசு அதிகாரியின் ஆணைக்கு கீழ்ப்படியாமை,நோய் பரப்புதல் , விதிமீறி தடுத்தல்,குற்றத்தை தடுக்கும் பொருட்டு கைது. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : Santhosh
+Age : 30
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A. B.L
+Occupation : Salary income, Interest income 
+Total Assets : 38 lacs
+Liability : 14 lacs
+Net Asset : 25 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.Veeran
+Age : 47
+Party Name : Bahujan Samaj Party
+Education : 5th
+Occupation : Agricultural labour
+Total Assets : 5000
+Liability : No
+Net Asset : 5000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.Shanmugasundaram
+Age : 43
+Party Name : Makkal Needhi Maiam
+Education : 5th pass
+Occupation : Driver
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : SURESH MANIVANNAN
+Age : 35
+Party Name : Naam Tamilar Katchi
+Education : B.E,P.G.Diploma 
+Occupation : NIL
+Total Assets : 79 lacs
+Liability : No
+Net Asset : 79 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.Tamilvanan
+Age : 30
+Party Name : My India Party
+Education : B.A. ENGLISH
+Occupation : Farmer
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : A.NARAYANAN
+Age : 30
+Party Name : ANNA MGR DRAVIDA MAKKAL KAZHAGAM
+Education : B.A.  ENGLISH
+Occupation : FARMER
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PAN
+
+=====================
+
+Name : S.Prabhu
+Age : 41
+Party Name : Amma Makkal Munnettra Kazagam
+Education : B.E
+Occupation : Business
+Total Assets : 3 crore 81 lacs
+Liability : 1 crore 34 lacs
+Net Asset : 2 crore 46 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : K.Radhakrishnan
+Age : 32
+Party Name : Makkal Munnetra Peravai
+Education : 9th Pass
+Occupation : Farmer
+Total Assets : 5 lacs
+Liability : 30000
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : J.Venkaraman
+Age : 35
+Party Name : Naadaalum Makkal Katchi
+Education : M.L.
+Occupation : High Court Advocate
+Total Assets : 17 lacs
+Liability : No
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOUNTAIN
+
+=====================
+
+Name : G.Karthick
+Age : 31
+Party Name : Independent
+Education : M.Sc Micro Biology
+Occupation : Agricultural labour
+Total Assets : 19000
+Liability : No
+Net Asset : 19000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : K.Guru
+Age : 56
+Party Name : Independent
+Education : 6th
+Occupation : Business
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : V.Chandrasekaran
+Age : 51
+Party Name : Independent
+Education : M.A
+Occupation : Farmer
+Total Assets : 1 crore 31 lacs
+Liability : 10 lacs
+Net Asset : 1 crore 21 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : M.Santhosh
+Age : 37
+Party Name : Independent
+Education : 10th
+Occupation : Business
+Total Assets : 8 lacs
+Liability : 3 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WATER_TANK
+
+=====================
+
+Name : K.Murugan
+Age : 43
+Party Name : Independent
+Education : B.Lit (Tamil)
+Occupation : Agriculture Labour
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+

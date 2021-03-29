@@ -1,0 +1,374 @@
+Constituency Document
+=====================
+
+Constituency Name : KRISHNARAYAPURAM
+No of Candidates : 26
+No of Independent Candidates : 16
+
+=====================
+
+Name : M.KATHIRVEL
+Age : 44
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.Sc.
+Occupation : Farmer
+Total Assets : 30 lacs
+Liability : 18 lacs
+Net Asset : 12 lacs
+Criminal Cases : 1
+Case Details : புகழூர் சர்க்கரை ஆலை முன்பாக விவசாயிகளுக்காக போராட்டம் IPC 143 & 183. 
+Symbol Name : NAGARA
+
+=====================
+
+Name : K.SIVAGAMA SUNDARI
+Age : 50
+Party Name : Dravida Munnetra Kazhagam
+Education : B.A., M.A., B.L., B.Ed., PGDMS
+Occupation : Advocate
+Total Assets : 64 lacs
+Liability : 8 lacs
+Net Asset : 56 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : N.MUTHUKUMAR
+Age : 41
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A.History
+Occupation : Farmer, Business, Politician
+Total Assets : 3 crore 13 lacs
+Liability : 37 lacs
+Net Asset : 2 crore 76 lacs
+Criminal Cases : 3
+Case Details : 1.சட்டவிரோத கூட்டம்,சட்ட அதிகாரியிடம்  ஒத்துழையாமை, தவறான கட்டுப்பாடு,கவனக்குறைவான நடத்தை மற்றும்   உருவ பொம்மை எரித்தல் 2)கலகம், எல்லை மீறுதல், ஆபாசமான செயல்கள், காயம், தாக்குதல் மற்றும் குற்றவியல் மிரட்டல்
+. கண்மூடித்தனமான மற்றும் அலட்சிய செயல்; ஐம்பது ரூபாய் சேதத்தை ஏற்படுத்தியது
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : R.MURUGESAN
+Age : 45
+Party Name : Bahujan Samaj Party
+Education : B.A., (DISCONTINUED)
+Occupation : AGRICULTURAL COOLIE
+Total Assets : 6 lacs
+Liability : 1 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : P.ASHOKAN
+Age : 52
+Party Name : PUDHIYA TAMIZHAGAM
+Education : 9th Standard 
+Occupation : FARMER
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : R.ILAKIYA
+Age : 30
+Party Name : Naam Tamilar Katchi
+Education : B.A., B.L.,
+Occupation : NA
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P.CHANDRA
+Age : 41
+Party Name : MY INDIA PARTY
+Education : 10th Standard
+Occupation : CONSTRUCTION AGENT
+Total Assets : 36 lacs
+Liability : No
+Net Asset : 36 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : V .SARAVANAN
+Age : 44
+Party Name : Makkal Needhi Maiam
+Education : DCE
+Occupation : CONSTRUCTION CONTRACTER
+Total Assets : 49 lacs
+Liability : 2 lacs
+Net Asset : 48 lacs
+Criminal Cases : 0
+Case Details : இல்லை . இல்லை 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : KR.Narayanan
+Age : 52
+Party Name : Communist Party of India (Marxist-Leninist) (Liberation)
+Education : 10th pass
+Occupation : Agriculture Labour
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 1
+Case Details : பொருந்தாது   . ஆயுள் தண்டனை  302 IPC r/w341 PC, 449 & 326 IPC. தண்டனை காலம் முடிந்து செப்டம்பர் மாதம் 2008-ல்  விடுதலை செய்யப்பட்டார் 
+Symbol Name : FLAG_AND_THREE_STARS
+
+=====================
+
+Name : M.RAJAGURU
+Age : 37
+Party Name : SAMANIYA MAKKAL NALA KATCHI
+Education : B.A.,B.L.,
+Occupation : Practicing Advocate
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது    . பொருந்தாது    
+Symbol Name : WALKING_STICK
+
+=====================
+
+Name : M.KRISHNAMOORTHI
+Age : 36
+Party Name : Independent
+Education : 10th pass
+Occupation : waged
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : P.GOPI KRISHNAN
+Age : 33
+Party Name : Independent
+Education : B.COM., M.B.A., LLB,
+Occupation : ADVOCATE
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : FOOTBALL_PLAYER
+
+=====================
+
+Name : K.SAKTHIVEL
+Age : 38
+Party Name : Independent
+Education : B.Com., B.L.,
+Occupation : ADVOCATE
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : K.SATHYARAJ
+Age : 35
+Party Name : Independent
+Education : DIPLOMA IN HOTEL MANAGEMENT
+Occupation : FARMER
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : O.SIVAKUMAR
+Age : 52
+Party Name : Independent
+Education : B,Com., B.L.,
+Occupation : ADVOCATE
+Total Assets : 10000
+Liability : No
+Net Asset : 10000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : V.CHINNASAMY
+Age : 57
+Party Name : Independent
+Education : B.A., B.L.
+Occupation : ADVOCATE
+Total Assets : 15000
+Liability : No
+Net Asset : 15000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : THROWING_A_JAVELIN
+
+=====================
+
+Name : M.SENTHIL KUMAR
+Age : 30
+Party Name : Independent
+Education : B.C.A., B.L.,
+Occupation : ADVOCATE
+Total Assets : 85731
+Liability : No
+Net Asset : 85731
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : S.SELVAKUMAR
+Age : 46
+Party Name : Independent
+Education : B.A.B.L.,
+Occupation : ADVOCATE
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : M.TAMILSELVAN
+Age : 42
+Party Name : Independent
+Education : B.A., B.L.,
+Occupation : ADVOCATE
+Total Assets : 15000
+Liability : 4 lacs
+Net Asset : -4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : C.NAGARAJAN
+Age : 40
+Party Name : Independent
+Education : B.A., B.L.,
+Occupation : ADVOCATE
+Total Assets : 9 lacs
+Liability : 2 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FLUTE
+
+=====================
+
+Name : A.MAHAMUNI
+Age : 37
+Party Name : Independent
+Education : B.A., B.L.,
+Occupation : ADVOCATE
+Total Assets : 35000
+Liability : No
+Net Asset : 35000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BLACK_BORD
+
+=====================
+
+Name : A.MAHESHWARAN
+Age : 35
+Party Name : Independent
+Education : B.A., B.L.,
+Occupation : ADVOCATE
+Total Assets : 3 lacs
+Liability : 1 lacs
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : IMMERSION_ROD
+
+=====================
+
+Name : T.MUKILAN
+Age : 40
+Party Name : Independent
+Education : B.SC,B.ED,LL.B.,
+Occupation : ADVOCATE
+Total Assets : 5 lacs
+Liability : 56300
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUCKET
+
+=====================
+
+Name : T.MURUGANANTHAM
+Age : 37
+Party Name : Independent
+Education : B.Sc., B.L.,
+Occupation : ADVOCATE
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : N.P.RAMESH
+Age : 46
+Party Name : Independent
+Education : BSc., B.L., M.L.
+Occupation : ADVOCATE
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : K.RAJAGOPAL
+Age : 33
+Party Name : Independent
+Education : B.A., B.L.,
+Occupation : ADVOCATE
+Total Assets : 25000
+Liability : No
+Net Asset : 25000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TONGS
+
+=====================
+

@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : LALGUDI
+No of Candidates : 14
+No of Independent Candidates : 6
+
+=====================
+
+Name : A.SOUNDARAPANDIAN
+Age : 56
+Party Name : Dravida Munnetra Kazhagam
+Education : 12th standard 
+Occupation : Agriculture and Business
+Total Assets : 1 crore 72 lacs
+Liability : 29 lacs
+Net Asset : 1 crore 43 lacs
+Criminal Cases : 12
+Case Details : சட்டவிரோதமாக ஒன்று கூடுதல், பொதுப்பணியாளரின் உத்தரவிற்குக் கீழ்ப்படியாமை, முறையற்ற தடுப்பு, தொற்றுநோய் பரப்பும் நோக்கம் மற்றும் கவனக்குறைவு . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : D.R.DHARMARAJ
+Age : 57
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.com.,B.L.,M.B.A.,
+Occupation : Agriculture and Transport
+Total Assets : 3 crore 47 lacs
+Liability : 22 lacs
+Net Asset : 3 crore 25 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : K.KAMARAJ
+Age : 54
+Party Name : SAMANIYA MAKKAL NALA KATCHI
+Education : 10th std
+Occupation : COOLIE
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : WALKING_STICK
+
+=====================
+
+Name : R.SILAMBARASAN
+Age : 31
+Party Name : ANNA MGR DRAVIDA MAKKAL KAZHAGAM
+Education : 10th Standard 
+Occupation : AGRICULTURAL LABOURER
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PAN
+
+=====================
+
+Name : P.NAMBIRAJAN
+Age : 51
+Party Name : PUDHIYA TAMIZHAGAM KATCHI
+Education : 10th Standard 
+Occupation : AGRICULTURAL WAGES
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : K.MALAR TAMIL PRABHA
+Age : 28
+Party Name : Naam Tamilar Katchi
+Education : M.E(Communication Systems)
+Occupation : Housewife
+Total Assets : 6 lacs
+Liability : 1 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : V.MUTHUKUMAR
+Age : 47
+Party Name : SHIVSENA
+Education : M.B.A.,
+Occupation : INSURANCE AGENT
+Total Assets : 57 lacs
+Liability : 13 lacs
+Net Asset : 45 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BISCUIT
+
+=====================
+
+Name : M.VIJAYAMURTHY
+Age : 64
+Party Name : Amma Makkal Munnettra Kazagam
+Education : B.COM
+Occupation : AGRICULTURE
+Total Assets : 5 crore 51 lacs
+Liability : 77 lacs
+Net Asset : 4 crore 74 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : K.Anantha Babu
+Age : 40
+Party Name : Independent
+Education : 9th pass
+Occupation : Agriculture
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUCKET
+
+=====================
+
+Name : A.ANANDHKUMAR
+Age : 26
+Party Name : Independent
+Education : M.B.A.,
+Occupation : NA
+Total Assets : 20000
+Liability : No
+Net Asset : 20000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BALLOON
+
+=====================
+
+Name : P.M.SAHADEVAN
+Age : 55
+Party Name : Independent
+Education : 9th Standard
+Occupation : Agriculture
+Total Assets : 24 lacs
+Liability : No
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . பொருந்தாது 
+Symbol Name : HAT
+
+=====================
+
+Name : K.THANGAMANI
+Age : 78
+Party Name : Independent
+Education : M.A., M.ED.,
+Occupation : RETIRED TEACHER
+Total Assets : 60 lacs
+Liability : 19 lacs
+Net Asset : 41 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : K.DHARMARAJ
+Age : 49
+Party Name : Independent
+Education : 8th standard
+Occupation : Driver
+Total Assets : 16 lacs
+Liability : No
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SCISSORS
+
+=====================
+
+Name : U.Johnson
+Age : 67
+Party Name : Independent
+Education : PUC.,
+Occupation : Own business
+Total Assets : 19 lacs
+Liability : 30000
+Net Asset : 19 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+

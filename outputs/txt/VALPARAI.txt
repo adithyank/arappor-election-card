@@ -1,0 +1,93 @@
+Constituency Document
+=====================
+
+Constituency Name : VALPARAI
+No of Candidates : 6
+No of Independent Candidates : 1
+
+=====================
+
+Name : T.K.AMULKANDASAMI
+Age : 55
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : SSLC
+Occupation : Business
+Total Assets : 1 crore 97 lacs
+Liability : 29 lacs
+Net Asset : 1 crore 68 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.Arumugam
+Age : 69
+Party Name : Communist Party of India
+Education : SSLC
+Occupation : Social Worker
+Total Assets : 42 lacs
+Liability : 7 lacs
+Net Asset : 35 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : EARS_OF_CORN_AND_SICKLE
+
+=====================
+
+Name : M.S.Murugaraj
+Age : 59
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.L., M.A.
+Occupation : Advocate
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : NAGARA
+
+=====================
+
+Name : C.KOKILA
+Age : 31
+Party Name : Naam Tamilar Katchi
+Education : M.com 
+Occupation : Home Maker
+Total Assets : 41 lacs
+Liability : 20 lacs
+Net Asset : 22 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : D.SENTHILRAJ
+Age : 57
+Party Name : Makkal Needhi Maiam
+Education : MA (Socialogy)
+Occupation : Full time social service
+Total Assets : 51 lacs
+Liability : No
+Net Asset : 51 lacs
+Criminal Cases : 1
+Case Details : கோவை விமான நிலையம் விரிவாக்கத்திற்கு நிலம் கையகப்படுத்தலுக்கு  நிலத்தின் உரிமையாளர்க்கு கூடுதல் இழப்பீடு தொகை வழங்க கோரி, பிரச்சாரம் மற்றும் போராட்டம் செய்தது தொடர்பாக. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : T.M.Rangasamy
+Age : 57
+Party Name : Independent
+Education : SSLC
+Occupation : Social Service
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : SCISSORS
+
+=====================
+

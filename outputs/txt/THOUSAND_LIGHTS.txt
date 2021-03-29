@@ -1,0 +1,289 @@
+Constituency Document
+=====================
+
+Constituency Name : THOUSAND_LIGHTS
+No of Candidates : 20
+No of Independent Candidates : 12
+
+=====================
+
+Name : N.EZHILAN
+Age : 41
+Party Name : Dravida Munnetra Kazhagam
+Education : DOCTOR OF MEDICINE (MD)
+Occupation : DOCTOR
+Total Assets : 1 crore 18 lacs
+Liability : 4 lacs
+Net Asset : 1 crore 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : Kushboo Sundar
+Age : 50
+Party Name : Bharatiya Janata Party
+Education : 8th pass
+Occupation : Actor and Tele Serial and Feature film producer
+Total Assets : 41 crore 20 lacs
+Liability : 4 crore 00 lacs
+Net Asset : 37 crore 19 lacs
+Criminal Cases : 4
+Case Details : சட்டவிரோதமாக கூடுவது, குற்றச்செயல் புரிவதில் இருந்து தடுக்க பிடியாணையற்று கைது செய்யப்படுவது, நோய்த்தொற்று பரவுவதை பற்றி கவனக்குறைவாக இருத்தல் . 
+Symbol Name : LOTUS_BJP
+
+=====================
+
+Name : S D.WILLIAMS
+Age : 50
+Party Name : Bahujan Samaj Party
+Education : 8th pass
+Occupation : SELF EMPLOYMENT
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : KM.Shariff
+Age : 55
+Party Name : Makkal Needhi Maiam
+Education : 10th pass
+Occupation : Farmer, Business
+Total Assets : 70 lacs
+Liability : 7 lacs
+Net Asset : 62 lacs
+Criminal Cases : 2
+Case Details : மேடை பேச்சு, குற்றவியல் வழக்கு. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : A.Domnic
+Age : 40
+Party Name : Nam India Naam Indhiyar Katchi
+Education : ITI
+Occupation : Reporter - Needhivalai
+Total Assets : 36100
+Liability : No
+Net Asset : 36100
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : RIAZ
+Age : 43
+Party Name : Anaithu Makkal Arasiyal Katchi
+Education : 10th pass
+Occupation : TRAINING INSTITUTE
+Total Assets : 32 lacs
+Liability : 72 lacs
+Net Asset : - crore 40 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : N.VAIDHYANATHAN
+Age : 54
+Party Name : Amma Makkal Munnettra Kazagam
+Education : (BSC-Maths)
+Occupation : BUSINESS
+Total Assets : 22 crore 05 lacs
+Liability : 13 crore 10 lacs
+Net Asset : 8 crore 95 lacs
+Criminal Cases : 2
+Case Details : உணவு பாதுகாப்பு அதிகாரியை தொலைபேசியில் மிரட்டியது , பாலில் நீரை கலந்து கலப்படம் செய்தது . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : A.J.SHERINE
+Age : 29
+Party Name : Naam Tamilar Katchi
+Education : M.Sc MATHS
+Occupation : Ph.D., STUDENT
+Total Assets : 32 lacs
+Liability : No
+Net Asset : 32 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Sanjeevi
+Age : 48
+Party Name : Independent
+Education : M.L
+Occupation : ADVOCATE
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAPSICUM
+
+=====================
+
+Name : R.SUDAKAR
+Age : 27
+Party Name : Independent
+Education : 12th pass
+Occupation : BUSINESS
+Total Assets : 80000
+Liability : No
+Net Asset : 80000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : K.SEKAR
+Age : 62
+Party Name : Independent
+Education : 5th pass
+Occupation : SELF EMPLOYED
+Total Assets : 20000
+Liability : No
+Net Asset : 20000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUCKET
+
+=====================
+
+Name : M.DEEBAN
+Age : 28
+Party Name : Independent
+Education : 12th pass
+Occupation : BUSINESS
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELMET
+
+=====================
+
+Name : S.Nirmal Kumar
+Age : 25
+Party Name : Independent
+Education : 12th pass
+Occupation : Private employee
+Total Assets : 25000
+Liability : No
+Net Asset : 25000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : P.PARIMALA
+Age : 46
+Party Name : Independent
+Education : MCA
+Occupation : RENTAL INCOME
+Total Assets : 2 lacs
+Liability : 45 lacs
+Net Asset : - crore 43 lacs
+Criminal Cases : 2
+Case Details : காவிரி மேலாண்மை வாரியம் கோரி போராட்டம் & காதி ஆனவ கொலை கண்டித்து போராட்டம். 
+Symbol Name : CALCULATOR
+
+=====================
+
+Name : A.BABU
+Age : 44
+Party Name : Independent
+Education : BSC LLB
+Occupation : ADVOCATE
+Total Assets : 15 lacs
+Liability : 3 lacs
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : V.Parthiban
+Age : 26
+Party Name : Independent
+Education : HSC pass
+Occupation : Business
+Total Assets : 5800
+Liability : No
+Net Asset : 5800
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : N.Manivannan
+Age : 45
+Party Name : Independent
+Education : B.com
+Occupation : Tele serial & feature film executive producer
+Total Assets : 36 lacs
+Liability : 16 lacs
+Net Asset : 20 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : S.Radha Krishnan
+Age : 28
+Party Name : Independent
+Education : B.E 
+Occupation : Photographer
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAMERA
+
+=====================
+
+Name : S.Velraj
+Age : 33
+Party Name : Independent
+Education : B.A.B.L.
+Occupation : ADVOCATE
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TUBELIGHT
+
+=====================
+
+Name : A.GEORGE BENNY
+Age : 73
+Party Name : Independent
+Education : BOI, DME
+Occupation : AGRICULTURE (RESEARCH)
+Total Assets : 21 lacs
+Liability : 30000
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+

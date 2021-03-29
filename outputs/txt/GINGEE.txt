@@ -1,0 +1,191 @@
+Constituency Document
+=====================
+
+Constituency Name : GINGEE
+No of Candidates : 13
+No of Independent Candidates : 6
+
+=====================
+
+Name : K.S.Masthan
+Age : 65
+Party Name : Dravida Munnetra Kazhagam
+Education : 8th Pass
+Occupation : Agriculturist
+Total Assets : 2 crore 93 lacs
+Liability : 7 lacs
+Net Asset : 2 crore 86 lacs
+Criminal Cases : 29
+Case Details : அரசை கண்டித்து ஆர்ப்பாட்டம்,கூட்டம்,ஊர்வலம் . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : R.Jagajanantham
+Age : 51
+Party Name : Bahujan Samaj Party
+Education : Diploma In  Mechanical Engineering
+Occupation : Farm labour
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : N.A.Elumalai
+Age : 49
+Party Name : Anna Dravidar Kazhagam
+Education : B.A B.L
+Occupation : B.A B.L
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : A.Gowtham Sagar
+Age : 50
+Party Name : Amma Makkal Munnettra Kazagam
+Education : M.A. Political Science
+Occupation : Business
+Total Assets : 7 crore 34 lacs
+Liability : 26 lacs
+Net Asset : 7 crore 08 lacs
+Criminal Cases : 4
+Case Details : மிரட்டல்,கலவரம்,விதியைமீறி தடுத்தல்,தடையை மீறி ஆர்ப்பாட்டம் ,அரசு அதிகாரியின் ஆணையை மீறுதல் ,தொற்று பரப்புதல் . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : A.P.Sugumar
+Age : 35
+Party Name : Naam Tamilar Katchi
+Education : BCA
+Occupation : SOFTWARE ENGINEER
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P.Rajendiran
+Age : 65
+Party Name : Pattali Makkal Katchi
+Education : 12th pass
+Occupation : Farmer
+Total Assets : 36 lacs
+Liability : No
+Net Asset : 36 lacs
+Criminal Cases : 2
+Case Details : பாட்டாளி மக்கள் கட்சி கொடி ஏற்றுதல் சம்மந்தமாக ,. வட்டாட்சியரை பணி செய்யவிடாமல் தடுத்ததாக .. 
+Symbol Name : MANGO
+
+=====================
+
+Name : P.SRIPATHI
+Age : 35
+Party Name : Makkal Needhi Maiam
+Education : MASTER OF LAW
+Occupation : BUSINESS,ADVOCATE
+Total Assets : 1 crore 13 lacs
+Liability : 20 lacs
+Net Asset : 93 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : T.Kirubakaran
+Age : 32
+Party Name : Independent
+Education : 8th pass
+Occupation : daily wage
+Total Assets : 10600
+Liability : No
+Net Asset : 10600
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FRYING_PAN
+
+=====================
+
+Name : S.Gopi
+Age : 41
+Party Name : Independent
+Education : 12th
+Occupation : Daily Wage
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : A.Saheera
+Age : 54
+Party Name : Independent
+Education : B.A
+Occupation : Social Service
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : KNK.Senjeraja
+Age : 45
+Party Name : Independent
+Education : 12th
+Occupation : Daily Wage
+Total Assets : 11650
+Liability : No
+Net Asset : 11650
+Criminal Cases : 1
+Case Details : உள்ளாட்சி தேர்தல். அரசியல் தகராரு . 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : S.MARIYAPPAN
+Age : 62
+Party Name : Independent
+Education : Illiterate
+Occupation : FARMER
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : B.VARTHAMANAN
+Age : 55
+Party Name : Independent
+Education : ELEMENTRY SCHOOL AGALUR
+Occupation : FARMER
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 1
+Case Details : சாராயம் விற்று பதுக்கி வைத்தது சம்மந்தமாக  . 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+

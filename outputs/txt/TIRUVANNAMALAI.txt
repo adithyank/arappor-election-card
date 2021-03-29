@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : TIRUVANNAMALAI
+No of Candidates : 15
+No of Independent Candidates : 5
+
+=====================
+
+Name : B.Kothandapani
+Age : 44
+Party Name : Bahujan Samaj Party
+Education : 10th standard
+Occupation : Agriculture
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.THANIGAIVEL
+Age : 46
+Party Name : Bharatiya Janata Party
+Education : HSC
+Occupation : RSSS Pictures,  Real Estate - Owner
+Total Assets : 16 crore 22 lacs
+Liability : 16 crore 26 lacs
+Net Asset : -4 lacs
+Criminal Cases : 6
+Case Details : காசோலை சம்பந்தமான வழக்கு, தகாத வார்த்தைகள் உபயோகித்ததாக வழக்கு, தனி நபர் தாக்குதல் அதற்கான வழக்கு ,வங்கி கடன் மறைகேட்டிற்கான வழக்கு. 
+Symbol Name : LOTUS_BJP
+
+=====================
+
+Name : E.V.Velu
+Age : 71
+Party Name : Dravida Munnetra Kazhagam
+Education : MA History
+Occupation : Agriculture, Politics, Public Service
+Total Assets : 23 crore 32 lacs
+Liability : 4 crore 08 lacs
+Net Asset : 19 crore 24 lacs
+Criminal Cases : 7
+Case Details : பெட்ரோல், டீசல்,கேஸ், பேருந்து டிக்கட் விலை ஏற்றத்திற்கு போராட்டம், கொரோனா காலத்தில் கிராம சபை நடத்தியது, காவிரி ஆணயம் அமைக்க கோரி ரயில் மறியல்,2013 ஏற்காடுசட்டமன்ற இடைதேர்தலில் விதிமுறைகளை மீறியது, 2011 சட்டமன்ற  தேர்தல் விதிமுறைகளை மீறியது.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : J.Agniselvarasu
+Age : 38
+Party Name : Naadaalum Makkal Katchi
+Education : M.A.,
+Occupation : Advocate
+Total Assets : 26 lacs
+Liability : No
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : FOUNTAIN
+
+=====================
+
+Name : R.Arul
+Age : 46
+Party Name : Makkal Needhi Maiam
+Education : D.M.E.,
+Occupation : Private Company Director
+Total Assets : 22 lacs
+Liability : 4 lacs
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : J.Kamalakkannan
+Age : 39
+Party Name : Naam Tamilar Katchi
+Education : B.Sc.,(studying)
+Occupation : Film Industry
+Total Assets : 58 lacs
+Liability : 24 lacs
+Net Asset : 34 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : R.CHANDRAKANTH PILLAI
+Age : 37
+Party Name : New Generation People’s Party
+Education : Diploma in Electrical Engineering
+Occupation : Self Employment
+Total Assets : 8 lacs
+Liability : 5 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : POT
+
+=====================
+
+Name : K.Selvam
+Age : 51
+Party Name : Veeratyaghi Vishwanathadaas Tholilargal Katchi
+Education : SSLC.,
+Occupation : Labour work
+Total Assets : 30 lacs
+Liability : 3 lacs
+Net Asset : 28 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : A. G.Panchatcharam
+Age : 68
+Party Name : Amma makkal munnetra kazhagam
+Education : P.U.C. Corporation Boys High School, Tiruvannamalai
+Occupation : Bus Owner
+Total Assets : 62 lacs
+Liability : No
+Net Asset : 62 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : A.NAKKEERAN
+Age : 46
+Party Name : Independent
+Education : 5th
+Occupation : Tailoring
+Total Assets : 1 lacs
+Liability : 48000
+Net Asset : 73500
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : N.Palani
+Age : 53
+Party Name : Independent
+Education : 12th
+Occupation : Social Work
+Total Assets : 10000
+Liability : No
+Net Asset : 10000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : D.MANIMARAN
+Age : 34
+Party Name : Independent
+Education : B.A., B.L.
+Occupation : Advocate
+Total Assets : 5 lacs
+Liability : 11 lacs
+Net Asset : -6 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : RING
+
+=====================
+
+Name : R.G.Vasudevan
+Age : 33
+Party Name : Akila Bharata Hindu Maha sabha
+Education : SSLC
+Occupation : Agriculture
+Total Assets : 9 lacs
+Liability : 3 lacs
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : CAPSICUM
+
+=====================
+
+Name : K.VINAYAGAM
+Age : 34
+Party Name : Independent
+Education : SSLC (Fail)
+Occupation : Daily Labour
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : SCISSORS
+
+=====================
+
+Name : J.Jameel Basha
+Age : 41
+Party Name : Independent
+Education : BBL.,
+Occupation : Self employed
+Total Assets : 55 lacs
+Liability : 76 lacs
+Net Asset : - crore 21 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : DIAMOND
+
+=====================
+

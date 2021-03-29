@@ -1,0 +1,191 @@
+Constituency Document
+=====================
+
+Constituency Name : JOLARPET
+No of Candidates : 13
+No of Independent Candidates : 6
+
+=====================
+
+Name : V C.SIVAKUMAR
+Age : 42
+Party Name : Bahujan Samaj Party
+Education : None
+Occupation : Business - Hollow Block Machine
+Total Assets : 80500
+Liability : No
+Net Asset : 80500
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.DEVARAJI
+Age : 64
+Party Name : Dravida Munnetra Kazhagam
+Education : 8th Standard 
+Occupation : Agriculturist
+Total Assets : 2 crore 97 lacs
+Liability : 37 lacs
+Net Asset : 2 crore 59 lacs
+Criminal Cases : 3
+Case Details : சட்ட விரோதமாக பொதுவிடத்தில் கூடுதல், உயிருக்கு ஆபத்தான நோய்தொற்று பரப்பும் வகையில் செயல்படுதல், தேர்தலில் சட்ட விரோதமாக பணம் கொடுத்தது.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K.C.Veeramani
+Age : 56
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 10th standard
+Occupation : Agriculture, beedi Industry
+Total Assets : 39 crore 17 lacs
+Liability : No
+Net Asset : 39 crore 17 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.KALASTHRI
+Age : 71
+Party Name : Agila India Uzhavargal Uzhaipaalargal Katchi
+Education : SSLC
+Occupation : Agriculture
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : A.Siva
+Age : 46
+Party Name : Naam Tamilar Katchi
+Education : Chartered Agriculture Inputs
+Occupation : FARMER AND SELF BUSINESS
+Total Assets : 1 crore 59 lacs
+Liability : 90 lacs
+Net Asset : 69 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Thennarasu
+Age : 44
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : DME
+Occupation : Business
+Total Assets : 13 crore 93 lacs
+Liability : 3 crore 48 lacs
+Net Asset : 10 crore 44 lacs
+Criminal Cases : 1
+Case Details : கணவரால் பெண்ணிற்கு இழைக்கப்படும் கொடுமைகள், பொதுவிடத்தில் அவதூறாக பேசியது, மனைவியின் வாழ்நாளில் கணவன் மறுமணம் செய்வது. . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.Karunanidhi
+Age : 47
+Party Name : Agila Indhiya Samathuva Makkal Katchi
+Education : 6th Standard
+Occupation : Grocery Shop
+Total Assets : 10 lacs
+Liability : 85000
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : R.Devaraji
+Age : 49
+Party Name : Independent
+Education : 10th pass
+Occupation : Business
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : V.K.Devaraj
+Age : 61
+Party Name : Independent
+Education : 10th pass
+Occupation : Business
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BREAD_TOASTER
+
+=====================
+
+Name : A.Manithan
+Age : 53
+Party Name : Independent
+Education : DEEE
+Occupation : Xerox and Internet
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : A.Veeramani
+Age : 43
+Party Name : Independent
+Education : 10th pass
+Occupation : Construction worker
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : A.VEERAMANI
+Age : 65
+Party Name : Independent
+Education : 9th Std
+Occupation : FARMER
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BOX
+
+=====================
+
+Name : S.VEERAMANI
+Age : 49
+Party Name : Independent
+Education : B.A. ,B.L.,
+Occupation : ADVOCATE
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GAS_CYLINDER
+
+=====================
+

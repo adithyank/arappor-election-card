@@ -1,0 +1,289 @@
+Constituency Document
+=====================
+
+Constituency Name : MADAVARAM
+No of Candidates : 20
+No of Independent Candidates : 10
+
+=====================
+
+Name : S.Sudharsanam
+Age : 62
+Party Name : Dravida Munnetra Kazhagam
+Education : MA.BL
+Occupation : ADVOCATE, Agriculturalist
+Total Assets : 37 crore 26 lacs
+Liability : 6 crore 68 lacs
+Net Asset : 30 crore 57 lacs
+Criminal Cases : 22
+Case Details : தவறாக கட்டுப்படுத்துதல், சட்டவிரோதமாக கூட்டம் கூடுதல், அரசாங்க ஊழியர்களின்  கட்டளையை  மீறல் .  ஏதுமில்லை
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.DEEPAK
+Age : 31
+Party Name : Bahujan Samaj Party
+Education : B.A , LLB
+Occupation : SELF EMPLOYMENT
+Total Assets : 4 lacs
+Liability : 2 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : V.MOORTHY
+Age : 62
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A.
+Occupation : POLITICS, BUSINESS
+Total Assets : 5 crore 14 lacs
+Liability : 14 lacs
+Net Asset : 5 crore 00 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.ARAVIND KUMAR
+Age : 36
+Party Name : Desiya Makkal Sakthi Katchi
+Education : BBA
+Occupation : Shipping Logistics Private
+Total Assets : 30000
+Liability : No
+Net Asset : 30000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : R.ELUMALAI
+Age : 55
+Party Name : Naam Tamilar Katchi
+Education : B.A., B.L.,
+Occupation : ADVOCATE
+Total Assets : 1 crore 34 lacs
+Liability : No
+Net Asset : 1 crore 34 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : E.SAMPATH
+Age : 40
+Party Name : SHIV SENA
+Education : 8th pass
+Occupation : DRIVER
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : ALMIRAH
+
+=====================
+
+Name : D.DHAKSHINAMOORTHY
+Age : 45
+Party Name : Amma Makkal Munnettra Kazhagam
+Education : ANNAMALAI UNIVERSITY
+Occupation : BUSINESS
+Total Assets : 2 crore 28 lacs
+Liability : No
+Net Asset : 2 crore 28 lacs
+Criminal Cases : 0
+Case Details :  ஏதுமில்லை.  ஏதுமில்லை
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.YUVARAJ
+Age : 49
+Party Name : ANNA M.G.R. DRAVIDA MAKKAL KAZHAGAM
+Education : 9TH STD DISCONTINUED
+Occupation : NOT PROVIDED
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details :  ஏதுமில்லை.  ஏதுமில்லை
+Symbol Name : PAN
+
+=====================
+
+Name : M.VINOTHKUMAR
+Age : 32
+Party Name :   Naadaalum Makkal Katchi
+Education : B.Sc,BL
+Occupation : Advocate, Chennai High Court
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : FOUNTAIN
+
+=====================
+
+Name : K.RAMESH
+Age : 57
+Party Name : Makkal Needhi Maiam
+Education : MBA
+Occupation : BUSINESS - NKK FOODS PVT LTD
+Total Assets : 8 crore 13 lacs
+Liability : 6 crore 55 lacs
+Net Asset : 1 crore 58 lacs
+Criminal Cases : 0
+Case Details :  ஏதுமில்லை .  ஏதுமில்லை 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.ARIVUNITHI
+Age : 40
+Party Name : Independent
+Education : B.Sc (BOTANY), LLB
+Occupation : Advocate
+Total Assets : 8900
+Liability : No
+Net Asset : 8900
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : TELEPHONE
+
+=====================
+
+Name : A.SAKTHIVEL
+Age : 48
+Party Name : Independent
+Education : NOT MENTIONED
+Occupation : REAL ESTATE AGENT
+Total Assets : 11 lacs
+Liability : 60000
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details :  ஏதுமில்லை.  ஏதுமில்லை
+Symbol Name : TRUCK
+
+=====================
+
+Name : S.SATHISH KUMAR
+Age : 36
+Party Name : Independent
+Education : 10th Pass
+Occupation : Business
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : CHAPPALS
+
+=====================
+
+Name : D.SUDHARSANAN
+Age : 26
+Party Name : Independent
+Education : B.B.A., L.L.B (PURSUING)
+Occupation : POLITICS, STUDENT
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : CAKE
+
+=====================
+
+Name : M.Nirmal Kumar
+Age : 35
+Party Name : Independent
+Education : 12th Standard Completed
+Occupation : Employed
+Total Assets : 36718
+Liability : No
+Net Asset : 36718
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : BANGLES
+
+=====================
+
+Name : M.G.BABU
+Age : 49
+Party Name : Independent
+Education : M.B.A
+Occupation : POLITICS, EX.EMPLOYEE COX & KINGS
+Total Assets : 5 lacs
+Liability : 60000
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details :  ஏதுமில்லை.  ஏதுமில்லை
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : S.MOORTHY
+Age : 35
+Party Name : Independent
+Education : BA., PHILOSOPHY
+Occupation : Under Employement
+Total Assets : 35515
+Liability : No
+Net Asset : 35515
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : G.Ramesh
+Age : 52
+Party Name : Independent
+Education : Illiterate
+Occupation : Artist
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : TRAY
+
+=====================
+
+Name : S.RAMU
+Age : 51
+Party Name : Independent
+Education : Others
+Occupation : Business
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : PEAS
+
+=====================
+
+Name : S.Jayaseelan
+Age : 38
+Party Name : Independent
+Education : 12th Standard Completed
+Occupation : Under Employment
+Total Assets : 38062
+Liability : No
+Net Asset : 38062
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : DIAMOND
+
+=====================
+

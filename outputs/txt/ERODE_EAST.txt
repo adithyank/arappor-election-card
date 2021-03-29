@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : ERODE_EAST
+No of Candidates : 14
+No of Independent Candidates : 5
+
+=====================
+
+Name : S. GOVINDARAJ
+Age : 34
+Party Name : Bahujan Samaj Party
+Education :  B.Com(cs)
+Occupation : Self Employee
+Total Assets : 10526
+Liability : No
+Net Asset : 10526
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : E.Thirumahan Everaa
+Age : 45
+Party Name : Indian National Congress
+Education : BA Economics University of Madreas 1999
+Occupation : Self employed
+Total Assets : 2 crore 40 lacs
+Liability : 15 lacs
+Net Asset : 2 crore 25 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : Hand
+
+=====================
+
+Name : M.Yuvaraja
+Age : 40
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.B.A
+Occupation : Business
+Total Assets : 3 crore 62 lacs
+Liability : 1 crore 20 lacs
+Net Asset : 2 crore 42 lacs
+Criminal Cases : 1
+Case Details : தேர்தல் விதிகளை மீறுதல்.. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name :  C. Arumuga ac kannan
+Age : 57
+Party Name : Ambedkarite Party of India
+Education : 5th pass
+Occupation : sack business
+Total Assets : 16 lacs
+Liability : No
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COAT
+
+=====================
+
+Name : S.Gomathi
+Age : 32
+Party Name : Naam Tamilar Katchi
+Education : S.S.L.C
+Occupation : House Wife
+Total Assets : 3 lacs
+Liability : 50000
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Shanmugavel
+Age : 42
+Party Name : M.G.R MAKKAL KATCHI
+Education : S.S.L.C
+Occupation : Self-employed (computer designing center)
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BASKET_CONTAINING_FRUITS
+
+=====================
+
+Name : S.A.Muthukumaran
+Age : 60
+Party Name : Amma Makkal Munnetra kazhagam
+Education : B.Com, Bachelor of Laws (L.L.B.)
+Occupation : Advocate & Agriculturist
+Total Assets : 2 crore 76 lacs
+Liability : 1 crore 04 lacs
+Net Asset : 1 crore 72 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : P.Raja
+Age : 33
+Party Name : Makkal Thilagam Munnetra Kazhagam,
+Education : Diploma (D.C.S.E), B.A.(Tamil Literature)
+Occupation : Tea Shop
+Total Assets : 2248
+Liability : No
+Net Asset : 2248
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BALLOON
+
+=====================
+
+Name : R.RAJAKUMAR
+Age : 48
+Party Name : Makkal Needhi Maiam
+Education : Bachelor of Engineering University of Pune Aug 2000; Bachelor of Law Tamilnadu Dr Ambedkar Law University Jun 2005
+Occupation : Managing Director of Lucia Associates Private Limited; Managing Partner Maarvel Touchnology; Managing Partner Hexa Consulting Engineers
+Total Assets : 7 crore 25 lacs
+Liability : 16 lacs
+Net Asset : 7 crore 08 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : L.Anthony Peter
+Age : 49
+Party Name : Independent
+Education :  S.S.L.C
+Occupation : NGO Worker and Loan coordinator for Women's Self Help Group
+Total Assets : 72 lacs
+Liability : No
+Net Asset : 72 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SCISSORS
+
+=====================
+
+Name : R.MINNALMURUGESH
+Age : 53
+Party Name : Independent
+Education :  8th Pass
+Occupation : Self Employee
+Total Assets : 28 lacs
+Liability : No
+Net Asset : 28 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : V.Meenakshi
+Age : 40
+Party Name : Independent
+Education : Bachelor of Arts in Astrology , B.Sc. (Maths) - Discontinue
+Occupation : Astrology and MLM Business (Indus Viva Ltd)
+Total Assets : 7 lacs
+Liability : 1 lacs
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : M.YUVARAJ
+Age : 42
+Party Name : Independent
+Education : M.A
+Occupation : Self Employment
+Total Assets : 7 crore 99 lacs
+Liability : 3 crore 07 lacs
+Net Asset : 4 crore 91 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : I.Shajahan
+Age : 46
+Party Name : Independent
+Education :  6th Pass
+Occupation : Business
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+

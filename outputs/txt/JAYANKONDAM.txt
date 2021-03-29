@@ -1,0 +1,196 @@
+Constituency Document
+=====================
+
+Constituency Name : JAYANKONDAM
+No of Candidates : 13
+No of Independent Candidates : 6
+
+=====================
+
+Name : KA.SO.KANNAN
+Age : 43
+Party Name : Dravida Munnetra Kazhagam
+Education : M.Com
+Occupation : FARMER,EDUCATIONALIST AND SOCIAL WORKS AND AUTHOR AND MANAGING TRUSTEE OF CHARITABLE TRUST
+Total Assets : 12 crore 63 lacs
+Liability : 20 lacs
+Net Asset : 12 crore 43 lacs
+Criminal Cases : 21
+Case Details : அரசியல் தொடர்புடைய போராட்ட வழக்குகள்: 
+சட்டவிரோதமாக கூட்டம் கூடுதல், தனிமைப்படுத்தப்பட்ட விதியின் கீழ்ப்படியாமை
+அரசு அதிகாரி விதியின் கீழ்ப்படியாமை, அலட்சியம் 
+மத்திய மற்றும் மாநிலத்திற்கு எதிராக எதிர்ப்பு போராட்டம் காவிரி நீர் மேலாண்மை வாரியத்தை உருவாக்க அவர்கள் தவறியதாகக் கூறப்படுகிறது தொடர்பாக 
+மோசமான குற்றத்தை தடுக்கும் பொருட்டு 
+அங்கீகரிக்கப்படாத நடத்தை மூலம் விளம்பரம் தேடல் . பொருந்தாது
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K.NEELAMEGAM
+Age : 57
+Party Name : Bahujan Samaj Party
+Education : 12th standard 
+Occupation : LABOUR(PAINT WORK)
+Total Assets : 52000
+Liability : 50000
+Net Asset : 2000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : J.K.SIVA
+Age : 41
+Party Name : AMMA MAKKAL MUNNETTRA KAZHAGAM
+Education : B.Sc.,(Pending)
+Occupation : Farmer
+Total Assets : 2 crore 09 lacs
+Liability : 61 lacs
+Net Asset : 1 crore 48 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : G.Latha(sornalatha)
+Age : 46
+Party Name : indiya jananayaka katchi
+Education : 5th Standard
+Occupation : Not provided
+Total Assets : 4 crore 44 lacs
+Liability : No
+Net Asset : 4 crore 44 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : A.NATARAJAN
+Age : 51
+Party Name : ANNA DRAVIDAR KAZHAGAM
+Education : DIPLOMA IN EEE 
+Occupation : AGRICULTURE
+Total Assets : 33 lacs
+Liability : 5 lacs
+Net Asset : 28 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : HAT
+
+=====================
+
+Name : K.Balu
+Age : 50
+Party Name : Pattali Makkal Katchi
+Education : B.COM.,B.L.,
+Occupation :  Practicing Advocate
+Total Assets : 6 crore 50 lacs
+Liability : 1 crore 66 lacs
+Net Asset : 4 crore 84 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது. பொருந்தாது
+Symbol Name : MANGO
+
+=====================
+
+Name : N.Mahalingam
+Age : 40
+Party Name : Naam Tamilar Katchi
+Education : B.A. History
+Occupation : Farmer
+Total Assets : 56 lacs
+Liability : 25 lacs
+Net Asset : 32 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : V.K.KESAVARAJAN
+Age : 43
+Party Name : Independent
+Education : B.A.,B.L.,
+Occupation : Advocate
+Total Assets : 67 lacs
+Liability : No
+Net Asset : 67 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : R.SATHISH KUMAR
+Age : 32
+Party Name : Independent
+Education : D.Ted
+Occupation : PRIVATE SECTOR
+Total Assets : 51 lacs
+Liability : No
+Net Asset : 51 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BUCKET
+
+=====================
+
+Name : A.SAMUVEL MARTIN
+Age : 28
+Party Name : Independent
+Education : B.E., Aeronautical Engineering
+Occupation : Agriculture
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : K.SUDARVIZHI
+Age : 42
+Party Name : Independent
+Education : B.A,B.Ed(TAMIL)
+Occupation : NA
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GAS_STOVE
+
+=====================
+
+Name : R.SEDHURAMAN
+Age : 47
+Party Name : Independent
+Education : 10th std
+Occupation : NIL
+Total Assets : 35000
+Liability : No
+Net Asset : 35000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : S.RAJKUMAR
+Age : 46
+Party Name : Independent
+Education : DCE (PENDING)
+Occupation : FARMER
+Total Assets : 30000
+Liability : No
+Net Asset : 30000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : WATERMELON
+
+=====================
+

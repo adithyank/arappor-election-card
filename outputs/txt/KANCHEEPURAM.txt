@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : KANCHEEPURAM
+No of Candidates : 15
+No of Independent Candidates : 8
+
+=====================
+
+Name : C.V.M.P.Ezhailzrasan
+Age : 49
+Party Name : Dravida Munnetra Kazhagam
+Education : B.E., B.L., 
+Occupation : Advocate & MLA
+Total Assets : 7 crore 14 lacs
+Liability : 24 lacs
+Net Asset : 6 crore 90 lacs
+Criminal Cases : 5
+Case Details : சட்ட விரோதமாக கூட்டம் சேர்த்தது , முன் அனுமதியின்றி சாலை மறியல் செய்தது , பணியில் இருந்த காவல் ஆய்வாளரிடம் வாக்குவாதத்தில் ஈடுபட்டு அநாகரீகமாக பேசிய வழக்கு . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K.PRABAKARAN
+Age : 32
+Party Name : Bahujan Samaj Party
+Education : LLB
+Occupation : ADVOCATE
+Total Assets : 4 lacs
+Liability : 45000
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : B.Gopinath
+Age : 38
+Party Name : Makkal Needhi Maiam
+Education : MBA
+Occupation : Business
+Total Assets : 3 crore 11 lacs
+Liability : 29 lacs
+Net Asset : 2 crore 82 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.SALDIN
+Age : 43
+Party Name : Naam Tamilar Katchi
+Education : B.E.
+Occupation : Private company director
+Total Assets : 3 crore 56 lacs
+Liability : 25 lacs
+Net Asset : 3 crore 30 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P.Magesh Kumar
+Age : 41
+Party Name : Pattali Makkal Katchi
+Education : B.Com.
+Occupation : Business
+Total Assets : 74 lacs
+Liability : 30 lacs
+Net Asset : 44 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : MANGO
+
+=====================
+
+Name : N.Manokaran
+Age : 58
+Party Name : Amma Makkal Munnettra Kazhagam
+Education : B.Sc.,
+Occupation : Silk Sarees Business
+Total Assets : 2 crore 57 lacs
+Liability : No
+Net Asset : 2 crore 57 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.MEGANATHAN
+Age : 40
+Party Name : New Generation People's Party
+Education : 8th pass
+Occupation : NAMATHU KADAI SUPER MARKET
+Total Assets : 70000
+Liability : 4 lacs
+Net Asset : -3 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : POT
+
+=====================
+
+Name : L.Arulnathan
+Age : 39
+Party Name : Independent
+Education : LLB
+Occupation : Real Estate
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 1
+Case Details : கொலை வழக்கு பதிவு செய்யப்பட்டுள்ளது . 
+Symbol Name : GRAPES
+
+=====================
+
+Name : M.ELANGOVAN
+Age : 37
+Party Name : Independent
+Education : 10th pass
+Occupation : Agriculture
+Total Assets : 21708
+Liability : No
+Net Asset : 21708
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : HELMET
+
+=====================
+
+Name : P.EZHILARASAN
+Age : 45
+Party Name : Independent
+Education : 9th STD
+Occupation : Coolie
+Total Assets : 70000
+Liability : No
+Net Asset : 70000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BANGLES
+
+=====================
+
+Name : S.Srinivasan
+Age : 31
+Party Name : Independent
+Education : SSLC fail
+Occupation : Self Employed
+Total Assets : 81554
+Liability : No
+Net Asset : 81554
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : D.GNANAMOORTHY
+Age : 51
+Party Name : Independent
+Education : 5th pass
+Occupation : Daily Wages
+Total Assets : 35047
+Liability : No
+Net Asset : 35047
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BALLOON
+
+=====================
+
+Name : T.Magesh
+Age : 38
+Party Name : Independent
+Education : 5th Standard
+Occupation : Self Employed (Driver)
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : LETTER_BOX
+
+=====================
+
+Name : R.VinothRaj
+Age : 33
+Party Name : Independent
+Education : ITI 
+Occupation : Self Employed
+Total Assets : 86500
+Liability : No
+Net Asset : 86500
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TELEPHONE
+
+=====================
+
+Name : J.JAYARAJ
+Age : 36
+Party Name : Independent
+Education : 12th pass
+Occupation : Daily wages
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : CAMERA
+
+=====================
+

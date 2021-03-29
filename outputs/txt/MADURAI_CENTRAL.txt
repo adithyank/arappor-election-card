@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : MADURAI_CENTRAL
+No of Candidates : 14
+No of Independent Candidates : 5
+
+=====================
+
+Name : A.Dhavamani
+Age : 55
+Party Name : Bahujan Samaj Party
+Education : Primary Health Center School, Dindigul District, Nilakkottai, 1976
+Occupation : Coolie Labourer
+Total Assets : 70000
+Liability : No
+Net Asset : 70000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : P.PALANIVELTHIAGARAJAN
+Age : 55
+Party Name : Dravida Munnetra Kazhagam
+Education : PH.D
+Occupation : CONSULTANT
+Total Assets : 38 crore 89 lacs
+Liability : No
+Net Asset : 38 crore 89 lacs
+Criminal Cases : 3
+Case Details : சட்ட விரோதமாக கூட்டம் கூடியது, அரசு அதிகாரியின் ஆணையை மதிக்காதது, அபாயமான நோய் தொற்று பரப்பும் வண்ணம் செயல் புரிவது, பொதுமக்களுக்கு தொந்தரவாகும் வண்ணம் செயல் புரிவது.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : N.Jothi Muthuramalingam
+Age : 54
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Com.
+Occupation : Agriculture
+Total Assets : 36 lacs
+Liability : No
+Net Asset : 36 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.ESWARI
+Age : 43
+Party Name : MyIndiaParty
+Education : 12th PASS
+Occupation : CLOTHES BUSINESS
+Total Assets : 3 lacs
+Liability : 2 lacs
+Net Asset : 75000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : GS.SIKKANDARBATCHA
+Age : 44
+Party Name : Social Democratic Party of India
+Education : ITI
+Occupation : SEEMAN CARS CONSULTING (COMMISSON BASIS)
+Total Assets : 49 lacs
+Liability : 8 lacs
+Net Asset : 41 lacs
+Criminal Cases : 5
+Case Details : சட்ட விரோதமாக கூட்டம் கூடியது, முறையற்ற தடுப்பு, பொதுத்தொல்லை, அரசு அதிகாரியின் உத்தரவை மீறி பொதுத்தொல்லை செய்தல், பொதுப்பாதையில் தடை உண்டுபண்ணியது, உயிருக்கு ஆபத்தான தொற்று நோய் பரப்பும் வகையில் செயல்படுதல், பொது மக்களின் அமைதியை குலைக்கும் வகையில் செயல்படுதல், அனுமதியின்றி பொதுவிடத்தில் வேகமாக மோட்டார் வாகனங்களுக்கிடையில் செல்வது மற்றும் ஒலிப்பெருக்கிகளை பயன்படுத்தியது.. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : J.PANDIAMMAL
+Age : 38
+Party Name : Naam Tamilar Katchi
+Education : M.A, M.PHIL
+Occupation : OWN BUSINESS
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : B.MANI
+Age : 46
+Party Name : Makkal Needhi Maiam
+Education : Private Education
+Occupation : SHOP BUSINESS
+Total Assets : 53 lacs
+Liability : 3 lacs
+Net Asset : 50 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : E.V.S.Rajakumar Naidu
+Age : 52
+Party Name : Tamil Telugu National Party
+Education : BA,MA,LLB
+Occupation : Advocate/Legal consultant
+Total Assets : 1 crore 45 lacs
+Liability : No
+Net Asset : 1 crore 45 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : R.ELANGOVAN
+Age : 49
+Party Name : AKHIL BHARAT HINDU MAHASABHA
+Education : Completed (1). Wireman Training in ITI (Industrial Training Institute), (2). A/C Mechanic Training in Madurai Kamaraj University
+Occupation : Water service
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : CKREMMER SURESH
+Age : 49
+Party Name : Independent
+Education : M.Sc.
+Occupation : Social Service
+Total Assets : 9 lacs
+Liability : 5 lacs
+Net Asset : 4 lacs
+Criminal Cases : 1
+Case Details : சட்ட  விரோதமாக கூட்டம் கூடியது, கொலை மிரட்டல், அத்துமீறி பிறர்மனை நுழைதல், வாசிப்பிடங்களில் திருட்டு, பிறர் உயிரை அச்சுறுத்தியது, பொருட்களை சேதம் பண்ணியாது.  . 
+Symbol Name : HAT
+
+=====================
+
+Name : M.R.KRISHNAPRABBU
+Age : 39
+Party Name : Independent
+Education : M.B.A
+Occupation : VISION INDIA MARKETING
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : N.Sathiyendran
+Age : 40
+Party Name : Independent
+Education : Bachelor of Law
+Occupation : Self Employed
+Total Assets : 12 lacs
+Liability : 2 lacs
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PETROL_PUMP
+
+=====================
+
+Name : S.SIVA SANKAR
+Age : 35
+Party Name : Independent
+Education : B.Sc
+Occupation : PHARMA DISTRIBUTE
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BALLOON
+
+=====================
+
+Name : K.R.Rajasuriyaa
+Age : 26
+Party Name : Independent
+Education : 12th pass
+Occupation : N/A
+Total Assets : 95000
+Liability : No
+Net Asset : 95000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BABY_WALKER
+
+=====================
+

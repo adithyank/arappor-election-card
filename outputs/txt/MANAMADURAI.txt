@@ -1,0 +1,207 @@
+Constituency Document
+=====================
+
+Constituency Name : MANAMADURAI
+No of Candidates : 14
+No of Independent Candidates : 6
+
+=====================
+
+Name : A.Tamilarasi
+Age : 44
+Party Name : Dravida Munnetra Kazhagam
+Education : B.Com.
+Occupation : Agriculture & politician
+Total Assets : 2 crore 23 lacs
+Liability : 47 lacs
+Net Asset : 1 crore 76 lacs
+Criminal Cases : 8
+Case Details : குடியுரிமை எதிர்ப்பு சட்டப் போராட்டம், காவேரி மேலாண்மை வாரியத்தை உருவாக்க போராடுங்கள், 143 - சட்ட விரோதமான கூட்டத்தில் சேர்ந்திருப்பதற்கான தண்டனை, 147 - கலகம் செய்வதற்கான தண்டனை, 151 - ஐந்து அல்லது அதற்கு மேலான நபர்கள் அதை கலைக்கக் கட்டளையிடப்பட்ட பின்னர் கூடுவது அல்லது தொடர்வது,  188 - பொதுப் பணியாளரால், முறைப்படி பிரகடனப்படுத்தப்பட்ட உத்தரவிற்கு கீழ்ப்படியாமை, ஐபிசி பிரிவு 269 - உயிருக்கு ஆபத்தான தொற்றுநோயை அநேகமாக பரப்பக்கூடிய கவனக்குறைவான செயல், ஐபிசி பிரிவு 283 - பொதுப் பாதையில் அல்லது நீர்வழிப் பாதையில் ஆபத்து அல்லது தடை.
+. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.Nagarajan
+Age : 52
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Sc, B.Ed., L.L.B.
+Occupation : MEMBER OF LEGISLATIVE (MLA)
+Total Assets : 42 lacs
+Liability : No
+Net Asset : 42 lacs
+Criminal Cases : 1
+Case Details : ஐபிசி பிரிவு 145 - களைந்து செல்லும்படி உத்தரவிட்டும் சட்ட விரோதமான கூட்டத்தில் இருப்பதற்கான தண்டனை,  ஐபிசி பிரிவு 285 - தீ அல்லது தீப்பற்றக்கூடிய பொருளின் பொருட்டு கவனக்குறைவான செய்கை. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.SHANMUGAPRIYA
+Age : 28
+Party Name : Naam Tamilar Katchi
+Education : Discontinued Graduate Degree
+Occupation : Nil
+Total Assets : 44 lacs
+Liability : 15 lacs
+Net Asset : 30 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.CHANDRASEKAR
+Age : 52
+Party Name : Anaithu Makkal Puratchi Katchi
+Education : M.S.W. (Master of Social Work)
+Occupation : Farming assistant
+Total Assets : 11 lacs
+Liability : 1 lacs
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : P.Sivasankari
+Age : 42
+Party Name : Makkal Needhi Maiam
+Education : B.Sc
+Occupation : Farmer
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.Marriappankennady
+Age : 45
+Party Name : Amma Makkal Munnettra Kazhagam
+Education : BA
+Occupation : Land Broker
+Total Assets : 79 lacs
+Liability : 6 lacs
+Net Asset : 73 lacs
+Criminal Cases : 2
+Case Details : வாகனங்களில் அளவுக்கு அதிகமாக ஆட்களை ஏற்றி வந்ததாக வழக்கு, 
+கொலை மிரட்டல் விடுத்து காரை அடித்து சேதப்படுத்தியதாக வழக்கு, ஐபிசி பிரிவு 143 - சட்ட விரோதமான கூட்டத்தில் சேர்ந்திருப்பதற்கான தண்டனை, ஐபிசி பிரிவு 290 - குறிப்பிட்டு வகை செய்யப்படாத பிற வழக்குகளில் பொதுத் தொல்லைக்கான தண்டனை, ஐபிசி பிரிவு 147 - கலகம் செய்வதற்கான தண்டனை,.. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.MURALITHARAN
+Age : 38
+Party Name : Anna MGR Dravida Makkal Kalgam
+Education : Not given
+Occupation : Driver
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PAN
+
+=====================
+
+Name : A.Rajendran
+Age : 46
+Party Name : My India Party
+Education : 6th std pass
+Occupation : Private job
+Total Assets : 77500
+Liability : No
+Net Asset : 77500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : S.Karuppaiah
+Age : 58
+Party Name : Independent
+Education : 5th Standard
+Occupation : Farmer
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CUBE
+
+=====================
+
+Name : S.Thamaraiselvi
+Age : 27
+Party Name : Independent
+Education : D.Ted.
+Occupation : Homemaker
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : M. Duraipandi
+Age : 36
+Party Name : Independent
+Education : M. A., B. L
+Occupation : Advocate
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : K .MUTHUMARI
+Age : 38
+Party Name : Independent
+Education : 7th
+Occupation : FARMER
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : A.Parthasarathy
+Age : 42
+Party Name : Independent
+Education : DECE, BE, ME, MBA, MLM, Ph.D.
+Occupation : Professor
+Total Assets : 36 lacs
+Liability : 7 lacs
+Net Asset : 30 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : C.Rajaiah
+Age : 57
+Party Name : Independent
+Education : 10th Standard Pass
+Occupation : Daily wager as Farming assistant
+Total Assets : 5000
+Liability : No
+Net Asset : 5000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+

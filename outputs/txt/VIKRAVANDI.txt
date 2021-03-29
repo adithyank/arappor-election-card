@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : VIKRAVANDI
+No of Candidates : 14
+No of Independent Candidates : 5
+
+=====================
+
+Name : C.ARUMUGAM
+Age : 60
+Party Name : Bahujan Samaj Party
+Education : 4th STD
+Occupation : Self Employed
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : N.Pugazhenthi
+Age : 66
+Party Name : Dravida Munnetra Kazhagam
+Education : 10th(Discontinued)
+Occupation : Agriculturist
+Total Assets : 52 lacs
+Liability : 27 lacs
+Net Asset : 25 lacs
+Criminal Cases : 4
+Case Details : அனுமதியின்றி கூட்டம் கூடுதல் ,கலவரம்,கீழ்ப்படியாமை,நோய் பரப்புதல் , விதிமீறி தடுத்தல். 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : R.Muthamil Selvan
+Age : 56
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 10th
+Occupation : AGRICULTURE
+Total Assets : 76 lacs
+Liability : 8 lacs
+Net Asset : 68 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.ELANGOVAN
+Age : 52
+Party Name : Aghila Bharatha Hindu Maha sabha
+Education : 10th
+Occupation : daily wages
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BEAD_NECKBANGLE
+
+=====================
+
+Name : R.Iyyanar
+Age : 42
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : S.S.L.C
+Occupation : Business
+Total Assets : 1 crore 95 lacs
+Liability : 1 crore 59 lacs
+Net Asset : 36 lacs
+Criminal Cases : 2
+Case Details : ஆயுதத்தால் தாக்குதல், கொலை முயற்சி, கொலை அச்சுறுத்தல். 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.Senthil
+Age : 42
+Party Name : Indiya Jananayaka Katchi
+Education : Diploma
+Occupation : Agriculture
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : P.RAJIVGANDHI
+Age : 33
+Party Name : Naadaalum Makkal Katchi
+Education : Bachelor of Mathematics
+Occupation : Farmer
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : R.SHEEBA ASHMI
+Age : 39
+Party Name : Naam Tamilar Katchi
+Education : B.Sc
+Occupation : TEACHER
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.IYYAPPAN
+Age : 30
+Party Name : Independent
+Education : 9th 
+Occupation : Agricultural Wages 
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SOAP_DISH
+
+=====================
+
+Name : A.AYYANAR
+Age : 28
+Party Name : Independent
+Education : 10th
+Occupation : daily wages
+Total Assets : 6 lacs
+Liability : 5 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CHAKKI
+
+=====================
+
+Name : A.KANNADHASAN
+Age : 38
+Party Name : Hindu Makkal Katchi
+Education : 10th
+Occupation : Business
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAMERA
+
+=====================
+
+Name : J.GAYATHRI
+Age : 32
+Party Name : Independent
+Education : M.A
+Occupation : AGRICULTARIST
+Total Assets : 30 lacs
+Liability : 8 lacs
+Net Asset : 22 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WINNOWER
+
+=====================
+
+Name : R.SATHISH
+Age : 34
+Party Name : Independent
+Education : B.L
+Occupation : Advocate
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NOODLES_BOWL
+
+=====================
+
+Name : P.RAGHUPATHY
+Age : 24
+Party Name : Independent
+Education : B.E. (CSE)
+Occupation : Temporary Staff
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+

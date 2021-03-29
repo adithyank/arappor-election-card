@@ -1,0 +1,206 @@
+Constituency Document
+=====================
+
+Constituency Name : KINATHUKADAVU
+No of Candidates : 14
+No of Independent Candidates : 5
+
+=====================
+
+Name : N.Kurichi Prabhakaran
+Age : 46
+Party Name : Dravida Munnetra Kazhagam
+Education : B.com (Incomplete)
+Occupation : Pawn Broker, Agriculture
+Total Assets : 12 crore 39 lacs
+Liability : 3 crore 38 lacs
+Net Asset : 9 crore 00 lacs
+Criminal Cases : 2
+Case Details : அமைச்சர்களுக்கு எதிரான ஊழல் குற்றச்சாட்டுகள் மற்றும் பொதுமக்களுடன் குடிநீர் போராட்டத்தை வழங்குவதில் 2.பற்றாக்குறை ஆகிய குற்றச்சாட்டுகளின் பேரில் துண்டு பிரசுரங்களை பொதுமக்களுக்கு விநியோகித்தல். கூட்டு நிறுவனம் மற்றும் வாடகை ரசீதுகளிலிருந்து
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.Damodaran
+Age : 69
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 10th
+Occupation : Agriculture
+Total Assets : 5 crore 12 lacs
+Liability : No
+Net Asset : 5 crore 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : G.Anbazhagan
+Age : 38
+Party Name : Veerathiyagi Vishwanathadass Thozhilalargal Katchi
+Education : 9th Pass
+Occupation : Beauty Parlour
+Total Assets : 56000
+Liability : 45000
+Net Asset : 11000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : M.Umajagadesh
+Age : 36
+Party Name : Naam Tamilar Katchi
+Education : MA., B.L 
+Occupation : Advocate
+Total Assets : 16 lacs
+Liability : 9 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.siva
+Age : 43
+Party Name : Makkal Needhi Maiam
+Education : ITI.
+Occupation : Own Business
+Total Assets : 1 crore 83 lacs
+Liability : 43 lacs
+Net Asset : 1 crore 39 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : R.Mariappan
+Age : 43
+Party Name : Ganasangam Party of India
+Education : 7th pass
+Occupation : Driver
+Total Assets : 43500
+Liability : No
+Net Asset : 43500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : MA PA.rohini
+Age : 54
+Party Name : AMMA MAKKAL MUNNETTRA KAZAGAM
+Education : 12 Pass
+Occupation : Business
+Total Assets : 94 lacs
+Liability : 5 lacs
+Net Asset : 89 lacs
+Criminal Cases : 3
+Case Details : 1. சாலை மறியலில் ஈடுபட்டு போக்குவரத்துக்கு இடையூறு செய்ததாக புனையப்பட்ட வழக்கு ,
+ 2. காருக்கு வழி விடாமல் கெட்ட வார்த்தையில் திட்டி கொலை மிரட்டல் விடுத்து கார்களை அடித்து உடைத்ததாக புனையப்பட்ட வழக்கு, 3. கையால் அடித்ததாகவும்,கட்டையால் அடித்ததாகவும், அரிவாளை ஓங்கி வெட்ட வந்ததாகவும், உருட்டு கட்டை எடுத்து அடித்ததாகவும் தப்பி ஓடிவிட்டதாகவும் புனையப்பட்ட வழக்கு. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : S.James
+Age : 68
+Party Name : All India Jananayaka Makkal Kazhagam
+Education : ITI
+Occupation : road side Business
+Total Assets : 1 crore 54 lacs
+Liability : 1 crore 03 lacs
+Net Asset : 51 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MIXEE
+
+=====================
+
+Name : S.Atheeswaran
+Age : 51
+Party Name : Vedha Peravai
+Education : SSLC
+Occupation : Farming Daily wages labour 
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DISH_ANTENNA
+
+=====================
+
+Name : K.Dharmalingam
+Age : 51
+Party Name : Independent
+Education : Not given
+Occupation : N/A
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : S.Nazir Babu
+Age : 48
+Party Name : Independent
+Education : SSLC
+Occupation : Daily Wage Worker
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CUP_&_SAUCER
+
+=====================
+
+Name : P.Nagendran
+Age : 37
+Party Name : Independent
+Education : 10th
+Occupation : Office staff
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : A.Noor Muhamad
+Age : 63
+Party Name : Independent
+Education : Illiterate
+Occupation : Mini Transport service
+Total Assets : 1 crore 79 lacs
+Liability : No
+Net Asset : 1 crore 79 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : V.Velusamy
+Age : 59
+Party Name : Independent
+Education : SSLC
+Occupation : Salary Person
+Total Assets : 49 lacs
+Liability : No
+Net Asset : 49 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BRUSH
+
+=====================
+

@@ -1,0 +1,331 @@
+Constituency Document
+=====================
+
+Constituency Name : VELACHERY
+No of Candidates : 23
+No of Independent Candidates : 11
+
+=====================
+
+Name : A.Aassan Maulaana
+Age : 36
+Party Name : Indian National Congress
+Education : MBA
+Occupation : Landlord and businessman
+Total Assets : 11 crore 78 lacs
+Liability : No
+Net Asset : 11 crore 78 lacs
+Criminal Cases : 5
+Case Details : அரசியல் காழ்ப்புணர்ச்சி காரணமாக திணிக்கப்பட்ட வழக்கு . 
+Symbol Name : Hand
+
+=====================
+
+Name : M.K.ASHOK
+Age : 49
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A POLITICAL SCIENCE
+Occupation : CONSTRUCTION BUSINESS
+Total Assets : 9 crore 58 lacs
+Liability : 75 lacs
+Net Asset : 8 crore 84 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : C.VELU
+Age : 31
+Party Name : Bahujan Samaj Party
+Education : 12th pass
+Occupation : DENTAL LAB
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : R.KANCHANA
+Age : 45
+Party Name : Tamizhaga Murpokku Makkal Katchi
+Education : MCOM
+Occupation : COOKING SERVICE
+Total Assets : 19 lacs
+Liability : 9 lacs
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : K.GEETHA
+Age : 48
+Party Name : NEW GENERATION PEOPLES PARTY
+Education : 
+Occupation : BEAUTICIAN
+Total Assets : 31 lacs
+Liability : No
+Net Asset : 31 lacs
+Criminal Cases : 1
+Case Details : ஜல்லிக்கட்டு போராட்டம். 
+Symbol Name : POT
+
+=====================
+
+Name : M.KEERTHANA
+Age : 28
+Party Name : Naam Tamilar Katchi
+Education : B.TECH (IT)
+Occupation : HOMEMAKER
+Total Assets : 49 lacs
+Liability : No
+Net Asset : 49 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.CHANDRABOSE
+Age : 61
+Party Name : Amma Makkal Munnettra Kazagam
+Education : Post Graduate
+Occupation : SELF EMPLOYMENT
+Total Assets : 21 lacs
+Liability : No
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : A.Chandran
+Age : 61
+Party Name : MGR Makkal Katchi 
+Education : SSLC  in March 1977
+Occupation : Real Estate Broker 
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : S.SANTHOSH BABU
+Age : 53
+Party Name : Makkal Needhi Maiam
+Education : MPM. MBBS
+Occupation : TEACHER AT IAS ACADEMY
+Total Assets : 4 crore 34 lacs
+Liability : 60 lacs
+Net Asset : 3 crore 73 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : V.L.REVATHI JAYAKUMARI
+Age : 50
+Party Name : TAMIL NADU ILAYGNAR KATCHI
+Education : B.A., ENGLISH LITERATURE
+Occupation : SELF EMPLOYMENT
+Total Assets : 2 crore 15 lacs
+Liability : No
+Net Asset : 2 crore 15 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : J.VICTOR PAUL
+Age : 40
+Party Name : REPUBLICAN PARTY OF INDIA ( ATHWALE)
+Education : S.S.L.C
+Occupation : PRIVATE - DRIVER
+Total Assets : 2 lacs
+Liability : 40000
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : D.VENKATESAN
+Age : 41
+Party Name : ANAITHU MAKKAL ARASIYAL KATCHI
+Education : B.COM., M.A SOCIOLOGY
+Occupation : CABLE OPERATOR
+Total Assets : 22 lacs
+Liability : No
+Net Asset : 22 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : G.YESUDASAN
+Age : 69
+Party Name : Independent
+Education : M.A., M.B.A., D.L.L.A.L.
+Occupation : NOT APPLICABLE
+Total Assets : 32 lacs
+Liability : No
+Net Asset : 32 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ALMIRAH
+
+=====================
+
+Name : K.KANNAN
+Age : 49
+Party Name : Independent
+Education : Arts
+Occupation : SELF EMPLOYMENT
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BALLOON
+
+=====================
+
+Name : S.Gokul
+Age : 31
+Party Name : Independent
+Education : B.Com
+Occupation : Real estate
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEPHONE
+
+=====================
+
+Name : V.SIVARAMAN
+Age : 69
+Party Name : Independent
+Education : B.Sc.,
+Occupation : JOURNALIST AND BOOK PUBLISHER
+Total Assets : 2 crore 40 lacs
+Liability : No
+Net Asset : 2 crore 40 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : A.Thamilazhagan
+Age : 32
+Party Name : Independent
+Education : 10th pass
+Occupation : Coolie
+Total Assets : 16000
+Liability : No
+Net Asset : 16000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BABY_WALKER
+
+=====================
+
+Name : N.Mahalakshmi 
+Age : 57
+Party Name : Independent
+Education : B Sc
+Occupation : Farmer
+Total Assets : 59 lacs
+Liability : No
+Net Asset : 59 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GREEN_CHILLES
+
+=====================
+
+Name : Murali Balaji 
+Age : 30
+Party Name : Independent
+Education : (1) Bachelor of Engineering from Satyabhama University completed in 2014 (2) Master Of Business Administration from Alliance University completed in 2017
+Occupation : Business analyst/Freelance business consultant 
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TYRES
+
+=====================
+
+Name : M.VIGNESH
+Age : 29
+Party Name : Independent
+Education : B.C.A
+Occupation : PROPRIETOR - TARGET FLEET
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MIKE
+
+=====================
+
+Name : A.Vetriselvan
+Age : 34
+Party Name : Independent
+Education : Not given
+Occupation : NA
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BLACK_BORD
+
+=====================
+
+Name : S.JOTHI KANNAN
+Age : 32
+Party Name : Independent
+Education : 10th pass
+Occupation : BUSINESS
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 1
+Case Details : விபத்து. 
+Symbol Name : LAPTOP
+
+=====================
+
+Name : V.Hariharan 
+Age : 32
+Party Name : Independent
+Education : 10th Pass 
+Occupation : Building Construction Supervisor 
+Total Assets : 19 lacs
+Liability : No
+Net Asset : 19 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+

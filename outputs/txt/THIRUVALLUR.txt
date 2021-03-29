@@ -1,0 +1,163 @@
+Constituency Document
+=====================
+
+Constituency Name : THIRUVALLUR
+No of Candidates : 11
+No of Independent Candidates : 6
+
+=====================
+
+Name : VG.Raajendran
+Age : 53
+Party Name : Dravida Munnetra Kazhagam
+Education : Diploma in Civil Engineering 
+Occupation : Proprietor, Chairman & Managing Trustee, MD, Director, Trustee
+Total Assets : 218 crore 06 lacs
+Liability : 36 crore 00 lacs
+Net Asset : 182 crore 05 lacs
+Criminal Cases : 3
+Case Details : சட்ட விரோத கூட்டம், பொதுப் பணியாளரால் பிரகடனப்படுத்தபட்ட உத்தரவுக்கு கீழ்ப்படியாமை. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : D.Doss
+Age : 50
+Party Name : Bahujan Samaj Party
+Education : 10th pass
+Occupation : Self Employeed
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : Be Ve.Ramanah
+Age : 53
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : D.Pharm
+Occupation : Business
+Total Assets : 9 crore 82 lacs
+Liability : 3 crore 22 lacs
+Net Asset : 6 crore 60 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : N.Guru
+Age : 42
+Party Name : Amma Makkal Munnettra Kazhagam
+Education : MBA
+Occupation : Business
+Total Assets : 21 lacs
+Liability : No
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : P.Pasupathy
+Age : 50
+Party Name : Naam Tamilar Katchi
+Education : Diploma in Textile Course
+Occupation : Self employed
+Total Assets : 73 lacs
+Liability : 40 lacs
+Net Asset : 33 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : E.Kumar
+Age : 47
+Party Name : Independent
+Education : 10Th standard 
+Occupation : Driver 
+Total Assets : 8 lacs
+Liability : 1 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : J.Sasikumar
+Age : 34
+Party Name : Independent
+Education : B.A. LLB
+Occupation : Business
+Total Assets : 22 lacs
+Liability : No
+Net Asset : 22 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : N.Balakrishnan 
+Age : 44
+Party Name : Independent
+Education : 8th standard 
+Occupation : Business 
+Total Assets : 29 lacs
+Liability : 5 lacs
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : R.Ramanan 
+Age : 44
+Party Name : Independent
+Education : LLB
+Occupation : Advocate 
+Total Assets : 15 lacs
+Liability : No
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRUCK
+
+=====================
+
+Name : G.Rajendiran 
+Age : 54
+Party Name : Independent
+Education : BA (Economics) 
+Occupation : Business 
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : R.Revathi
+Age : 38
+Party Name : Independent
+Education : Higher secondary pass 
+Occupation : Coolie 
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+

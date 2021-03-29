@@ -1,0 +1,177 @@
+Constituency Document
+=====================
+
+Constituency Name : PALACODU
+No of Candidates : 12
+No of Independent Candidates : 6
+
+=====================
+
+Name : R.HARI
+Age : 44
+Party Name : Bahujan Samaj Party
+Education : 10th pass
+Occupation : SELF EMPLOYED
+Total Assets : 5500
+Liability : No
+Net Asset : 5500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.P.ANBALAGAN
+Age : 62
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : PUC
+Occupation : AGRICULTURE & POLITICS
+Total Assets : 15 crore 61 lacs
+Liability : 15 crore 51 lacs
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.K.MURUGAN
+Age : 53
+Party Name : Dravida Munnetra Kazhagam
+Education : B.A,  LLB 
+Occupation : LAWYER
+Total Assets : 96 lacs
+Liability : 32 lacs
+Net Asset : 63 lacs
+Criminal Cases : 3
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.VIJAYA SANKAR
+Age : 46
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 12 th Passed
+Occupation : POLITICIAN
+Total Assets : 79 lacs
+Liability : No
+Net Asset : 79 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : K.KALAISELVI
+Age : 25
+Party Name : Naam Tamilar Katchi
+Education : B.A. HISTORY
+Occupation : AGRICULTURAL WAGE WORKER
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 1
+Case Details : அடிதடி வழக்கு . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : D.RAJASEKAR
+Age : 46
+Party Name : Makkal Needhi Maiam
+Education : M.A, B.L., M.PHIL
+Occupation : LAWYER
+Total Assets : 1 crore 87 lacs
+Liability : 39 lacs
+Net Asset : 1 crore 48 lacs
+Criminal Cases : 1
+Case Details : 294(a), 323, 355, 506(i) IPC. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : D.ANBARASU
+Age : 28
+Party Name : Independent
+Education : B.E
+Occupation : AGRICULTURAL WAGE
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : M.P.SHARAVANAN
+Age : 50
+Party Name : Independent
+Education : M.Sc(Rev) Annamalai University 
+Occupation : Building Engineer, valuer and Agriculture
+Total Assets : 1 crore 28 lacs
+Liability : 42 lacs
+Net Asset : 86 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAMERA
+
+=====================
+
+Name : K .MURUGAN
+Age : 48
+Party Name : Independent
+Education : 10TH FAIL 
+Occupation : AGRICULTURE
+Total Assets : 42 lacs
+Liability : No
+Net Asset : 42 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : K.G.MURUGAN
+Age : 43
+Party Name : Independent
+Education : B.A(CO-OPERATIVE) 
+Occupation : AGRICULTURE
+Total Assets : 46 lacs
+Liability : 1 lacs
+Net Asset : 45 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DISH_ANTENNA
+
+=====================
+
+Name : T.RAJKUMAR
+Age : 33
+Party Name : Independent
+Education : 8th pass
+Occupation : DRIVER
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : M.VADIVEL
+Age : 37
+Party Name : Independent
+Education : 7TH STD 
+Occupation : AGRICULTURE
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BEAD_NECKBANGLE
+
+=====================
+

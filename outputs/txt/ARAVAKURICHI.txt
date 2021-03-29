@@ -1,0 +1,569 @@
+Constituency Document
+=====================
+
+Constituency Name : ARAVAKURICHI
+No of Candidates : 40
+No of Independent Candidates : 32
+
+=====================
+
+Name : K.ANNAMALAI
+Age : 36
+Party Name : Bharatiya Janata Party
+Education : M.B.A
+Occupation : Managing Trustee of "WE THE LEADERS FOUNDATION", Director of "CORE TALENT AND LEADERSHIP DEVELOPMENT PRIVATE LIMITED", Consultant in Micro Tech Pvt Ltd
+Total Assets : 2 crore 90 lacs
+Liability : 25 lacs
+Net Asset : 2 crore 65 lacs
+Criminal Cases : 10
+Case Details : சட்டவிரோதமாக ஒன்றுகூடுதல் மற்றும் கட்டுப்பாட்டை மீறுதல் மூலமாக உயிருக்கு ஆபத்தான தொற்றுநோயை பரப்புதல், தனிமைப்படுத்தப்பட்ட விதிக்கு கீழ்ப்படியாதவர், நிறுத்துவதற்கான தடை உத்தரவுக்குப் பிறகு தொல்லை, அரசு ஊழியரின் உத்தரவுக்கு  கீழ்ப்படியாமை, தமிழ்நாடு பொதுச் சட்டத்தின்  விதிமுறைகளை மீறுதல். 
+Symbol Name : LOTUS_BJP
+
+=====================
+
+Name : R.ELANGO
+Age : 50
+Party Name : Dravida Munnetra Kazhagam
+Education : B.E.,
+Occupation : Farmer
+Total Assets : 3 crore 83 lacs
+Liability : 29 lacs
+Net Asset : 3 crore 53 lacs
+Criminal Cases : 3
+Case Details : சட்ட விரோதமாக கூட்டம் கூடுவது. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : R.SUNDARARAJ
+Age : 41
+Party Name : Bahujan Samaj Party
+Education : 10th fail
+Occupation : TAILOR WORK
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : M.ANITHA PARVEEN
+Age : 38
+Party Name : Naam Tamilar Katchi
+Education : 12th
+Occupation : Housewife
+Total Assets : 6 lacs
+Liability : 3 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P S N.THANGAVEL
+Age : 53
+Party Name : AMMA MAKKAL MUNNETTRA KAZHAGAM
+Education : B.Tech(Civil)
+Occupation : Party Service, Exports in Karur, Agriculture
+Total Assets : 6 crore 89 lacs
+Liability : 1 crore 04 lacs
+Net Asset : 5 crore 84 lacs
+Criminal Cases : 1
+Case Details : 2019 சட்டப்பேரவை இடைத்தேர்தலின் போது இவரது வாகனத்தில் முறைகேடான  பண பரிமாற்றம் கண்டுபிடிக்கப்பட்டன.. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : K.S.MOHAMMED HANEEF SHAHIL
+Age : 32
+Party Name : Makkal Needhi Maiam
+Education : MBA
+Occupation :  BUSINESS
+Total Assets : 49 lacs
+Liability : 3 lacs
+Net Asset : 46 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : C.MOHANRAJ
+Age : 37
+Party Name : Samaniya Makkal Nala Katchi
+Education : B.B.A.,
+Occupation : AGRICULTURAL LABOUR
+Total Assets : 5 lacs
+Liability : 10500
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : ஏதுவுமில்லை . ஏதுவுமில்லை 
+Symbol Name : WALKING_STICK
+
+=====================
+
+Name : R.RAJKUMAR
+Age : 39
+Party Name : Tamil Nadu Youth Party
+Education : B.Sc (Psychology)., D.Pharm
+Occupation : Pharmacist
+Total Assets : 64 lacs
+Liability : 17 lacs
+Net Asset : 48 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : RING
+
+=====================
+
+Name : T.ARIVALAGAN
+Age : 29
+Party Name : Independent
+Education : 10th pass
+Occupation : Mason
+Total Assets : 3 lacs
+Liability : 92400
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : R.ARUMUGAM
+Age : 49
+Party Name : Independent
+Education : M.COM.,B.L.,
+Occupation : ADVOCATE
+Total Assets : 6 lacs
+Liability : 5 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BUCKET
+
+=====================
+
+Name : R.KARTHIKEYAN
+Age : 28
+Party Name : Independent
+Education : B.A(ENGLISH)
+Occupation : TAILOR
+Total Assets : 95000
+Liability : No
+Net Asset : 95000
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : CAPSICUM
+
+=====================
+
+Name : D.KARTHICK
+Age : 29
+Party Name : Independent
+Education : 10th Standard
+Occupation : AGRICULTURAL LABOUR
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : CAKE
+
+=====================
+
+Name : S.KIRUBANANTH
+Age : 32
+Party Name : Independent
+Education : B.COM,  B.L.,
+Occupation : ADVOCATE
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BABY_WALKER
+
+=====================
+
+Name : N.SAKUNTHALA
+Age : 42
+Party Name : Independent
+Education : B.Sc., B.L.,
+Occupation : ADVOCATE
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BISCUIT
+
+=====================
+
+Name : T.SATHEESHKUMAR
+Age : 36
+Party Name : Independent
+Education : B.A.,B.L.,
+Occupation : ADVOCATE
+Total Assets : 45000
+Liability : No
+Net Asset : 45000
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : HELMET
+
+=====================
+
+Name : P.SARAVANAN
+Age : 38
+Party Name : Independent
+Education : B.Com, B.L.,
+Occupation : ADVOCATE
+Total Assets : 1 crore 09 lacs
+Liability : 3 lacs
+Net Asset : 1 crore 06 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : A.CHIDAMBARAM
+Age : 42
+Party Name : Independent
+Education : 8th Standard
+Occupation : Driver
+Total Assets : 14 lacs
+Liability : 3 lacs
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GAS_STOVE
+
+=====================
+
+Name : P.SILAMBARASAN
+Age : 33
+Party Name : Independent
+Education : B.A., M.A., B.Ed., M.Ed., 
+Occupation : SELF EMPLOYED AND FARMER
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 1
+Case Details : கெட்ட  வார்த்தைகளால் திட்டி கத்தியை காட்டி மிரட்டி பணம் கேட்டதாகவும் கொலை மிரட்டல் விடுத்தல்.. முதல் தகவல் அறிக்கை நிலையில் உள்ளது
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : A.SIVAKUMAR
+Age : 41
+Party Name : Independent
+Education : B.A.B.L.
+Occupation : ADVOCATE
+Total Assets : 1 lacs
+Liability : 1 lacs
+Net Asset : 5468
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BAT
+
+=====================
+
+Name : M.SURESH
+Age : 46
+Party Name : Independent
+Education : 7th Standard 
+Occupation : TWO WHEELER MECHANIC
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GRAPES
+
+=====================
+
+Name : S.SURESHBABU
+Age : 38
+Party Name : Independent
+Education : B.Com., BL.,
+Occupation : ADVOCATE
+Total Assets : 12000
+Liability : No
+Net Asset : 12000
+Criminal Cases : 0
+Case Details : ஏதுவுமில்லை . ஏதுவுமில்லை 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : R.SELVAKUMAR
+Age : 40
+Party Name : Independent
+Education : BMM
+Occupation : Not provided
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : R.V.THANEGASALAM
+Age : 61
+Party Name : Independent
+Education : B.A, B.L.
+Occupation : Advocate
+Total Assets : 21 lacs
+Liability : 5 lacs
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : N.BASKARAN
+Age : 27
+Party Name : Independent
+Education : B.Sc., B.L.,
+Occupation : ADVOCATE
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : T.PICHAIMUTHU
+Age : 46
+Party Name : Independent
+Education : BA,B.L.,
+Occupation : Advocate
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CUP_&_SAUCER
+
+=====================
+
+Name : P.PRAKASH
+Age : 41
+Party Name : Independent
+Education : B.com., B.L.
+Occupation : ADVOCATE
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : ஏதுவுமில்லை . ஏதுவுமில்லை 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : T.PRABAKARAN
+Age : 33
+Party Name : Independent
+Education : B.A., B.L.,
+Occupation : Advocate
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 1
+Case Details : சட்டவிரோதமாக ஒன்றுகூடுதல், சிறு காயம் ஏற்படுத்தியதாகவும், மற்றும் கொலைமிரட்டல் விடுத்ததாகவும் குற்றச்சாட்டு . 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : G.PRABHU
+Age : 39
+Party Name : Independent
+Education : B.A., B.L.,
+Occupation : ADVOCATE
+Total Assets : 32 lacs
+Liability : 5 lacs
+Net Asset : 28 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : WATERMELON
+
+=====================
+
+Name : S.BOOPATHY
+Age : 28
+Party Name : Independent
+Education : BA ,B.L.
+Occupation : Advocate
+Total Assets : 80000
+Liability : No
+Net Asset : 80000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : WELL
+
+=====================
+
+Name : R.PERIYASAMY
+Age : 53
+Party Name : Independent
+Education : B.Sc.,
+Occupation : TNPL (Contract Labour)
+Total Assets : 23 lacs
+Liability : 3 lacs
+Net Asset : 20 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BOX
+
+=====================
+
+Name : T.MAHESHMANI
+Age : 35
+Party Name : Independent
+Education : 12th standard
+Occupation : TEXTILES BUSINESS
+Total Assets : 15 lacs
+Liability : 19 lacs
+Net Asset : -4 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : P.Mathiyalagan
+Age : 29
+Party Name : Independent
+Education : B.A(ENGLISH)
+Occupation : AGRICULTURAL LABOUR
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : ROAD_ROLLER
+
+=====================
+
+Name : J.M.MANOJPANDIYAN
+Age : 31
+Party Name : Independent
+Education : B.A., B.L.,
+Occupation : ADVOCATE
+Total Assets : 5 lacs
+Liability : 76000
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : M.S.MURUGESAN
+Age : 51
+Party Name : Independent
+Education : B.Sc., B.L.,
+Occupation : ADVOCATE
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : HOCKEY_AND_BALL
+
+=====================
+
+Name : P.RAGUNATH
+Age : 27
+Party Name : Independent
+Education : B.E.,
+Occupation : FARMER
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : NECK_TIE
+
+=====================
+
+Name : I.RANJITH
+Age : 41
+Party Name : Independent
+Education : MA., B.L.,
+Occupation : ADVOCATE
+Total Assets : 29 lacs
+Liability : 12 lacs
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : HAT
+
+=====================
+
+Name : R.RAMAGURU
+Age : 39
+Party Name : Independent
+Education : M.B.A., L.L.B,
+Occupation : ADVOCATE
+Total Assets : 21 lacs
+Liability : No
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : ஏதுவுமில்லை . ஏதுவுமில்லை 
+Symbol Name : SHIP
+
+=====================
+
+Name : M.RAJENDRAN
+Age : 33
+Party Name : Independent
+Education : B.COM., M.COM. B.ED., M.Phil, Ph.D., (pursuing)
+Occupation : Ph.D., RESEARCH STUDENT, PART TIME INSURANCE AGENT, AGRICULTURE
+Total Assets : 86 lacs
+Liability : 17 lacs
+Net Asset : 69 lacs
+Criminal Cases : 0
+Case Details : ஏதுவுமில்லை. ஏதுவுமில்லை
+Symbol Name : WHISTLE
+
+=====================
+
+Name : V.Vivekananthan
+Age : 29
+Party Name : Independent
+Education : D.comp.E
+Occupation : AGRICULTURE LABOURER
+Total Assets : 95000
+Liability : No
+Net Asset : 95000
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : DUSBIN
+
+=====================
+
+Name : G.VAIRASEEMAN
+Age : 36
+Party Name : Independent
+Education : M.A., M.Ed.,
+Occupation : DAILY WAGER
+Total Assets : 18 lacs
+Liability : 3 lacs
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TELEVISION
+
+=====================
+

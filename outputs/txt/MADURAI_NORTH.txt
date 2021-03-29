@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : MADURAI_NORTH
+No of Candidates : 15
+No of Independent Candidates : 7
+
+=====================
+
+Name : P.SARAVANAN
+Age : 51
+Party Name : Bharatiya Janata Party
+Education : MBBS , M.D
+Occupation : Doctor
+Total Assets : 15 crore 04 lacs
+Liability : 3 crore 19 lacs
+Net Asset : 11 crore 85 lacs
+Criminal Cases : 6
+Case Details : 1. சாட்சியத்தை மறைத்தல் அல்லது பொய் தகவல் கொடுத்தல், 2. ஏமாற்றுவதற்காக பொய்யான ஆவணத்தைத் தயாரித்தல், 3. மோசடி, நம்பிக்கை மோசடி, காயத்தை ஏற்படுத்துதல் 4. சட்ட விரோதமாக கூடுதல், 5. பொதுப் பாதையில் ஆபத்து அல்லது தடை, 6. பொதுத் தொல்லைக்கான தண்டனை, 7. உயிருக்கு ஆபத்தான தொற்றுநோயை பரப்பக்கூடிய கவனக்குறைவான செயல், 8. தொற்றுத்தடை தனிமை விதிக்கு கீழ்ப்படியாமை, 9. குற்றம் புரிவதற்கான திட்டத்தை தடுக்க, 10. அனுமதியின்றி ஒலி பெருக்கி பயன்படுத்துவது, 11. தேர்தலில் சட்டவிரோத பணம் செலுத்துதல். 
+Symbol Name : LOTUS_BJP
+
+=====================
+
+Name : G.THALAPATHI
+Age : 65
+Party Name : Dravida Munnetra Kazhagam
+Education : 10th pass
+Occupation : FARMER,POLITCS
+Total Assets : 13 crore 59 lacs
+Liability : No
+Net Asset : 13 crore 59 lacs
+Criminal Cases : 12
+Case Details : திமுக தலைவரை கைது செய்ததற்காக கண்டனம் தெரிவித்து போராடியாது, துவரிமானில் அனுமதியை மீறி மக்கள் கிராமசபைக் கூட்டம் நடத்தியது, கீழமாத்தூரில்  அனுமதியை மீறி மக்கள் கிராமசபைக் கூட்டம் நடத்தியது, 144 தடையுத்தரவை மீறியது, குடியுரிமைச் சட்டத்தை எதிர்த்து போராடியாது.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.ALAGAR
+Age : 53
+Party Name : Makkal Needhi Maiam
+Education : B.A,B.L
+Occupation : ADVOCATE
+Total Assets : 1 crore 05 lacs
+Liability : 21 lacs
+Net Asset : 85 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.ANBARASI
+Age : 34
+Party Name : Naam Tamilar Katchi
+Education : M.E.,VLSI Design.,
+Occupation : BUSINESS
+Total Assets : 1 crore 69 lacs
+Liability : No
+Net Asset : 1 crore 69 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.VASANTHAKUMAR
+Age : 52
+Party Name : Anna Dravidar Kazhagam
+Education : 12th PASS
+Occupation : EB DEPARTMENT CONTRACTOR
+Total Assets : 13 crore 65 lacs
+Liability : 1 crore 39 lacs
+Net Asset : 12 crore 26 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : M.J.VOLTAIRE
+Age : 52
+Party Name : SOCIALIST UNITY CENTRE OF INDIA(COMMUNIST)
+Education : M.A ,B.Ed
+Occupation : FULL TIME PARTY
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : M.JEYAPAL
+Age : 61
+Party Name : Amma Makkal Munnettra Kazagam
+Education : B.A ,M.A , M.PHILL., 
+Occupation : FARMER AND REAL ESTATE
+Total Assets : 2 crore 15 lacs
+Liability : 23 lacs
+Net Asset : 1 crore 91 lacs
+Criminal Cases : 3
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : J.ABUBAKKARSIDDIQ
+Age : 46
+Party Name : Independent
+Education : B.sc - Discontinue
+Occupation : SERVICES ENGINEER
+Total Assets : 66 lacs
+Liability : No
+Net Asset : 66 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAMERA
+
+=====================
+
+Name : T.RAAM VISHWAKARMA 
+Age : 65
+Party Name : Independent
+Education : 5th pass
+Occupation : Social Welfare Scheme
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELMET
+
+=====================
+
+Name : D.ISMAYIL
+Age : 39
+Party Name : Independent
+Education : 6th pass
+Occupation : DRIVER
+Total Assets : 30500
+Liability : No
+Net Asset : 30500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FUNNEL
+
+=====================
+
+Name : N.KUPPUSAMY
+Age : 40
+Party Name : Independent
+Education : 10th pass
+Occupation : PRIVATE JOB , FARMER
+Total Assets : 31 lacs
+Liability : 7 lacs
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PLATE_CONTANING_FOOD
+
+=====================
+
+Name : J.KESAVARAJAH 
+Age : 30
+Party Name : Independent
+Education : B.Sc.,
+Occupation : GARLIC BUSINESS
+Total Assets : 1 lacs
+Liability : 50000
+Net Asset : 90000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : P.SANKARAPANDI
+Age : 35
+Party Name : Independent
+Education : 7TH DISCONTINUE
+Occupation : TILES CONTRACT
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : K.THEIVAMMAL
+Age : 38
+Party Name : Independent
+Education : B.A.B.L
+Occupation : ADVOCATE
+Total Assets : 2 lacs
+Liability : 40000
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : R.NATARAJAN
+Age : 47
+Party Name : ShivSena
+Education : B.B.A - DISCONTINUE
+Occupation : LPG & GOGAS DEALER
+Total Assets : 63 lacs
+Liability : 12 lacs
+Net Asset : 51 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PETROL_PUMP
+
+=====================
+

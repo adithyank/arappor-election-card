@@ -1,0 +1,317 @@
+Constituency Document
+=====================
+
+Constituency Name : PERAMBUR
+No of Candidates : 22
+No of Independent Candidates : 13
+
+=====================
+
+Name : C.SURESH
+Age : 37
+Party Name : Bahujan Samaj Party
+Education : 10th pass
+Occupation : DRIVER
+Total Assets : 14 lacs
+Liability : 5 lacs
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : R.D.Sekar
+Age : 54
+Party Name : Dravida Munnetra Kazhagam
+Education : B.Com., B.L 
+Occupation : Business
+Total Assets : 1 crore 28 lacs
+Liability : 40 lacs
+Net Asset : 89 lacs
+Criminal Cases : 10
+Case Details : அரசியல் போராட்டம் . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : NR.DHANAPALAN
+Age : 69
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : MA HISTORY
+Occupation : BUSINESS
+Total Assets : 34 crore 31 lacs
+Liability : 1 crore 21 lacs
+Net Asset : 33 crore 09 lacs
+Criminal Cases : 2
+Case Details : நில உரிமையாளர் அல்லாத ஒருவரிடம் நிலம் வாங்கியது சம்பந்த வழக்கு,  சட்ட ஒழுங்கு வழக்கு, போராட்ட வழக்கு , ஒன்றுகூடல் வழக்கு . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.A.Soosai
+Age : 57
+Party Name : Republican party of India
+Education : Not mentioned 
+Occupation : Social worker/Spiritual work
+Total Assets : 19 lacs
+Liability : 76 lacs
+Net Asset : - crore 57 lacs
+Criminal Cases : 4
+Case Details : தகவல் கொடுக்கவில்லை . 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : J.Sebastin
+Age : 44
+Party Name : Socialist Unity Centre of India (communist)
+Education : 10th pass
+Occupation : Full time worker in Socialist Unity Centre of India (Communist)
+Total Assets : 1809
+Liability : No
+Net Asset : 1809
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : A.Ponnusami
+Age : 46
+Party Name : Makkal Needhi Maiam
+Education : 8th pass
+Occupation : Milk Delivery 
+Total Assets : 23 lacs
+Liability : 10 lacs
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.MERLIN SUGANTHI
+Age : 35
+Party Name : Naam Tamilar Katchi
+Education : DIPLOMA IN GENERAL NURSING AND MIDWIFERY
+Occupation : HOME MAKER
+Total Assets : 55 lacs
+Liability : 10 lacs
+Net Asset : 46 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : E.LAKSHMINARAYANAN
+Age : 48
+Party Name : AMMA MAKKAL MUNNETRA KAZHAGAM
+Education : 9TH STD
+Occupation : CAR BUSINESS
+Total Assets : 66 lacs
+Liability : 9 lacs
+Net Asset : 57 lacs
+Criminal Cases : 3
+Case Details : சட்டவிதி மீறிய ஒன்றுகூடல், தேர்தல் நடத்தை விதிமீறல், தவறாக நிறுத்திவைத்தல், அனுமதியின்றி வீட்டிற்குள் நுழைவது, திருட்டு மற்றும் மிரட்டல் . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : S.Udayakumar
+Age : 48
+Party Name : Independent
+Education : 10th pass
+Occupation : Self Employed
+Total Assets : 90 lacs
+Liability : No
+Net Asset : 90 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BELT
+
+=====================
+
+Name : M.KADHIRAVAN
+Age : 53
+Party Name : Independent
+Education : 12th pass
+Occupation : SELF EMPLOYMENT
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : S.Sathish Kumar
+Age : 31
+Party Name : Independent
+Education : 9th standard
+Occupation : Coolie
+Total Assets : 13500
+Liability : No
+Net Asset : 13500
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : J. Sathish
+Age : 45
+Party Name : Independent
+Education : 9th Standard
+Occupation : Business
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TUBELIGHT
+
+=====================
+
+Name : R.Saravana Perumal
+Age : 47
+Party Name : Independent
+Education : B.Tech, M.F.C 
+Occupation : Social Activist
+Total Assets : 79000
+Liability : No
+Net Asset : 79000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : HAT
+
+=====================
+
+Name : R.Selvaraj
+Age : 49
+Party Name : Independent
+Education : 10th pass
+Occupation : Coolie
+Total Assets : 80500
+Liability : No
+Net Asset : 80500
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BALLOON
+
+=====================
+
+Name : P.Sekar
+Age : 66
+Party Name : Independent
+Education : 5th pass
+Occupation : Business
+Total Assets : 40200
+Liability : No
+Net Asset : 40200
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : RING
+
+=====================
+
+Name : P.Parthipan
+Age : 39
+Party Name : Independent
+Education : M.L
+Occupation : ADVOCATE
+Total Assets : 66 lacs
+Liability : No
+Net Asset : 66 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : LAPTOP
+
+=====================
+
+Name : J.PREM ANAND
+Age : 32
+Party Name : Independent
+Education : M.COM., M.B.A., M.S.W., B.L.,
+Occupation : ADVOCATE
+Total Assets : 2 crore 20 lacs
+Liability : 1 crore 15 lacs
+Net Asset : 1 crore 05 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : K.Rajesh
+Age : 32
+Party Name : Independent
+Education : 5th pass
+Occupation : Driver
+Total Assets : 48250
+Liability : No
+Net Asset : 48250
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : S.Rajesh Kumar
+Age : 46
+Party Name : Independent
+Education : Diploma in Electrical and Electronics
+Occupation : Business
+Total Assets : 42 lacs
+Liability : No
+Net Asset : 42 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : CUTTING_PLIERS
+
+=====================
+
+Name : M.Vasantha Kumar
+Age : 43
+Party Name : Ahila Bharath Hindu Mahasabha
+Education : 7th Std
+Occupation : Brokering Land sales
+Total Assets : 95 lacs
+Liability : 82 lacs
+Net Asset : 13 lacs
+Criminal Cases : 1
+Case Details : கொடுக்கவில்லை . 
+Symbol Name : FLUTE
+
+=====================
+
+Name : G.Vinothkumar
+Age : 30
+Party Name : Independent
+Education : 8th pass
+Occupation : Driver
+Total Assets : 37650
+Liability : No
+Net Asset : 37650
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BAT
+
+=====================
+
+Name : L.VENKATESH
+Age : 45
+Party Name : Independent
+Education : 12th pass
+Occupation : SMALL ENTERPRISES BUSINESS
+Total Assets : 86920
+Liability : No
+Net Asset : 86920
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TELEVISION
+
+=====================
+

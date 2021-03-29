@@ -1,0 +1,373 @@
+Constituency Document
+=====================
+
+Constituency Name : THOOTHUKKUDI
+No of Candidates : 26
+No of Independent Candidates : 14
+
+=====================
+
+Name : A.ASHOKKUMAR
+Age : 43
+Party Name : Bahujan Samaj Party
+Education : M.A
+Occupation : Private contract labor
+Total Assets : 16 lacs
+Liability : 1 lacs
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : P.GEETHA JEEVAN
+Age : 50
+Party Name : Dravida Munnetra Kazhagam
+Education : M.COM,B.Ed
+Occupation : Teacher
+Total Assets : 9 crore 82 lacs
+Liability : 1 crore 39 lacs
+Net Asset : 8 crore 43 lacs
+Criminal Cases : 15
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : U.CHANDRAN
+Age : 57
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 9th
+Occupation : Business
+Total Assets : 26 crore 94 lacs
+Liability : 16 crore 31 lacs
+Net Asset : 10 crore 62 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : SDR.VIJAYASEELAN
+Age : 48
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 12th pass
+Occupation : Farmer,Education work,Production Business
+Total Assets : 57 crore 88 lacs
+Liability : 2 crore 10 lacs
+Net Asset : 55 crore 78 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : N.SUNDAR
+Age : 50
+Party Name : Makkal Needhi Maiam
+Education : M.A History
+Occupation : Contractor
+Total Assets : 92 lacs
+Liability : 12 lacs
+Net Asset : 80 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.SUBASH
+Age : 30
+Party Name : Republican party of India
+Education : B.E
+Occupation : Service Advisor (Hyundai)
+Total Assets : 15 lacs
+Liability : No
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : K.SUBRAMANI
+Age : 40
+Party Name : Shiva Sena
+Education : 8th pass
+Occupation : Business
+Total Assets : 2 lacs
+Liability : 73000
+Net Asset : 97000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FLUTE
+
+=====================
+
+Name : G.SELVAVINAYAGAM
+Age : 46
+Party Name : Veerathiyagi Vishvanathadas Thozhilargal Katchi
+Education : 10th
+Occupation : Barber
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name-
+
+=====================
+
+Name : N.Balasubramaniyan
+Age : 49
+Party Name : Anna Purachithalaivar Amma Dravida Munnetra Kazhagam
+Education : 8th pass
+Occupation : LABOUR
+Total Assets : 10500
+Liability : No
+Net Asset : 10500
+Criminal Cases : 1
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : A.MAHARAJAN
+Age : 31
+Party Name : Bahujan Dravida Party
+Education : S.S.L.C,ITI
+Occupation : Self Employment
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUCKET
+
+=====================
+
+Name : V.RAJASEKAR
+Age : 39
+Party Name : United States of India Party
+Education : B.Sc( Physics)
+Occupation : Self business
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : V.VELRAJ
+Age : 38
+Party Name : Naam Tamilar Katchi
+Education : 9th
+Occupation : Business(sales)
+Total Assets : 36 lacs
+Liability : No
+Net Asset : 36 lacs
+Criminal Cases : 60
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : J.ARUN NEHRURAJ
+Age : 37
+Party Name : Independent
+Education : 12th
+Occupation : Consulting
+Total Assets : 8000
+Liability : No
+Net Asset : 8000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : J.ALLDRIN AIRMARSHAL THAYARAM
+Age : 41
+Party Name : Independent
+Education : M.A.Public Admin , LLB
+Occupation : Lawyer
+Total Assets : 36 lacs
+Liability : No
+Net Asset : 36 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : C.GANESH AYYADURAI
+Age : 32
+Party Name : Independent
+Education : BCA
+Occupation : Contractor
+Total Assets : 14 lacs
+Liability : 6 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : S.KRISHNAN
+Age : 43
+Party Name : Independent
+Education : 8th pass
+Occupation : Building Contracter
+Total Assets : 25 lacs
+Liability : 10 lacs
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : REFRIGIRATOR
+
+=====================
+
+Name : J.SAMUVEL
+Age : 45
+Party Name : Independent
+Education : 10th
+Occupation : Business
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BREAD
+
+=====================
+
+Name : J.SIVANESWARAN
+Age : 32
+Party Name : Independent
+Education : B.E(EEE),M.TECH, MBA
+Occupation : sales Director-Private Limited
+Total Assets : 24 lacs
+Liability : 19 lacs
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name-
+
+=====================
+
+Name : G.SELVAM
+Age : 54
+Party Name : Independent
+Education : HSC
+Occupation : Business
+Total Assets : 17 lacs
+Liability : No
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BOX
+
+=====================
+
+Name : C.BALASUNDARAM
+Age : 58
+Party Name : Independent
+Education : B.A(History)
+Occupation : Josiyar
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ALMIRAH
+
+=====================
+
+Name : L.MARIA DEVA SAHAYA JOHNY
+Age : 35
+Party Name : Independent
+Education : 10th pass
+Occupation : Business
+Total Assets : 5 lacs
+Liability : 1 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BOAT_WITH_MAN_SAIL
+
+=====================
+
+Name : A.MOHAMED IMRAN ARABI
+Age : 36
+Party Name : Independent
+Education : (BTHM)
+Occupation : Marketing
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BISCUIT
+
+=====================
+
+Name : R.RAMA GUNASEELAN
+Age : 67
+Party Name : Independent
+Education : 7th (Discontinue)
+Occupation : Farmer & Social Worker
+Total Assets : 86 lacs
+Liability : 10 lacs
+Net Asset : 76 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : A.RAJAVEL
+Age : 66
+Party Name : Independent
+Education : S.S.L.C, ITI
+Occupation : Retired
+Total Assets : 5 crore 13 lacs
+Liability : No
+Net Asset : 5 crore 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : M.LINGARAJA
+Age : 36
+Party Name : Independent
+Education : ITI
+Occupation : Wages
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : A.JEYALALITHA
+Age : 49
+Party Name : Independent
+Education : Illiterate
+Occupation : Individual Folk art
+Total Assets : 45 lacs
+Liability : 42 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BLACK_BORD
+
+=====================
+

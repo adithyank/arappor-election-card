@@ -1,0 +1,191 @@
+Constituency Document
+=====================
+
+Constituency Name : YERCAUD
+No of Candidates : 13
+No of Independent Candidates : 6
+
+=====================
+
+Name : C.Kumar
+Age : 41
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 9th pass
+Occupation : Agriculture
+Total Assets : 6 lacs
+Liability : 80000
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : G.CHITRA
+Age : 40
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 5th pass
+Occupation : MEMBER OF LEGISLATIVE ASSEMBLY
+Total Assets : 1 crore 69 lacs
+Liability : 6 lacs
+Net Asset : 1 crore 63 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : C.Tamilselvan
+Age : 50
+Party Name : Dravida Munnetra Kazhagam
+Education : 5th pass
+Occupation : Agriculture
+Total Assets : 40 lacs
+Liability : No
+Net Asset : 40 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.RAMASAMY
+Age : 40
+Party Name : Bahujan Samaj Party
+Education : 8th pass
+Occupation : Agricultural Wage Worker
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : T.Duraisami
+Age : 62
+Party Name : India Jananayaga Katchi
+Education : 5th pass
+Occupation : Agriculture
+Total Assets : 10 lacs
+Liability : 1 lacs
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S.JOTHI
+Age : 26
+Party Name : Naam Tamilar Katchi
+Education : M.sc(Mathematics), B.Ed
+Occupation : FARMER
+Total Assets : 2 lacs
+Liability : 4 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.T.RAJENDHIRAN
+Age : 39
+Party Name : Independent
+Education : B.Sc. Maths Discontinued
+Occupation : Agricultural Wage Worker
+Total Assets : 16 lacs
+Liability : 3 lacs
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : K.UNNAMALAI
+Age : 51
+Party Name : Independent
+Education : Illiterate
+Occupation : Agriculture
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : P.SATHISHKUMAR
+Age : 26
+Party Name : Independent
+Education : B.Sc.,
+Occupation : Agriculture
+Total Assets : 62200
+Liability : No
+Net Asset : 62200
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : R.Santhosam
+Age : 31
+Party Name : Akhil Bharat Hindu MahaSabha
+Education : 9th Pass
+Occupation : House wife
+Total Assets : 38000
+Liability : No
+Net Asset : 38000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BALLOON
+
+=====================
+
+Name : T.Priya
+Age : 26
+Party Name : Independent
+Education : B.E., Civil Engineering
+Occupation : House wife
+Total Assets : 16179
+Liability : No
+Net Asset : 16179
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CLIPS
+
+=====================
+
+Name : K.Manikandan
+Age : 27
+Party Name : Independent
+Education : B.Sc., B.Ed.,
+Occupation : Agriculture Daily wage
+Total Assets : 14604
+Liability : No
+Net Asset : 14604
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GREEN_CHILLES
+
+=====================
+
+Name : D.Madesh
+Age : 36
+Party Name : Independent
+Education : ITI
+Occupation : Agriculture
+Total Assets : 81400
+Liability : No
+Net Asset : 81400
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUCKET
+
+=====================
+

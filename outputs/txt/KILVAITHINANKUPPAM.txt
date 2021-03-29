@@ -1,0 +1,149 @@
+Constituency Document
+=====================
+
+Constituency Name : KILVAITHINANKUPPAM
+No of Candidates : 10
+No of Independent Candidates : 2
+
+=====================
+
+Name : K.Seetharaman
+Age : 63
+Party Name : Dravida Munnetra Kazhagam
+Education : old SSLC
+Occupation : agriculture
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.DHANASEELAN
+Age : 56
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : Engineering
+Occupation : Agricultural Labor
+Total Assets : 19 lacs
+Liability : No
+Net Asset : 19 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : NAGARA
+
+=====================
+
+Name : D.Pushpalatha
+Age : 40
+Party Name : Bahujan Samaj Party
+Education : B.A. LLB
+Occupation : House wife
+Total Assets : 44 lacs
+Liability : 3 lacs
+Net Asset : 41 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : M.Jagan Moorthy
+Age : 54
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 12th pass
+Occupation : social work
+Total Assets : 1 crore 33 lacs
+Liability : 41 lacs
+Net Asset : 93 lacs
+Criminal Cases : 2
+Case Details : இ .பி  கோ .147,148,427. சட்ட விரோதமாக கூடுதல் ,பொது சொத்தை சேதம் விளைவித்தல்  
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : K.Elavarasan
+Age : 52
+Party Name : Republican Party of India (Athawale)
+Education : 10th pass
+Occupation : Agriculture Coolie 
+Total Assets : 5 lacs
+Liability : 25000
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : K.SATHU
+Age : 41
+Party Name : National Democratic Party of South India 
+Education : SSLC
+Occupation : Self Employment
+Total Assets : 6 lacs
+Liability : 61 lacs
+Net Asset : - crore 55 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : J.Divya Rani
+Age : 33
+Party Name : Naam Tamilar Katchi
+Education : 9th Std
+Occupation : Housewife
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.VENKATASAMY
+Age : 45
+Party Name : Indiya Jananayaka Katchi
+Education : B.Sc & MBA (incomplete)
+Occupation : FARMER
+Total Assets : 31 lacs
+Liability : 5 lacs
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : E.P.ELANCHEZHIYAN
+Age : 26
+Party Name : Independent
+Education : 12th pass
+Occupation : SELF EMPLOYMENT
+Total Assets : 5 lacs
+Liability : 1 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : S.SELVA CHENGUTTUVAN
+Age : 37
+Party Name : Independent
+Education : B.E (Mech)
+Occupation : Social Worker & Coolie
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : RING
+
+=====================
+

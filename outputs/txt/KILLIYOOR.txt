@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : KILLIYOOR
+No of Candidates : 14
+No of Independent Candidates : 3
+
+=====================
+
+Name : V.SIVAKUMAR
+Age : 42
+Party Name : Bahujan Samaj Party
+Education : 9th std,
+Occupation : Labour
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.RAJESH KUMAR
+Age : 46
+Party Name : Indian National Congress
+Education : B.L., B.COM
+Occupation : MLA
+Total Assets : 2 crore 10 lacs
+Liability : 25 lacs
+Net Asset : 1 crore 85 lacs
+Criminal Cases : 52
+Case Details : 
+Symbol Name : Hand
+
+=====================
+
+Name : K.V.JUDEDEV
+Age : 40
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.B.A.
+Occupation : IOC DEALER
+Total Assets : 2 crore 45 lacs
+Liability : 19 lacs
+Net Asset : 2 crore 26 lacs
+Criminal Cases : 5
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : A.ANTONY
+Age : 32
+Party Name : All India Samathuva Makkal Katchi
+Education : 9th standard 
+Occupation : Daily wage worker
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : A.SEEMA
+Age : 42
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : 12th pass
+Occupation : SOCIAL SERVICE
+Total Assets : 27 lacs
+Liability : 3 lacs
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : C.THANKAPPAN
+Age : 72
+Party Name : Tamilnadu Mahadma Ganthi Makkal Katchi
+Education : P.U.C
+Occupation : FARMER
+Total Assets : 3 crore 75 lacs
+Liability : No
+Net Asset : 3 crore 75 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TUBELIGHT
+
+=====================
+
+Name : H.Peter
+Age : 39
+Party Name : Naam Tamilar Katchi
+Education : B.E. in Fire Industrial Safety
+Occupation : Fire and Safety Engineer
+Total Assets : 75 lacs
+Liability : 31906
+Net Asset : 75 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.VIJIKUMAR
+Age : 34
+Party Name : National Democratic Party of India
+Education : ITI
+Occupation : Private Organization - Mechanic
+Total Assets : 10000
+Liability : No
+Net Asset : 10000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : A.Jayaraj
+Age : 39
+Party Name : TamilNadu Ilangyar Katchi
+Education : BSC
+Occupation : Entrepreneur
+Total Assets : 35 lacs
+Liability : No
+Net Asset : 35 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : R.ANCHALOSE
+Age : 61
+Party Name : Communist party of India (Marxist)
+Education : B.A(TAMIL)
+Occupation : Retired Goverment Bus Driver
+Total Assets : 50 lacs
+Liability : 3 lacs
+Net Asset : 48 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : K.SIVANRAJ
+Age : 33
+Party Name : Independent
+Education : 10th Fail
+Occupation : SELF EMPLOYMENT
+Total Assets : 12 lacs
+Liability : 12 lacs
+Net Asset : 4000
+Criminal Cases : 1
+Case Details : 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : C.Ramesh Rajakumar
+Age : 42
+Party Name : Akhil Bharat Hindu Mahasabha
+Education : 8th pass
+Occupation : Kooli
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FLUTE
+
+=====================
+
+Name : G.John Benadict
+Age : 42
+Party Name : Independent
+Education : BA LLB
+Occupation : Lawyer
+Total Assets : 40 lacs
+Liability : No
+Net Asset : 40 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELMET
+
+=====================
+
+Name : MR.SHAJU SINGH
+Age : 45
+Party Name : Independent
+Education : DFT
+Occupation : Photographer
+Total Assets : 43 lacs
+Liability : 2 lacs
+Net Asset : 40 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : BALLOON
+
+=====================
+

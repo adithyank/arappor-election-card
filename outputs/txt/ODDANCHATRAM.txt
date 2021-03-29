@@ -1,0 +1,218 @@
+Constituency Document
+=====================
+
+Constituency Name : ODDANCHATRAM
+No of Candidates : 14
+No of Independent Candidates : 6
+
+=====================
+
+Name : R.Sakkarapani
+Age : 59
+Party Name : Dravida Munnetra Kazhagam
+Education : B.A. Economics
+Occupation : Agriculture, MLA,Indian Oil Corporation Ltd Retail seller, 
+Total Assets : 8 crore 46 lacs
+Liability : 7 crore 15 lacs
+Net Asset : 1 crore 31 lacs
+Criminal Cases : 6
+Case Details : சட்டவிரோத சட்டசபையில் சேருதல் அல்லது தொடர்கிறது,
+அரச ஊழியரின்  கட்டளைக்கு கீழ்ப்படியாமை,
+தவறான கட்டுப்பாட்டுக்கான தண்டனை,
+சட்டத்துக்கு விரோதமாக கூட்டம்கூடுதல்,
+பொது வழியில் அல்லது வழிசெலுத்தல் வரிசையில் ஆபத்து அல்லது தடை,
+ உயிருக்கு ஆபத்தான நோய்த்தொற்றை பரப்பும் வகையில் கூடியது.
+. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.SIVAKUMAR
+Age : 50
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 10th pass
+Occupation : FARMER AND REAL ESTATE
+Total Assets : 1 crore 56 lacs
+Liability : 1 crore 06 lacs
+Net Asset : 50 lacs
+Criminal Cases : 1
+Case Details : சட்டத்துக்கு விரோதமாக கூட்டம்கூடுதல்,
+தவறான கட்டுப்பாட்டுக்கான தண்டன,
+அரச ஊழியரின்  கட்டளைக்கு கீழ்ப்படியாமை.. 
+Symbol Name : NAGARA
+
+=====================
+
+Name : P.NATARAJ
+Age : 52
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 12th pass
+Occupation : FARMER, BUTTER AND GHEE BUSINESS, MOTOR VEHICLE BUSINESS
+Total Assets : 8 crore 32 lacs
+Liability : 2 crore 72 lacs
+Net Asset : 5 crore 60 lacs
+Criminal Cases : 3
+Case Details :  தவறான கட்டுப்பாட்டுக்கான தண்டனை,
+சட்டத்துக்கு விரோதமாக கூட்டம்கூடுதல்,
+ உயிருக்கு ஆபத்தான நோய்த்தொற்றை பரப்பும் வகையில் கூடியது ,
+தீ அல்லது எரியக்கூடிய விஷயத்தில் கவனக்குறைவான நடத்தை,
+குற்றவியல் மிரட்டலுக்கான தண்டனை.
+. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.MURUGARAJ
+Age : 36
+Party Name : Bahujan Samaj Party
+Education : NIL
+Occupation : NIL
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : A.ABDULHADI
+Age : 51
+Party Name : Makkal Needhi Maiam
+Education : 10th pass
+Occupation : FARMER
+Total Assets : 53 lacs
+Liability : No
+Net Asset : 53 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : T.SAKTHIDEVI
+Age : 39
+Party Name : Naam Tamilar Katchi
+Education : 9th pass
+Occupation : FARMER
+Total Assets : 32 lacs
+Liability : No
+Net Asset : 32 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.RAVI
+Age : 34
+Party Name : Anaithu Makkal Puratchi Katchi
+Education : 5th pass
+Occupation : SMALL SHOP
+Total Assets : 55000
+Liability : 2 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : K.RAVICHANDRAN
+Age : 41
+Party Name : MY INDIA PARTY
+Education : Illiterate
+Occupation : FARMER COOLIE
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : P.SHANMUGAVEL
+Age : 65
+Party Name : Independent
+Education : b.com
+Occupation : Agriculture
+Total Assets : 23 lacs
+Liability : 2 lacs
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GRAPES
+
+=====================
+
+Name : S.SIVAPRAKASH
+Age : 32
+Party Name : Independent
+Education : 10th pass
+Occupation : FARMER
+Total Assets : 62 lacs
+Liability : No
+Net Asset : 62 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : K.SIVANESAN
+Age : 40
+Party Name : Independent
+Education : 
+Occupation : 
+Total Assets : 88000
+Liability : No
+Net Asset : 88000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : K.CHELLAMUTHU
+Age : 56
+Party Name : Independent
+Education : B.com
+Occupation : FARMER
+Total Assets : 28 lacs
+Liability : No
+Net Asset : 28 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUCKET
+
+=====================
+
+Name : S.BALASUBRAMANI
+Age : 31
+Party Name : Independent
+Education : B.E(MARINE)
+Occupation : FARMER
+Total Assets : 51 lacs
+Liability : 2 lacs
+Net Asset : 49 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : S.MARIMUTHU
+Age : 41
+Party Name : Independent
+Education : B.SC
+Occupation : FARMER
+Total Assets : 30000
+Liability : No
+Net Asset : 30000
+Criminal Cases : 1
+Case Details : மிரட்டி பணம் பறித்தல். 
+Symbol Name : DIAMOND
+
+=====================
+

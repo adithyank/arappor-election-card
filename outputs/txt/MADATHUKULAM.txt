@@ -1,0 +1,227 @@
+Constituency Document
+=====================
+
+Constituency Name : MADATHUKULAM
+No of Candidates : 15
+No of Independent Candidates : 7
+
+=====================
+
+Name : J.Benjamin Kirubakaran
+Age : 37
+Party Name : Bahujan Samaj Party
+Education : S.S.L.C
+Occupation : Advertising and News related work
+Total Assets : 31000
+Liability : No
+Net Asset : 31000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : C.Mahendran
+Age : 49
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : Bachelor of Arts (Economics), Master of Arts (Economics)
+Occupation : Business
+Total Assets : 52 crore 97 lacs
+Liability : 6 crore 05 lacs
+Net Asset : 46 crore 92 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIADMK
+
+=====================
+
+Name : R.Jayaramakrishnan
+Age : 53
+Party Name : Dravida Munnetra Kazhagam
+Education : B.Sc., BBL
+Occupation : Advocate, Agriculture, MLA
+Total Assets : 4 crore 02 lacs
+Liability : 27 lacs
+Net Asset : 3 crore 75 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name-
+
+=====================
+
+Name : K.Kumaresan
+Age : 52
+Party Name : Makkal Needhi Maiam
+Education : B.Sc Zoology
+Occupation : Vegetables Whole Sale
+Total Assets : 23 lacs
+Liability : 8 lacs
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.Sakthivel
+Age : 41
+Party Name : AnnaPuratchiThalaivarAmmaDravidaMunnetraKazhagam
+Education : S.S.L.C
+Occupation : Tailor
+Total Assets : 50010
+Liability : No
+Net Asset : 50010
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : C.Shanmugavelu
+Age : 71
+Party Name : AMMA MAKKAL MUNNETRA KAZHAGAM
+Education : M.A (HISTORY)
+Occupation : N/A
+Total Assets : 2 crore 61 lacs
+Liability : 52 lacs
+Net Asset : 2 crore 09 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை
+. ஏதுமில்லை
+
+Symbol Name-
+
+=====================
+
+Name : U.Sanuja
+Age : 37
+Party Name : Naam Tamilar Katchi
+Education : M.P.ED., M.Phil., M.A., 
+Occupation : Housewife
+Total Assets : 8 lacs
+Liability : 5 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை
+. ஏதுமில்லை
+
+Symbol Name-
+
+=====================
+
+Name : M.Shanmugavel
+Age : 71
+Party Name : Independent
+Education : 5th Pass
+Occupation : Business
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : P.Subramanian
+Age : 60
+Party Name : Independent
+Education : 5th pass
+Occupation : Social Activist
+Total Assets : 35 lacs
+Liability : No
+Net Asset : 35 lacs
+Criminal Cases : 0
+Case Details : 
+. 
+Symbol Name : PAN
+
+=====================
+
+Name : P.Thangaraj
+Age : 47
+Party Name : Independent
+Education : 4th Pass
+Occupation : Daily Wage Worker
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRUCK
+
+=====================
+
+Name : K.Mahalingam
+Age : 48
+Party Name : Puthiya Tamizhagam Katchi
+Education : 10 Std, Private - April 1990
+Occupation : Own business - Two Wheeler Workshop
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : K.Mahendrakumar
+Age : 40
+Party Name : Independent
+Education : Not given
+Occupation : N/A
+Total Assets : 36 lacs
+Liability : 9 lacs
+Net Asset : 27 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : P.Mahendran
+Age : 32
+Party Name : Independent
+Education : SSLC
+Occupation : Daily Wage
+Total Assets : 25000
+Liability : No
+Net Asset : 25000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை
+. ஏதுமில்லை
+
+Symbol Name-
+
+=====================
+
+Name : K.Manickasamy
+Age : 26
+Party Name : Independent
+Education : ITI
+Occupation : Farmer - Coolie
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+. 
+Symbol Name : TILLER
+
+=====================
+
+Name : G.Ramakrishnan
+Age : 58
+Party Name : Independent
+Education : 8th Pass
+Occupation : Business
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+

@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : PENNAGARAM
+No of Candidates : 15
+No of Independent Candidates : 8
+
+=====================
+
+Name : P.N.P.INBASEKARAN
+Age : 37
+Party Name : Dravida Munnetra Kazhagam
+Education : MBA
+Occupation : Farmer, Educational Institution, Granite Quarry business
+Total Assets : 7 crore 19 lacs
+Liability : 1 crore 21 lacs
+Net Asset : 5 crore 97 lacs
+Criminal Cases : 19
+Case Details : மத்திய / மாநில அரசைக் கண்டித்து ஆர்ப்பாட்டம், பொது இடத்தில் பொருத்தமற்ற சொற்களைக் கூறி கொலை மிரட்டல், முன் அனுமதியின்றி ஆர்ப்பாட்டம், சாலைத் தடுப்பு எதிர்ப்பு, பொதுத் தொல்லை, சட்டவிரோத சட்டசபை மீறல் 144.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : R.UDHAYAKUMAR
+Age : 46
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 12th pass
+Occupation : BUSINESS
+Total Assets : 18 lacs
+Liability : No
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : S.MOORTHI
+Age : 30
+Party Name : Bahujan Samaj Party
+Education : B.Sc COMPUTER SCIENCE
+Occupation : OWN BUSINESS
+Total Assets : 6000
+Liability : No
+Net Asset : 6000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : C.ANNADURAI
+Age : 33
+Party Name : DESIYA MAKKAL SAKTHI KATCHI
+Education : 10th DISCONTINUED
+Occupation : MECHANIC
+Total Assets : 30000
+Liability : No
+Net Asset : 30000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : R.TAMILAZHAGAN
+Age : 37
+Party Name : Naam Tamilar Katchi
+Education : ELECTRICAL AND COMMUNICATION ENGINEER
+Occupation : SOFTWARE ENGINEER
+Total Assets : 76 lacs
+Liability : 24 lacs
+Net Asset : 52 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : G.K.MANI
+Age : 69
+Party Name : Pattali Makkal Katchi
+Education : B.T.S.S.L.C Teacher Training
+Occupation : Politician
+Total Assets : 73 lacs
+Liability : No
+Net Asset : 73 lacs
+Criminal Cases : 8
+Case Details : அனுமதி இன்றி ஆர்ப்பாட்டம், அனுமதி நேரம் கடந்த பொதுக் கூட்டம், பென்னகரம் இடைத்தேர்தல்  காவலர் ஆணை மீறல், பத்திரிகை துறை எதிர்த்து அனுமதி பெற்ற  போராட்டம், டிரஸ்ட் சொத்து காப்பற்ற அனுமதியின்றி போராட்டம்  . 
+Symbol Name : MANGO
+
+=====================
+
+Name : K.SHAKILA
+Age : 36
+Party Name : Makkal Needhi Maiam
+Education : B.A., B.L.,
+Occupation : ADVOCATE
+Total Assets : 58 lacs
+Liability : 96 lacs
+Net Asset : - crore 38 lacs
+Criminal Cases : 1
+Case Details : U/S 138 காசோலையை அவமதிப்பது வழக்கு .  கணக்கில் உள்ள நிதிகளின் பற்றாக்குறை போன்றவற்றிற்கான காரணங்கள் . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : V.ANNADURAI
+Age : 38
+Party Name : Independent
+Education : 10th pass
+Occupation : MESTRI
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : N.SIVALINGAM
+Age : 41
+Party Name : Independent
+Education : SSLC
+Occupation : DRIVER
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TABLE
+
+=====================
+
+Name : K.DHARUMAN
+Age : 31
+Party Name : Independent
+Education : Bsc, LLB
+Occupation : SELF EMPLOYED
+Total Assets : 15 lacs
+Liability : No
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : P.THIRUMURUGAN
+Age : 43
+Party Name : Independent
+Education : B.Sc., M.Sc., LLB
+Occupation : Mental Health Counselor
+Total Assets : 20 lacs
+Liability : 1 lacs
+Net Asset : 19 lacs
+Criminal Cases : 4
+Case Details : 1. அனுமதியின்றி துப்பாக்கி வைத்திருத்தல், 2. கூட்டு சதி, கொலை முயற்சி, அனுமதியின்றி வெடிபொருள் பயன்படுத்தல், 3.   இருதரப்புக்கு இடையே தகராறு, 4. அரசு ஊழியரை பணி செய்ய விடாமல் தடுத்தல். 
+Symbol Name : COT
+
+=====================
+
+Name : A.PERIYANANJAPPAN
+Age : 38
+Party Name : Independent
+Education : 12th pass
+Occupation : FARMER
+Total Assets : 74 lacs
+Liability : 45000
+Net Asset : 74 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WATERMELON
+
+=====================
+
+Name : K.G.MANI
+Age : 40
+Party Name : Independent
+Education : Illiterate
+Occupation : OIL RUBBING INDUSTRY
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GRAPES
+
+=====================
+
+Name : P.MANI
+Age : 51
+Party Name : Independent
+Education : Illiterate
+Occupation : TAILOR
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SEWING_MACHINE
+
+=====================
+
+Name : S.Munusamy
+Age : 51
+Party Name : Independent
+Education : 8th pass
+Occupation : Farmer 
+Total Assets : 12 lacs
+Liability : 4 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIRCONDITIONER
+
+=====================
+

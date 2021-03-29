@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : RASIPURAM
+No of Candidates : 15
+No of Independent Candidates : 6
+
+=====================
+
+Name : V.SAROJA
+Age : 72
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.D.(OBSTETRICS AND GYNAECOLOGY)
+Occupation : DOCTOR
+Total Assets : 6 crore 40 lacs
+Liability : 73 lacs
+Net Asset : 5 crore 66 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.MATHIVENTHAN
+Age : 36
+Party Name : Dravida Munnetra Kazhagam
+Education : M.D (General Medicine)
+Occupation : DOCTOR
+Total Assets : 5 crore 22 lacs
+Liability : 2 crore 21 lacs
+Net Asset : 3 crore 01 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K.VIJAYA
+Age : 51
+Party Name : Bahujan Samaj Party
+Education : 8 th Pass
+Occupation : SELF EMPLOYMENT
+Total Assets : 66000
+Liability : 25000
+Net Asset : 41000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : P.ARULMOZHIDEVAN
+Age : 64
+Party Name : TAMIL MAKKAL THANURIMAI KATCHI
+Education : ITI
+Occupation : PENSIONER
+Total Assets : 23 lacs
+Liability : 3 lacs
+Net Asset : 20 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : S.ANBALAGAN
+Age : 71
+Party Name : Amma Makkal Munnettra Kazhagam
+Education : M.A
+Occupation : Pension
+Total Assets : 2 crore 60 lacs
+Liability : 35 lacs
+Net Asset : 2 crore 25 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.RAMKUMAR
+Age : 37
+Party Name : INDHIYA JANANAYAKA KATCHI
+Education : B.E
+Occupation : AGRICULTURE
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : K.SILAMBARASI
+Age : 34
+Party Name : Naam Tamilar Katchi
+Education : 12th pass
+Occupation : FARMER
+Total Assets : 6 lacs
+Liability : 70000
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P.CHINNUSAMY
+Age : 66
+Party Name : Ganasangam Party of India
+Education : 10th Pass
+Occupation : SOCIAL POLITICAL WORK
+Total Assets : 11975
+Liability : No
+Net Asset : 11975
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : M.JAYANTHI
+Age : 49
+Party Name : Ambedkarite Party of India
+Education : B.E.
+Occupation : JOB SEEKER
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COAT
+
+=====================
+
+Name : P.SEERANGAN
+Age : 59
+Party Name : Independent
+Education : Illiterate
+Occupation : Agricultural labour
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SHIP
+
+=====================
+
+Name : S.PALANIVEL
+Age : 63
+Party Name : Independent
+Education : 4th STD
+Occupation : Individual folk artist
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : S.POONGODI
+Age : 43
+Party Name : Independent
+Education : Illiterate
+Occupation : Agricultural wages
+Total Assets : 96000
+Liability : No
+Net Asset : 96000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SEWING_MACHINE
+
+=====================
+
+Name : A.MANIVANNAN
+Age : 29
+Party Name : Independent
+Education : 12th pass
+Occupation : AGRICULTURAL WAGES
+Total Assets : 96000
+Liability : No
+Net Asset : 96000
+Criminal Cases : 1
+Case Details : கெட்ட வார்த்தையால் திட்டி, தாக்கி , கொலை மிரட்டல் விடுத்தது. . 
+Symbol Name : FOUNTAIN
+
+=====================
+
+Name : T.MADHIYAZHAGAN
+Age : 46
+Party Name : Independent
+Education : 10th pass
+Occupation : AGRICULTURAL WORK
+Total Assets : 26000
+Liability : No
+Net Asset : 26000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_STOVE
+
+=====================
+
+Name : M.MUNIYAPPAN
+Age : 36
+Party Name : Independent
+Education : B.A 
+Occupation : AGRICULTURE WAGES
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+

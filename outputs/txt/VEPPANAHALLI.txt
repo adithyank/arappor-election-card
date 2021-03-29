@@ -1,0 +1,225 @@
+Constituency Document
+=====================
+
+Constituency Name : VEPPANAHALLI
+No of Candidates : 15
+No of Independent Candidates : 7
+
+=====================
+
+Name : P.Murugan
+Age : 51
+Party Name : Dravida Munnetra Kazhagam
+Education : 12th standard 
+Occupation : Business
+Total Assets : 5 crore 94 lacs
+Liability : 64 lacs
+Net Asset : 5 crore 30 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.M.Murugesan
+Age : 54
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.Sc., L.L.B.
+Occupation : Advocate, agriculturist and Educational Institutions
+Total Assets : 2 crore 24 lacs
+Liability : No
+Net Asset : 2 crore 24 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : NAGARA
+
+=====================
+
+Name : K. P.Munusamy
+Age : 68
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : BA, BL
+Occupation : Advocate and Farmer
+Total Assets : 12 crore 35 lacs
+Liability : 43 lacs
+Net Asset : 11 crore 92 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.Sakthivel
+Age : 46
+Party Name : Naam Tamilar Katchi
+Education : MBA
+Occupation : Software Engineer 
+Total Assets : 1 crore 59 lacs
+Liability : No
+Net Asset : 1 crore 59 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Thangapandiyan
+Age : 26
+Party Name : Tamil Nadu Illaingnar Katchi
+Education : B.E
+Occupation : Business
+Total Assets : 13 lacs
+Liability : 31000
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : RING
+
+=====================
+
+Name : M.MARIYAPPAN
+Age : 40
+Party Name : Puthiya Tamilagam
+Education : 10th pass
+Occupation : Farmer
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : M.VALLI
+Age : 36
+Party Name : Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam
+Education : Not Studied
+Occupation : Home Maker
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை
+. இல்லை
+
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : P.JAYAPAL
+Age : 45
+Party Name : Makkal Needhi Maiam
+Education : 8th pass
+Occupation : Vegetable Vender
+Total Assets : 3 crore 17 lacs
+Liability : 1 crore 04 lacs
+Net Asset : 2 crore 13 lacs
+Criminal Cases : 0
+Case Details : இல்லை 
+. இல்லை 
+
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : Abdul Azeez Amanullah
+Age : 58
+Party Name : Independent
+Education : Diploma in Pharma
+Occupation : Agriculture and business
+Total Assets : 19 crore 00 lacs
+Liability : 2 crore 13 lacs
+Net Asset : 16 crore 86 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : J.USHA
+Age : 34
+Party Name : Independent
+Education : 10th pass
+Occupation : Home Maker
+Total Assets : 8 lacs
+Liability : 1 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : இல்லை 
+. இல்லை 
+
+Symbol Name : GRAPES
+
+=====================
+
+Name : P.KRISHNAMOORTHY
+Age : 35
+Party Name : Independent
+Education : M.E.,
+Occupation : Agriculture and Business
+Total Assets : 7 lacs
+Liability : 7 lacs
+Net Asset : 0 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : WELL
+
+=====================
+
+Name : C.Chakkarlappa Gundugurikki
+Age : 49
+Party Name : Independent
+Education : 8th pass
+Occupation : Agriculture
+Total Assets : 3 crore 14 lacs
+Liability : 25 lacs
+Net Asset : 2 crore 89 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BAT
+
+=====================
+
+Name : K.P.U.UVARAJ
+Age : 37
+Party Name : Independent
+Education : 10th pass
+Occupation : Farming and its allied business
+Total Assets : 1 crore 13 lacs
+Liability : 21 lacs
+Net Asset : 92 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PAN
+
+=====================
+
+Name : G.C.RAMASWAMY
+Age : 66
+Party Name : Independent
+Education : 7th Std
+Occupation : FARMER
+Total Assets : 86 lacs
+Liability : No
+Net Asset : 86 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : L.SHANMUGAM
+Age : 56
+Party Name : Independent
+Education : 3rd Std
+Occupation : Mason & Poultry Farming
+Total Assets : 38 lacs
+Liability : No
+Net Asset : 38 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BREAD
+
+=====================
+

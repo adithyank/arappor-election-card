@@ -1,0 +1,179 @@
+Constituency Document
+=====================
+
+Constituency Name : VEDARANYAM
+No of Candidates : 12
+No of Independent Candidates : 5
+
+=====================
+
+Name : R.PANNERSELVAM
+Age : 58
+Party Name : Bahujan Samaj Party
+Education : 5th std
+Occupation : Politics
+Total Assets : 26 lacs
+Liability : No
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : O.S.Manian
+Age : 66
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : PUC 
+Occupation : Agriculture, former lok sabha & rajya sabha member, MLA & Minister
+Total Assets : 1 crore 60 lacs
+Liability : No
+Net Asset : 1 crore 60 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.K.Vetharathinam
+Age : 62
+Party Name : Dravida Munnetra Kazhagam
+Education : SSLC 
+Occupation : Farmer
+Total Assets : 1 crore 35 lacs
+Liability : No
+Net Asset : 1 crore 35 lacs
+Criminal Cases : 3
+Case Details : சட்டத்திற்கு புறம்பாக ஒன்று கூடுதல், தவறாக தடுத்தல். 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P. S.Arumugam
+Age : 55
+Party Name : Amma Makkal Munnetra kazhkam
+Education : 10th
+Occupation : Farmer
+Total Assets : 57 lacs
+Liability : 8 lacs
+Net Asset : 49 lacs
+Criminal Cases : 1
+Case Details : பொது இடத்தில் ஆபாசச் செயல் புரிவது. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : K.RAJENDRAN
+Age : 46
+Party Name : Naam Tamilar Katchi
+Education : DIPLOMA IN PHARMACY
+Occupation : MEDICAL SHOP
+Total Assets : 80 lacs
+Liability : 24 lacs
+Net Asset : 56 lacs
+Criminal Cases : 1
+Case Details : சட்டவிரோதமாக கூடுதல், சாலைமறியல் . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : T.Sundaravadivelan
+Age : 44
+Party Name : ShivSena
+Education : 12th, Dr(Doctor of Letters) from The International university,USA
+Occupation : Own business
+Total Assets : 29 lacs
+Liability : No
+Net Asset : 29 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELMET
+
+=====================
+
+Name : J.MOHAMEDALI
+Age : 44
+Party Name : Makkal Needhi Maiam
+Education : M.A
+Occupation : Grocery Shop
+Total Assets : 62 lacs
+Liability : No
+Net Asset : 62 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : R.RAMAMOORTHY
+Age : 66
+Party Name : Independent
+Education : B.Sc, 
+Occupation : Agriculture
+Total Assets : 27 lacs
+Liability : No
+Net Asset : 27 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : T.RAMAJAYAM
+Age : 37
+Party Name : Independent
+Education : Teacher Training
+Occupation : AGRICULTURAL WAGE LABOUR 
+Total Assets : 55500
+Liability : No
+Net Asset : 55500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : R.KATHIRVEL
+Age : 45
+Party Name : Independent
+Education : 5TH STD
+Occupation : SELF EMPLOYMENT
+Total Assets : 37 lacs
+Liability : No
+Net Asset : 37 lacs
+Criminal Cases : 2
+Case Details : தகாத வார்த்தைகளால் திட்டி, கொலை மிரட்டல் விட்டு, கொலை செய்ய முயற்சி செய்ததாக.
+
+கஜா புயலின் போது உணவு மையத்திற்கு அனுப்பப்பட்ட பொருட்கள் அனைத்தையும் திசை திருப்பி, அழைத்து சென்று, பதுக்கி வைத்திருப்பதாக கூறி கூட்டாக சேர்ந்து வழிமறித்து அரசு அதிகாரியை தாக்கியதாகவும், பொது சொத்தை சேதப்படுத்தியதாக.. 
+Symbol Name : ROAD_ROLLER
+
+=====================
+
+Name : P.V.THEENATHAYALAN
+Age : 44
+Party Name : Independent
+Education : Diploma in Mechanical
+Occupation : Business
+Total Assets : 1 crore 40 lacs
+Liability : 1 crore 65 lacs
+Net Asset : - crore 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BALLOON
+
+=====================
+
+Name : V.VEERAKUMAR
+Age : 32
+Party Name : Independent
+Education : 6th std
+Occupation : Agriculture/Farmer
+Total Assets : 11 lacs
+Liability : 10000
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+

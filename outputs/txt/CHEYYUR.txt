@@ -1,0 +1,135 @@
+Constituency Document
+=====================
+
+Constituency Name : CHEYYUR
+No of Candidates : 9
+No of Independent Candidates : 3
+
+=====================
+
+Name : S.Ilayaraja
+Age : 33
+Party Name : Bahujan Samaj Party
+Education : M.A. M.Phil. D.TEd. Ph.D.(pursuing)
+Occupation : Self Employment
+Total Assets : 9 lacs
+Liability : 3 lacs
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.Kanitha
+Age : 56
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A. 
+Occupation : Politics & Housewife
+Total Assets : 3 crore 42 lacs
+Liability : 10 lacs
+Net Asset : 3 crore 32 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : A.Siva
+Age : 44
+Party Name : Desiya Murpokku dravida kazhagam
+Education : SSLC.,
+Occupation : Agriculture
+Total Assets : 10 lacs
+Liability : 6 lacs
+Net Asset : 4 lacs
+Criminal Cases : 1
+Case Details : வீடு கட்டுமான பணியிடம் - தண்ணீர் தொட்டி - ஏற்பட்ட விபத்து . பொருந்தாது 
+Symbol Name : NAGARA
+
+=====================
+
+Name : P.Anbu tamilsekaran
+Age : 71
+Party Name : Makkal Needhi Maiam
+Education : PUC Appeared
+Occupation : retired Doordarshan  chief camera man
+Total Assets : 18 lacs
+Liability : No
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : M.Babu
+Age : 44
+Party Name : Viduthalai Chiruthaigal Katchi
+Education : B.A.,
+Occupation : Cable operator, Builders, Broadcaster
+Total Assets : 13 crore 36 lacs
+Liability : 7 crore 79 lacs
+Net Asset : 5 crore 57 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : POT
+
+=====================
+
+Name : R.Rajesh
+Age : 34
+Party Name : Naam Tamilar Katchi
+Education : B.E.,
+Occupation : Executive in Saritha Facility  Management
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : B.Amarnath
+Age : 29
+Party Name : Independent
+Education : SSLC.,
+Occupation : Agriculture Daily Wager
+Total Assets : 12000
+Liability : No
+Net Asset : 12000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : E.Babu
+Age : 49
+Party Name : Independent
+Education : 5th standard
+Occupation : Self Employed
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : TRUCK
+
+=====================
+
+Name : M.Vinoth
+Age : 30
+Party Name : Independent
+Education : SSLC.,
+Occupation : Agriculture (wages)
+Total Assets : 10000
+Liability : No
+Net Asset : 10000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : SCISSORS
+
+=====================
+

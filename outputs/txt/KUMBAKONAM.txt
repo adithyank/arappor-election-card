@@ -1,0 +1,149 @@
+Constituency Document
+=====================
+
+Constituency Name : KUMBAKONAM
+No of Candidates : 10
+No of Independent Candidates : 4
+
+=====================
+
+Name : G.ANBALAGAN
+Age : 72
+Party Name : Dravida Munnetra Kazhagam
+Education : S.S.L.C. IN LITTLE FLOWER HIGHER SECONDARY SCHOOL, KUMBAKONAM
+Occupation : MANAGING DIRECTOR OF ANBU HOSPITAL
+Total Assets : 41 crore 73 lacs
+Liability : 10 crore 29 lacs
+Net Asset : 31 crore 43 lacs
+Criminal Cases : 6
+Case Details : தவறான கட்டுப்பாடு, நோய் பரவலை ஏற்படுத்துதல், அனுமதியின்றி ஒன்று கூடுதல். ஒழுங்கீன செயலில் ஈடுபடுதல்.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : G.M.SRITHAR VANDAYAR
+Age : 65
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.A.(Economics) from Annamalai University 2009
+Occupation : Business
+Total Assets : 52 crore 92 lacs
+Liability : 1 crore 04 lacs
+Net Asset : 51 crore 88 lacs
+Criminal Cases : 6
+Case Details : தேவர் குரு பூஜைக்கான வழக்கு, தேவர் ஜெயந்தி. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.ANAND
+Age : 34
+Party Name : Naam Tamilar Katchi
+Education : B.A., B.L.,
+Occupation : ADVOCATE
+Total Assets : 33 lacs
+Liability : 31 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : G.GOPALAKRISHNAN
+Age : 51
+Party Name : Makkal Needhi Maiam
+Education : MCA (MASTER OF COMPUTER APPLICATION)
+Occupation : TAILORING AND CLOTH BUSINESS
+Total Assets : 1 crore 10 lacs
+Liability : 11 lacs
+Net Asset : 99 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.BALAMURUGAN
+Age : 48
+Party Name : Amma Makkal Munnettra Kazhagam
+Education : SSLC 1986, Aringar Anna High School, Patteswaram
+Occupation : AGRICULTURE
+Total Assets : 1 crore 61 lacs
+Liability : 77 lacs
+Net Asset : 84 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.AYYAPPAN
+Age : 31
+Party Name : Independent
+Education : B.A., LLB-SP (2017), Sri Basheer Reddy Law College Kadappa, Andhra
+Occupation : ADVOCATE
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : D.GURUMOORTHI
+Age : 42
+Party Name : Independent
+Education : 10th Pass
+Occupation : NA
+Total Assets : 34500
+Liability : No
+Net Asset : 34500
+Criminal Cases : 8
+Case Details : சட்ட விரோதமாக கூடுவது, பொது ஊழியர்களுக்கு மதிப்பு அளிக்கமால் செயல்பட்டது, நோய் பரவலை ஏற்படுத்தியது. 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : P.SUBRAMANIYAN
+Age : 44
+Party Name : Independent
+Education : 9th Standard (1991-92) - Sri KGS Hr.Sec.School, Aduthurai.
+Occupation : AGRICULTURE
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : P.PRAKASH
+Age : 29
+Party Name : Akhil Bharat Hindu Mahasabha
+Education : 10th STD
+Occupation : Business
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BALLOON
+
+=====================
+
+Name : C.VIJAYAKUMAR
+Age : 68
+Party Name : Independent
+Education : 10th pass
+Occupation : PENSIONER
+Total Assets : 43 lacs
+Liability : No
+Net Asset : 43 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SCISSORS
+
+=====================
+

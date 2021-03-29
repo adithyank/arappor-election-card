@@ -1,0 +1,281 @@
+Constituency Document
+=====================
+
+Constituency Name : COIMBATORE_NORTH
+No of Candidates : 19
+No of Independent Candidates : 8
+
+=====================
+
+Name : K.AMMAN ARJUNAN
+Age : 63
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 
+Occupation : 
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIADMK
+
+=====================
+
+Name : V.M.SHANMUGASUNDARAM
+Age : 60
+Party Name : Dravida Munnetra Kazhagam
+Education : B.A., (History) 
+Occupation : Agriculture, Rental income and Real Estate
+Total Assets : 8 crore 09 lacs
+Liability : 32 lacs
+Net Asset : 7 crore 77 lacs
+Criminal Cases : 5
+Case Details : 1. இந்திய தண்டனை சட்டம் பிரிவு 151 : சட்டப்படி உத்தரவிற்கு எதிராக பொது அமைதிக்கு ஒரு பங்கம் விளைவிக்கும் நோக்கில் கும்பலாக கூடியது தொடர்பாக கைது 2. இந்திய தண்டனை சட்டம் 269, பிரிவு 143 -பொது அமைதிக்கு பங்கம் விளைவிக்கும் நோக்கில் சட்டவிரோதமாக கூடியதாக, 3.  இந்திய தண்டனை சட்டம் பிரிவு 151 : சட்டப்படி உத்தரவிற்கு எதிராக பொது அமைதிக்கு ஒரு பங்கத்தை அநேகமாக விளைவிக்கும் நோக்கில் கும்பலாக கூடியது தொடர்பாக கைது , 4.  இந்திய தண்டனை சட்டம் 341 பிரிவு 143 -பொது அமைதிக்கு பங்கம் விளைவிக்கும் நோக்கில் சட்டவிரோதமாக கூடியதாக, 5.   பொது அமைதிக்கு ஒரு பங்கம் விளைவிக்கும் நோக்கில் கும்பலாக கூடியது பிரிவு 143, அரசு ஊழியரை பணிசெய்யவிடாமல் சட்டவிரோதமாக தடுப்பது- பிரிவு 341, 188 IPC:பொது அரசு ஊழியரின் உத்தரவிற்கு அடிபணியாமல் சட்டவிரோதமாக நடக்க முற்படுவது .
+மேற்கண்ட  அனைத்து வழக்குகளும் பொய்யானவை மற்றும் அரசியல் பகைமைகளின் அடிப்படையில் காவல்துறையினரால் தொடரப்பட்டவை . பொருந்தாது 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : N.R.Appadurai
+Age : 70
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : BA (NOT COMPLETED) 
+Occupation : Farmer
+Total Assets : 33 crore 27 lacs
+Liability : 36 lacs
+Net Asset : 32 crore 91 lacs
+Criminal Cases : 4
+Case Details : 1,நடுரோட்டில் அமர்ந்து மறியல் செய்து பொது மக்களின் போக்குவரத்துக்கு இடைஞ்சல் கொடுத்தது, 
+2.இரவு நேரத்தில் கும்பலாக வந்து கட்டைகளால் அடிக்க முற்பட்டது,
+3 பிரபு குமார் அவரை துண்டிக்க வந்ததாகவும், அவரை ஒரு உருட்டு கட்டை அடித்து தப்பி ஓடிவிட்டார் என்ற குற்றச்சாட்டு, 
+4.கொரானா ஊரடங்கு தடை உத்தரவை மீறி கும்பல்கூட்டி நோய் பரவ ஏதுவாக செய்தது. சொத்து சேதத்திற்கான காரணம் தவறான மொழி அச்சுறுத்தலுக்கு காரணம். 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.P.Rajkumar
+Age : 50
+Party Name : Makkal Munnetra Peravai
+Education : SSLC
+Occupation : Farming
+Total Assets : 75000
+Liability : No
+Net Asset : 75000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை
+. ஏதுமில்லை
+
+Symbol Name : BAT
+
+=====================
+
+Name : V.Kannapiran
+Age : 39
+Party Name : Dravida Murpoku Makkal Katchi
+Education : HSC
+Occupation : Marketing
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MIKE
+
+=====================
+
+Name : R.Thangavelu
+Age : 60
+Party Name : Makkal Needhi Maiam
+Education : B.Com
+Occupation : Cable Operator
+Total Assets : 71 lacs
+Liability : 65000
+Net Asset : 70 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.DURAIRAJ
+Age : 45
+Party Name : Tamil Nadu Ilangyar Katchi
+Education : Diploma in Traditional Medicine, Bharathiyar Open University- March 2018
+Occupation : Self-Employed
+Total Assets : 71 lacs
+Liability : 3 lacs
+Net Asset : 68 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : RING
+
+=====================
+
+Name : M.Panneer Selvaraj
+Age : 51
+Party Name : New Generation people's party
+Education : SSLC
+Occupation : Business (Iron Scraping business)
+Total Assets : 46 lacs
+Liability : 3 lacs
+Net Asset : 43 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : B.Balendran
+Age : 54
+Party Name : Naam Tamilar Katchi
+Education : B.com
+Occupation : Agriculture, Business
+Total Assets : 1 crore 66 lacs
+Liability : 60000
+Net Asset : 1 crore 66 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.Arul Murugan
+Age : 40
+Party Name : Akil Bharatha Hindu Maha Sabha Katchi
+Education : 5th Pass
+Occupation : Building Contractor
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SITAR
+
+=====================
+
+Name : P.Keerthiga Parathasarathy
+Age : 35
+Party Name : Independent
+Education : Chartered Accountant
+Occupation : Chartered Accountant in Practice
+Total Assets : 2 crore 01 lacs
+Liability : No
+Net Asset : 2 crore 01 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : K.Shanmugasundaram
+Age : 69
+Party Name : Independent
+Education : 9th Pass
+Occupation : Real Estate, Business
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LAPTOP
+
+=====================
+
+Name : S.Dalit S Jeyaraj
+Age : 68
+Party Name : Independent
+Education : M.A. (Public Administration)
+Occupation : TWAD Board (Retired) and Union Chairman of Dr. Ambedkar Government and Public sector SC/ST Employees.
+Total Assets : 16 lacs
+Liability : 4 lacs
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ROBOT
+
+=====================
+
+Name : R.Navamani
+Age : 37
+Party Name : Independent
+Education : 7th Pass
+Occupation : Business
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : M.Bala Murugan
+Age : 35
+Party Name : Vedha Peravai
+Education : BCA, MBA
+Occupation : Business
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PETROL_PUMP
+
+=====================
+
+Name : V.Balaji
+Age : 25
+Party Name : Independent
+Education : Diploma in Automobile Engineering
+Occupation : Business
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BELT
+
+=====================
+
+Name : V K.MAHARISHI MANDHARACSALAM
+Age : 50
+Party Name : Independent
+Education : 9th Standard
+Occupation : Astrologer
+Total Assets : 1 crore 55 lacs
+Liability : 5 lacs
+Net Asset : 1 crore 50 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : D .Rameshkumar
+Age : 38
+Party Name : Independent
+Education : SSLC
+Occupation : Daily wage worker
+Total Assets : 22027
+Liability : No
+Net Asset : 22027
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUCKET
+
+=====================
+
+Name : M.LOGANATHAN
+Age : 47
+Party Name : Independent
+Education : M.Sc., BL.,M.A
+Occupation : Advocate and Agriculturist
+Total Assets : 4 crore 91 lacs
+Liability : 8 lacs
+Net Asset : 4 crore 82 lacs
+Criminal Cases : 0
+Case Details :  . 
+Symbol Name : TRIANGLE
+
+=====================
+

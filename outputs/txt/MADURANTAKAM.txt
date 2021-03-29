@@ -1,0 +1,149 @@
+Constituency Document
+=====================
+
+Constituency Name : MADURANTAKAM
+No of Candidates : 10
+No of Independent Candidates : 2
+
+=====================
+
+Name : P.SUMITHA
+Age : 30
+Party Name : Naam Tamilar Katchi
+Education : 9th Standard
+Occupation : AGRICULTURAL WAGES
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.Maragatham
+Age : 38
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.A.,
+Occupation : Political and House wife
+Total Assets : 3 crore 76 lacs
+Liability : 99 lacs
+Net Asset : 2 crore 76 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : A .KOTHANDAN
+Age : 50
+Party Name : Desiya Sirupanmayinar Makkal Iyakkam
+Education : B.com
+Occupation : Agriculture and social work
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : C.E.Sathya
+Age : 57
+Party Name : Dravida Munnetra Kazhagam
+Education :  M.A. Sociology
+Occupation : Social Service
+Total Assets : 30 lacs
+Liability : 14 lacs
+Net Asset : 16 lacs
+Criminal Cases : 7
+Case Details : பொருந்தாது 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.Subash
+Age : 28
+Party Name : Makkal Munnetra Peravai
+Education : M.A., LLB (Pursuing)
+Occupation : Student
+Total Assets : 50025
+Liability : No
+Net Asset : 50025
+Criminal Cases : 1
+Case Details : பெண்ணை கடத்திய வழக்கு. 
+Symbol Name : BAT
+
+=====================
+
+Name : N.Moorthi
+Age : 49
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 9th Standard
+Occupation : Agriculture
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : NAGARA
+
+=====================
+
+Name : K.Dinesh
+Age : 38
+Party Name : Makkal Needhi Maiam
+Education : M.B.A.,
+Occupation : Vegetable Trading
+Total Assets : 25 lacs
+Liability : 14 lacs
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : M.Madhanraj
+Age : 29
+Party Name : Bahujan Samaj Party
+Education : 12th
+Occupation : Driver
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.Tamizhselvan
+Age : 27
+Party Name : Independent
+Education : ITI
+Occupation : Labour
+Total Assets : 79000
+Liability : No
+Net Asset : 79000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : M.Ranjitham
+Age : 41
+Party Name : Independent
+Education : 8th Standard
+Occupation : Home Maker
+Total Assets : 78000
+Liability : No
+Net Asset : 78000
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : HELICOPTER
+
+=====================
+

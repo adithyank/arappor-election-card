@@ -1,0 +1,149 @@
+Constituency Document
+=====================
+
+Constituency Name : PALAYAMKOTTAI
+No of Candidates : 10
+No of Independent Candidates : 3
+
+=====================
+
+Name : M.ABDULWAHAB
+Age : 54
+Party Name : Dravida Munnetra Kazhagam
+Education : 12th pass
+Occupation : Real Estate
+Total Assets : 2 crore 27 lacs
+Liability : 20 lacs
+Net Asset : 2 crore 06 lacs
+Criminal Cases : 26
+Case Details : Survey No 26 Pettai village, Survey No 586/1, 583/2 & 586/1B of Nedunkulam Village, Tirunellveli taluk was conspired and deceived by preparing fake/forged documents, 4 persons jointly making death threats causing minor injuries to Mohamed Ilyas, unlawful assembly of about 500 persons blocking the public road in front of palayankottai centenary hall condemning the state government and central govt against citizenship amendment act,  more than 50 persons gathered illegaly to pay homage to Anna statue, Kamarajar statue, thevar statue, amedkar statue,preventing a public servant from discharging his duty, 372 persons gathered without prior permission blocked the road and obstructed traffic in support of the demand of farmers, 400 persons gathered and blocked the road demanding to remove ban on jallikattu, Protesting to cacel the bus fare hike.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : G.GERALD
+Age : 42
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A.,L.L.B.,
+Occupation : Business
+Total Assets : 2 crore 79 lacs
+Liability : 6 lacs
+Net Asset : 2 crore 73 lacs
+Criminal Cases : 5
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : A.Fathima
+Age : 31
+Party Name : Naam Tamilar Katchi
+Education : 5th pass
+Occupation : No Profession
+Total Assets : 89883
+Liability : 47850
+Net Asset : 42033
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : D.PREMNATH
+Age : 52
+Party Name : Makkal Needhi Maiam
+Education : M.B.B.S.
+Occupation : DOCTOR
+Total Assets : 1 crore 27 lacs
+Liability : No
+Net Asset : 1 crore 27 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : V M S.Mohamed Mubarak
+Age : 42
+Party Name : Social Democratic Party of India
+Education :  BBA , M.A. Political Sciences
+Occupation : SDPI Party worker
+Total Assets : 19 lacs
+Liability : No
+Net Asset : 19 lacs
+Criminal Cases : 5
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : S.Raja
+Age : 43
+Party Name : Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi
+Education : B.Com. (Discontinue)
+Occupation : Photographer
+Total Assets : 5 lacs
+Liability : 4 lacs
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : s.VEERASUBRAMANIAN
+Age : 36
+Party Name : Aanaithinthiya Jananayaka Pathukappu Kazhagam
+Education : B.E.
+Occupation : Trading
+Total Assets : 17 lacs
+Liability : No
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : அனைத்திந்திய ஜனநாயக பாதுகாப்பு கழகம்
+Symbol Name : TUBELIGHT
+
+=====================
+
+Name : K .Sadagopan
+Age : 77
+Party Name : Independent
+Education :  M.A , Doctorate from Madurai Kamaraj University
+Occupation : Writer
+Total Assets : 61 lacs
+Liability : No
+Net Asset : 61 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : M.LEO INFANTRAJ
+Age : 25
+Party Name : Independent
+Education : ITI
+Occupation : Auto Driver
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : D.John Samuel Jesupatham
+Age : 46
+Party Name : Independent
+Education : 12th pass
+Occupation : Real Estate
+Total Assets : 14 lacs
+Liability : 5 lacs
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+

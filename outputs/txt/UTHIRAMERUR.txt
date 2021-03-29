@@ -1,0 +1,291 @@
+Constituency Document
+=====================
+
+Constituency Name : UTHIRAMERUR
+No of Candidates : 20
+No of Independent Candidates : 11
+
+=====================
+
+Name : K.SUNDAR
+Age : 66
+Party Name : Dravida Munnetra Kazhagam
+Education : B.Sc.,
+Occupation : AGRICULTURE, RICE MILL, FILM PRODUCER AND MLA
+Total Assets : 3 crore 15 lacs
+Liability : No
+Net Asset : 3 crore 15 lacs
+Criminal Cases : 6
+Case Details : 1. 21-07-2020 - முன் அனுமதியின்றி  மின் கட்டண உயர்வை கண்டித்து ஆர்ப்பாட்டம். 
+2. 04-04-2018 - முன் அனுமதியின்றி காவிரி மேலாண்மை அமைக்க கோரி ஆர்ப்பாட்டம் 
+3. 29-01-2018 - முன் அனுமதியின்றி பேருந்து  கட்டண உயர்வை கண்டித்து ஆர்ப்பாட்டம்.. பொருந்தாது 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : D.SURESH
+Age : 40
+Party Name : Bahujan Samaj Party
+Education : SSLC
+Occupation : DAILY WAGES
+Total Assets : 2 lacs
+Liability : 90000
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : V.SOMASUNDARAM
+Age : 55
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : BSc., B.Ed.,
+Occupation : BUSINESS
+Total Assets : 4 crore 92 lacs
+Liability : 72 lacs
+Net Asset : 4 crore 20 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.Kamatchi
+Age : 47
+Party Name : Naam Tamilar Katchi
+Education : 9th
+Occupation : Company Employee
+Total Assets : 12 lacs
+Liability : 3 lacs
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.Sivakumar
+Age : 39
+Party Name : Desiya Makkal Sakthi Katchi
+Education : M.Com., M.A.
+Occupation : Assistant professor
+Total Assets : 37 lacs
+Liability : No
+Net Asset : 37 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : A.SUSAIAPPAR
+Age : 48
+Party Name : All India Samathuva Makhal Katchi
+Education : 8th pass
+Occupation : Cable operator
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : R.V.RANJITHKUMAR
+Age : 45
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : B.A. (Open University)
+Occupation : Agriculture, Petrol bunk, Chicken farm, Real estate commission agent
+Total Assets : 4 crore 62 lacs
+Liability : 22 lacs
+Net Asset : 4 crore 40 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : V.JAYISUDHA
+Age : 34
+Party Name : Republican party of India
+Education : B.E.
+Occupation : Homemaker
+Total Assets : 18500
+Liability : No
+Net Asset : 18500
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : J.Arogiyasami
+Age : 69
+Party Name : Independent
+Education : SSLC
+Occupation : Farmer
+Total Assets : 22 lacs
+Liability : 3 lacs
+Net Asset : 19 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : V.Gunasekar
+Age : 32
+Party Name : Independent
+Education : 10th
+Occupation : Cylindrical drums player
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : SITAR
+
+=====================
+
+Name : A.SARAVANAN
+Age : 43
+Party Name : Independent
+Education : 6th Std
+Occupation : Silk Weaving
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : PEAS
+
+=====================
+
+Name : M.Sivalingam
+Age : 36
+Party Name : Independent
+Education : 5th Std
+Occupation : Agriculture
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : WALNUT
+
+=====================
+
+Name : T.Chinnaswamy
+Age : 81
+Party Name : Samuga Samathuva Padai Katchi
+Education : 9 th Standard
+Occupation : Retired (Private Company)
+Total Assets : 2 crore 09 lacs
+Liability : 14 lacs
+Net Asset : 1 crore 95 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : SOFA
+
+=====================
+
+Name : K.Thangaraj
+Age : 26
+Party Name : Independent
+Education : H.S.C
+Occupation : Business
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : SCHOOL_BAG
+
+=====================
+
+Name : C.DEVARAJAN
+Age : 52
+Party Name : Independent
+Education : 10th Fail
+Occupation : Agriculture
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : WATERMELON
+
+=====================
+
+Name : R.Ponambalam
+Age : 46
+Party Name : Independent
+Education : 10th
+Occupation : Silk Weaving
+Total Assets : 15 lacs
+Liability : No
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : CAPSICUM
+
+=====================
+
+Name : K.V.MADHAVARAJ
+Age : 53
+Party Name : Independent
+Education : higher Secondary / Private / 1987
+Occupation : Entrepreneur
+Total Assets : 2 lacs
+Liability : 2 lacs
+Net Asset : 27300
+Criminal Cases : 1
+Case Details : ஒரு அரசு ஊழியர் தனது கடமையை செய்வதை தடுத்தல் 
+Symbol Name : GRAPES
+
+=====================
+
+Name : D.Jeevanandham
+Age : 40
+Party Name : Independent
+Education : SSLC
+Occupation : Business
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : SETHOSCOPE
+
+=====================
+
+Name : E.Jayabalan
+Age : 42
+Party Name : Independent
+Education : SSLC
+Occupation : Painter
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : T
+
+=====================
+
+Name : C.A.Jayaraman
+Age : 38
+Party Name : Independent
+Education : BBA., M.A(CURRENTLY PERSUING)
+Occupation : Tea Shop
+Total Assets : 80000
+Liability : No
+Net Asset : 80000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : GREEN_CHILLES
+
+=====================
+

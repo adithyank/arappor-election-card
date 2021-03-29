@@ -1,0 +1,163 @@
+Constituency Document
+=====================
+
+Constituency Name : ALANGUDI
+No of Candidates : 11
+No of Independent Candidates : 2
+
+=====================
+
+Name : M.Chinnadurai
+Age : 51
+Party Name : Bahujan Samaj Party
+Education : 12th standard
+Occupation : Commission Agent
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : DHARMA THANGAVEL
+Age : 43
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Sc., (Computer Science),  M.Sc., IT 
+Occupation : Farmer
+Total Assets : 1 crore 08 lacs
+Liability : 13 lacs
+Net Asset : 95 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIADMK
+
+=====================
+
+Name : SIVA.V.MEYYANATHAN
+Age : 52
+Party Name : Dravida Munnetra Kazhagam
+Education : MCA
+Occupation : Farmer & MLA
+Total Assets : 1 crore 34 lacs
+Liability : 13 lacs
+Net Asset : 1 crore 22 lacs
+Criminal Cases : 6
+Case Details : நோய் தொற்றை பரப்புதல்,அனுமதியின்றி கூடுவது. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : C.THIRUCHELVAM
+Age : 55
+Party Name : Naam Tamilar Katchi
+Education : B.A.
+Occupation : Agriculture
+Total Assets : 23 lacs
+Liability : No
+Net Asset : 23 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P.BALAMURUGAN
+Age : 33
+Party Name : My India Party
+Education : DME
+Occupation : Self Employed
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : G.MANIMEGALAI
+Age : 43
+Party Name : Communist Party of India (Marxist-Leninist) (Liberation)
+Education : 10th standard
+Occupation : Farmer
+Total Assets : 56000
+Liability : No
+Net Asset : 56000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FLAG_AND_THREE_STARS
+
+=====================
+
+Name : D.VIDANGAR
+Age : 61
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : B.Sc.
+Occupation : Agriculture
+Total Assets : 1 crore 69 lacs
+Liability : No
+Net Asset : 1 crore 69 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : N.VAIRAVAN
+Age : 32
+Party Name : Makkal Needhi Maiam
+Education : M.B.A.
+Occupation : OWN BUSINESS
+Total Assets : 80 lacs
+Liability : 6 lacs
+Net Asset : 74 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : C.JAYA
+Age : 32
+Party Name : Anaithu Makkal Puratchi Katchi
+Education : BBA
+Occupation : Farming assistant
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : V.KANNADASAN
+Age : 30
+Party Name : Independent
+Education : Not given
+Occupation : Farmer
+Total Assets : 24 lacs
+Liability : No
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : T.VINAYAGAMOORTHY
+Age : 49
+Party Name : Independent
+Education : Primary education
+Occupation : Farmer
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+

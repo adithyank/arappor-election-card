@@ -1,0 +1,163 @@
+Constituency Document
+=====================
+
+Constituency Name : CHIDAMBARAM
+No of Candidates : 11
+No of Independent Candidates : 3
+
+=====================
+
+Name : D.CHANDRA PRABHU
+Age : 35
+Party Name : Bahujan Samaj Party
+Education : 12th pass
+Occupation : Business
+Total Assets : 2 lacs
+Liability : 1 lacs
+Net Asset : 63000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K. A.Pandian
+Age : 60
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : M.A
+Occupation : MLA, CHIDAMBARAM
+Total Assets : 6 crore 20 lacs
+Liability : 1 crore 04 lacs
+Net Asset : 5 crore 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : s.Abdul Rahman
+Age : 42
+Party Name : Indian Union Muslim League
+Education : 9th STD
+Occupation : Managing Director in a Private firm
+Total Assets : 85 lacs
+Liability : No
+Net Asset : 85 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LADDER
+
+=====================
+
+Name : K.Udhaya Selvan
+Age : 32
+Party Name : Anaithu Makkal Puratchi Katchi
+Education : B.E cse
+Occupation : Farmer
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : G.DEVASAGAYAM
+Age : 50
+Party Name : Akila India Samathuva Makkal Katchi
+Education : Literate
+Occupation : Grocery  Shop
+Total Assets : 39 lacs
+Liability : 5 lacs
+Net Asset : 34 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.NATARAJAN
+Age : 43
+Party Name : Naam Tamilar Katchi
+Education : 12th
+Occupation : BUILDERS
+Total Assets : 1 crore 00 lacs
+Liability : 30 lacs
+Net Asset : 71 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.Nanthinidevi
+Age : 39
+Party Name : Amma Makkal Munnettra Kazagam
+Education : B.Ed
+Occupation : House Wife
+Total Assets : 1 crore 22 lacs
+Liability : 59 lacs
+Net Asset : 64 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.RAGHUNATHAN
+Age : 52
+Party Name : Ilantamilar Munnani kazhagam
+Education : BE,MBA
+Occupation : Nil
+Total Assets : 26 lacs
+Liability : 6 lacs
+Net Asset : 20 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELMET
+
+=====================
+
+Name : B.Narayanamoorthy
+Age : 50
+Party Name : Independent
+Education : 9th STD
+Occupation : Business(Printing)
+Total Assets : 65 lacs
+Liability : 2 lacs
+Net Asset : 63 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S.Balamurugan
+Age : 39
+Party Name : Independent
+Education : Diploma in A/C  technology
+Occupation : Agriculture
+Total Assets : 9 lacs
+Liability : 8 lacs
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : C.VINOBA
+Age : 49
+Party Name : Independent
+Education : Certified Course
+Occupation : Agriculture
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+

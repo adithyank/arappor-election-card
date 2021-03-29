@@ -1,0 +1,177 @@
+Constituency Document
+=====================
+
+Constituency Name : ORATHANADU
+No of Candidates : 12
+No of Independent Candidates : 3
+
+=====================
+
+Name : M.RAMACHANDRAN
+Age : 76
+Party Name : Dravida Munnetra Kazhagam
+Education : B.A., B.L.,
+Occupation : AGRICULTURE,ADVOCATE
+Total Assets : 5 crore 60 lacs
+Liability : No
+Net Asset : 5 crore 60 lacs
+Criminal Cases : 2
+Case Details : PROTEST AND ROAD STRIKE. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : R.VAITHILINGAM
+Age : 66
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : UG
+Occupation : AGRICULTURE
+Total Assets : 3 crore 27 lacs
+Liability : 61 lacs
+Net Asset : 2 crore 67 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : R.STALIN
+Age : 27
+Party Name : Bahujan Samajwadi Party
+Education : B.A., B.L.,
+Occupation : NOT GIVEN
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : M.Kandasamy
+Age : 43
+Party Name : Naam Tamilar Katchi
+Education : SSLC 
+Occupation : Contractor
+Total Assets : 1 crore 26 lacs
+Liability : No
+Net Asset : 1 crore 26 lacs
+Criminal Cases : 1
+Case Details : தஞ்சை மாவட்ட ஆட்சியர் அலுவலகம் வந்துவிட்டு திரும்ப செல்லும்போது நாஞ்சிக்கோட்டையில் சட்ட விரோதமாக குளத்தில் மண் வெட்டி நெடுஞ்சாலை போடுவதற்கு பயன்படுத்தியபோது வட்டாட்சியர் மற்றும் காவல் துறையினரால் டிப்பர் லாரிகள் மற்றும் அதனை பயன்படுத்தியவர்களை கைது செயதுள்ளதாக வழக்கு.. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.SEKAR
+Age : 58
+Party Name : Amma Makkal Munnettra Kazagam
+Education : 11th Standard 
+Occupation : Agriculture
+Total Assets : 1 crore 25 lacs
+Liability : 5 lacs
+Net Asset : 1 crore 20 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.Thanraj
+Age : 41
+Party Name : United States of India Party
+Education : 7th Std, 
+Occupation : Farmer
+Total Assets : 10 lacs
+Liability : 10 lacs
+Net Asset : 46000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TILLER
+
+=====================
+
+Name : U.PRABAKARAN
+Age : 38
+Party Name : Anaithu Makkal Puratchi Katchi
+Education : 12TH STD
+Occupation : FARMING LABOUR
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : G.RENGASAMY
+Age : 59
+Party Name : Makkal Needhi Maiam
+Education : MBA.,
+Occupation : Farmer and Coconut Business
+Total Assets : 85 lacs
+Liability : 12 lacs
+Net Asset : 73 lacs
+Criminal Cases : 1
+Case Details : வாய் தகராறு . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.ARUNKUMAR
+Age : 26
+Party Name : Independent
+Education : S.S.L.C. 
+Occupation : SELF EMPLOYED
+Total Assets : 12 lacs
+Liability : 4 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : V.MOOKKAIYAN
+Age : 48
+Party Name : Independent
+Education : Not given
+Occupation : NA
+Total Assets : 19 lacs
+Liability : No
+Net Asset : 19 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : S.RENGARAJ
+Age : 69
+Party Name : VEDHA PERAVAI SUYETCHAI
+Education : B.Com
+Occupation : Retired Railway Staff
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : T.JAYASOORIYAN
+Age : 38
+Party Name : Independent
+Education : ITI
+Occupation : FARMER AND REAL ESTATE BROKER
+Total Assets : 27 lacs
+Liability : No
+Net Asset : 27 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PINEAPPLE
+
+=====================
+

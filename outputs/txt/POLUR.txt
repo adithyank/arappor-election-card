@@ -1,0 +1,220 @@
+Constituency Document
+=====================
+
+Constituency Name : POLUR
+No of Candidates : 15
+No of Independent Candidates : 9
+
+=====================
+
+Name : M.Ezhilarasu
+Age : 37
+Party Name : Bahujan Samajwadi Party
+Education : LLM
+Occupation : ADVOCATE
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : S.S.Agri KRISHNAMOORTHY
+Age : 61
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Sc.,B.L
+Occupation : FARMER
+Total Assets : 11 crore 39 lacs
+Liability : 1 crore 11 lacs
+Net Asset : 10 crore 27 lacs
+Criminal Cases : 1
+Case Details : முத்து குமாரசுவாமி என்பவர் ரயில் விபத்தில் இறந்தாக பதியப்பட்ட வழக்கு இப்பொழுது உச்ச நீதிமன்றத்தில் நிலுவையில் உள்ளது.கேஸ் நம்பர் 000322/2017. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : K.V.SEKARAN
+Age : 63
+Party Name : Dravida Munnetra Kazhagam
+Education : 10th pass
+Occupation : MLA,FARMER
+Total Assets : 2 crore 12 lacs
+Liability : 33 lacs
+Net Asset : 1 crore 79 lacs
+Criminal Cases : 1
+Case Details : 143-சட்டவிரோதமாக கூடுதல்,188 -அரசு ஊழியர் பிறப்பித்த உத்தரவை கீழ்ப்படியாதல்,269-  பெருந்தொற்றை பரப்ப முயல்வது,270- கவனக்குறைவாக செயல்பட்டு பெருந்தொற்றை பரப்புதல்
+. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : G.KALAVATHI
+Age : 55
+Party Name : Makkal Needhi Maiam
+Education : 5th pass
+Occupation : Agriculture
+Total Assets : 1 crore 07 lacs
+Liability : No
+Net Asset : 1 crore 07 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : L.LAVANYA
+Age : 31
+Party Name : Naam Tamilar Katchi
+Education : B.Tech
+Occupation : HOUSE WIFE
+Total Assets : 11 lacs
+Liability : 4 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : C.VIJAYAKUMAR
+Age : 46
+Party Name : Amma Makkal Munetra Kalagam
+Education : 10th pass
+Occupation : Business
+Total Assets : 1 crore 08 lacs
+Liability : 23 lacs
+Net Asset : 85 lacs
+Criminal Cases : 1
+Case Details : வாகன விபத்து வழக்கு . பொருந்தாது 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : C.Ganesan
+Age : 55
+Party Name : Independent
+Education : SSLC
+Occupation : Agriculture
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAMERA
+
+=====================
+
+Name : S.KALAIMANI
+Age : 35
+Party Name : Independent
+Education : B.A.,B.L
+Occupation : ADVOCATE
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BLACK_BORD
+
+=====================
+
+Name : K.KRISHNAMURTHI
+Age : 67
+Party Name : Independent
+Education : SSLC (1968)
+Occupation : Agriculture
+Total Assets : 19 lacs
+Liability : 1 lacs
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : E.Shanmugasundaram
+Age : 26
+Party Name : Independent
+Education : B.Sc., & LL.B
+Occupation : Law Graduate
+Total Assets : 2 lacs
+Liability : 50000
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : P.SATHIYARAJ
+Age : 32
+Party Name : Independent
+Education : D.T.Ed 
+Occupation : AGRICULTURE
+Total Assets : 16 lacs
+Liability : No
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : V.CHIDAMBARAM
+Age : 62
+Party Name : Independent
+Education : STATE BOARD
+Occupation : RETIRED GOVT EMPLOYEE
+Total Assets : 22 lacs
+Liability : No
+Net Asset : 22 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SPANNER
+
+=====================
+
+Name : A.SIVA
+Age : 37
+Party Name : Independent
+Education : B.A. POLICE ADMINISTRATION
+Occupation : Ex-Army
+Total Assets : 90 lacs
+Liability : 9 lacs
+Net Asset : 81 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : R.DAKSNAMOORTHY
+Age : 48
+Party Name : Independent
+Education : 6th Std.
+Occupation : Agriculture wages
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : D.MURUGESAN
+Age : 52
+Party Name : Independent
+Education : SSLC fail
+Occupation : Agricultural Coolie Work
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COT
+
+=====================
+

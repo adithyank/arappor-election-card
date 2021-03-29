@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : CUMBUM
+No of Candidates : 15
+No of Independent Candidates : 6
+
+=====================
+
+Name : N.RAMAKRISHNAN
+Age : 72
+Party Name : Dravida Munnetra Kazhagam
+Education : M.A. University of Madras -1973
+Occupation : FARMER
+Total Assets : 7 crore 38 lacs
+Liability : 1 lacs
+Net Asset : 7 crore 37 lacs
+Criminal Cases : 7
+Case Details : சட்டத்திற்குப் புறம்பாக ஒன்றுகூடி,கவனக்குறைவாக நோய்பரப்புதல்,பொதுப்பாதையில் அல்லது நீர்வழி பாதையில் ஆபத்து ,தடை ஏற்படுத்துதல்,தடுத்து நிறுத்தல்,அரசு அதிகாரியின் உத்தரவை மீறுதல். 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.P.M.SYEDUKHAN
+Age : 73
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : PUC - 1965 Amercian College Madurai
+Occupation : FARMER
+Total Assets : 49 lacs
+Liability : 25 lacs
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : A.ANISHFATIMA
+Age : 38
+Party Name : Naam Tamilar Katchi
+Education : 12th Studied 1996-1997
+Occupation : HOUSEWIFE
+Total Assets : 70 lacs
+Liability : 9 lacs
+Net Asset : 61 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.KATHIRAVAN
+Age : 30
+Party Name : New Generation People’s Party
+Education : DIPLOMA IN CIVIL ENGINEERING
+Occupation : PRIVATE DEPARTMENT EMPLOYEE
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : POT
+
+=====================
+
+Name : P.SURESH
+Age : 47
+Party Name : Amma Makkal Munnettra Kazagam
+Education : M.A.,DFTNE.,Central Polytecnic
+Occupation : FARMER
+Total Assets : 4 crore 25 lacs
+Liability : 2 crore 58 lacs
+Net Asset : 1 crore 67 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.PANDISELVAM
+Age : 39
+Party Name : ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM
+Education : 12th PASS
+Occupation : Tiles Shop
+Total Assets : 16 lacs
+Liability : 10 lacs
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : இல்லை.  இல்லை
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : K.RADHAKRISHAN
+Age : 49
+Party Name : Anaithu Makkal Puratchi Katchi
+Education : 8th pass
+Occupation : SELF BUSINESS
+Total Assets : 4 lacs
+Liability : 6 lacs
+Net Asset : -2 lacs
+Criminal Cases : 1
+Case Details : ஆபாசமான வார்த்தைகள் பயன்படுத்துவது, மோசடி செய்தல், தண்ணியை காயப்படுத்திக் கொள்வது, மிரட்டுதல், எஸ்சி/ எஸ்டி வன்கொடுமை சட்டம்.. 
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : V.LALBAHDURSASTHRI
+Age : 55
+Party Name : My India Party
+Education : B.A POLITICAL SCIENCE
+Occupation : LIC AGENT
+Total Assets : 54 lacs
+Liability : 22 lacs
+Net Asset : 32 lacs
+Criminal Cases : 0
+Case Details : இல்லை.  இல்லை
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : N.VENKIDESH
+Age : 29
+Party Name : Makkal Needhi Maiam
+Education : B.E(Computer Science)
+Occupation : VEDHA EDUCATION CENTER ADMINISTRATIVE DIRECTOR
+Total Assets : 33 lacs
+Liability : 10 lacs
+Net Asset : 23 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.R.SARAVANAN
+Age : 42
+Party Name : Independent
+Education : 12th PASS
+Occupation : FARMER
+Total Assets : 2 lacs
+Liability : 1 lacs
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை.  இல்லை
+Symbol Name : PEAS
+
+=====================
+
+Name : A.THAVIDHU RAJA
+Age : 31
+Party Name : Independent
+Education : 10th pass
+Occupation : WAGES
+Total Assets : 11000
+Liability : No
+Net Asset : 11000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : CHAPPALS
+
+=====================
+
+Name : P.PRAKASH
+Age : 37
+Party Name : Independent
+Education : B.A, B.L., - Government Law College, Tirunelveli, 2002-2007. 
+Occupation : ADVOCATE
+Total Assets : 10 lacs
+Liability : 9 lacs
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BAT
+
+=====================
+
+Name : G.MARIMUTHU
+Age : 42
+Party Name : Independent
+Education : 10th pass
+Occupation : FARMER
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : G.MuthuSelvam
+Age : 34
+Party Name : Independent
+Education : 12th pass
+Occupation : FARMER
+Total Assets : 2 lacs
+Liability : 25000
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை.  இல்லை
+Symbol Name : COMPUTER
+
+=====================
+
+Name : M.MUTHUMUNEESWARAN
+Age : 40
+Party Name : Independent
+Education : 10th pass
+Occupation : AGRICULTURAL COOLIE
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+

@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : CHENGAM
+No of Candidates : 15
+No of Independent Candidates : 8
+
+=====================
+
+Name : S.Anbu
+Age : 37
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : SSLC
+Occupation : Mason
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : NAGARA
+
+=====================
+
+Name : M. P.Giri
+Age : 46
+Party Name : Dravida Munnetra Kazhagam
+Education : 12th Fail
+Occupation : Agriculture and business
+Total Assets : 1 crore 81 lacs
+Liability : 29 lacs
+Net Asset : 1 crore 51 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : G.Shanmugam
+Age : 65
+Party Name : Bahujan Samaj Party
+Education : 10th STD
+Occupation : Agriculture
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : M. S.Nainakannu
+Age : 53
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 6th standard
+Occupation : BUSINESS AND AGRICULTURE
+Total Assets : 78 lacs
+Liability : 5 lacs
+Net Asset : 73 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.Suganraj
+Age : 33
+Party Name : India Jananayaka Katchi
+Education : SSLC
+Occupation : Daily Wages
+Total Assets : 35000
+Liability : No
+Net Asset : 35000
+Criminal Cases : 3
+Case Details : 324-ஆபத்தான ஆயுதங்கள் அல்லது வழிமுறைகளால் காயத்தை ஏற்படுத்துதல் 302-கொலை 307- கொலை முயற்சி 384 -மிரட்டி பணம் பறித்தல் 506 - குற்றவியல் அச்சுறுத்தல். பொருந்தாது 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S.Baskar
+Age : 43
+Party Name : New Generation Peoples Party
+Education : D.E.E.,
+Occupation : Self employment
+Total Assets : 8 lacs
+Liability : 5 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : POT
+
+=====================
+
+Name : S.Vennila
+Age : 34
+Party Name : Naam Tamilar Katchi
+Education : HSC
+Occupation : 
+Total Assets : 23 lacs
+Liability : 3 lacs
+Net Asset : 20 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.Arunkumar
+Age : 36
+Party Name : Independent
+Education : HSC
+Occupation : Agriculture
+Total Assets : 22 lacs
+Liability : No
+Net Asset : 22 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BRICKS
+
+=====================
+
+Name : P.G.ANBAZHAGAN
+Age : 50
+Party Name : Independent
+Education : M.S.C., LLB., 
+Occupation : Unemployed Graduate
+Total Assets : 20000
+Liability : 2 lacs
+Net Asset : -1 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : NOODLES_BOWL
+
+=====================
+
+Name : S.Sharma
+Age : 34
+Party Name : Independent
+Education : 12th
+Occupation : Agriculture
+Total Assets : 28 lacs
+Liability : 1 lacs
+Net Asset : 27 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : J.Sivakumar
+Age : 40
+Party Name : Independent
+Education : SSLC.,
+Occupation : Labour
+Total Assets : 16000
+Liability : No
+Net Asset : 16000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : LAPTOP
+
+=====================
+
+Name : K.Sivaprakash
+Age : 42
+Party Name : Independent
+Education : B.Tech.,
+Occupation : Farming Labour
+Total Assets : 84000
+Liability : No
+Net Asset : 84000
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : V.Selvaraji
+Age : 47
+Party Name : Independent
+Education : M.A.,  B.Ed.,
+Occupation : Daily Wages
+Total Assets : 8 lacs
+Liability : 4 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : H.Dhinakaran
+Age : 36
+Party Name : Independent
+Education : HSC
+Occupation : Daily Wages
+Total Assets : 91000
+Liability : No
+Net Asset : 91000
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : G.Vijayachandran 
+Age : 26
+Party Name : Independent
+Education : B.E.,
+Occupation : Daily Labour
+Total Assets : 20500
+Liability : No
+Net Asset : 20500
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BAT
+
+=====================
+

@@ -1,0 +1,270 @@
+Constituency Document
+=====================
+
+Constituency Name : GOBICHETTIPALAYAM
+No of Candidates : 18
+No of Independent Candidates : 12
+
+=====================
+
+Name : K.A.SENGOTTAIYAN
+Age : 73
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 10th
+Occupation : Agriculture, Social service
+Total Assets : 12 crore 39 lacs
+Liability : 91 lacs
+Net Asset : 11 crore 48 lacs
+Criminal Cases : 4
+Case Details : கிரிமினல் சதி அவர்களின் உத்தியோகபூர்வ அதிகாரத்தை துஷ்பிரயோகம் செய்வதன் மூலம் ஒரு பொது ஊழியராக குற்றவியல் தவறான நடத்தை. கிரிமினல் சதி அவர்களின் உத்தியோகபூர்வ அதிகாரத்தை துஷ்பிரயோகம் செய்வதன் மூலம் ஒரு பொது ஊழியராக குற்றவியல் தவறான நடத்தை
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.Palanisamy
+Age : 48
+Party Name : Bahujan Samaj Party
+Education : Illiterate
+Occupation : Labourer
+Total Assets : 70500
+Liability : No
+Net Asset : 70500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : G V.MANIMARAN
+Age : 54
+Party Name : Dravida Munnetra Kazhagam
+Education : 10th Fail, Diamond Jubilee Higher Secondary School, Gobi
+Occupation : Scrap Trade Business
+Total Assets : 1 crore 18 lacs
+Liability : 48 lacs
+Net Asset : 71 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : G.Sakthivel
+Age : 46
+Party Name : Indian Dravida Makkal Munnetra Katchi
+Education : 10th pass
+Occupation : Farmer
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details :  .  
+
+Symbol Name : HAT
+
+=====================
+
+Name : M K.Seethalakshmi
+Age : 46
+Party Name : Naam Tamilar Katchi
+Education : M. Phil, M.A Tamil, B.A. Economics
+Occupation : Farmer
+Total Assets : 59 lacs
+Liability : 1 lacs
+Net Asset : 58 lacs
+Criminal Cases : 1
+Case Details : Complaint Not registered. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : N.K.PRAKASH
+Age : 44
+Party Name : Makkal Needhi Maiam
+Education : 10th Std, Diamond Jubilee Higher Secondary School, Gobi
+Occupation : Vengai Sound Service
+Total Assets : 84 lacs
+Liability : No
+Net Asset : 84 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : D.Kumar
+Age : 38
+Party Name : Independent
+Education : 8th Pass
+Occupation : Public Service (Politics)
+Total Assets : 15 lacs
+Liability : No
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : K A.SANKAR KUMAR
+Age : 35
+Party Name : Independent
+Education : MA, Annamalai Open University 
+Occupation : Business
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : S.Selvakumar
+Age : 39
+Party Name : Independent
+Education : 2nd std
+Occupation : Agricultural Wage Work
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details :  
+.  
+Symbol Name : TABLE
+
+=====================
+
+Name : K.DHANAPAL
+Age : 35
+Party Name : Independent
+Education : 7th
+Occupation : Business
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : N.Devaraj
+Age : 44
+Party Name : Independent
+Education : 12th pass
+Occupation : Agriculture
+Total Assets : 35 lacs
+Liability : 6 lacs
+Net Asset : 28 lacs
+Criminal Cases : 0
+Case Details :  .  
+
+Symbol Name : POT
+
+=====================
+
+Name : M.Palanisamyraaj
+Age : 67
+Party Name : Independent
+Education : S.S.L.C
+Occupation : Farmer
+Total Assets : 1 crore 13 lacs
+Liability : 17 lacs
+Net Asset : 97 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : A N.Boopathy Raja
+Age : 40
+Party Name : Independent
+Education : 9 th standard
+Occupation : Agriculture
+Total Assets : 2 crore 50 lacs
+Liability : No
+Net Asset : 2 crore 50 lacs
+Criminal Cases : 1
+Case Details : வழக்கில் 4 நபரில் ஒருவர்.  . 
+
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : P.MUTHUMANI
+Age : 70
+Party Name : Independent
+Education : B.Sc
+Occupation : Pension
+Total Assets : 96 lacs
+Liability : No
+Net Asset : 96 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : K.Mohanraj
+Age : 26
+Party Name : Independent
+Education : 9th Pass, Government High School, Polavakalipalayam
+Occupation : Farm Labourer
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது
+. 
+Symbol Name : PEN_STAND
+
+=====================
+
+Name : R.Rakkimuthu RangaNadar
+Age : 60
+Party Name : Independent
+Education : Illiterate
+Occupation : Public Service (Politics)
+Total Assets : 17 lacs
+Liability : No
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details :  
+.  
+
+Symbol Name : DIESEL_PUMP
+
+=====================
+
+Name : M.Junayath
+Age : 40
+Party Name : Independent
+Education : 9th fail
+Occupation : Labourer
+Total Assets : 31000
+Liability : No
+Net Asset : 31000
+Criminal Cases : 0
+Case Details :  
+.  
+
+Symbol Name : DIAMOND
+
+=====================
+
+Name : R.Sridevi
+Age : 39
+Party Name : Independent
+Education : BBA dis-continue 2011-2013
+Occupation : Beautician
+Total Assets : 67 lacs
+Liability : 34 lacs
+Net Asset : 33 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+

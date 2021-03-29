@@ -1,0 +1,192 @@
+Constituency Document
+=====================
+
+Constituency Name : KANNIYAKUMARI
+No of Candidates : 13
+No of Independent Candidates : 6
+
+=====================
+
+Name : S.Austin
+Age : 62
+Party Name : Dravida Munnetra Kazhagam
+Education : MA
+Occupation : MLA
+Total Assets : 1 crore 02 lacs
+Liability : 17 lacs
+Net Asset : 85 lacs
+Criminal Cases : 10
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : C.J.SUTHARMAN
+Age : 35
+Party Name : Bahujan Samaj Party
+Education : B.A.,B.L.
+Occupation : ADVOCATE AND NOTARY PUBLIC OFFICER
+Total Assets : 10 lacs
+Liability : 2 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : N.THALAVAI SUNDARAM
+Age : 62
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Sc, B.L.
+Occupation : ADVOCATE
+Total Assets : 1 crore 99 lacs
+Liability : 8 lacs
+Net Asset : 1 crore 91 lacs
+Criminal Cases : 1
+Case Details : ஐபிசி 183 - ஒரு பொது ஊழியரின் சட்டபூர்வமான அதிகாரத்தால் சொத்துக்களை எடுத்துக்கொள்வதற்கான எதிர்ப்பு. ஐபிசி 186 - பொதுச் செயல்பாடுகளை நிறைவேற்றுவதில் அரசு ஊழியரைத் தடுத்தல். ஐபிசி 189 - அரசு ஊழியருக்கு காயம் ஏற்படும் அச்சுறுத்தல். ஐபிசி 448 - ஹவுஸ் ட்ரெஸ்பாஸுக்கு தண்டனை
+. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : R.SASIKALA
+Age : 39
+Party Name : Naam Tamilar Katchi
+Education : 12th pass
+Occupation : Daily Wages
+Total Assets : 31000
+Liability : 1 lacs
+Net Asset : -1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P.SENTHIL MURUGAN
+Age : 39
+Party Name : AMMA MAKKAL MUNNETTRA KAZHAGAM
+Education : B.E, L.L.B
+Occupation : ADVOCATE
+Total Assets : 3 crore 63 lacs
+Liability : 98 lacs
+Net Asset : 2 crore 65 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : P.T.SELVAKUMAR
+Age : 55
+Party Name : Makkal Needhi Maiam
+Education : B.A., L.L.B.
+Occupation : CINEMA  PRODUCTION
+Total Assets : 5 crore 89 lacs
+Liability : 62 lacs
+Net Asset : 5 crore 27 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : A.AUGUSTIN
+Age : 26
+Party Name : Independent
+Education : Diploma in Electronic Communication
+Occupation : Daily wage worker
+Total Assets : 26000
+Liability : No
+Net Asset : 26000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : Y.SUNDARANATHAN
+Age : 46
+Party Name : Independent
+Education : 10th pass
+Occupation : Heavy vechicle driver
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ENVELOP
+
+=====================
+
+Name : S.SUBASH
+Age : 39
+Party Name : Independent
+Education : 10th pass
+Occupation : Vegetable Business
+Total Assets : 33 lacs
+Liability : No
+Net Asset : 33 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GREEN_CHILLES
+
+=====================
+
+Name : I.CHELLAIAHPILLAI
+Age : 42
+Party Name : Independent
+Education : 10th pass
+Occupation : Farmer
+Total Assets : 13 lacs
+Liability : 9 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BINOCULARS
+
+=====================
+
+Name : S.THANUNEELAN
+Age : 27
+Party Name : Independent
+Education : ITI Motor Mechnanic
+Occupation : Employee
+Total Assets : 80300
+Liability : No
+Net Asset : 80300
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATSMAN
+
+=====================
+
+Name : N.MAKESH
+Age : 43
+Party Name : Independent
+Education : 9th standard
+Occupation : Business
+Total Assets : 34 lacs
+Liability : No
+Net Asset : 34 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : N.ManikkaVasagam Pillai
+Age : 72
+Party Name : Marumalarchi Dravida Munnetra Kazhagam
+Education : BA
+Occupation : Insurance Agent
+Total Assets : 2 lacs
+Liability : 26000
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SHIP
+
+=====================
+

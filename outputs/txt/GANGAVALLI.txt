@@ -1,0 +1,169 @@
+Constituency Document
+=====================
+
+Constituency Name : GANGAVALLI
+No of Candidates : 11
+No of Independent Candidates : 3
+
+=====================
+
+Name : Sellammal
+Age : 47
+Party Name : Bahujan Samaj Party
+Education : 8th pass
+Occupation : Self employed
+Total Assets : 5500
+Liability : No
+Net Asset : 5500
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : A.NALLATHAMBI
+Age : 56
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 8TH DISCONTINUED
+Occupation : AGRICULTURE,CONTRACTOR
+Total Assets : 72 lacs
+Liability : 18 lacs
+Net Asset : 55 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : J.REKHA PRIYADHARSHINI
+Age : 38
+Party Name : Dravida Munnetra Kazhagam
+Education : M.A., M.PHIL(Eng)
+Occupation : HOUSE WIFE
+Total Assets : 52 lacs
+Liability : 14 lacs
+Net Asset : 38 lacs
+Criminal Cases : 2
+Case Details : 1.சட்டவிரோத சட்டசபையில் உறுப்பினராக இருப்பவர்.
+2.சட்டவிரோத சட்டசபையின் ஒவ்வொரு உறுப்பினரும் பொதுவான பொருளைத் தண்டிப்பதில் குற்றம் சாட்டப்பட்ட குற்றவாளி.
+3.தேர்தலில் சட்டவிரோத பணம் செலுத்துதல்.
+4.அரச ஊழியரால் முறையாக அறிவிக்கப்பட்ட உத்தரவுக்கு கீழ்ப்படியாமை.
+5.பொது வழியில் அல்லது வழிசெலுத்தல் வரிசையில் ஆபத்து அல்லது தடை.
+6.பொது தொல்லை.
+7.தவறான கட்டுப்பாட்டுக்கான தண்டனை.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.Navan
+Age : 34
+Party Name : Puthiya Tamizhagam Katchi
+Education : 12th FAIL
+Occupation : Daily wage
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : A.PANDIAN
+Age : 58
+Party Name : AMMA MAKKAL MUNNETTRA KAZHAGAM
+Education : 10th pass
+Occupation : LABOUR(WAGES)
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 1
+Case Details : 5 க்கும் மேற்பட்டவர்களை ஒன்று சேர்த்தது, துஷ்பிரயோகம் மற்றும் ஆயுதங்களுடன் கொலை முயற்சி, தன்னிச்சையாக கொடிய ஆயுதங்களால் காயப்படுத்துதல் . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : K.PERIYASAMY
+Age : 43
+Party Name : INDHIYA JANANAYAKA KATCHI
+Education : 10th pass
+Occupation : BUILDING CONTRACTOR
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BLACK_BORD
+
+=====================
+
+Name : R.VINOTHINI
+Age : 26
+Party Name : Naam Tamilar Katchi
+Education : B.Sc., B.Ed., M.Sc 
+Occupation : WAGE WORKER
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : J.AYYADURAI
+Age : 37
+Party Name : Independent
+Education : B.A Discontinued 
+Occupation : FARMER
+Total Assets : 15 lacs
+Liability : No
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BABY_WALKER
+
+=====================
+
+Name : K.CHANDRASEKARAN
+Age : 47
+Party Name : Independent
+Education : 10th pass
+Occupation : AGRICULTURE
+Total Assets : 35 lacs
+Liability : No
+Net Asset : 35 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : R.SARAVANAN
+Age : 33
+Party Name : Independent
+Education : I.T.I
+Occupation : FARMER
+Total Assets : 78 lacs
+Liability : 5 lacs
+Net Asset : 73 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name-
+
+=====================
+
+Name : K.Senthilkumar
+Age : 43
+Party Name : INDU MAKKAL KATCHI
+Education : ITI
+Occupation : Computer service
+Total Assets : 10500
+Liability : No
+Net Asset : 10500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BELT
+
+=====================
+

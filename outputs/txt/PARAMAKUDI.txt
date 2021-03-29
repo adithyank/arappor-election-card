@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : PARAMAKUDI
+No of Candidates : 15
+No of Independent Candidates : 8
+
+=====================
+
+Name : V.GOVINDAN
+Age : 66
+Party Name : Bahujan Samaj Party
+Education : M.A.
+Occupation : Pensioner
+Total Assets : 31 lacs
+Liability : No
+Net Asset : 31 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : N.SADHAN PRABHAKAR
+Age : 49
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.E., MBA.
+Occupation : Real estate agent & Social worker
+Total Assets : 1 crore 25 lacs
+Liability : 12 lacs
+Net Asset : 1 crore 12 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : U.SELVI
+Age : 50
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : SSLC
+Occupation : Farmer
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : S.MURUGESAN
+Age : 54
+Party Name : Dravida Munnetra Kazhagam
+Education : 5th standard
+Occupation : Brick Kiln Owner & Farmer
+Total Assets : 1 crore 80 lacs
+Liability : 2 crore 05 lacs
+Net Asset : - crore 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.KARUPPU RAJA
+Age : 29
+Party Name : Makkal Needhi Maiam
+Education : 9th Std Fail
+Occupation : Driver
+Total Assets : 45 lacs
+Liability : 31 lacs
+Net Asset : 14 lacs
+Criminal Cases : 2
+Case Details : மணல் அள்ளியது சம்மந்தமாக வழக்கு . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.SASIKALA
+Age : 32
+Party Name : Naam Tamilar Katchi
+Education : MA.,M.Ed.,
+Occupation : House wife
+Total Assets : 10 lacs
+Liability : 8 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.PARTHASARATHI
+Age : 40
+Party Name : MY INDIA PARTY
+Education : B.A.
+Occupation : Farmer
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : C.RAMAPANDI
+Age : 28
+Party Name : Independent
+Education : B.A.,B.L.
+Occupation : Advocate
+Total Assets : 19 lacs
+Liability : 15 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : M.UDHAYAKUMAR
+Age : 30
+Party Name : Independent
+Education : B.A, B.L.
+Occupation : LAWYER
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : R.UDAYAKUMAR
+Age : 41
+Party Name : Independent
+Education : B.Com.
+Occupation : Farmer
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S.KUMAR
+Age : 48
+Party Name : Independent
+Education : 12th Fail
+Occupation : Farmer
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LAPTOP
+
+=====================
+
+Name : S.BALAMURUGAN
+Age : 39
+Party Name : Independent
+Education : 12th Standard
+Occupation : Farmer
+Total Assets : 6000
+Liability : No
+Net Asset : 6000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : K.MURUKESAN
+Age : 49
+Party Name : Independent
+Education : 5th Standard
+Occupation : Farmer
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : V.RAVISANKAR
+Age : 45
+Party Name : Independent
+Education : 12th Standard Pass
+Occupation : Farmer
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DISH_ANTENNA
+
+=====================
+
+Name : K.RAJIV GANDHI
+Age : 30
+Party Name : Independent
+Education : M.Sc., M.Phil.
+Occupation : Business
+Total Assets : 10 lacs
+Liability : 3 lacs
+Net Asset : 8 lacs
+Criminal Cases : 1
+Case Details : சட்ட விரோதமான கூட்டத்தில் சேர்ந்திருத்தல்,. 
+Symbol Name : TELEVISION
+
+=====================
+

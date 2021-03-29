@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : THIRUVARUR
+No of Candidates : 14
+No of Independent Candidates : 4
+
+=====================
+
+Name : K.KALAIVANAN
+Age : 56
+Party Name : Dravida Munnetra Kazhagam
+Education : KODARACHERI GOVERNMENT HIGHER SECONDARY SCHOOL 1980-81
+Occupation : AGRICULTURE, RICE SHOP
+Total Assets : 3 crore 08 lacs
+Liability : 9 lacs
+Net Asset : 2 crore 98 lacs
+Criminal Cases : 49
+Case Details : சட்ட விரோதமாக கூடுதல், அத்து மீறல், மிரட்டல், பொது ஊழியர் கட்டளைக்கு கீழ்ப்படியாமை, குற்றமுறு சதி, கலகம் விளைவித்தல், சிறு திருட்டு, பொது சொத்துக்கு சேதம் விளைவித்தல், வசிப்பிடம் அழிப்பு, சட்ட விரோத கும்பல் உறுப்பினர், பொது உழியர் கட்டளைக்கு கீழ்படியாமை, ஆபத்தான தொற்றுநோய் பரப்புதல், மனித உயிருக்கு அபாயம் ஏற்படுத்துதல், முறையின்றி தடை செய்தல், தேர்தல் ஒழுங்கீனம், கலகம் விளைவித்தல், ஆபாச வார்த்தைகளால் திட்டுதல், கொலை முயற்சி, பொது ஊழியரை பணி செய்ய விடாமல் தடுத்தல், மோட்டார் வாகனத்தை அனுமதியின்றி ஓட்டுதல், பொது சொத்துக்கு சேதம் விளைவித்தல், பொது ஊழியர்களின் கட்டளை மீறுதல், அத்து மீறுதல், வீட்டில் அத்து மீறி நுழைதல், சொத்தினை நேர்மையின்றி கையாடல், ஆயுதங்களுடன் மிரட்டுதல்.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : A.GOMATHI
+Age : 39
+Party Name : Bahujan Samaj Party
+Education : SSLC, Govt. High School, Kodikkalpalayam, Tiruvarur - 2000
+Occupation : DAILY WAGE FARMER
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : A.N.R.PANNERSELVAM
+Age : 61
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A., TAMILNADU OPEN UNIVERSITY
+Occupation : AGRICULTURE
+Total Assets : 5 crore 07 lacs
+Liability : 19 lacs
+Net Asset : 4 crore 87 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : N.RAMACHANDRAN
+Age : 63
+Party Name : Amma Makkal Munetra Kazhagam
+Education : B.Sc.,
+Occupation : AGRICULTURALIST
+Total Assets : 94 lacs
+Liability : No
+Net Asset : 94 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : P.KABILARASAN
+Age : 36
+Party Name : Makkal Needhi Maiam
+Education : HSC, ADCT - ADVANCE DIP IN CATERING
+Occupation : PRIVATE EMPLOYEE
+Total Assets : 17 lacs
+Liability : 2 lacs
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : N.THIYAGASUNDARAM
+Age : 28
+Party Name : TAMILNADU YOUTH PARTY
+Education : B.Tech. RVS COLLEGE OF ENGINEERING & TECHNOLOGY, KARAIKAL-2009-2013
+Occupation : ARURA LOCAL TV CHANNEL PROPRIETOR 
+Total Assets : 35 lacs
+Liability : 18 lacs
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : M.THIYAGARAJAN
+Age : 50
+Party Name : PUTHIYA TAMILAGAM
+Education : 6TH STANDARD, VELUDAIYAR HIGH SCHOOL, THIRUVARUR-1981
+Occupation : AGRICULTURAL WAGES
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : I.M.A.NASEEMA BANU
+Age : 47
+Party Name : Social Democratic Party of India
+Education : 7TH, GOVT HIGH SECONDARY SCHOOL, KOOTHANALLUR-1983
+Occupation : AGRICULTURIST
+Total Assets : 37 lacs
+Liability : 60000
+Net Asset : 36 lacs
+Criminal Cases : 3
+Case Details : போரட்டத்தில் கலந்து கொண்டதற்க்கான குற்றம், முறையற்று தடுப்பமைத்தல், பொதுப்பாதையில் தடை அல்லது ஆபத்து உண்டுபண்ணுதல், பொதுவூழியாரின் உத்தரவுக்கு கீழ்ப்படியாமை, பிறருக்கு தீங்கு விழைவிக்கும் வகையில் செயல் புரிதல்.. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.VINOTHINI
+Age : 30
+Party Name : Naam Tamilar Katchi
+Education : M.B.A., 
+Occupation : HOUSE WIFE
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.AMAANULLAH
+Age : 58
+Party Name : Independent
+Education : GOVERNMENT HIGHER SECONDARY SCHOOL, KODDIKAALPAALAYAM, THIRUVARUR - 1978
+Occupation : AGRICULTURE
+Total Assets : 62 lacs
+Liability : No
+Net Asset : 62 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : T.ANBAZHAGAN
+Age : 40
+Party Name : Independent
+Education : ITI WELDER
+Occupation : AGRICULTURAL WAGES
+Total Assets : 80000
+Liability : No
+Net Asset : 80000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : J.PANNEER SELVAM
+Age : 47
+Party Name : AGILA BHARATHA HINDU MAHA SABHA
+Education : 8TH STANDARD
+Occupation : MINI PROVISIONAL SHOP
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 5
+Case Details : சட்டவிரோதமாக கூடுதல், பொதுமக்களுக்கு இடையூறு, போக்குவரத்துக்கு இடையூறு, சாலை மறியல், அறிக்கையை கையொப்பமிட மறுத்தால், உயிருக்கு ஆபத்தான நோய்தொற்று பரவும் வகையில் செயல்படுதல், பிறருக்கு தீங்கு விழைவிக்கும் வகையில் செயல்படுதல், முறையற்ற தடுப்பமைத்தல்.. 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : A.MOHAMED HALITH
+Age : 25
+Party Name : Independent
+Education : B.Tech., EGS PILLAI ENGINEERING COLLEGE, NAGAPATTINAM 2013-17
+Occupation : OWN BUSINESS - PREPARING SOFTWARE & ONLINE PROJECT
+Total Assets : 13 lacs
+Liability : No
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATSMAN
+
+=====================
+
+Name : S.MUTHARASAN
+Age : 35
+Party Name : Independent
+Education : 6TH STD
+Occupation : CARPENTER WORK
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+

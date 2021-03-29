@@ -1,0 +1,219 @@
+Constituency Document
+=====================
+
+Constituency Name : TIRUCHENDUR
+No of Candidates : 15
+No of Independent Candidates : 8
+
+=====================
+
+Name : R.ANITHA R RADHAKRISHNAN
+Age : 68
+Party Name : Dravida Munnetra Kazhagam
+Education : 10th pass
+Occupation : MLA
+Total Assets : 5 crore 28 lacs
+Liability : No
+Net Asset : 5 crore 28 lacs
+Criminal Cases : 16
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.RADHA KRISHNAN 
+Age : 39
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : b.com
+Occupation : real estate and farmer
+Total Assets : 4 crore 17 lacs
+Liability : No
+Net Asset : 4 crore 17 lacs
+Criminal Cases : 4
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.GLORIYAN
+Age : 44
+Party Name : Naam Tamilar Katchi
+Education : 8th
+Occupation : Fisher man
+Total Assets : 70 lacs
+Liability : 6 lacs
+Net Asset : 64 lacs
+Criminal Cases : 2
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.KENNADY BABU
+Age : 35
+Party Name : Veerath Thiyagi Viswamathadoss Thozhilalarkal katchi
+Education : 9th STD
+Occupation : Beauty Expert
+Total Assets : 2 lacs
+Liability : 2 lacs
+Net Asset : -1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name-
+
+=====================
+
+Name : X.ROOSWELT
+Age : 48
+Party Name : Nam India Party
+Education : B.COM, BL
+Occupation : Lawyer
+Total Assets : 85 lacs
+Liability : 5 lacs
+Net Asset : 80 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : S.VADAMALAI PANDIAN
+Age : 66
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : 5th
+Occupation : Farmer
+Total Assets : 25 crore 30 lacs
+Liability : 65 lacs
+Net Asset : 24 crore 65 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.JAYANTHI
+Age : 47
+Party Name : Makkal Needhi Maiam
+Education : B.A.(History)
+Occupation : FASHION DESIGNER
+Total Assets : 45 lacs
+Liability : 21 lacs
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.ARUMUGAM
+Age : 38
+Party Name : Independent
+Education : 8th pass
+Occupation : FARMER
+Total Assets : 16000
+Liability : No
+Net Asset : 16000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : V.ESAKIMUTHU
+Age : 40
+Party Name : Independent
+Education : 8th pass
+Occupation : Labour
+Total Assets : 3 lacs
+Liability : 7 lacs
+Net Asset : -4 lacs
+Criminal Cases : 1
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : R.KALYANASUNDARAM
+Age : 34
+Party Name : Independent
+Education : Bachelor of Economics Degree
+Occupation : Private Company Employee
+Total Assets : 3 lacs
+Liability : 7 lacs
+Net Asset : -4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : S.SENTHIL KUMAR
+Age : 33
+Party Name : Independent
+Education : B.SC (Not Completed)
+Occupation : FARMER
+Total Assets : 11000
+Liability : No
+Net Asset : 11000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : PSJ.SHAIKABDULKADER
+Age : 50
+Party Name : Independent
+Education : BACHELOR OF COMMERCE
+Occupation : BUSINESS
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : C.BASKER
+Age : 37
+Party Name : Independent
+Education : B.Sc. chemistry
+Occupation : SELF EMPLOYMENT
+Total Assets : 9 lacs
+Liability : 2 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : K.PERUMAL
+Age : 60
+Party Name : Independent
+Education : 5th pass
+Occupation : LABOUR
+Total Assets : 16000
+Liability : No
+Net Asset : 16000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TENNIS_RACKET_&_BALL
+
+=====================
+
+Name : S.PonrathnaSelvan
+Age : 46
+Party Name : Independent
+Education : BACHELOR'S DEGREE
+Occupation : BUSINESS
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+

@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : RAJAPALAYAM
+No of Candidates : 14
+No of Independent Candidates : 6
+
+=====================
+
+Name : S.Thangapandian
+Age : 52
+Party Name : Dravida Munnetra Kazhagam
+Education : 6th Standard
+Occupation : MLA and Textile Business
+Total Assets : 18 crore 24 lacs
+Liability : 7 crore 39 lacs
+Net Asset : 10 crore 84 lacs
+Criminal Cases : 16
+Case Details : அரசாங்க உத்தரவுக்கு எதிராக சட்டவிரோதமாக கூடியது, ஊரடங்கு காலத்தில்  கூட்டம் கூட்டி  நோய் தோற்று பரவவுத்தற்கு காரணமாகத் இருந்த குற்றம். 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K.T.Rajenthrabhalaji
+Age : 57
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 10th Standard
+Occupation : MLA & Agriculture
+Total Assets : 3 crore 49 lacs
+Liability : 1 crore 11 lacs
+Net Asset : 2 crore 38 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : V.K.AYYAR
+Age : 58
+Party Name : Puthiya Tamilagam Party
+Education : MIE, MBA, C.Engg
+Occupation : Indane LPG Distributor
+Total Assets : 2 crore 20 lacs
+Liability : 45 lacs
+Net Asset : 1 crore 76 lacs
+Criminal Cases : 2
+Case Details : சட்டவிரோத கூட்டம் போட்டது , மோசடி வழக்கு. 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : K.Kalimuthu
+Age : 59
+Party Name : Amma makkal munnetra kazhagam
+Education : 6th
+Occupation : Agriculture
+Total Assets : 1 crore 54 lacs
+Liability : 2 crore 02 lacs
+Net Asset : - crore 48 lacs
+Criminal Cases : 3
+Case Details : பொது சொத்துக்கு சேதம் விளைவித்தல், பொது அமைதிக்கு பஙகம் விளைவித்தல், விதிமீறல். 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : K.Dharmalingam
+Age : 50
+Party Name : Republican party of India
+Education : B.L.,
+Occupation : Advocate
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : S.VIVEKANANDHAN
+Age : 47
+Party Name : Makkal Needhi Maiam
+Education : B.Sc.
+Occupation : Business
+Total Assets : 2 crore 12 lacs
+Liability : 44 lacs
+Net Asset : 1 crore 68 lacs
+Criminal Cases : 1
+Case Details : அரசியல் போராட்டம். 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : V.Jayaraj
+Age : 47
+Party Name : Naam Tamilar Katchi
+Education : B.A(Religion, philosophy & sociology); B.L
+Occupation : Advocate
+Total Assets : 1 crore 06 lacs
+Liability : 41 lacs
+Net Asset : 65 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.KALIMUTHU
+Age : 51
+Party Name : Independent
+Education : null
+Occupation : 
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 3
+Case Details : 
+Symbol Name : CHAKKI
+
+=====================
+
+Name : G.SELVARAJ
+Age : 52
+Party Name : Independent
+Education : 12th Standard
+Occupation : Auto Mechanic
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : B.Thangapandi
+Age : 25
+Party Name : Independent
+Education : 8th Standard
+Occupation : Wager/Coolie
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_STAND
+
+=====================
+
+Name : S.Thangapandi
+Age : 60
+Party Name : Independent
+Education : 11th std
+Occupation : Labour
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : M.MANIKUMAR
+Age : 36
+Party Name : Independent
+Education : 4th Standard
+Occupation : Own Business
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : E.VIJAYAKUMAR
+Age : 64
+Party Name : Independent
+Education : SSLC
+Occupation : Retired Assistant Tahsildar
+Total Assets : 65 lacs
+Liability : 5 lacs
+Net Asset : 60 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : I.JEYAPRAKASH
+Age : 76
+Party Name : Bahujan Dravida Party
+Education : 10th Standard Pass
+Occupation : Retired BSNL employee
+Total Assets : 30000
+Liability : No
+Net Asset : 30000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BUCKET
+
+=====================
+

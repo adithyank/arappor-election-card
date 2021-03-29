@@ -1,0 +1,247 @@
+Constituency Document
+=====================
+
+Constituency Name : VELLORE
+No of Candidates : 17
+No of Independent Candidates : 8
+
+=====================
+
+Name : S.R.K.Appu
+Age : 43
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : Bachelor of Commerce
+Occupation : Business
+Total Assets : 3 crore 83 lacs
+Liability : 64 lacs
+Net Asset : 3 crore 19 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.Karthikeyan
+Age : 59
+Party Name : Dravida Munnetra Kazhagam
+Education : 5th pass
+Occupation : Karthi Sound Service, Karthi Agency, Baby Restaurant, Baby Mahal.
+Total Assets : 17 crore 61 lacs
+Liability : 4 crore 38 lacs
+Net Asset : 13 crore 23 lacs
+Criminal Cases : 4
+Case Details : அரசியல் குற்றம்.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : P.Senthilkumar
+Age : 31
+Party Name : Veera thyagi vishvanadhadhas thozhilalarkal katchi
+Education : 5th pass
+Occupation : Barber
+Total Assets : 35000
+Liability : No
+Net Asset : 35000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : M.Syed Jalaludeen
+Age : 38
+Party Name : Tipu sultan Party
+Education : 12th pass
+Occupation : Business
+Total Assets : 14 lacs
+Liability : 6 lacs
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : D.Dharmalingam
+Age : 72
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : Illiterate
+Occupation : VDM Bus Service
+Total Assets : 30 lacs
+Liability : No
+Net Asset : 30 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : R.NARESH KUMAR
+Age : 29
+Party Name : TAMIL NADU YOUTH PARTY
+Education : Not given
+Occupation : NA
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : RING
+
+=====================
+
+Name : N.Poonkundran
+Age : 44
+Party Name : Naam Tamilar Katchi
+Education : B.A,B.L
+Occupation : Advocate
+Total Assets : 21 lacs
+Liability : No
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Manoharan
+Age : 60
+Party Name : Kamarajar Deseeya Congress
+Education : 6th Passed 
+Occupation : SOAP Business
+Total Assets : 30 lacs
+Liability : No
+Net Asset : 30 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SHIP
+
+=====================
+
+Name : G.Vikram Chakravarthy
+Age : 43
+Party Name : Makkal Needhi Maiam
+Education : 12th pass
+Occupation : Partner in Shree Narayan Bhavan, Vellore
+Total Assets : 3 crore 39 lacs
+Liability : 1 crore 64 lacs
+Net Asset : 1 crore 75 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : E.Karthick
+Age : 39
+Party Name : Independent
+Education : N.A
+Occupation : N.A
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : HAT
+
+=====================
+
+Name : R.Karthikeyan
+Age : 44
+Party Name : Independent
+Education : M.A., B.L
+Occupation : Advocate
+Total Assets : 21 lacs
+Liability : No
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BOX
+
+=====================
+
+Name : S.Sathishkumar
+Age : 33
+Party Name : Independent
+Education : 8th pass
+Occupation : Private Company Employee
+Total Assets : 10000
+Liability : 11000
+Net Asset : -1000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BAT
+
+=====================
+
+Name : N.Srinivasan
+Age : 45
+Party Name : Independent
+Education : B.Com., M.S.W., L.L.B.,
+Occupation : Advocate
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : NAIL_CUTTER
+
+=====================
+
+Name : K.Naseer
+Age : 42
+Party Name : Independent
+Education : 
+Occupation : NA
+Total Assets : 70000
+Liability : No
+Net Asset : 70000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : N.Panneerselvan
+Age : 57
+Party Name : Independent
+Education : M.SC.,
+Occupation : Journalist
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : K.Vijayaraj
+Age : 45
+Party Name : Independent
+Education : 12th pass
+Occupation : Business
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : BANGLES
+
+=====================
+
+Name : E.Vishnumohan
+Age : 45
+Party Name : Independent
+Education : B.A
+Occupation : Typewriting Centre
+Total Assets : 37 lacs
+Liability : No
+Net Asset : 37 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LAPTOP
+
+=====================
+

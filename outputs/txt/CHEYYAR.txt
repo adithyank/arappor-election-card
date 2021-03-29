@@ -1,0 +1,220 @@
+Constituency Document
+=====================
+
+Constituency Name : CHEYYAR
+No of Candidates : 15
+No of Independent Candidates : 3
+
+=====================
+
+Name : K.DUSI MOHAN
+Age : 63
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.B.A
+Occupation : Agriculture
+Total Assets : 3 crore 91 lacs
+Liability : 46 lacs
+Net Asset : 3 crore 45 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.Vijayakanth
+Age : 36
+Party Name : Bahujan Samaj Party
+Education : 5th
+Occupation : Agriculture
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : O.Jothi
+Age : 50
+Party Name : Dravida Munnetra Kazhagam
+Education : B.A., (ECONOMICS) Madras university
+Occupation : Agriculture
+Total Assets : 64 lacs
+Liability : 9 lacs
+Net Asset : 54 lacs
+Criminal Cases : 3
+Case Details : கலவரம் ஏற்படுத்துதல், சட்ட  அவமதிப்பு, தவறான கட்டுப்பாடு, , சட்ட விரோதமாக கூடுதல், அசிங்கமான வார்த்தைகளால் பேசி, மிரட்டி, அடித்தது, குற்றவியல் மிரட்டல்
+ சம்பந்தமான வழக்கு, . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.Kuttimani
+Age : 36
+Party Name : VeerathThiyagi Viswanathadoss Thozhilalarkal Katchi
+Education : 5th Standard
+Occupation : Barbour 
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : ஏதும் இல்லை . ஏதும் இல்லை 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : B.Nadarajan
+Age : 40
+Party Name : New Generation People’s Party
+Education : HSC
+Occupation : Mess
+Total Assets : 11 lacs
+Liability : 4 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : ஏதும் இல்லை . ஏதும் இல்லை 
+Symbol Name : POT
+
+=====================
+
+Name : G.Bheeman
+Age : 29
+Party Name : Naam Tamilar Katchi
+Education : BE
+Occupation : Agriculture
+Total Assets : 41 lacs
+Liability : 4 lacs
+Net Asset : 37 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.Manikandan
+Age : 33
+Party Name : Ganasangam Party of India
+Education : 10th fail
+Occupation : Driver
+Total Assets : 11 lacs
+Liability : 7 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : T.Mayilvaganan
+Age : 36
+Party Name : Makkal Needhi Maiam
+Education : B.Tech (IT), MBA
+Occupation : Real Estate and construction
+Total Assets : 3 crore 25 lacs
+Liability : 68 lacs
+Net Asset : 2 crore 57 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : J.Maryvoilet
+Age : 46
+Party Name : Desiya Sirupanmayinar Makkal Iyakkam
+Education : 9th PASS
+Occupation : House Wife
+Total Assets : 12 lacs
+Liability : 6 lacs
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : ஏதும் இல்லை . ஏதும் இல்லை 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : M.K.Varadharajan
+Age : 66
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : B.A.,Economics
+Occupation : Agriculture
+Total Assets : 2 crore 28 lacs
+Liability : 41 lacs
+Net Asset : 1 crore 87 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : V.Venkatesan
+Age : 65
+Party Name : Anaithindiya samudhaya munnetra kazhagam
+Education : B.Sc., M.A., B.L., M.Phil.,
+Occupation : Social Service, Politics, and Advocate
+Total Assets : 3 crore 24 lacs
+Liability : 2 lacs
+Net Asset : 3 crore 21 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : BAT
+
+=====================
+
+Name : C.Anandasekaran
+Age : 53
+Party Name : Sirupaanmai Makkal Nala Katchi
+Education : 11th standard 
+Occupation : Music Band
+Total Assets : 3 lacs
+Liability : 45000
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது. பொருந்தாது
+Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : M.UdhayaKumar
+Age : 27
+Party Name : Independent
+Education : I.T.I.
+Occupation : Driver
+Total Assets : 14 lacs
+Liability : 1 lacs
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : ஏதும் இல்லை . ஏதும் இல்லை 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : T.Suresh Babu
+Age : 30
+Party Name : Independent
+Education : B.com., B.L.,
+Occupation : Advocate
+Total Assets : 20713
+Liability : No
+Net Asset : 20713
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : V.Nirmala
+Age : 39
+Party Name : Independent
+Education : 10th standard incomplete
+Occupation : Home maker
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BANGLES
+
+=====================
+

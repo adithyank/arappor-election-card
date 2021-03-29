@@ -1,0 +1,186 @@
+Constituency Document
+=====================
+
+Constituency Name : NEYVELI
+No of Candidates : 12
+No of Independent Candidates : 5
+
+=====================
+
+Name : S.Kanagaraji
+Age : 26
+Party Name : Bahujan Samaj Party
+Education : 12th pass
+Occupation : Business
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : SABA.Rajendran
+Age : 59
+Party Name : Dravida Munnetra Kazhagam
+Education : B.E.
+Occupation : Agriculture
+Total Assets : 6 crore 20 lacs
+Liability : 73 lacs
+Net Asset : 5 crore 48 lacs
+Criminal Cases : 7
+Case Details :  சட்டத்துக்கு விரோதமாக கூட்டம்கூடுதல்,
+அரச ஊழியரின்  கட்டளைக்கு கீழ்ப்படியாமை,
+தீங்கு விளைவிக்கும் செயல் உயிருக்கு ஆபத்தான நோய்த்தொற்றை பரப்ப வாய்ப்புள்ளது.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : R.Ilangovan
+Age : 40
+Party Name : Indiya Jananayaka Katchi
+Education : S.S.L.C
+Occupation : Farmer
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : R.BAKTHARATCHAGAN
+Age : 56
+Party Name : Amma Makkal Munnettra Kazagam
+Education : M.sc, M.Phil.Ph.d
+Occupation : RENT
+Total Assets : 2 crore 73 lacs
+Liability : 51 lacs
+Net Asset : 2 crore 22 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : K.Ramesh
+Age : 50
+Party Name : Naam Tamilar Katchi
+Education : Diploma in mechanical
+Occupation : Business
+Total Assets : 1 crore 35 lacs
+Liability : 63 lacs
+Net Asset : 72 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.Jagan
+Age : 47
+Party Name : Pattali Makkal Katchi
+Education : 12th
+Occupation : Business
+Total Assets : 8 crore 81 lacs
+Liability : 2 crore 48 lacs
+Net Asset : 6 crore 33 lacs
+Criminal Cases : 2
+Case Details : கலவரத்திற்கான தண்டன,
+கலகம், கொடிய ஆயுதத்தால் ஆயுதம்,
+ஆபாசமான செயல்கள் மற்றும் பாடல்கள்,
+தானாக முன்வந்து புண்படுத்தும் தண்டனை,
+குற்றச் செயல்களுக்கான தண்டனை,
+திருட்டுக்கான தண்டனை,
+அரசு ஊழியரை தனது கடமையை நிறைவேற்றுவதைத் தடுக்க தாக்குதல் அல்லது குற்றவியல் படை,
+கொலை மிரட்டல்.. 
+Symbol Name : MANGO
+
+=====================
+
+Name : S.Dhanasekaran
+Age : 49
+Party Name : Independent
+Education : 10th pass
+Occupation : Self Business
+Total Assets : 14 lacs
+Liability : 7 lacs
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : U.Dhilipan
+Age : 29
+Party Name : Independent
+Education : 12th pass
+Occupation : Farmer
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CAPSICUM
+
+=====================
+
+Name : K.Dhurga
+Age : 48
+Party Name : Samuga Samathuva Padai
+Education : 10th pass
+Occupation : Auto consulting
+Total Assets : 80500
+Liability : 2 lacs
+Net Asset : -1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : E.Boobalan
+Age : 42
+Party Name : Independent
+Education : 12th pass
+Occupation : Farmer
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GRAPES
+
+=====================
+
+Name : B.Rajendran
+Age : 32
+Party Name : Independent
+Education : B.P.E.
+Occupation : Business
+Total Assets : 44 lacs
+Liability : No
+Net Asset : 44 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : R.VADUGANATHAN
+Age : 51
+Party Name : Independent
+Education : ITI
+Occupation : Business
+Total Assets : 30 lacs
+Liability : No
+Net Asset : 30 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELICOPTER
+
+=====================
+

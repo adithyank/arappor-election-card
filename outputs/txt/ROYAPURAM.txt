@@ -1,0 +1,373 @@
+Constituency Document
+=====================
+
+Constituency Name : ROYAPURAM
+No of Candidates : 26
+No of Independent Candidates : 17
+
+=====================
+
+Name : S.KUMAR
+Age : 43
+Party Name : Bahujan Samaj Party
+Education : 6TH PASS
+Occupation : DRIVER
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : R.Murthy
+Age : 54
+Party Name : Dravida Munnetra Kazhagam
+Education : 10th pass
+Occupation : Business
+Total Assets : 112 crore 19 lacs
+Liability : 26 crore 83 lacs
+Net Asset : 85 crore 36 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : D.JAYAKUMAR
+Age : 60
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Sc, B.L.,
+Occupation : ADVOCATE
+Total Assets : 1 crore 79 lacs
+Liability : 1 lacs
+Net Asset : 1 crore 78 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : S.Kamali
+Age : 43
+Party Name : Naam Tamilar Katchi
+Education : SSLC
+Occupation : Textile Business
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 1
+Case Details : சட்டவிரோத நடவடிக்கைகள் . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.Gunasekaran
+Age : 65
+Party Name : Makkal Needhi Maiam
+Education : SSLC
+Occupation : Business (Travels & Tours)
+Total Assets : 51 lacs
+Liability : No
+Net Asset : 51 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : A.Mohan
+Age : 49
+Party Name : Tipu Sultan Party
+Education : L.L.B, B.L 
+Occupation : ADVOCATE
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : C.Ramajayam
+Age : 57
+Party Name : Amma Makkal Munnettra Kazagam
+Education : B.Sc., B.L. 
+Occupation : Civil Contractor
+Total Assets : 76 lacs
+Liability : No
+Net Asset : 76 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.James Martin
+Age : 33
+Party Name : Tamil Nadu Youth Party 
+Education : Master of Engineering, CAD
+Occupation : Guest Lecturer, Business
+Total Assets : 18 lacs
+Liability : No
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : H.Karunakaran
+Age : 42
+Party Name : Independent
+Education : B.A LLB
+Occupation : Lawyer
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : V.Karthick
+Age : 26
+Party Name : Independent
+Education : B.A.B.L.
+Occupation : ADVOCATE
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : K.R.Kalidass
+Age : 29
+Party Name : Independent
+Education : B.A.B.L.
+Occupation : ADVOCATE
+Total Assets : 3 lacs
+Liability : 9 lacs
+Net Asset : -6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATSMAN
+
+=====================
+
+Name : G.Gokul
+Age : 30
+Party Name : Independent
+Education : B.Com., B.L., M.L 
+Occupation : Lawyer
+Total Assets : 31 lacs
+Liability : 15 lacs
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SHIP
+
+=====================
+
+Name : S.Sathish
+Age : 41
+Party Name : Independent
+Education : BBA BL
+Occupation : Lawyer
+Total Assets : 31 lacs
+Liability : 17 lacs
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : T.Suganthan
+Age : 25
+Party Name : Makkal Padukappu Kazhagam
+Education : M.Sc. Zoology
+Occupation : Business
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : R.Sundarapandian
+Age : 38
+Party Name : Independent
+Education : 8th
+Occupation : Driver
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : S.N.Subramani
+Age : 50
+Party Name : Independent
+Education : M.L
+Occupation : ADVOCATE
+Total Assets : 82 lacs
+Liability : No
+Net Asset : 82 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HAT
+
+=====================
+
+Name : T.Chellappan
+Age : 40
+Party Name : Independent
+Education : SSLC
+Occupation : Fisherman
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : STUMPS
+
+=====================
+
+Name : J.Selvakumar
+Age : 44
+Party Name : Independent
+Education : SSLC
+Occupation : Business
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_DRIVE
+
+=====================
+
+Name : G.Dhanasekaran
+Age : 50
+Party Name : Independent
+Education : B.L.,
+Occupation : ADVOCATE
+Total Assets : 71 lacs
+Liability : No
+Net Asset : 71 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : S.Dinakaran
+Age : 47
+Party Name : Independent
+Education : B.A.B.L.
+Occupation : ADVOCATE
+Total Assets : 37 lacs
+Liability : No
+Net Asset : 37 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : K.Prasath
+Age : 39
+Party Name : Independent
+Education : SSLC
+Occupation : Business
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : V.Prabhakaran
+Age : 40
+Party Name : Independent
+Education : 10th pass
+Occupation : Transporting
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : D.Prabhu
+Age : 32
+Party Name : Independent
+Education : B.Com., B.L 
+Occupation : ADVOCATE
+Total Assets : 21 lacs
+Liability : No
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SPANNER
+
+=====================
+
+Name : T.C.S.Murthy
+Age : 45
+Party Name : Independent
+Education : B.A.B.L.
+Occupation : ADVOCATE
+Total Assets : 36 lacs
+Liability : 6 lacs
+Net Asset : 31 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_STOVE
+
+=====================
+
+Name : A.Vindhan
+Age : 36
+Party Name : Independent
+Education : B.Com., M.B.A, B.L 
+Occupation : ADVOCATE
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HARMONIUM
+
+=====================
+
+Name : G.Velu
+Age : 48
+Party Name : Independent
+Education : M.A. B.L
+Occupation : Lawyer
+Total Assets : 33 lacs
+Liability : 17 lacs
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HEAD_PHONE
+
+=====================
+

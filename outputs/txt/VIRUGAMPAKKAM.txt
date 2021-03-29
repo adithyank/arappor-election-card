@@ -1,0 +1,387 @@
+Constituency Document
+=====================
+
+Constituency Name : VIRUGAMPAKKAM
+No of Candidates : 27
+No of Independent Candidates : 16
+
+=====================
+
+Name : B .PARTHASARATHY
+Age : 56
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 10 Standard
+Occupation : Business
+Total Assets : 1 crore 08 lacs
+Liability : 10 lacs
+Net Asset : 98 lacs
+Criminal Cases : 3
+Case Details : விவரம் அளிக்கவில்லை . 
+Symbol Name : NAGARA
+
+=====================
+
+Name : AMV.PRABHAKARARAJA
+Age : 32
+Party Name : Dravida Munnetra Kazhagam
+Education : MTECH MBA
+Occupation : BUILDERS, SUPER MARKET
+Total Assets : 2 crore 22 lacs
+Liability : 25 lacs
+Net Asset : 1 crore 98 lacs
+Criminal Cases : 6
+Case Details : பொது மக்களுக்கான அரசியல் போராட்டங்களின் பொது சட்டங்களை மீறியதாக பதியப்பட்ட வழுக்கு . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : VN.Ravi
+Age : 58
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A
+Occupation : Centring Contractor
+Total Assets : 1 crore 69 lacs
+Liability : No
+Net Asset : 1 crore 69 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : HURRICANE_LAMP
+
+=====================
+
+Name : M.S.ISMAILKHAN
+Age : 36
+Party Name : ALL INDIA JANANAYAKA MAKKAL KAZHAGAM
+Education : 
+Occupation : NOT PROVIDED
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details :  ஏதுமில்லை.  ஏதுமில்லை
+Symbol Name : MIXEE
+
+=====================
+
+Name : S.SNEKAN
+Age : 48
+Party Name : Makkal Needhi Maiam
+Education : Higher Secondary
+Occupation : Poet,Song Writer, Actor
+Total Assets : 1 crore 80 lacs
+Liability : 37 lacs
+Net Asset : 1 crore 43 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : G.THANIGACHALAM
+Age : 42
+Party Name : Veerath Thiyagi Viswanathadoss ThozhilalarkaL Katchi
+Education : 8th standard
+Occupation : SALON SHOP
+Total Assets : 20 lacs
+Liability : No
+Net Asset : 20 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : S.R.Dineshkumar
+Age : 34
+Party Name : Anna MGR Dravida Makkal Kalagam
+Education : NIL
+Occupation : Interior & Exterior Contractor 
+Total Assets : 5000
+Liability : No
+Net Asset : 5000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PAN
+
+=====================
+
+Name : R.PRABAHARAN
+Age : 40
+Party Name : Tamizhaga Murpokku Makkal Katchi
+Education : MA BL
+Occupation : ADVOCATE
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : C.MANJU
+Age : 36
+Party Name : Anaithu Makkal Arasiyal Katchi
+Education : 8th Standard
+Occupation : MAN POWER BUSINESS
+Total Assets : 4 lacs
+Liability : 6 lacs
+Net Asset : -3 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : G.RAVI
+Age : 36
+Party Name : RASHTRIYA JANATA DAL
+Education : Not given
+Occupation : PRIVATE DETECTIVE AGENCY
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details :  ஏதுமில்லை.  ஏதுமில்லை
+Symbol Name-
+
+=====================
+
+Name : TS.Rajendran
+Age : 57
+Party Name : Naam Tamilar Katchi
+Education : 12th Std
+Occupation : Real Estate business
+Total Assets : 37 lacs
+Liability : 3 lacs
+Net Asset : 35 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.ELANGOVAN
+Age : 40
+Party Name : Independent
+Education : BA BL; MBA
+Occupation : ADVOCATE
+Total Assets : 55 lacs
+Liability : No
+Net Asset : 55 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : HAT
+
+=====================
+
+Name : VK.KATHIR
+Age : 40
+Party Name : Independent
+Education : BCOM BL
+Occupation : ADVOCATE
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : S.GUNAASEKAR
+Age : 31
+Party Name : Independent
+Education : 10th Standard 
+Occupation : PRIVATE JOB- SIMPSON CO LTD
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details :  ஏதுமில்லை.  ஏதுமில்லை
+Symbol Name : DISH_ANTENNA
+
+=====================
+
+Name : M.GUNASEKARAN (ALIAS) STAR M.GUNASEKARAN
+Age : 47
+Party Name : Independent
+Education : B.A.,
+Occupation : REAL ESTATE
+Total Assets : 1 crore 36 lacs
+Liability : 10 lacs
+Net Asset : 1 crore 27 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : V.GUNASEKARAN
+Age : 60
+Party Name : Independent
+Education : 10th pass
+Occupation : SELF BUSINESS
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details :  ஏதுமில்லை .  ஏதுமில்லை 
+Symbol Name : DUSBIN
+
+=====================
+
+Name : E.SANKAR
+Age : 49
+Party Name : Independent
+Education : 9TH STD
+Occupation : SELF BUSINESS
+Total Assets : 66 lacs
+Liability : No
+Net Asset : 66 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : TRUCK
+
+=====================
+
+Name : A.SATHASIVAM
+Age : 35
+Party Name : Independent
+Education : B.Sc Maths
+Occupation : Private Company
+Total Assets : 4 lacs
+Liability : 6 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : BRICKS
+
+=====================
+
+Name : M.SIVAKUMAR
+Age : 41
+Party Name : Independent
+Education : 6TH STD
+Occupation : SOCIAL WORKER,  SELF EMPLOYED
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : M .SRINIVASAN
+Age : 30
+Party Name : Independent
+Education : B.Sc., L.L.B
+Occupation : ADVOCATE
+Total Assets : 50514
+Liability : No
+Net Asset : 50514
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : WALLET
+
+=====================
+
+Name : D.SUNDARSINGH
+Age : 43
+Party Name : Independent
+Education : 12th pass
+Occupation : SELF EMPLOYMENT
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : HELMET
+
+=====================
+
+Name : VK.SENTHILKUMAR
+Age : 38
+Party Name : Independent
+Education : B.COM., LLB
+Occupation : ADVOCATE
+Total Assets : 16 lacs
+Liability : No
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : v.THALAPATHI
+Age : 53
+Party Name : Independent
+Education : BCOM
+Occupation : JOURNALIST & BUSINESS
+Total Assets : 26 lacs
+Liability : No
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : BREAD
+
+=====================
+
+Name : D.PRABAKARAN
+Age : 52
+Party Name : Independent
+Education : 5th standard 
+Occupation : self business
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details :  ஏதுமில்லை .  ஏதுமில்லை 
+Symbol Name : BALLOON
+
+=====================
+
+Name : K.BOOBATHY
+Age : 45
+Party Name : Independent
+Education : BA LLB, PG DIPLOMA
+Occupation : ADVOCATE
+Total Assets : 16 lacs
+Liability : 60121
+Net Asset : 16 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : BAT
+
+=====================
+
+Name : M.MANNU
+Age : 43
+Party Name : Independent
+Education : B.B.A., (PURSUING)
+Occupation : CARPENTER
+Total Assets : 34 lacs
+Liability : No
+Net Asset : 34 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : R.MAYILSAMY
+Age : 56
+Party Name : Independent
+Education : 5th Standard
+Occupation : ACTOR
+Total Assets : 3 crore 08 lacs
+Liability : 67 lacs
+Net Asset : 2 crore 41 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : WHISTLE
+
+=====================
+

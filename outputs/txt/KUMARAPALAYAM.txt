@@ -1,0 +1,415 @@
+Constituency Document
+=====================
+
+Constituency Name : KUMARAPALAYAM
+No of Candidates : 29
+No of Independent Candidates : 21
+
+=====================
+
+Name : K.R.SIVASUBIRAMANIYAN
+Age : 38
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.B.A
+Occupation : BUSINESS
+Total Assets : 1 crore 14 lacs
+Liability : 48 lacs
+Net Asset : 67 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : NAGARA
+
+=====================
+
+Name : P.THANGAMANI
+Age : 60
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : PUC FAIL
+Occupation : FARMER AND SALARIED (MLA)
+Total Assets : 1 crore 86 lacs
+Liability : No
+Net Asset : 1 crore 86 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.VENKATACHALAM
+Age : 52
+Party Name : Dravida Munnetra Kazhagam
+Education : M.COM
+Occupation : TEXTILE BUSINESS
+Total Assets : 7 crore 29 lacs
+Liability : 8 lacs
+Net Asset : 7 crore 22 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : K.KAMARAJ
+Age : 52
+Party Name : Makkal Needhi Maiam
+Education : 10TH STANDARD (PRIVATE CANDIDATE)
+Occupation : LAND PROMOTER,  FLEX PRINTING COMPANY,  CNC DOOR DESIGNER
+Total Assets : 1 crore 01 lacs
+Liability : 47 lacs
+Net Asset : 55 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : R.KUMARESAN
+Age : 46
+Party Name : Manitha Urimaigal Kazhagam
+Education : 10th pass
+Occupation : TRANSPORT,FARMER
+Total Assets : 59 lacs
+Liability : 6 lacs
+Net Asset : 53 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : R.KUMAR
+Age : 37
+Party Name : Ambedkarite Party of India
+Education : Illiterate
+Occupation : POWER LOOM JOB
+Total Assets : 91000
+Liability : No
+Net Asset : 91000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : COAT
+
+=====================
+
+Name : S.SUBRAMANI
+Age : 40
+Party Name : Communist Party of India (Marxist-Leninist) (Liberation)
+Education : 7TH STD
+Occupation : POWER LOOM WORKER
+Total Assets : 74874
+Liability : No
+Net Asset : 74874
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : FLAG_AND_THREE_STARS
+
+=====================
+
+Name : S.VARUN
+Age : 29
+Party Name : Naam Tamilar Katchi
+Education : M.Sc., Biotech
+Occupation : MEDICAL REPRESENTATIVE
+Total Assets : 36 lacs
+Liability : 27 lacs
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : V.AMIRTHALINGAM
+Age : 49
+Party Name : Independent
+Education : 8th pass
+Occupation : ONION BUSINESS
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : RING
+
+=====================
+
+Name : S .OMMSHARRAVANA
+Age : 39
+Party Name : Independent
+Education : B.COM, L.L.B
+Occupation : COLLEGE ADMINISTRATOR
+Total Assets : 1 crore 51 lacs
+Liability : 9 lacs
+Net Asset : 1 crore 42 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : M.KATHAVARAYAN
+Age : 64
+Party Name : Independent
+Education : 8th pass
+Occupation : FARMER
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GRAPES
+
+=====================
+
+Name : N.KARTHI
+Age : 30
+Party Name : Independent
+Education : M.E.,(CS)
+Occupation : SALARY
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : S.GOPALAKRISHNAN
+Age : 40
+Party Name : Independent
+Education : B.B.A. first year discontinued
+Occupation : SALARY
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : B.GOWRISANKARAN
+Age : 35
+Party Name : Independent
+Education : B.COM
+Occupation : SELF EMPLOYED
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : HELMET
+
+=====================
+
+Name : C.SARAVANAN
+Age : 42
+Party Name : Independent
+Education : 8th Fail
+Occupation : SALARY
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : HAT
+
+=====================
+
+Name : P.SENGODAGOUNDER
+Age : 63
+Party Name : Independent
+Education : Illiterate
+Occupation : FARMER
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATSMAN
+
+=====================
+
+Name : K.SELLAPPAN
+Age : 43
+Party Name : Independent
+Education : Illiterate
+Occupation : REAL ESTATE BROKER
+Total Assets : 16 lacs
+Liability : 32 lacs
+Net Asset : - crore 15 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : M.DHANASEKARAN
+Age : 46
+Party Name : Independent
+Education : 10th pass
+Occupation : FARMER
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : B.BALAKRISHNAN
+Age : 33
+Party Name : Independent
+Education : D.ECE
+Occupation : ELECTRICAL WORK
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : SAW
+
+=====================
+
+Name : S.PRABHAKARAN
+Age : 36
+Party Name : Independent
+Education : DCE
+Occupation : AGRICULTURE
+Total Assets : 8 lacs
+Liability : 4 lacs
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : S.PONGIYANNAN
+Age : 53
+Party Name : Independent
+Education : M.COM
+Occupation : FARMER
+Total Assets : 28 lacs
+Liability : 1 lacs
+Net Asset : 27 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TRUCK
+
+=====================
+
+Name : T.MANIKANDAN
+Age : 31
+Party Name : Independent
+Education : BCA
+Occupation : SALARY
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : BALLOON
+
+=====================
+
+Name : M.YUVARAJ
+Age : 38
+Party Name : Independent
+Education : 10th pass
+Occupation : WAGES
+Total Assets : 98000
+Liability : No
+Net Asset : 98000
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : FOOTBALL
+
+=====================
+
+Name : G.RAGAVENDERAN
+Age : 32
+Party Name : Independent
+Education : 9TH STD
+Occupation : DRIVER
+Total Assets : 5 lacs
+Liability : 5 lacs
+Net Asset : 77000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NECK_TIE
+
+=====================
+
+Name : G.RAJUGANESAN
+Age : 34
+Party Name : Independent
+Education : 6th STD
+Occupation : BUSINESS
+Total Assets : 6 lacs
+Liability : 80000
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : CARROM_BOARD
+
+=====================
+
+Name : K.A.VIJAYAN
+Age : 44
+Party Name : Independent
+Education : 3rd standard
+Occupation : BUSINESS
+Total Assets : 6 lacs
+Liability : 5 lacs
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : CHESS_BOARD
+
+=====================
+
+Name : A.VENKATASALAM
+Age : 54
+Party Name : Independent
+Education : 8th pass
+Occupation : SALARY
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : BRICKS
+
+=====================
+
+Name : K.VENKATACHALAM
+Age : 49
+Party Name : Independent
+Education : 5th pass
+Occupation : SALARY
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : P.VENKATACHALAM
+Age : 44
+Party Name : Independent
+Education : 8th pass
+Occupation : SALARY
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை. 
+Symbol Name : BRIEF_CASE
+
+=====================
+

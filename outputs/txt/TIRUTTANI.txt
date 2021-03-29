@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : TIRUTTANI
+No of Candidates : 14
+No of Independent Candidates : 6
+
+=====================
+
+Name : G.Hari
+Age : 60
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A. B.L., M.A
+Occupation : Advocate
+Total Assets : 6 crore 33 lacs
+Liability : 40 lacs
+Net Asset : 5 crore 93 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : D.Krishnamurthy
+Age : 58
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 10th pass
+Occupation : Construction Business
+Total Assets : 1 crore 83 lacs
+Liability : No
+Net Asset : 1 crore 83 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : NAGARA
+
+=====================
+
+Name : S.Chandran
+Age : 57
+Party Name : Dravida Munnetra Kazhagam
+Education : B.A., L.L.B 
+Occupation : Business
+Total Assets : 4 crore 49 lacs
+Liability : 4 lacs
+Net Asset : 4 crore 45 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : N.Magendiran
+Age : 38
+Party Name : Bahujan Samaj Party
+Education : 12th pass
+Occupation : Public Service
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : L.Akila
+Age : 31
+Party Name : Naam Tamilar Katchi
+Education : ANM Nursing 
+Occupation : Selling Medicines
+Total Assets : 2 crore 05 lacs
+Liability : 1 crore 53 lacs
+Net Asset : 53 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.D.Thanigaimalai
+Age : 49
+Party Name : India Jananayaga Katchi
+Education : 10th pass
+Occupation : Business
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S.Manickam
+Age : 36
+Party Name : Agila Indhiya Jananayaga Makkal Kazhagam
+Education : 12th pass
+Occupation : Agricultural Daily Wage worker
+Total Assets : 40000
+Liability : No
+Net Asset : 40000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MIXEE
+
+=====================
+
+Name : M.Hari
+Age : 39
+Party Name : Independent
+Education : 7th Std
+Occupation : Auto driver
+Total Assets : 17000
+Liability : No
+Net Asset : 17000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : K.Chandran 
+Age : 50
+Party Name : Independent
+Education : 6th Standard
+Occupation : Coolie
+Total Assets : 90560
+Liability : No
+Net Asset : 90560
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DISH_ANTENNA
+
+=====================
+
+Name : T.Chandran
+Age : 45
+Party Name : Independent
+Education : Illiterate
+Occupation : Coolie
+Total Assets : 28000
+Liability : No
+Net Asset : 28000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : FOUNTAIN
+
+=====================
+
+Name : AJ.Suresh
+Age : 35
+Party Name : Independent
+Education : B.Sc., B.Ed., 
+Occupation : R.O Water Treatment Business
+Total Assets : 26 lacs
+Liability : 35 lacs
+Net Asset : -9 lacs
+Criminal Cases : 1
+Case Details : கொத்தடிமை வழக்கு. 
+Symbol Name : TELEPHONE
+
+=====================
+
+Name : S.Shettu
+Age : 49
+Party Name : Independent
+Education : B.Com
+Occupation : Farmer
+Total Assets : 3 lacs
+Liability : 3 lacs
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TENNIS_RACKET_&_BALL
+
+=====================
+
+Name : D.PAUL RAJ
+Age : 33
+Party Name : MAKKAL DESAM KATCHI
+Education : B.A., LLB
+Occupation : ADVOCATE
+Total Assets : 70000
+Liability : No
+Net Asset : 70000
+Criminal Cases : 0
+Case Details : இல்லை . 
+Symbol Name : COAT
+
+=====================
+
+Name : V.P.Vijayan
+Age : 26
+Party Name : Independent
+Education : B.A.B.L.
+Occupation : weaving
+Total Assets : 63800
+Liability : 3 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+

@@ -1,0 +1,188 @@
+Constituency Document
+=====================
+
+Constituency Name : THIRUVAIYARU
+No of Candidates : 12
+No of Independent Candidates : 2
+
+=====================
+
+Name : B.Ashwin
+Age : 28
+Party Name : Bahujan Samaj Party
+Education :  DME - Not completed yet
+Occupation : Agriculture Wages
+Total Assets : 21000
+Liability : No
+Net Asset : 21000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : DURAI.CHANDRASEKARAN
+Age : 61
+Party Name : Dravida Munnetra Kazhagam
+Education : B.A., LL.B.,
+Occupation : ADVOCATE
+Total Assets : 2 crore 70 lacs
+Liability : 13 lacs
+Net Asset : 2 crore 58 lacs
+Criminal Cases : 10
+Case Details :  வேளாண் சட்டங்களுக்கு எதிரான போராட்டத்திற்கு ஆதரவு
+ பஸ் கட்டண உயர்வை திரும்பப்  பெறக்கோரி
+சர்க்கரை விலை உயர்வை கண்டித்து ரேஷன் கடை முன்பு ஆர்ப்பாட்டம் 
+ விவசாயிகள் வாங்கிய கடனை முழுமையாக தள்ளுபடி செய்ய கோரி மறியல்
+கண்டியூர் கூட்டுறவு சொசைட்டி அருகே ரேஷன் கடையில் பொருள்கள் வழங்க கோரி சாலை மறியல்
+ தஞ்சாவூர் ரயில்நிலையம் முன்பு ஜல்லிக்கட்டுக்கு ஆதரவான போராட்டம்
+பழைய பேருந்து நிலையம் முன்பு அப்போதைய கழக பொருளாளர் திரு மு.க.ஸ்டாலின் அவர்கள் கைதை கண்டித்து ஆர்ப்பாட்டம்
+தமிழக அரசு டாஸ்மாக் கடைகளை மூடக்கோரி ரயில் நிலையத்திலிருந்து அண்ணா சிலை வரை அனுமதியின்றி வந்த ஊர்வலம்
+அரசு ஊழியரை பணி  செய்யவிடாமல் தடுத்தது
+தஞ்சாவூர் ரயில்நிலையத்திற்குள் ஜல்லிக்கட்டுக்கு ஆதரவான போராட்டம். 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : S.VENKATESAN
+Age : 58
+Party Name : Bharatiya Janata Party
+Education : S.S.L.C. 
+Occupation : BUSINESS (SAI COIRS, SUN TECH ENGINEERS AND TRANSPORT)
+Total Assets : 8 crore 40 lacs
+Liability : 3 crore 46 lacs
+Net Asset : 4 crore 94 lacs
+Criminal Cases : 8
+Case Details :  தொழில் சார்ந்த வழக்கு 
+ சொத்து தகராறு
+ உள்கட்சி தேர்தல் நடைபெற்ற போது ஏற்பட்ட தகராறு. 
+Symbol Name : LOTUS
+
+=====================
+
+Name : G.UTHIRAAPATHI
+Age : 42
+Party Name : PUTHIYA THAMIZHAGAM KATCHI
+Education : B.A,(MANNAR SARABOJI GOVT COLLEGE, THANJAVUR-2001) B.L.,(Govt. Law Collge, Trichy-2009)
+Occupation : ADVOCATE
+Total Assets : 31 lacs
+Liability : 19 lacs
+Net Asset : 13 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : V.KARTHIKEYAN
+Age : 44
+Party Name : Amma Makkal Munetra Kazhagam
+Education : M.L., ANNAMALAI UNIVERSITY, CHIDAMBARAM 2007-2009
+Occupation : ADVOCATE
+Total Assets : 6 crore 04 lacs
+Liability : 43 lacs
+Net Asset : 5 crore 61 lacs
+Criminal Cases : 1
+Case Details : கொரானா வைரஸ் தொற்று காரணமாக அரசு விதித்திருக்கும் தடை உத்தரவை மீறி விவசாய பணிக்கு செல்லும் கிராம மக்களுக்கு இடையூறு செய்ததாக குற்றச்சாட்டு. 
+Symbol Name-
+
+=====================
+
+Name : T.SIVARAMAN
+Age : 43
+Party Name : Makkal Sananayaga Kudiyarasu Katchi
+Education : H.S.C
+Occupation : ARTIST
+Total Assets : 8 lacs
+Liability : 33000
+Net Asset : 8 lacs
+Criminal Cases : 1
+Case Details : தகாத வார்த்தைகளால் திட்டுதல், தகராறில் ஈடுபடுதல்.. 
+Symbol Name : T
+
+=====================
+
+Name : D.SENTHILNATHAN
+Age : 39
+Party Name : Naam Tamilar Katchi
+Education : M.Sc., Ph.D., P.DFs (2015 France)
+Occupation : ASST PROFESSOR PRIVATE COLLEGE
+Total Assets : 21 lacs
+Liability : No
+Net Asset : 21 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name-
+
+=====================
+
+Name : V.Backiyaraj
+Age : 39
+Party Name : Annaithu Makkal Arasiyal Katchi
+Education : 9th Std
+Occupation : Driver
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : S.VIJAYAKUMAR
+Age : 44
+Party Name : ANNA PURATCHI THALAIVAR AMMA DRAVIDA MUNNETRA KAZHAGAM
+Education : S.S.L.C. 
+Occupation : TWO WHEELER MECHANIC
+Total Assets : 3 lacs
+Liability : 3 lacs
+Net Asset : 31000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : S.SINGARAVADIVEL
+Age : 27
+Party Name : Independent
+Education : B.Tech.,
+Occupation : AGRICULTURE
+Total Assets : 71000
+Liability : No
+Net Asset : 71000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GRAPES
+
+=====================
+
+Name : P.S.THIRUMARAN
+Age : 45
+Party Name : INTHIYA JANANAYAKA KATCHI
+Education : B.Sc.,
+Occupation : AGRICULTURE
+Total Assets : 20 lacs
+Liability : No
+Net Asset : 20 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BLACK_BORD
+
+=====================
+
+Name : R.RAJKUMAR
+Age : 39
+Party Name : Independent
+Education : B.Sc., M.C.A.,
+Occupation : AGRICULTURE
+Total Assets : 26 lacs
+Liability : 22993
+Net Asset : 26 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SOFA
+
+=====================
+

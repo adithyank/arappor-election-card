@@ -1,0 +1,303 @@
+Constituency Document
+=====================
+
+Constituency Name : KILPENNATHUR
+No of Candidates : 21
+No of Independent Candidates : 11
+
+=====================
+
+Name : R.Subashchandrabose
+Age : 39
+Party Name : Bahujan Samaj Party
+Education : BA., LLB (Honours)
+Occupation : Agriculture & Politics
+Total Assets : 39 lacs
+Liability : 3 lacs
+Net Asset : 36 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.Pitchandi
+Age : 67
+Party Name : Dravida Munnetra Kazhagam
+Education : MA
+Occupation : MLA and Agriculture
+Total Assets : 3 crore 49 lacs
+Liability : 25 lacs
+Net Asset : 3 crore 25 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : A.R.Elumalai
+Age : 55
+Party Name : Veeraththiyagi viswanadhadas thozhilalargal katchi
+Education : 8th Pass
+Occupation : Agriculture
+Total Assets : 70000
+Liability : No
+Net Asset : 70000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : P.Kathikeyan
+Age : 42
+Party Name : Amma Makkal Munnetra kazhagam
+Education : SSLC.,
+Occupation : Business
+Total Assets : 56 lacs
+Liability : 10 lacs
+Net Asset : 46 lacs
+Criminal Cases : 3
+Case Details : மணல் வழக்கு, அடிதடி வழக்கு, காசோலை வழக்கு . பொருந்தாது 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : V.Suganantham
+Age : 43
+Party Name : Makkal Needhi Maiam
+Education : B.Tech.,
+Occupation : Petrol Bunk Distributor
+Total Assets : 33 lacs
+Liability : 24 lacs
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : K.Selvakumar
+Age : 44
+Party Name : Pattali Makkal Katchi
+Education : B.Sc., MA.,
+Occupation : Agriculture
+Total Assets : 30 lacs
+Liability : 2 lacs
+Net Asset : 28 lacs
+Criminal Cases : 1
+Case Details : அரசாங்கத்திற்கு எதிராக எதிர்ப்பு. 
+Symbol Name : MANGO
+
+=====================
+
+Name : N.Thangaraj
+Age : 52
+Party Name : Makkal Munnetra Peravai
+Education : 9th Standard
+Occupation : Agriculture & Hotel
+Total Assets : 1 crore 54 lacs
+Liability : 9 lacs
+Net Asset : 1 crore 46 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BAT
+
+=====================
+
+Name : R.Rameshbabu
+Age : 44
+Party Name : Naam Tamilar Katchi
+Education : M.D.S.
+Occupation : Dentist/Maxillofacial surgeon
+Total Assets : 1 crore 55 lacs
+Liability : 11 lacs
+Net Asset : 1 crore 43 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.Venkatesan
+Age : 44
+Party Name : Republican Party of India (Athawale)
+Education : NA
+Occupation : Daily labour
+Total Assets : 29000
+Liability : 2 lacs
+Net Asset : -1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : HELICOPTER
+
+=====================
+
+Name : K.Jayaraman
+Age : 46
+Party Name : Anaithu Makkal Arasiyal Katchi
+Education : HSC
+Occupation : Agriculture, Real-Estate, Reporter
+Total Assets : 2 crore 43 lacs
+Liability : 19 lacs
+Net Asset : 2 crore 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : M.Adhiyaman
+Age : 27
+Party Name : Independent
+Education : MBA.,
+Occupation : Daily Labour
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GRAPES
+
+=====================
+
+Name : P.Ganeshraja
+Age : 32
+Party Name : Independent
+Education : HSC
+Occupation : Agriculture
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PEN_NIB_WITH_SEVEN_RAYS
+
+=====================
+
+Name : G.Krishnamurthy
+Age : 49
+Party Name : Independent
+Education : B.Sc., (Agriculture)
+Occupation : problem solving work, law student
+Total Assets : 10500
+Liability : 5 lacs
+Net Asset : -5 lacs
+Criminal Cases : 2
+Case Details : மத்திய அரசின் அரசாணையை செருப்புகளால் அடித்து எரித்ததன் மூலம் அவமானப்படுத்தியதற்காக. ஒரு மத்திய அரசு அதிகாரியை செருப்புகளால் உதைத்ததற்காக
+Symbol Name : T
+
+=====================
+
+Name : M.Sakthivel
+Age : 37
+Party Name : Independent
+Education : BBA
+Occupation : Fruit seller
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DIAMOND
+
+=====================
+
+Name : S.Sasikumar
+Age : 46
+Party Name : Independent
+Education : B.Com., (Pursuing)
+Occupation : Labour
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : CAPSICUM
+
+=====================
+
+Name : M.Sampathraj
+Age : 40
+Party Name : Independent
+Education : B.A.,
+Occupation : Labour
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : CAULIFLOWER
+
+=====================
+
+Name : M.Dinakaran
+Age : 28
+Party Name : Independent
+Education : B.C.A., B.Ed.,
+Occupation : Daily Labour
+Total Assets : 21000
+Liability : No
+Net Asset : 21000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : COMPUTER
+
+=====================
+
+Name : M.Murugan
+Age : 47
+Party Name : Independent
+Education : HSC
+Occupation : Labour
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WATERMELON
+
+=====================
+
+Name : M.Mohanraja
+Age : 40
+Party Name : Independent
+Education : HSC
+Occupation : Painter
+Total Assets : 16500
+Liability : No
+Net Asset : 16500
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : SAW
+
+=====================
+
+Name : Lourdammal
+Age : 60
+Party Name : Independent
+Education : SSLC
+Occupation : Government Medical staff (Retired)
+Total Assets : 35 lacs
+Liability : 1 lacs
+Net Asset : 33 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : C.Jothi
+Age : 46
+Party Name : Independent
+Education : 8th Standard
+Occupation : Agriculture
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : DISH_ANTENNA
+
+=====================
+

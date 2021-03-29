@@ -1,0 +1,266 @@
+Constituency Document
+=====================
+
+Constituency Name : NILAKKOTTAI
+No of Candidates : 18
+No of Independent Candidates : 10
+
+=====================
+
+Name : K.Ramasamy
+Age : 66
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : B.A.B.L
+Occupation : ADVOCATE
+Total Assets : 36 lacs
+Liability : No
+Net Asset : 36 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : NAGARA
+
+=====================
+
+Name : S.THENMOZHI
+Age : 59
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 12th PASS
+Occupation : FARMER and SOCIAL WORK
+Total Assets : 17 crore 45 lacs
+Liability : 28 lacs
+Net Asset : 17 crore 17 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.NAGENDRAN
+Age : 56
+Party Name : Bahujan Samaj Party
+Education : M.A.,
+Occupation : FARMER WAGES
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : K.MURUGAVELRAJAN
+Age : 53
+Party Name : Dravida Munnetra Kazhagam
+Education : B.SC,B.L
+Occupation : ADVOCATE
+Total Assets : 77 lacs
+Liability : 10 lacs
+Net Asset : 67 lacs
+Criminal Cases : 16
+Case Details : 1. சட்ட விரோதமான கூட்டம், 
+2. கலைந்து செல்வதற்கு சட்டப்படியான உத்தரவிடப்பட்டிருப்பதற்குப் பின்னர் தெரிந்தே சேர்ந்தால், 
+3. மதத்தை அல்லது மத உணர்வுகளை புண்படுத்துவது, 
+4. பெயரில்லாமல் சுவரோட்டி வெளியிடுவது.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : V.K.Aiyyar
+Age : 58
+Party Name : Puthiya Tamilagam
+Education : MIE 
+Occupation : Indane Gas Distributor 
+Total Assets : 2 crore 20 lacs
+Liability : 45 lacs
+Net Asset : 1 crore 76 lacs
+Criminal Cases : 2
+Case Details : கலகம் செய்வதற்கான தண்டனை, பொதுப் பணியாளரால், முறைப்படி பிரகடனப்படுத்தப்பட்ட உத்தரவிற்கு கீழ்ப்படியாமை, குற்றச் சதிக்கு தண்டனை, ஏமாற்றி மற்றும் நேர்மையின்றித் தூண்டிப் பொருளை பெறுதல் அல்லது கொடுக்கும்படி செய்தல். 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : A.M.Ananth
+Age : 42
+Party Name : Makkal Needhi Maiam
+Education : B.A., B.L. 
+Occupation : Lawyer
+Total Assets : 49 lacs
+Liability : No
+Net Asset : 49 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : V.Revadhi
+Age : 36
+Party Name : MY INDIA PARTY
+Education : Illiterate
+Occupation : EAST MAN TEXTILE (P) LTD.,
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : G.Vasantha devi
+Age : 34
+Party Name : Naam Tamilar Katchi
+Education : B.E Civil Engineer Anna University
+Occupation : BUINDING ENGINEER
+Total Assets : 42 lacs
+Liability : 10 lacs
+Net Asset : 31 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : A.Aalappan
+Age : 39
+Party Name : Independent
+Education : B.B.E, M.A.Engilish, (M.Com-Stuying), M.S.S.W.B.C, DCM, 
+Occupation : Farmer
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : M.KALIMUTHU
+Age : 37
+Party Name : Independent
+Education : M.Sc.,B.Ed.,LLM.,
+Occupation : lawyer
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 1
+Case Details : பயங்கர ஆயுதங்களுடன் கலகம் செய்தல், தன்னிச்சையாகக் காயம் ஏற்படுத்தல்
+
+. 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : P.Sivakami
+Age : 63
+Party Name : Independent
+Education : 8th pass
+Occupation : Housewife
+Total Assets : 23 lacs
+Liability : 1 lacs
+Net Asset : 22 lacs
+Criminal Cases : 0
+Case Details : சட்ட விரோதமாக கூட்டம் கூடுதல் ,பெயர்  இல்லமால் சுவரொட்டி ஒட்டியது .. 
+Symbol Name : TENNIS_RACKET_&_BALL
+
+=====================
+
+Name : P.Nagajothi
+Age : 35
+Party Name : Independent
+Education : 10 not passed
+Occupation : COOLIE
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : S.NITHYA
+Age : 25
+Party Name : Independent
+Education : 12th PASS
+Occupation : COOLIE
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : M.Pandi
+Age : 38
+Party Name : Independent
+Education : 6th class
+Occupation : WAGES
+Total Assets : 13 lacs
+Liability : 2 lacs
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WHISTLE
+
+=====================
+
+Name : V.BALASUBRAMANI
+Age : 53
+Party Name : Independent
+Education : 8th pass
+Occupation : FARMER
+Total Assets : 34 lacs
+Liability : No
+Net Asset : 34 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SYRINGE
+
+=====================
+
+Name : N.PERUMAL
+Age : 68
+Party Name : Independent
+Education : 10th pass
+Occupation : RETIRED PERSON
+Total Assets : 23 lacs
+Liability : 42000
+Net Asset : 23 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : P.Pothumanickam
+Age : 49
+Party Name : Independent
+Education : 9TH CLASS
+Occupation : FARMER
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PEAS
+
+=====================
+
+Name : V.VINOTH
+Age : 29
+Party Name : Independent
+Education : B.com
+Occupation : FARMER
+Total Assets : 40500
+Liability : No
+Net Asset : 40500
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SCISSORS
+
+=====================
+

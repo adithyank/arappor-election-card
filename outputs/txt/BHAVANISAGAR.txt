@@ -1,0 +1,85 @@
+Constituency Document
+=====================
+
+Constituency Name : BHAVANISAGAR
+No of Candidates : 5
+No of Independent Candidates : 0
+
+=====================
+
+Name : G.SAKTHIVEL
+Age : 39
+Party Name : Bahujan Samaj Party
+Education : 9th Standard - Govt High School, Bhavani Sagar - 1995-96
+Occupation : Labour
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : P.L.SUNDARAM
+Age : 52
+Party Name : Communist Party of India
+Education : IX Std; KVK Govt Higher Secondary School, Punjai Pulliampatti - 638459
+Occupation : Social Worker (CPI)
+Total Assets : 36 lacs
+Liability : No
+Net Asset : 36 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது
+. பொருந்தாது
+
+Symbol Name-
+
+=====================
+
+Name : A.BANNARI
+Age : 41
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.A. (Tamil), Annamalai University-May - 2000
+Occupation : Agriculture
+Total Assets : 25 lacs
+Liability : 12 lacs
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : K.Karthikkumar
+Age : 36
+Party Name : Makkal Needhi Maiam
+Education : St. Antony's Higher Secondary School, Coonoor
+Occupation : Grocery store and Bakery
+Total Assets : 7 lacs
+Liability : 4 lacs
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது
+. பொருந்தாது
+
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : G.Ramesh
+Age : 51
+Party Name : Desiya Murpokku Dravida Kazhagam
+Education : 9 th standard, Erode District, Arasanur Tribal High school
+Occupation : Agriculture Labourer
+Total Assets : 3 lacs
+Liability : 23000
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது
+. பொருந்தாது
+
+Symbol Name : NAGARA
+
+=====================
+

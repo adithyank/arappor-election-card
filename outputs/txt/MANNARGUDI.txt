@@ -1,0 +1,149 @@
+Constituency Document
+=====================
+
+Constituency Name : MANNARGUDI
+No of Candidates : 10
+No of Independent Candidates : 4
+
+=====================
+
+Name : RAJAMANICKAM SIVA
+Age : 75
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : S.S.L.C. 
+Occupation : NOT APPLICABLE
+Total Assets : 56 lacs
+Liability : No
+Net Asset : 56 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : T.R.B.RAJAA
+Age : 44
+Party Name : Dravida Munnetra Kazhagam
+Education : M.Sc.,
+Occupation :  AGRICULTURE AND REAL ESTATE
+Total Assets : 44 crore 70 lacs
+Liability : 13 crore 48 lacs
+Net Asset : 31 crore 21 lacs
+Criminal Cases : 2
+Case Details : சட்ட விரோதமாக கூட்டம் கூடியது, முறையற்று தடுப்பமைத்தல், உயிருக்கு ஆபத்தான நோய் தொற்றை பரப்பும் வகையில் செயல்படுதல்.. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : R.ARAVINDAN
+Age : 51
+Party Name : Naam Tamilar Katchi
+Education : MASTERS IN SOCIAL SCIENCE-1998, ANNAMALAI UNIVERSITY, CHIDAMBARAM
+Occupation : RETIRED GOVERNMENT EMPLOYEE
+Total Assets : 1 crore 18 lacs
+Liability : 53 lacs
+Net Asset : 65 lacs
+Criminal Cases : 8
+Case Details : போக்குவரத்து பிரிவு நிழற்குடையில் பெயிண்டில் அச்சிட்டு தேர்தல் விளம்பரம் செய்தது, மன்னார்குடி பேருந்து நிலையம் நகராட்சி சுவரில் விவசாயம் அரசு வேலை என விளம்பரம் செய்தது, சட்டவிரோதமாக கூடுதல் சாலை மறியல் ஆபத்தான நோய் தொற்றை பரப்புதல், கழகம் உண்டுபண்ணுதல், பொதுவூழியரின் உத்தரவிற்கு கீழ்ப்படியாமை, பிறர்க்கு தீங்கு விழைவிக்கும் வகையில் செயல் புரிதல், . 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : S.ANBANANDHAM
+Age : 67
+Party Name : Makkal Needhi Maiam
+Education : 
+Occupation : NA
+Total Assets : 50 lacs
+Liability : No
+Net Asset : 50 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.KAMARAJ
+Age : 54
+Party Name : AMMA MAKKAL MUNNETRA KAZHAGAM
+Education : MASTER OF COMMERCE, BHARATHIDASAN UNIVERSITY, TIRUCHIRAPPALLI-1989; BACHELOR OF EDUCATION, ANNAMALAI UNIVERSITY, CHIDAMBARAM-1990
+Occupation : BUSINESS, EDUCATIONALIST, AGRICULTURALIST
+Total Assets : 16 crore 90 lacs
+Liability : 2 crore 00 lacs
+Net Asset : 14 crore 90 lacs
+Criminal Cases : 4
+Case Details :  பொது வெளியில் விமர்சித்து தரக்குறைவாக பேசியதாக,  அலுவலகத்தை கொளுத்திய பொது சொத்துக்கு சேதம் விளைவித்ததாக, ஊர்வலமாக சென்று வெடி வெடித்ததாக குற்றச்சாட்டு, முறையற்ற தடுப்பமைத்தல், பொதுவூழியரின் உத்தரவிற்கு கீழ்ப்படியாமை, தேர்தலின் போது சட்ட விரோதமாக பணம் கொடுத்தது.. 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : S.SATHISHKUMAR
+Age : 33
+Party Name : PUTHIYA THAMIZHAGAM KATCHI
+Education : Diploma in Electrical and Electronics Engineering, Vandiyar Polytechnic College, Thanjavur-2010
+Occupation : AGRICULTURE
+Total Assets : 12 lacs
+Liability : No
+Net Asset : 12 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : T.KUMERASAN
+Age : 60
+Party Name : Independent
+Education : 5TH PASS
+Occupation : ROOF CONSRTUCT BUSINESS
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 1
+Case Details : அபாயகரமான ஆயுதங்களுடன் கலகம் உண்டுபண்ணுதல், முறையற்ற தடுப்பமைத்தல், பொதுவிடத்தில் ஆபாசச் சொல்லோ செயலோ புரிதல், வன்முறையில் தாக்குதல், கொலை மிரட்டல்.. 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : T.BHARATHIDHASAN
+Age : 38
+Party Name : Independent
+Education : Not given
+Occupation : DRIVER
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
+
+=====================
+
+Name : M.MARIMUTHU
+Age : 62
+Party Name : Independent
+Education : 5th pass
+Occupation : Agriculture
+Total Assets : 4 lacs
+Liability : 50000
+Net Asset : 3 lacs
+Criminal Cases : 1
+Case Details : Obscene acts or words in public &offence of criminal intimidation. 
+Symbol Name : BUCKET
+
+=====================
+
+Name : S.MURUGAN
+Age : 31
+Party Name : Independent
+Education : Not given
+Occupation : DRIVER
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : ஏதுமில்லை . 
+Symbol Name : CAULIFLOWER
+
+=====================
+

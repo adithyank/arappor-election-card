@@ -1,0 +1,262 @@
+Constituency Document
+=====================
+
+Constituency Name : SHOLINGUR
+No of Candidates : 18
+No of Independent Candidates : 10
+
+=====================
+
+Name : M.GIRIDHARAN
+Age : 35
+Party Name : Bahujan Samaj Party
+Education : DME
+Occupation : DRIVER
+Total Assets : 4 lacs
+Liability : No
+Net Asset : 4 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : A.M.MUNIRATHINAM
+Age : 65
+Party Name : Indian National Congress
+Education : 10th pass
+Occupation : Bus and Lorry Transport
+Total Assets : 70 crore 32 lacs
+Liability : 50 crore 95 lacs
+Net Asset : 19 crore 36 lacs
+Criminal Cases : 2
+Case Details : ஆபத்தான ஆயுதங்கள் வைத்திருத்தல், ஆயுதங்களை வைத்து மரண அச்சுறுத்தல் செய்வது, வானகங்கள் மீது கல்லெறிந்தது, சட்டமன்ற விதி முறைகளை மீறியது, உயிருக்கு ஆபத்தான நோயை பரப்புவதில் அலட்சியம் காட்டியது.. 
+Symbol Name : Hand
+
+=====================
+
+Name : A.M.Krishnan
+Age : 48
+Party Name : Pattali Makkal Katchi
+Education : 10th Fail
+Occupation : Agriculture and Quarry
+Total Assets : 4 crore 63 lacs
+Liability : 2 crore 50 lacs
+Net Asset : 2 crore 12 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : MANGO
+
+=====================
+
+Name : N.G.Parthiban
+Age : 46
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : B.A., B.L
+Occupation : Advocate
+Total Assets : 1 crore 54 lacs
+Liability : 29 lacs
+Net Asset : 1 crore 25 lacs
+Criminal Cases : 1
+Case Details : தொலைபேசியில் மிரட்டியதாக தபால் மூலம் புகார் பதிவுசெய்யப்பட்டுள்ளது . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : Y.R.Pavendhan
+Age : 43
+Party Name : Naam Tamilar Katchi
+Education : M.A.,M.L
+Occupation : Advocate
+Total Assets : 45 lacs
+Liability : 13 lacs
+Net Asset : 32 lacs
+Criminal Cases : 2
+Case Details : வாகன விபத்து, நீட் தேர்வை எதிர்த்து போராட்டம். 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : R.VINOTH
+Age : 28
+Party Name : Veerath Thiyagi Viswanatha dossThozhilalarkal Katchi
+Education : 10th pass
+Occupation : BARBOUR SHOP
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PASTEL_AND_MORTAR
+
+=====================
+
+Name : G.Vijayakumar
+Age : 41
+Party Name : Dhesiya Siripanmaiyinar Makkal Iyakkam
+Education : L.L.B
+Occupation : Advocate
+Total Assets : 53 lacs
+Liability : 11 lacs
+Net Asset : 42 lacs
+Criminal Cases : 0
+Case Details : இல்லை . 
+இல்லை 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : R.JAWAHAR
+Age : 56
+Party Name : Makkal Needhi Maiam
+Education : B.A PUBLIC ADMINISTRATION 
+Occupation : TEACHING
+Total Assets : 52 lacs
+Liability : 1 lacs
+Net Asset : 51 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : T.RAJENDRAN
+Age : 51
+Party Name : Independent
+Education : SSLC
+Occupation : AGRICULTURE
+Total Assets : 31000
+Liability : No
+Net Asset : 31000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : R.ELUMALAI
+Age : 45
+Party Name : Independent
+Education : Not given
+Occupation : DRIVER
+Total Assets : 45000
+Liability : No
+Net Asset : 45000
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : K.Sekar
+Age : 48
+Party Name : Independent
+Education : 10th Standard (1987- 1988)
+Occupation : Weaving Industry
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : PINEAPPLE
+
+=====================
+
+Name : A.Palani
+Age : 40
+Party Name : Independent
+Education : SSLC
+Occupation : MILK BUSINESS
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : CAPSICUM
+
+=====================
+
+Name : P.PARTHIBAN
+Age : 27
+Party Name : Independent
+Education : 10th Discontinued
+Occupation : DRIVER
+Total Assets : 9 lacs
+Liability : No
+Net Asset : 9 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : ALMIRAH
+
+=====================
+
+Name : J.Balaji
+Age : 27
+Party Name : Independent
+Education : 8th pass
+Occupation : Agricultural Labor
+Total Assets : 4 lacs
+Liability : 2 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : GAS_CYLINDER
+
+=====================
+
+Name : K.Mani
+Age : 57
+Party Name : Independent
+Education : 5th standard (1969 - 1970)
+Occupation : Drama Industry
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : IMMERSION_ROD
+
+=====================
+
+Name : N.MANI
+Age : 43
+Party Name : Independent
+Education : SSLC
+Occupation : SELF EMLOYED
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : AIRCONDITIONER
+
+=====================
+
+Name : C.MUNIRATHINAM 
+Age : 52
+Party Name : Independent
+Education : 10th pass
+Occupation : AGRICULTURE
+Total Assets : 23 lacs
+Liability : No
+Net Asset : 23 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : TRACTOR_CHALATA_KISAN
+
+=====================
+
+Name : M.MUNIRATHINAM
+Age : 70
+Party Name : Independent
+Education : 8TH PASS
+Occupation : AGRICULTURE
+Total Assets : 23 lacs
+Liability : No
+Net Asset : 23 lacs
+Criminal Cases : 0
+Case Details : இல்லை. 
+Symbol Name : BABY_WALKER
+
+=====================
+

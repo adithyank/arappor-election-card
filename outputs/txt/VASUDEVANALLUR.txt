@@ -1,0 +1,168 @@
+Constituency Document
+=====================
+
+Constituency Name : VASUDEVANALLUR
+No of Candidates : 11
+No of Independent Candidates : 2
+
+=====================
+
+Name : T.SADHAN THIRUMALAI KUMAR
+Age : 68
+Party Name : Dravida Munnetra Kazhagam
+Education : M.B.B.S
+Occupation : self-employment , doctor
+Total Assets : 8 crore 32 lacs
+Liability : 4 crore 90 lacs
+Net Asset : 3 crore 42 lacs
+Criminal Cases : 1
+Case Details : Cheque dishonoured case. 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : A.MANOHARAN
+Age : 42
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : 12th pass
+Occupation : FARMER
+Total Assets : 2 crore 69 lacs
+Liability : 2 crore 09 lacs
+Net Asset : 59 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.Eswaran
+Age : 29
+Party Name : New Generation People’s Party
+Education : Not given
+Occupation : Business
+Total Assets : 3 lacs
+Liability : 5 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : POT
+
+=====================
+
+Name : K.KARUPPASAMY
+Age : 31
+Party Name : Nam India Party
+Education : 
+Occupation : 
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : M.CHINNASAMY
+Age : 60
+Party Name : Makkal Needhi Maiam
+Education : Diploma in Civil Engineering 
+Occupation : Farmer & Social service
+Total Assets : 22 lacs
+Liability : 4 lacs
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : S.THANGARAJ
+Age : 58
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : B.Sc.
+Occupation : Retired Sub. Inspector of Police
+Total Assets : 57 lacs
+Liability : No
+Net Asset : 57 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : V.PECHIAMMAL
+Age : 45
+Party Name : PUTHIYA THAMILAGAM 
+Education : B.Com.
+Occupation : Labour
+Total Assets : 29 lacs
+Liability : 5 lacs
+Net Asset : 24 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : SS.MATHIVANAN
+Age : 34
+Party Name : Naam Tamilar Katchi
+Education : B.E (COM SCI)
+Occupation : Photography
+Total Assets : 7 lacs
+Liability : No
+Net Asset : 7 lacs
+Criminal Cases : 4
+Case Details : * Punishment for rioting
+* Rioting, armed with deadly weapon
+* Attempt to murder
+* Sedition. 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : P.L.A.Jayakumar
+Age : 57
+Party Name : Tamil Nadu Ilangyar Katchi
+Education : 10th pass
+Occupation : Driver
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+. 
+Symbol Name : RING
+
+=====================
+
+Name : G.MUTHUPANDI
+Age : 33
+Party Name : Independent
+Education : 7th Fail
+Occupation : Taxi driver
+Total Assets : 2 lacs
+Liability : No
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : LAPTOP
+
+=====================
+
+Name : P.RAMAMOORTHY
+Age : 37
+Party Name : Independent
+Education : B.A.(History)
+Occupation : Farmer labour
+Total Assets : 11000
+Liability : No
+Net Asset : 11000
+Criminal Cases : 0
+Case Details : 
+. 
+Symbol Name : BLACK_BORD
+
+=====================
+

@@ -1,0 +1,191 @@
+Constituency Document
+=====================
+
+Constituency Name : KATTUMANNARKOIL
+No of Candidates : 13
+No of Independent Candidates : 5
+
+=====================
+
+Name : T.THANGAUDAYAKUMAR
+Age : 46
+Party Name : Bahujan Samaj Party
+Education : 10th pass
+Occupation : Business
+Total Assets : 6 lacs
+Liability : No
+Net Asset : 6 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELEPHANT
+
+=====================
+
+Name : N.Murugumaran
+Age : 50
+Party Name : All India Anna Dravida Munnetra kazhagam
+Education : B.Sc.,LL.B.
+Occupation : MLA
+Total Assets : 4 crore 14 lacs
+Liability : 80 lacs
+Net Asset : 3 crore 34 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : M.G.KALYANASUNDARAM
+Age : 49
+Party Name : All India Jananayaka Makkal Kazhagam
+Education : M.A
+Occupation : Daily Wages
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MIXEE
+
+=====================
+
+Name : M.Sinthanai selvan
+Age : 55
+Party Name : Viduthalai Chiruthaigal Katchi
+Education : D.M.E
+Occupation : Social worker
+Total Assets : 96 lacs
+Liability : No
+Net Asset : 96 lacs
+Criminal Cases : 1
+Case Details : கண்டன ஆர்ப்பாட்டம் . 
+Symbol Name : POT
+
+=====================
+
+Name : K.THANGAVIKRAM
+Age : 34
+Party Name : Makkal Needhi Maiam
+Education : M.Sc., B.L
+Occupation : Advocate
+Total Assets : 18 lacs
+Liability : 3 lacs
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : M.Thirunavukarasu
+Age : 46
+Party Name : Anna Puratchithalaivar Amma Dravida Munnetra Kazhagam
+Education : B.Sc.
+Occupation : Farmer
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : JACKFRUIT
+
+=====================
+
+Name : S.Narayanamoorthy
+Age : 53
+Party Name : Amma Makkal Munnetra Kazhagam
+Education : 7th STD
+Occupation : Farmer
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 2
+Case Details : மணல் குவாரியில் குவாரி நடத்தக்கூடாது என்று தடுத்தது வழக்கு . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : N.NIVEDHA
+Age : 29
+Party Name : Naam Tamilar Katchi
+Education : M.A
+Occupation : House wife
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : M.A.T.ARCHUNAN
+Age : 63
+Party Name : Independent
+Education : M.A., LL.B
+Occupation : PENSION
+Total Assets : 34 lacs
+Liability : No
+Net Asset : 34 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : WATERMELON
+
+=====================
+
+Name : A.Anandan
+Age : 43
+Party Name : Independent
+Education : I.T.I
+Occupation : Farmer
+Total Assets : 5 lacs
+Liability : No
+Net Asset : 5 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : RING
+
+=====================
+
+Name : P.M.KUMAR
+Age : 45
+Party Name : Independent
+Education : M.A
+Occupation : Daily Wages
+Total Assets : 65000
+Liability : No
+Net Asset : 65000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
+
+=====================
+
+Name : S.Tamilselvan
+Age : 37
+Party Name : Independent
+Education : BBA Pursing
+Occupation : Social Service
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : T.MATHIAZHAGAN
+Age : 45
+Party Name : Independent
+Education : 9th STD
+Occupation : Farmer
+Total Assets : 55000
+Liability : No
+Net Asset : 55000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TENNIS_RACKET_&_BALL
+
+=====================
+

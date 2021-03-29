@@ -1,0 +1,205 @@
+Constituency Document
+=====================
+
+Constituency Name : USILAMPATTI
+No of Candidates : 14
+No of Independent Candidates : 7
+
+=====================
+
+Name : P.AYYAPPAN
+Age : 56
+Party Name : Dravida Munnetra Kazhagam
+Education : B.COM
+Occupation : FARMER
+Total Assets : 32 lacs
+Liability : 29 lacs
+Net Asset : 4 lacs
+Criminal Cases : 1
+Case Details : இடம்  சம்பந்தமான  தகராறு . 
+Symbol Name : TWO_LEAVES
+
+=====================
+
+Name : P.V.KATHIRAVAN
+Age : 67
+Party Name : Dravida Munnetra Kazhagam
+Education : B.COM,LL.B
+Occupation : ADVOCATE
+Total Assets : 1 crore 63 lacs
+Liability : No
+Net Asset : 1 crore 63 lacs
+Criminal Cases : 7
+Case Details :   காவல்துறை  உத்தரவை மீறி சட்ட விரோதமாக  கூடியது  . 
+Symbol Name : RISING_SUN
+
+=====================
+
+Name : M.ARASUMAYAN
+Age : 51
+Party Name : All India Jananayaka Makkal Kazhagam
+Education : 12th pass
+Occupation : Agriculture
+Total Assets : 60000
+Liability : No
+Net Asset : 60000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MIXEE
+
+=====================
+
+Name : G.iyudhukovilan
+Age : 54
+Party Name : Naam Tamilar Katchi
+Education : B.A,M.A
+Occupation : director
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : C.Thiruselvam
+Age : 44
+Party Name : Puthiya Tamilagam
+Education : 5th Pass
+Occupation : Agriculture
+Total Assets : 24 lacs
+Liability : 8 lacs
+Net Asset : 17 lacs
+Criminal Cases : 3
+Case Details : வன்முறை வழக்கு, அரசு ஊழியரை பணி செய்ய விடாமல் தடுத்த வழக்கு. 
+Symbol Name : TELEVISION
+
+=====================
+
+Name : V.BHARATH
+Age : 29
+Party Name : MY INDIA PARTY
+Education : B.Com(CA)- Not completed
+Occupation : CHICKEN SHOP
+Total Assets : 8 lacs
+Liability : No
+Net Asset : 8 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : I.MAHENDRAN
+Age : 55
+Party Name : AMMA MAKKAL MUNNETRA KAZHAGAM
+Education : B.COM
+Occupation : BUSINESS
+Total Assets : 5 crore 43 lacs
+Liability : 1 crore 73 lacs
+Net Asset : 3 crore 69 lacs
+Criminal Cases : 1
+Case Details : தேர்தல்  நன்னடத்தை   மீறியதாகவும்  ,பொது மக்களுக்கு  இடையூறு  செய்தல்   . 
+Symbol Name : PRESSURE_COOKER
+
+=====================
+
+Name : M.ARUNKUMAR
+Age : 33
+Party Name : Independent
+Education : M.B.A
+Occupation : PIRVATE COMPANY JOB
+Total Assets : 1 lacs
+Liability : No
+Net Asset : 1 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : MATCHBOX
+
+=====================
+
+Name : K.ALAGUMURUGESAN
+Age : 59
+Party Name : Independent
+Education : 12th pass
+Occupation : FARMER
+Total Assets : 77000
+Liability : No
+Net Asset : 77000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : TRIANGLE
+
+=====================
+
+Name : K.Arumugam
+Age : 51
+Party Name : Independent
+Education : primary education
+Occupation : Building Contractor
+Total Assets : 1 crore 11 lacs
+Liability : 20 lacs
+Net Asset : 92 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : N.ANANTHAKUMAR
+Age : 50
+Party Name : Independent
+Education : 12th pass
+Occupation : SMALL SCALE INDUSTRY
+Total Assets : 3 lacs
+Liability : No
+Net Asset : 3 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BALLOON
+
+=====================
+
+Name : A.KATHIRAVAN
+Age : 30
+Party Name : Independent
+Education : N/A
+Occupation : N/A
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : GIFT_PACKS
+
+=====================
+
+Name : T.DHANASEKARAN
+Age : 35
+Party Name : Independent
+Education : 12th pass
+Occupation : NIL
+Total Assets : 14 lacs
+Liability : No
+Net Asset : 14 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : A.MAHENDRAN
+Age : 54
+Party Name : Independent
+Education : 10th pass
+Occupation : FARMER(COOLI)
+Total Assets : 10 lacs
+Liability : No
+Net Asset : 10 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ALMIRAH
+
+=====================
+
