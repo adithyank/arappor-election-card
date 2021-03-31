@@ -273,11 +273,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolName": "DISH_ANTENNA",
-      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DISH_ANTENNA.JPG",
+      "symbolName": "FOUNTAIN",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FOUNTAIN.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUTTANI_25.jpg",
       "photoName": "TIRUTTANI_25",
-      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/DISH_ANTENNA.JPG",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/FOUNTAIN.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_25.jpg"
     },
     {
@@ -304,11 +304,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolName": "FOUNTAIN",
-      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FOUNTAIN.JPG",
+      "symbolName": "DISH_ANTENNA",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DISH_ANTENNA.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUTTANI_16.jpg",
       "photoName": "TIRUTTANI_16",
-      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/FOUNTAIN.JPG",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/DISH_ANTENNA.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_16.jpg"
     },
     {

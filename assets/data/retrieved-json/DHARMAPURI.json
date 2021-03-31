@@ -1038,7 +1038,7 @@
                 "party": {
                     "id": "AMMA MAKKAL MUNNETRA KAZHAGAM",
                     "en_label": "AMMA MAKKAL MUNNETRA KAZHAGAM",
-                    "ta_label": "AMMA MAKKAL MUNNETRA KAZHAGAM",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
                 },
                 "thokuthi": {
@@ -1089,9 +1089,9 @@
             },
             "ta": {
                 "candidate_id": "93050fe2-4d0f-4478-b2ef-44e22c3acd4c",
-                "name": "D.K.D.K.RAJENDRAN",
+                "name": "D.K.\u0bb0\u0bbe\u0b9c\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd ",
                 "education": "9TH STD",
-                "occupation": "AGRICULTURE",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
                 "age": "63",
                 "annual_income": "99,540",
                 "source_of_income": "AGRICULTURE",
@@ -1101,12 +1101,12 @@
                 "liabilities": "15,868,125",
                 "net_assets": "-10,577,050",
                 "no_of_criminal_cases": 4,
-                "cases_description": "A1 Gulty U/S: 188, 147, 341, 4 TNP (PDL) Act rw 149, 3(0 TNP (PDL) Act tiw. 149 (3 counts), 3(0 TNP (PDL) Act riw 149 and 341 r/w 149 IPC",
+                "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RAJENDRAN_D_K__Dharmapuri.jpg",
                 "party": {
                     "id": "AMMA MAKKAL MUNNETRA KAZHAGAM",
                     "en_label": "AMMA MAKKAL MUNNETRA KAZHAGAM",
-                    "ta_label": "AMMA MAKKAL MUNNETRA KAZHAGAM",
+                    "ta_label": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
                 },
                 "thokuthi": {
@@ -1153,7 +1153,13 @@
                         "spouse": "0",
                         "overall": "731,504"
                     }
-                ]
+                ],
+                "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
+                "cases_pending_description": "",
+                "cases_convicted_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "self_education_description": ""
             }
         },
         {

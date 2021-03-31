@@ -431,11 +431,11 @@
                     }
                 ],
                 "other_party_name": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
-                "self_source_of_income": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0baa\u0b9f\u0bc8 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd ",
                 "cases_pending_description": "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd ",
-                "self_education_description": "",
+                "cases_convicted_description": "",
                 "self_profession_occupation": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0baa\u0b9f\u0bc8 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd ",
-                "cases_convicted_description": ""
+                "self_source_of_income": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0baa\u0b9f\u0bc8 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd ",
+                "self_education_description": ""
             }
         },
         {
@@ -453,7 +453,7 @@
                 "liabilities": "500,000",
                 "net_assets": "6,454,684",
                 "no_of_criminal_cases": 17,
-                "cases_description": "USING FOUL LANGUAGE, NOT FOLLOWING THE ORDER, DAMAGING GOVT. PROPERTY, THREATENING TO KILL.. ",
+                "cases_description": "unlawful assembly, Negligent conduct with respect to fire or combustible matter, wrongfully restrains, Punishment for public nuisance, commits criminal trespass, offence of criminal intimidation, USING FOUL LANGUAGE, NOT FOLLOWING THE ORDER, DAMAGING GOVT. PROPERTY, THREATENING TO KILL.. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/K_K_UMADHEVAN_Tiruppattur.jpg",
                 "party": {
                     "id": "AMMA MAKKAL MUNNETTRA KAZAGAM",
@@ -521,7 +521,7 @@
                 "liabilities": "500,000",
                 "net_assets": "6,454,684",
                 "no_of_criminal_cases": 17,
-                "cases_description": "\u0b85\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bbe\u0b95  \u0baa\u0bc7\u0b9a\u0bbf \u0b85\u0bb0\u0b9a\u0bc1 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd \u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0b85\u0bb0\u0b9a\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd. \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd . ",
+                "cases_description": "\u0b90\u0baa\u0bbf\u0b9a\u0bbf \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 143 - \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0ba9 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8, \u0b90\u0baa\u0bbf\u0b9a\u0bbf \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 285 - \u0ba4\u0bc0 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0ba4\u0bc0\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0bb5\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bc8, \u0b90\u0baa\u0bbf\u0b9a\u0bbf \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 353 - \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0bca\u0ba4\u0bc1\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc8 \u0ba4\u0ba9\u0bcd\u0ba9\u0bc1\u0b9f\u0bc8\u0baf \u0b95\u0b9f\u0bae\u0bc8\u0baf\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0b85\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bbe\u0b95  \u0baa\u0bc7\u0b9a\u0bbf \u0b85\u0bb0\u0b9a\u0bc1 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd \u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0b85\u0bb0\u0b9a\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd. \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd . ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/K_K_UMADHEVAN_Tiruppattur.jpg",
                 "party": {
                     "id": "AMMA MAKKAL MUNNETTRA KAZAGAM",
@@ -576,7 +576,7 @@
                 ],
                 "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
                 "self_source_of_income": "\u0bae\u0bc1\u0bb4\u0bc1\u0ba8\u0bc7\u0bb0 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd ",
-                "cases_pending_description": "\u0b85\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bbe\u0b95  \u0baa\u0bc7\u0b9a\u0bbf \u0b85\u0bb0\u0b9a\u0bc1 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd \u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0b85\u0bb0\u0b9a\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd. \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd ",
+                "cases_pending_description": "\u0b90\u0baa\u0bbf\u0b9a\u0bbf \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 143 - \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0ba9 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8, \u0b90\u0baa\u0bbf\u0b9a\u0bbf \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 285 - \u0ba4\u0bc0 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0ba4\u0bc0\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0bb5\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bc8, \u0b90\u0baa\u0bbf\u0b9a\u0bbf \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 353 - \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0bca\u0ba4\u0bc1\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bc8 \u0ba4\u0ba9\u0bcd\u0ba9\u0bc1\u0b9f\u0bc8\u0baf \u0b95\u0b9f\u0bae\u0bc8\u0baf\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0b85\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bbe\u0b95  \u0baa\u0bc7\u0b9a\u0bbf \u0b85\u0bb0\u0b9a\u0bc1 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd \u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0b85\u0bb0\u0b9a\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd. \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd ",
                 "self_education_description": "",
                 "self_profession_occupation": "\u0bae\u0bc1\u0bb4\u0bc1\u0ba8\u0bc7\u0bb0 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd ",
                 "cases_convicted_description": ""
@@ -1034,7 +1034,7 @@
                 "net_assets": "-8,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/K_VEERAPANDIAN_Tiruppattur.JPG",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/K_VEERAPANDIAN_Tiruppattur.jpg",
                 "party": {
                     "id": "MY INDIA PARTY",
                     "en_label": "MY INDIA PARTY",
@@ -1102,7 +1102,7 @@
                 "net_assets": "-8,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/K_VEERAPANDIAN_Tiruppattur.JPG",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/K_VEERAPANDIAN_Tiruppattur.jpg",
                 "party": {
                     "id": "MY INDIA PARTY",
                     "en_label": "MY INDIA PARTY",
@@ -1324,7 +1324,7 @@
                 "net_assets": "25,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUPPATTUR_6.jpg",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANANDHANK_Tiruppattur.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
@@ -1393,7 +1393,7 @@
                 "net_assets": "25,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUPPATTUR_6.jpg",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANANDHANK_Tiruppattur.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
@@ -1469,7 +1469,7 @@
                 "net_assets": "25,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/C_KANNAN_Tiruppattur.JPG",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/C_KANNAN_Tiruppattur.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
@@ -1538,7 +1538,7 @@
                 "net_assets": "25,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 . ",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/C_KANNAN_Tiruppattur.JPG",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/C_KANNAN_Tiruppattur.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
@@ -2053,7 +2053,7 @@
                 "net_assets": "20,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUPPATTUR_4.jpg",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PALANIAPPAN_Tiruppattur.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
@@ -2122,7 +2122,7 @@
                 "net_assets": "20,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUPPATTUR_4.jpg",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PALANIAPPAN_Tiruppattur.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
@@ -2485,7 +2485,7 @@
                 "net_assets": "17,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUPPATTUR_5.jpg",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/A_MALLIKA_Tiruppattur.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
@@ -2554,7 +2554,7 @@
                 "net_assets": "17,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUPPATTUR_5.jpg",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/A_MALLIKA_Tiruppattur.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
@@ -2922,7 +2922,7 @@
                 "net_assets": "30,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUPPATTUR_17.jpg",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RM_MURUGESAN_Tiruppattur.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
@@ -2991,7 +2991,7 @@
                 "net_assets": "30,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUPPATTUR_17.jpg",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RM_MURUGESAN_Tiruppattur.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",

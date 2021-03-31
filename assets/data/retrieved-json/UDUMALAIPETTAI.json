@@ -2039,6 +2039,146 @@
                 "self_profession_occupation": "\u0b8e\u0ba4\u0bc1\u0bb5\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
                 "cases_convicted_description": ""
             }
+        },
+        {
+            "en": {
+                "candidate_id": "9314d555-c8a3-42dd-b317-1f8137cecc12",
+                "name": "K.Rajini",
+                "education": "Not given",
+                "occupation": "Farmer",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "Daily wages",
+                "moveable_assets": "210,000",
+                "immoveable_assets": "0",
+                "total_assets": "210,000",
+                "liabilities": "390,000",
+                "net_assets": "-180,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": null,
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": ""
+                },
+                "thokuthi": {
+                    "constituency_id": "UDUMALAIPETTAI",
+                    "constituency_en_label": "Udumalaipettai",
+                    "constituency_ta_label": "\u0b89\u0b9f\u0bc1\u0bae\u0bb2\u0bc8\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+                    "district_id": "TIRUPPUR",
+                    "district_en_label": "Tiruppur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "9314d555-c8a3-42dd-b317-1f8137cecc12",
+                "name": "K.K.Rajini",
+                "education": "Not given",
+                "occupation": "Farmer",
+                "age": "44",
+                "annual_income": "0",
+                "source_of_income": "Daily wages",
+                "moveable_assets": "210,000",
+                "immoveable_assets": "0",
+                "total_assets": "210,000",
+                "liabilities": "390,000",
+                "net_assets": "-180,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": null,
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": ""
+                },
+                "thokuthi": {
+                    "constituency_id": "UDUMALAIPETTAI",
+                    "constituency_en_label": "Udumalaipettai",
+                    "constituency_ta_label": "\u0b89\u0b9f\u0bc1\u0bae\u0bb2\u0bc8\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+                    "district_id": "TIRUPPUR",
+                    "district_en_label": "Tiruppur",
+                    "district_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            }
         }
     ]
 }
