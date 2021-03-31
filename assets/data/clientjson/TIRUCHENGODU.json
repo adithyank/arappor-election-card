@@ -158,7 +158,7 @@
     },
     {
       "recid": "92ff02c6-fbdf-4571-9c99-53a753cdba47",
-      "name": "N.SengottuVelu",
+      "name": "N.SengottuVellu",
       "nameTamil": "N.ந.செங்கோட்டுவேலு ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
@@ -337,10 +337,10 @@
       "caseDetailTamil": "",
       "symbolName": "WINDOWS",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WINDOWS.JPG",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/BALAMURUGANS_Tiruchengodu.jpg",
-      "photoName": "BALAMURUGANS_Tiruchengodu",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ESWARANA_Tiruchengodu.jpg",
+      "photoName": "ESWARANA_Tiruchengodu",
       "soSymbolUrl": "assets/data/retrieved-imgs/symbol/WINDOWS.JPG",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BALAMURUGANS_Tiruchengodu.jpg"
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ESWARANA_Tiruchengodu.jpg"
     },
     {
       "recid": "92fef6ac-8091-4654-8072-aaf2f16dd9e8",
@@ -499,7 +499,7 @@
     },
     {
       "recid": "92fef978-adc2-45f7-afcb-2a9e1a6e8f4f",
-      "name": "C.Sathishkumar",
+      "name": "C.SATHIESHKUMAR",
       "nameTamil": "C.சி.சதீஸ்குமார் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
@@ -716,7 +716,7 @@
     },
     {
       "recid": "92fc9039-9dc2-45d1-9691-1e0313904014",
-      "name": "C.Balamurughan",
+      "name": "C.BALAMURUGAN",
       "nameTamil": "C.C .பாலமுருகன் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
@@ -809,7 +809,7 @@
     },
     {
       "recid": "92fef2a6-7f25-426a-860b-d73951a97945",
-      "name": "R.Ranjith",
+      "name": "R.Ranjit",
       "nameTamil": "R.R .ரஞ்சித் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",

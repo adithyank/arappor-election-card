@@ -31,7 +31,7 @@ Liability : No
 Net Asset : 11 lacs
 Criminal Cases : 0
 Case Details : 
-Symbol Name-
+Symbol Name : BOOK
 
 =====================
 
@@ -60,20 +60,6 @@ Net Asset : -10 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : ELEPHANT
-
-=====================
-
-Name : C.NATARAJAN
-Age : 58
-Party Name : Amma Makkal Munnetra Kazhagam 
-Education : B.Com., B.L.,
-Occupation : LAWYER
-Total Assets : 3 crore 20 lacs
-Liability : 8 crore 63 lacs
-Net Asset : -5 crore 42 lacs
-Criminal Cases : 1
-Case Details : காசோலை மோசடி. 
-Symbol Name : PRESSURE_COOKER
 
 =====================
 
@@ -116,6 +102,20 @@ Net Asset : 24 crore 67 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : BATTERY_TORCH
+
+=====================
+
+Name : C.NATARAJAN
+Age : 58
+Party Name : Amma Makkal Munnetra Kazhagam 
+Education : B.Com., B.L.,
+Occupation : LAWYER
+Total Assets : 3 crore 20 lacs
+Liability : 8 crore 63 lacs
+Net Asset : -5 crore 42 lacs
+Criminal Cases : 1
+Case Details : காசோலை மோசடி. 
+Symbol Name : PRESSURE_COOKER
 
 =====================
 

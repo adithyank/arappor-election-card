@@ -2,8 +2,8 @@ Constituency Document
 =====================
 
 Constituency Name : SIVAGANGA
-No of Candidates : 14
-No of Independent Candidates : 7
+No of Candidates : 15
+No of Independent Candidates : 8
 
 =====================
 
@@ -16,8 +16,8 @@ Total Assets : 5 crore 23 lacs
 Liability : No
 Net Asset : 5 crore 23 lacs
 Criminal Cases : 30
-Case Details : சட்டவிரோத நடவடிக்கைகள், பொது தொல்லை, ஆபத்தை ஏற்படுத்தும் நோய் பரவுதல். 
-Symbol Name : FUNNEL
+Case Details : சட்டவிரோத நடவடிக்கைகள், கலகம் செய்வதற்கான தண்டனை, பொது தொல்லை, ஆபத்தை ஏற்படுத்தும் நோய் பரவுதல். 
+Symbol Name : EARS_OF_CORN_AND_SICKLE
 
 =====================
 
@@ -119,7 +119,7 @@ Symbol Name : SAW
 
 =====================
 
-Name : c.Kaningprabhu
+Name : C.Kaningprabhu
 Age : 35
 Party Name : Independent
 Education : 8th pass
@@ -158,6 +158,20 @@ Net Asset : 1 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : CALCULATOR
+
+=====================
+
+Name : A.Parthasarathy
+Age : 42
+Party Name : Independent
+Education : DECE, BE, ME, MBA, MLM, Ph.D.
+Occupation : Professor
+Total Assets : 36 lacs
+Liability : 7 lacs
+Net Asset : 30 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AUTO-RICKSHAW
 
 =====================
 

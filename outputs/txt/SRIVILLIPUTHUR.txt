@@ -2,7 +2,7 @@ Constituency Document
 =====================
 
 Constituency Name : SRIVILLIPUTHUR
-No of Candidates : 14
+No of Candidates : 15
 No of Independent Candidates : 6
 
 =====================
@@ -116,6 +116,20 @@ Net Asset : No
 Criminal Cases : 0
 Case Details : இல்லை . 
 Symbol Name : GLASS_TUMBLER
+
+=====================
+
+Name : K.VEERAPANDI
+Age : 28
+Party Name : MY INDIA PARTY
+Education : M.sc
+Occupation : Self Employement
+Total Assets : 90000
+Liability : No
+Net Asset : 90000
+Criminal Cases : 0
+Case Details : 
+Symbol Name : CCTV_CAMERA
 
 =====================
 

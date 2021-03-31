@@ -2,8 +2,8 @@ Constituency Document
 =====================
 
 Constituency Name : PARAMATHI_VELUR
-No of Candidates : 26
-No of Independent Candidates : 18
+No of Candidates : 27
+No of Independent Candidates : 19
 
 =====================
 
@@ -284,6 +284,20 @@ Net Asset : 15000
 Criminal Cases : 0
 Case Details : பொருந்தாது . பொருந்தாது 
 Symbol Name : DIAMOND
+
+=====================
+
+Name : S.PARTHASARATHY 
+Age : 46
+Party Name : Independent
+Education : 
+Occupation : 
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : 
+Symbol Name : BANGLES
 
 =====================
 

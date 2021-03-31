@@ -2,7 +2,7 @@ Constituency Document
 =====================
 
 Constituency Name : GOBICHETTIPALAYAM
-No of Candidates : 18
+No of Candidates : 19
 No of Independent Candidates : 12
 
 =====================
@@ -75,6 +75,20 @@ Net Asset : 58 lacs
 Criminal Cases : 1
 Case Details : Complaint Not registered. 
 Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : N K .Thulasimani
+Age : 44
+Party Name : Amma Makkal Munnetra Kazhakam
+Education : 6th standard pass
+Occupation : Agriculture
+Total Assets : 21 lacs
+Liability : 3 lacs
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : PRESSURE_COOKER
 
 =====================
 

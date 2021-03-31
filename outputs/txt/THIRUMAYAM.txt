@@ -271,7 +271,7 @@ Total Assets : 4 lacs
 Liability : 30000
 Net Asset : 3 lacs
 Criminal Cases : 1
-Case Details : சிவில் வழக்கு தொடர்பாக. 
+Case Details : ஆபாசமான செயல் அல்லது பாடல்களை பாடுதல், குற்றம் கருதி மிரட்டல். 
 Symbol Name : CHAPPALS
 
 =====================

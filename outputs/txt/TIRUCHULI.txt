@@ -2,8 +2,8 @@ Constituency Document
 =====================
 
 Constituency Name : TIRUCHULI
-No of Candidates : 18
-No of Independent Candidates : 10
+No of Candidates : 20
+No of Independent Candidates : 12
 
 =====================
 
@@ -31,7 +31,7 @@ Liability : 25 lacs
 Net Asset : 2 crore 84 lacs
 Criminal Cases : 7
 Case Details : ஏமாற்றுதல் மற்றும் கொலை மிரட்டல் , அரசு ஊழியரை பணி செய்ய விடாமல் தடுத்தல். 
-Symbol Name : AIADMK
+Symbol Name : TWO_LEAVES
 
 =====================
 
@@ -147,6 +147,20 @@ Symbol Name : MIXEE
 
 =====================
 
+Name : S .KALIMUTHU
+Age : 51
+Party Name : Independent
+Education : Illiterate
+Occupation : Agricultural wages
+Total Assets : No
+Liability : No
+Net Asset : No
+Criminal Cases : 0
+Case Details : இல்லை. இல்லை
+Symbol Name : BAT
+
+=====================
+
 Name : P.CHENNAKESAVAN
 Age : 38
 Party Name : Independent
@@ -158,6 +172,20 @@ Net Asset : No
 Criminal Cases : 0
 Case Details : 
 Symbol Name : DOOR_BELL
+
+=====================
+
+Name : S.SETHURAMALINGAM
+Age : 76
+Party Name : Independent
+Education : SSLC
+Occupation : Government Pensioner
+Total Assets : 18 lacs
+Liability : No
+Net Asset : 18 lacs
+Criminal Cases : 0
+Case Details : இல்லை. இல்லை
+Symbol Name : FLUTE
 
 =====================
 

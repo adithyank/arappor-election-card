@@ -2,8 +2,8 @@ Constituency Document
 =====================
 
 Constituency Name : MANAMADURAI
-No of Candidates : 14
-No of Independent Candidates : 6
+No of Candidates : 13
+No of Independent Candidates : 5
 
 =====================
 
@@ -174,20 +174,6 @@ Net Asset : 5 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : GIFT_PACKS
-
-=====================
-
-Name : A.Parthasarathy
-Age : 42
-Party Name : Independent
-Education : DECE, BE, ME, MBA, MLM, Ph.D.
-Occupation : Professor
-Total Assets : 36 lacs
-Liability : 7 lacs
-Net Asset : 30 lacs
-Criminal Cases : 0
-Case Details : 
-Symbol Name : AUTO-RICKSHAW
 
 =====================
 

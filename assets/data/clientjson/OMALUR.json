@@ -3,8 +3,8 @@
   "candidates": [
     {
       "recid": "9305c3c4-22ee-4bef-a1b8-5a6f6949a59f",
-      "name": "V.Thomas",
-      "nameTamil": "V.தாமஸ் ",
+      "name": "N.V.Thomas",
+      "nameTamil": "N.V.தாமஸ் ",
       "constituency": "OMALUR",
       "constituencyTamil": "ஓமலூர்",
       "district": "Salem",
@@ -87,9 +87,11 @@
       "criminalCase": "1",
       "caseDetailEnglish": "PROTEST SEEKING JUSTICE FOR RAPE \u0026 MURDER OF DALIT WOMEN IN U.P. \u0026 CONDEMNING ARREST OF RAHUL GANDHI IN U.P.. ",
       "caseDetailTamil": "உபியில் தலித் பெண் கற்பழிப்பு, கொலைக்கு நீதிக்கிடைக்க போராட்டம், உபியில் ராகுல் காந்தியின் கைதை கண்டித்து போராட்டம் . ",
-      "symbolUrl": "",
+      "symbolName": "Hand",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/Hand.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RANGARAJANMOHANKUMARAMANGALAM_Omalur.jpg",
       "photoName": "RANGARAJANMOHANKUMARAMANGALAM_Omalur",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/Hand.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANGARAJANMOHANKUMARAMANGALAM_Omalur.jpg"
     },
     {

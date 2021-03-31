@@ -12,9 +12,9 @@ Age : 49
 Party Name : All India Anna Dravida Munnetra kazhagam
 Education : B.com
 Occupation : Business / Tax Consultant
-Total Assets : 6 crore 58 lacs
+Total Assets : 3 crore 64 lacs
 Liability : No
-Net Asset : 6 crore 58 lacs
+Net Asset : 3 crore 64 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
 Symbol Name : TWO_LEAVES
@@ -72,7 +72,9 @@ Total Assets : 3 lacs
 Liability : No
 Net Asset : 3 lacs
 Criminal Cases : 2
-Case Details : போராட்டம் நடத்தியதற்காக வழக்கு . 
+Case Details : சட்ட விரோதமாக கூட்டம் கூடியது, பொதுவூழியரின் உத்தரவுக்கு கீழ்ப்படியாமை, உயிருக்கு ஆபத்தான நோய்தொற்று பரப்புதல், குற்றம் செய்ய தூண்டுதல், இந்திய அரசாங்கத்தின் இராணுவம், கடற்படை அல்லது விமானப்படை அதிகாரி  யவரையும் பணியைவிட்டு வெளியேறத் தூண்டியது.
+
+. 
 Symbol Name : PRESSURE_COOKER
 
 =====================
@@ -142,7 +144,7 @@ Total Assets : 25 lacs
 Liability : 15 lacs
 Net Asset : 10 lacs
 Criminal Cases : 1
-Case Details : சண்டை வழக்கு. வழக்கு நிலுவையில் உள்ளது
+Case Details : பொதுவிடத்தில் சூதாடியாது, பொதுவிடத்தில் ஆபாசமாக பேசியது, தன்னிச்சையாக, அபாயகரமான ஆயுதம் கொண்டு காயம் உண்டுபண்ணுதல், கொலை மிரட்டல்.. வழக்கு நிலுவையில் உள்ளது
 Symbol Name : BATTERY_TORCH
 
 =====================

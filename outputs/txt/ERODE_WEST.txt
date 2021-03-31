@@ -2,8 +2,8 @@ Constituency Document
 =====================
 
 Constituency Name : ERODE_WEST
-No of Candidates : 14
-No of Independent Candidates : 4
+No of Candidates : 15
+No of Independent Candidates : 5
 
 =====================
 
@@ -145,6 +145,20 @@ Net Asset : 42600
 Criminal Cases : 0
 Case Details : 
 Symbol Name : LADIES_FINGER
+
+=====================
+
+Name : R.Iyyavu
+Age : 61
+Party Name : Independent
+Education : NIL
+Occupation : Agriculture Cooli
+Total Assets : 11 lacs
+Liability : No
+Net Asset : 11 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : ELECTRIC_POLE
 
 =====================
 

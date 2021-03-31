@@ -2,8 +2,8 @@ Constituency Document
 =====================
 
 Constituency Name : MADURAI_SOUTH
-No of Candidates : 13
-No of Independent Candidates : 6
+No of Candidates : 14
+No of Independent Candidates : 7
 
 =====================
 
@@ -119,6 +119,34 @@ Symbol Name : CAMERA
 
 =====================
 
+Name : R.SARAVANAN
+Age : 33
+Party Name : Independent
+Education : 10th pass
+Occupation : REPORTER
+Total Assets : 12000
+Liability : 2 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : DUSBIN
+
+=====================
+
+Name : K.K.Arasu Thiruvalavan
+Age : 76
+Party Name : Independent
+Education : M.A in Tamil 
+Occupation : State Government Pensioner
+Total Assets : 19 lacs
+Liability : 4 lacs
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SEWING_MACHINE
+
+=====================
+
 Name : V.C.RAVICHANDRAN
 Age : 53
 Party Name : Independent
@@ -147,17 +175,17 @@ Symbol Name : PEAS
 
 =====================
 
-Name : R.SARAVANAN
-Age : 33
+Name : T.S.VENGADACHALAPATHY
+Age : 54
 Party Name : Independent
 Education : 10th pass
-Occupation : REPORTER
-Total Assets : 12000
-Liability : 2 lacs
-Net Asset : -2 lacs
+Occupation : COOLI
+Total Assets : 17 lacs
+Liability : No
+Net Asset : 17 lacs
 Criminal Cases : 0
 Case Details : 
-Symbol Name : DUSBIN
+Symbol Name : FUNNEL
 
 =====================
 
@@ -172,20 +200,6 @@ Net Asset : 10 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : WALLET
-
-=====================
-
-Name : T.S.VENGADACHALAPATHY
-Age : 54
-Party Name : Independent
-Education : 10th pass
-Occupation : COOLI
-Total Assets : 17 lacs
-Liability : No
-Net Asset : 17 lacs
-Criminal Cases : 0
-Case Details : 
-Symbol Name : FUNNEL
 
 =====================
 

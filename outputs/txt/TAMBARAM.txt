@@ -213,7 +213,7 @@ Liability : 1 lacs
 Net Asset : 10 lacs
 Criminal Cases : 0
 Case Details : 
-Symbol Name : BOTTLE
+Symbol Name : Bottle
 
 =====================
 

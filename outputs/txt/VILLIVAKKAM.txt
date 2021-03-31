@@ -268,7 +268,9 @@ Total Assets : 3 lacs
 Liability : No
 Net Asset : 3 lacs
 Criminal Cases : 3
-Case Details : சண்டை வழக்கு , நபரை தாக்குதல், கொலை வழக்கில் மூன்றாம் குற்றவாளி . 
+Case Details : 1.கொலை வழக்கு.
+2.கொலை முயற்சி.
+. 
 Symbol Name : DIAMOND
 
 =====================
@@ -282,7 +284,10 @@ Total Assets : 10 lacs
 Liability : No
 Net Asset : 10 lacs
 Criminal Cases : 1
-Case Details : தகாத வார்த்தை , வேண்டுமென்றே காயபடுத்துவது . 
+Case Details : 1.ஆபாசமான செயல் மற்றும் ஆபாசமான வார்த்தை.
+2.தவறான கட்டுப்பாட்டுக்கான தண்டனை.
+3.தானாக முன்வந்து காயத்தை ஏற்படுத்தியதற்கான தண்டனை.
+. 
 Symbol Name : FRYING_PAN
 
 =====================

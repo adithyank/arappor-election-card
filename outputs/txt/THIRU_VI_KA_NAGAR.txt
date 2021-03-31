@@ -203,7 +203,7 @@ Symbol Name : ELECTRIC_POLE
 
 =====================
 
-Name : G.Sigamani
+Name : G.Sihamani
 Age : 51
 Party Name : Independent
 Education : B.A POLITICAL

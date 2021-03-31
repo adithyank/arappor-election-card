@@ -67,7 +67,7 @@ Name : S.Kalaiselvan
 Age : 51
 Party Name : Amma Makkal Munnettra Kazagam
 Education : SSLC
-Occupation : Agriculture
+Occupation : Business
 Total Assets : 32 lacs
 Liability : No
 Net Asset : 32 lacs

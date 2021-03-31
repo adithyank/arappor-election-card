@@ -45,7 +45,7 @@ Liability : 60000
 Net Asset : 10 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
-Symbol Name-
+Symbol Name : Flowers_And_Grass
 
 =====================
 
@@ -87,7 +87,7 @@ Liability : No
 Net Asset : 61 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
-Symbol Name : ELEPHANT
+Symbol Name : BUCKET
 
 =====================
 
@@ -199,7 +199,7 @@ Liability : No
 Net Asset : 40000
 Criminal Cases : 0
 Case Details : இல்லை. 
-Symbol Name-
+Symbol Name : CAPSICUM
 
 =====================
 
@@ -299,7 +299,7 @@ Liability : 7 lacs
 Net Asset : 1 crore 17 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
-Symbol Name-
+Symbol Name : HAND_CARPET
 
 =====================
 
@@ -313,7 +313,7 @@ Liability : No
 Net Asset : 12 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
-Symbol Name : TELEVISION
+Symbol Name : TELEPHONE
 
 =====================
 
@@ -341,7 +341,7 @@ Liability : 1 lacs
 Net Asset : 20 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
-Symbol Name : FRYING_PAN
+Symbol Name : MATCHBOX
 
 =====================
 

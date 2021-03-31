@@ -2,8 +2,8 @@ Constituency Document
 =====================
 
 Constituency Name : UDUMALAIPETTAI
-No of Candidates : 14
-No of Independent Candidates : 6
+No of Candidates : 15
+No of Independent Candidates : 7
 
 =====================
 
@@ -204,6 +204,20 @@ Net Asset : 20000
 Criminal Cases : 0
 Case Details : 
 Symbol Name : COCONUT_FARM
+
+=====================
+
+Name : K.Rajini
+Age : 44
+Party Name : Independent
+Education : Not given
+Occupation : Farmer
+Total Assets : 2 lacs
+Liability : 4 lacs
+Net Asset : -2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name-
 
 =====================
 

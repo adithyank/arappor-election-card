@@ -199,7 +199,7 @@ Liability : No
 Net Asset : 1 lacs
 Criminal Cases : 0
 Case Details : 
-Symbol Name-
+Symbol Name : TELEVISION
 
 =====================
 

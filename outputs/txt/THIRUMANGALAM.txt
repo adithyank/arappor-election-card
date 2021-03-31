@@ -63,7 +63,7 @@ Liability : No
 Net Asset : 71000
 Criminal Cases : 0
 Case Details : 
-Symbol Name-
+Symbol Name : BUNGLOW
 
 =====================
 
@@ -81,20 +81,6 @@ Symbol Name : GANNA_KISAN
 
 =====================
 
-Name : A.MARIKANNAN
-Age : 41
-Party Name : NationalDemocraticPartyofSouthIndia
-Education : 7TH STD
-Occupation : WAGES
-Total Assets : 17 lacs
-Liability : No
-Net Asset : 17 lacs
-Criminal Cases : 0
-Case Details : 
-Symbol Name : AIRCONDITIONER
-
-=====================
-
 Name : M.NIRMAL
 Age : 39
 Party Name : MY INDIA PARTY
@@ -106,6 +92,20 @@ Net Asset : 2 crore 93 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : CCTV_CAMERA
+
+=====================
+
+Name : A.MARIKANNAN
+Age : 41
+Party Name : NationalDemocraticPartyofSouthIndia
+Education : 7TH STD
+Occupation : WAGES
+Total Assets : 17 lacs
+Liability : No
+Net Asset : 17 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : AIRCONDITIONER
 
 =====================
 

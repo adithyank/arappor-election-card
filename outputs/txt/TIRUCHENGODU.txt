@@ -339,7 +339,7 @@ Liability : 27 lacs
 Net Asset : 38 lacs
 Criminal Cases : 0
 Case Details : பொருந்தாது . பொருந்தாது 
-Symbol Name : SAW
+Symbol Name : COCONUT_FARM
 
 =====================
 
@@ -353,7 +353,7 @@ Liability : 10 lacs
 Net Asset : 16 lacs
 Criminal Cases : 0
 Case Details : 
-Symbol Name : COCONUT_FARM
+Symbol Name : SAW
 
 =====================
 

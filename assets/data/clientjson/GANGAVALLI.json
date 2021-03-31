@@ -304,9 +304,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
+      "symbolName": "BEAD_NECKBANGLE",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BEAD_NECKBANGLE.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/GANGAVALLI_12.jpg",
       "photoName": "GANGAVALLI_12",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/BEAD_NECKBANGLE.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANGAVALLI_12.jpg"
     },
     {

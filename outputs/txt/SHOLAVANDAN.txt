@@ -73,7 +73,7 @@ Liability : No
 Net Asset : 2 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
-Symbol Name : EARS_OF_CORN_AND_SICKLE
+Symbol Name : FLAG_AND_THREE_STARS
 
 =====================
 

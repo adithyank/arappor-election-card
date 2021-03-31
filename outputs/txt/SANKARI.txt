@@ -176,7 +176,7 @@ Symbol Name : ELECTRIC_POLE
 
 =====================
 
-Name : R.SENGODAN
+Name : R.SENGOTEN
 Age : 32
 Party Name : Independent
 Education : 5th pass
@@ -302,7 +302,7 @@ Symbol Name : HAT
 
 =====================
 
-Name : I.JAGANATHAM
+Name : I.JAGANATHAN
 Age : 29
 Party Name : Independent
 Education : BSC.,   B.Ed

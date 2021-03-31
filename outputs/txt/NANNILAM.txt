@@ -2,7 +2,7 @@ Constituency Document
 =====================
 
 Constituency Name : NANNILAM
-No of Candidates : 14
+No of Candidates : 15
 No of Independent Candidates : 5
 
 =====================
@@ -46,6 +46,20 @@ Net Asset : 1 crore 84 lacs
 Criminal Cases : 12
 Case Details : சட்ட விரோதமாக கூடுதல் பொது ஊழியர் கட்டளைக்கு கீழ்ப்பணியாமை, சட்ட விரோதமாக கூடுதல், நோய் தொற்று பரப்புதல், முறையற்று தடுப்பமைத்தல்.. 
 Symbol Name : RISING_SUN
+
+=====================
+
+Name : N.RAMACHANDRAN
+Age : 63
+Party Name : Amma Makkal Munetra Kazhagam
+Education : B.Sc.,
+Occupation : AGRICULTURALIST
+Total Assets : 94 lacs
+Liability : No
+Net Asset : 94 lacs
+Criminal Cases : 0
+Case Details : பொருந்தாது . 
+Symbol Name : PRESSURE_COOKER
 
 =====================
 

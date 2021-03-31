@@ -13,8 +13,8 @@ Party Name : All India Anna Dravida Munnetra kazhagam
 Education : B.L, M.A., (PUBLIC ADMINISTRATION)
 Occupation : ADVOCATE, POLITICS
 Total Assets : 7 crore 99 lacs
-Liability : 5 crore 61 lacs
-Net Asset : 2 crore 37 lacs
+Liability : 69 lacs
+Net Asset : 7 crore 30 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : TWO_LEAVES
