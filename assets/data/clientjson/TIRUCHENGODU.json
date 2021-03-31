@@ -738,11 +738,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "பொருந்தாது . பொருந்தாது ",
-      "symbolName": "SAW",
-      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SAW.JPG",
+      "symbolName": "COCONUT_FARM",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/COCONUT_FARM.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUCHENGODU_25.jpg",
       "photoName": "TIRUCHENGODU_25",
-      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/SAW.JPG",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/COCONUT_FARM.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_25.jpg"
     },
     {
@@ -769,11 +769,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolName": "COCONUT_FARM",
-      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/COCONUT_FARM.JPG",
+      "symbolName": "SAW",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SAW.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/BALAMURUGANS_Tiruchengodu.jpg",
       "photoName": "BALAMURUGANS_Tiruchengodu",
-      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/COCONUT_FARM.JPG",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/SAW.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BALAMURUGANS_Tiruchengodu.jpg"
     },
     {

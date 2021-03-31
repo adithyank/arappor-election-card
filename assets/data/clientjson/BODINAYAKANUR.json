@@ -87,9 +87,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
-      "symbolUrl": "null",
+      "symbolName": "Flowers_And_Grass",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/Flowers_And_Grass.jpg",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/BODINAYAKANUR_14.jpg",
       "photoName": "BODINAYAKANUR_14",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/Flowers_And_Grass.jpg",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BODINAYAKANUR_14.jpg"
     },
     {
@@ -118,10 +120,10 @@
       "caseDetailTamil": "",
       "symbolName": "CCTV_CAMERA",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/BODINAYAKANUR_24.jpg",
-      "photoName": "BODINAYAKANUR_24",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ARUNKUMAR_Bodinayakanur.jpg",
+      "photoName": "ARUNKUMAR_Bodinayakanur",
       "soSymbolUrl": "assets/data/retrieved-imgs/symbol/CCTV_CAMERA.JPG",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BODINAYAKANUR_24.jpg"
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARUNKUMAR_Bodinayakanur.jpg"
     },
     {
       "recid": "9304a726-e4f4-4a1c-a425-72692f1a5b70",
@@ -178,11 +180,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
-      "symbolName": "ELEPHANT",
-      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG",
+      "symbolName": "BUCKET",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BUCKET.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/BODINAYAKANUR_31.jpg",
       "photoName": "BODINAYAKANUR_31",
-      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/ELEPHANT.JPG",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/BUCKET.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BODINAYAKANUR_31.jpg"
     },
     {
@@ -273,10 +275,10 @@
       "caseDetailTamil": "அதிக ஆட்கள் சென்று ஊராட்சி ஒன்றிய குழு உறுப்பினர் பதவிக்கான வேட்புமனு தாக்கல் செய்தது  சம்பந்தமாக. ",
       "symbolName": "GANNA_KISAN",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/BODINAYAKANUR_5.jpg",
-      "photoName": "BODINAYAKANUR_5",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/M_PREMCHANDAR_Bodinayakanur.jpg",
+      "photoName": "M_PREMCHANDAR_Bodinayakanur",
       "soSymbolUrl": "assets/data/retrieved-imgs/symbol/GANNA_KISAN.JPG",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BODINAYAKANUR_5.jpg"
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_PREMCHANDAR_Bodinayakanur.jpg"
     },
     {
       "recid": "9306dff6-dca4-486a-98c7-7ef41ea2eab6",
@@ -426,9 +428,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
-      "symbolUrl": "",
+      "symbolName": "CAPSICUM",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CAPSICUM.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/N_KRISHNAN_Bodinayakanur.jpg",
       "photoName": "N_KRISHNAN_Bodinayakanur",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/CAPSICUM.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/N_KRISHNAN_Bodinayakanur.jpg"
     },
     {
@@ -641,9 +645,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
-      "symbolUrl": "",
+      "symbolName": "HAND_CARPET",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HAND_CARPET.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/P_MANIMARAN_Bodinayakanur.jpg",
       "photoName": "P_MANIMARAN_Bodinayakanur",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/HAND_CARPET.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/P_MANIMARAN_Bodinayakanur.jpg"
     },
     {
@@ -670,11 +676,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
-      "symbolName": "TELEVISION",
-      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG",
+      "symbolName": "TELEPHONE",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEPHONE.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/BODINAYAKANUR_54.jpg",
       "photoName": "BODINAYAKANUR_54",
-      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/TELEVISION.JPG",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/TELEPHONE.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BODINAYAKANUR_54.jpg"
     },
     {
@@ -732,11 +738,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
-      "symbolName": "FRYING_PAN",
-      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FRYING_PAN.JPG",
+      "symbolName": "MATCHBOX",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/MATCHBOX.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/BODINAYAKANUR_56.jpg",
       "photoName": "BODINAYAKANUR_56",
-      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/FRYING_PAN.JPG",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/MATCHBOX.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BODINAYAKANUR_56.jpg"
     }
   ]

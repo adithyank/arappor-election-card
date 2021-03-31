@@ -87,8 +87,12 @@
       "criminalCase": "2",
       "caseDetailEnglish": "guilty of rioting,  sings, recites or utters any obscene song, Voluntarily causing hurt by dangerous weapons, voluntarily causes hurt to any person being a public servant, criminal intimidation. ",
       "caseDetailTamil": "guilty of rioting,  sings, recites or utters any obscene song, Voluntarily causing hurt by dangerous weapons, voluntarily causes hurt to any person being a public servant, criminal intimidation. ",
-      "symbolUrl": "",
-      "photoUrl": "null"
+      "symbolName": "ELEPHANT",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/JOHNSONR_Thiyagarayanagar.jpg",
+      "photoName": "JOHNSONR_Thiyagarayanagar",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/ELEPHANT.JPG",
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JOHNSONR_Thiyagarayanagar.jpg"
     },
     {
       "recid": "93072f22-1576-4d58-af1d-1edaaf45b7ef",

@@ -23,14 +23,14 @@
       "netAsset": "5 crore 18 lacs",
       "netAssetTamil": "5 கோடி 18 லட்சம்",
       "criminalCase": "25",
-      "caseDetailEnglish": "Offenses related to mines and minerals, Offenses related to Attempt to Murder, Offences related to Murder, Offenses related to prevention of commission of cognizable offences by police, offenses related to malignant act likely to spread infection of disease.. ",
-      "caseDetailTamil": "சுரங்கங்கள் மற்றும் தாதுக்கள் தொடர்பான குற்றங்கள், கொலை முயற்சி தொடர்பான குற்றங்கள், கொலை தொடர்பான குற்றங்கள், காவல்துறையினரால் அறியக்கூடிய குற்றங்களை ஆணைக்குழுவைத் தடுப்பது தொடர்பான குற்றங்கள். . ",
+      "caseDetailEnglish": "Unlawful assembly, Disobedience to rule duly promulgated by public servant,  Negligent/Malignant spreading of infection of disease dangerous to life, Wrongful restraint, Attempt to Murder, Rioting, armed with deadly weapons, Reassembling after dispersal command is made, Obscene language uttered in public, Abetment to commit offence, Prosecution of common object by members of unlawful assembly, prevention of commission of cognizable offences by police.. ",
+      "caseDetailTamil": "சட்ட விரோதமாக கூட்டம் கூடியது, பொதுவூழியரின் உத்தரவுக்கு கீழ்ப்படியாமை, உயிருக்கு ஆபத்தான நோய்தொற்று பரப்புதல், முறையற்ற தடுப்பமைத்தல், கொலை முயற்சி, பயங்கர ஆயுதங்களுடன் கலவரம் செய்தல், கலைய சொல்லியும் மீண்டும் கூட்டம் கூடியது, பொதுவிடத்தில் ஆபாசமாக பேசியது, குற்றம் செய்ய தூண்டியது, சட்ட விரோதமாக கூடி பொதுச் சொத்தை சேதம்செய்தது, தடுப்புக் காவல்.. ",
       "symbolName": "EARS_OF_CORN_AND_SICKLE",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/EARS_OF_CORN_AND_SICKLE.JPG",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THALLI_3.jpg",
-      "photoName": "THALLI_3",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RAMACHANDRAN_T_Thalli.jpg",
+      "photoName": "RAMACHANDRAN_T_Thalli",
       "soSymbolUrl": "assets/data/retrieved-imgs/symbol/EARS_OF_CORN_AND_SICKLE.JPG",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THALLI_3.jpg"
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAMACHANDRAN_T_Thalli.jpg"
     },
     {
       "recid": "92ff7562-cca9-4dd3-a67f-6130be5df07c",
@@ -211,9 +211,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை . ",
-      "symbolUrl": "null",
+      "symbolName": "BICYCLE",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BICYCLE.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THALLI_15.jpg",
       "photoName": "THALLI_15",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/BICYCLE.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THALLI_15.jpg"
     },
     {

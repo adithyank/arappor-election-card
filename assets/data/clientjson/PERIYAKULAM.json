@@ -149,9 +149,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
+      "symbolName": "BATTERY_TORCH",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BATTERY_TORCH.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PERIYAKULAM_35.jpg",
       "photoName": "PERIYAKULAM_35",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/BATTERY_TORCH.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERIYAKULAM_35.jpg"
     },
     {

@@ -521,11 +521,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolName": "ELEPHANT",
-      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELEPHANT.JPG",
+      "symbolName": "TELEVISION",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALLAKURICHI_33.jpg",
       "photoName": "KALLAKURICHI_33",
-      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/ELEPHANT.JPG",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/TELEVISION.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_33.jpg"
     }
   ]

@@ -309,7 +309,7 @@
                 "liabilities": "61,591",
                 "net_assets": "15,383,218",
                 "no_of_criminal_cases": 5,
-                "cases_description": "Unlawfull assembly, hurt using bad words, spread of disease,inflicting minor injury. ",
+                "cases_description": "Unlawfull assembly, hurt using bad words, spread of disease, inflicting minor injury, rioting, \t\nNegligent conduct with respect to fire or combustible matter, \t\nObscene acts. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VRIDDHACHALAM_8.jpg",
                 "party": {
                     "id": "Indian National Congress",
@@ -455,7 +455,7 @@
                 "liabilities": "220,000",
                 "net_assets": "1,309,527",
                 "no_of_criminal_cases": 2,
-                "cases_description": "Related to a Speech made in party function. Sedition,Unlawful assembly,Promoting enmity between different groups,Disobedience to order  by public servant",
+                "cases_description": "Sedition, Unlawful assembly, Promoting enmity between different groups, Disobedience to order  by public servant. Sedition, Unlawful assembly, Promoting enmity between different groups, Disobedience to order  by public servant",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VRIDDHACHALAM_4.jpg",
                 "party": {
                     "id": "Naam Tamilar Katchi",

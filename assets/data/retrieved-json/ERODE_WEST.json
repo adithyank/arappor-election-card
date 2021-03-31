@@ -1460,6 +1460,152 @@
         },
         {
             "en": {
+                "candidate_id": "93023402-fafd-4011-8b32-544549252883",
+                "name": "R.Iyyavu",
+                "education": "NIL",
+                "occupation": "Agriculture Cooli",
+                "age": "61",
+                "annual_income": "0",
+                "source_of_income": "Agriculture Cooli",
+                "moveable_assets": "1,105,000",
+                "immoveable_assets": "0",
+                "total_assets": "1,105,000",
+                "liabilities": "0",
+                "net_assets": "1,105,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ERODE_WEST_21.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELECTRIC_POLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ERODE_WEST",
+                    "constituency_en_label": "Erode (West)",
+                    "constituency_ta_label": "\u0b88\u0bb0\u0bcb\u0b9f\u0bc1 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "ERODE",
+                    "district_en_label": "Erode",
+                    "district_ta_label": "\u0b88\u0bb0\u0bcb\u0b9f\u0bc1"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93023402-fafd-4011-8b32-544549252883",
+                "name": "R.\u0b85\u0baf\u0bcd\u0baf\u0bbe\u0bb5\u0bc1",
+                "education": "NIL",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8",
+                "age": "61",
+                "annual_income": "0",
+                "source_of_income": "Agriculture Cooli",
+                "moveable_assets": "1,105,000",
+                "immoveable_assets": "0",
+                "total_assets": "1,105,000",
+                "liabilities": "0",
+                "net_assets": "1,105,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ERODE_WEST_21.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/ELECTRIC_POLE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "ERODE_WEST",
+                    "constituency_en_label": "Erode (West)",
+                    "constituency_ta_label": "\u0b88\u0bb0\u0bcb\u0b9f\u0bc1 (\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "ERODE",
+                    "district_en_label": "Erode",
+                    "district_ta_label": "\u0b88\u0bb0\u0bcb\u0b9f\u0bc1"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0bb2\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
                 "candidate_id": "9302355c-301a-4024-aa32-e6b935495025",
                 "name": "R.Kalithass",
                 "education": "6th, Government Boys High School, Mangalore, Karnataka - 1985",

@@ -149,11 +149,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
-      "symbolName": "EARS_OF_CORN_AND_SICKLE",
-      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/EARS_OF_CORN_AND_SICKLE.JPG",
+      "symbolName": "FLAG_AND_THREE_STARS",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FLAG_AND_THREE_STARS.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SHOLAVANDAN_14.jpg",
       "photoName": "SHOLAVANDAN_14",
-      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/EARS_OF_CORN_AND_SICKLE.JPG",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/FLAG_AND_THREE_STARS.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_14.jpg"
     },
     {
@@ -182,10 +182,10 @@
       "caseDetailTamil": "இல்லை. ",
       "symbolName": "BUCKET",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BUCKET.JPG",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SHOLAVANDAN_12.jpg",
-      "photoName": "SHOLAVANDAN_12",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SILAMBARASANP_Sholavandan.jpg",
+      "photoName": "SILAMBARASANP_Sholavandan",
       "soSymbolUrl": "assets/data/retrieved-imgs/symbol/BUCKET.JPG",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_12.jpg"
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SILAMBARASANP_Sholavandan.jpg"
     },
     {
       "recid": "92fcc230-91cb-4348-998a-0556700bdb5b",

@@ -275,10 +275,10 @@
       "caseDetailTamil": "",
       "symbolName": "AUTO-RICKSHAW",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Rajkumar_S_Mayiladuthurai.jpg",
-      "photoName": "Rajkumar_S_Mayiladuthurai",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Loga_Sampath_Mayiladuthurai.jpg",
+      "photoName": "Loga_Sampath_Mayiladuthurai",
       "soSymbolUrl": "assets/data/retrieved-imgs/symbol/AUTO-RICKSHAW.JPG",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Rajkumar_S_Mayiladuthurai.jpg"
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Loga_Sampath_Mayiladuthurai.jpg"
     },
     {
       "recid": "9300a58d-76ea-472f-b519-680a784cc41f",
@@ -428,9 +428,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
+      "symbolName": "TELEVISION",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MAYILADUTHURAI_1.jpg",
       "photoName": "MAYILADUTHURAI_1",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/TELEVISION.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAYILADUTHURAI_1.jpg"
     }
   ]

@@ -56,9 +56,11 @@
       "criminalCase": "4",
       "caseDetailEnglish": "1.Election campaign without permission Causing disturbance to general public \n2.Accused of burning effigies, \n3.Causing disturbance to traffic\n4.Case for accepting bribe. ",
       "caseDetailTamil": "1.அனுமதியின்றி வாக்கு சேகரிக்க சென்று பொதுமக்களுக்கும் போக்குவரத்துக்கும் இடையூறு செய்த்தாக குற்றச்சாட்டு\n2.உருவபொம்மை எரித்தாக குற்றச்சாட்டு\n3.போக்குவரத்திற்கு இடையூறு செய்த்தாக குற்றச்சாட்டு\n4.கையூட்டு செய்த்தாக குற்றச்சாட்டு. ",
-      "symbolUrl": "",
+      "symbolName": "RISING_SUN",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANDIPATTI_10.jpg",
       "photoName": "ANDIPATTI_10",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/RISING_SUN.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANDIPATTI_10.jpg"
     },
     {
@@ -550,10 +552,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
-      "symbolUrl": "",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ANDIPATTI_7.jpg",
-      "photoName": "ANDIPATTI_7",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANDIPATTI_7.jpg"
+      "symbolName": "WHISTLE",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/WHISTLE.JPG",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/q",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/WHISTLE.JPG",
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/q"
     },
     {
       "recid": "93037487-e122-4a31-b2a6-79b1969680dd",

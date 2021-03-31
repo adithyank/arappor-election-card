@@ -2635,7 +2635,7 @@
                 "liabilities": "0",
                 "net_assets": "342,000",
                 "no_of_criminal_cases": 3,
-                "cases_description": "Fight Case, Hitting case, as A3 in murder case. . ",
+                "cases_description": "1.Murder case.\n2.Attempt of murder.. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VILLIVAKKAM_18.jpg",
                 "party": {
                     "id": "Independent",
@@ -2704,7 +2704,7 @@
                 "liabilities": "0",
                 "net_assets": "342,000",
                 "no_of_criminal_cases": 3,
-                "cases_description": "\u0b9a\u0ba3\u0bcd\u0b9f\u0bc8 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 , \u0ba8\u0baa\u0bb0\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd, \u0b95\u0bca\u0bb2\u0bc8 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf . ",
+                "cases_description": "1.\u0b95\u0bca\u0bb2\u0bc8 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1.\n2.\u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf.\n. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VILLIVAKKAM_18.jpg",
                 "party": {
                     "id": "Independent",
@@ -2760,7 +2760,7 @@
                 ],
                 "other_party_name": "",
                 "self_source_of_income": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
-                "cases_pending_description": "\u0b9a\u0ba3\u0bcd\u0b9f\u0bc8 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 , \u0ba8\u0baa\u0bb0\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd, \u0b95\u0bca\u0bb2\u0bc8 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf ",
+                "cases_pending_description": "1.\u0b95\u0bca\u0bb2\u0bc8 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1.\n2.\u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf.\n",
                 "self_education_description": "",
                 "self_profession_occupation": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
                 "cases_convicted_description": ""
@@ -2781,7 +2781,7 @@
                 "liabilities": "0",
                 "net_assets": "1,014,099.66",
                 "no_of_criminal_cases": 1,
-                "cases_description": "Case and Counter during Assembly Election 2016. ",
+                "cases_description": "1.Obscene acts and songs.\n2.Punishment for wrongful restraint.\n3.Punishment for voluntarily causing hurt.. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VILLIVAKKAM_23.jpg",
                 "party": {
                     "id": "Independent",
@@ -2850,7 +2850,7 @@
                 "liabilities": "0",
                 "net_assets": "1,014,099.66",
                 "no_of_criminal_cases": 1,
-                "cases_description": "\u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8 , \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bc6\u0ba9\u0bcd\u0bb1\u0bc7 \u0b95\u0bbe\u0baf\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1 . ",
+                "cases_description": "1.\u0b86\u0baa\u0bbe\u0b9a\u0bae\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0bae\u0bbe\u0ba9 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8.\n2.\u0ba4\u0bb5\u0bb1\u0bbe\u0ba9 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8.\n3.\u0ba4\u0bbe\u0ba9\u0bbe\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8.\n. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VILLIVAKKAM_23.jpg",
                 "party": {
                     "id": "Independent",
@@ -2906,7 +2906,7 @@
                 ],
                 "other_party_name": "",
                 "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd  \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd ",
-                "cases_pending_description": "\u0ba4\u0b95\u0bbe\u0ba4 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8 , \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bc6\u0ba9\u0bcd\u0bb1\u0bc7 \u0b95\u0bbe\u0baf\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1 ",
+                "cases_pending_description": "1.\u0b86\u0baa\u0bbe\u0b9a\u0bae\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0bae\u0bbe\u0ba9 \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8.\n2.\u0ba4\u0bb5\u0bb1\u0bbe\u0ba9 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8.\n3.\u0ba4\u0bbe\u0ba9\u0bbe\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8.\n",
                 "self_education_description": "",
                 "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
                 "cases_convicted_description": ""

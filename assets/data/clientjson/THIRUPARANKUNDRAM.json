@@ -304,9 +304,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
+      "symbolName": "THROWING_A_JAVELIN",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/THROWING_A_JAVELIN.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ARUMUGAM_V__Thiruparankundram.jpg",
       "photoName": "ARUMUGAM_V__Thiruparankundram",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/THROWING_A_JAVELIN.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARUMUGAM_V__Thiruparankundram.jpg"
     },
     {
@@ -335,10 +337,10 @@
       "caseDetailTamil": "",
       "symbolName": "COMPUTER",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/COMPUTER.JPG",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ILANGOVAN_P__Thiruparankundram.JPG",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ILANGOVAN_P__Thiruparankundram.jpg",
       "photoName": "ILANGOVAN_P__Thiruparankundram",
       "soSymbolUrl": "assets/data/retrieved-imgs/symbol/COMPUTER.JPG",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ILANGOVAN_P__Thiruparankundram.JPG"
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ILANGOVAN_P__Thiruparankundram.jpg"
     },
     {
       "recid": "9306553f-a44a-40a2-a13c-d929157b0e1e",

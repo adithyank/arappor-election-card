@@ -1164,6 +1164,150 @@
         },
         {
             "en": {
+                "candidate_id": "93132a08-638a-4273-a2bc-0bce3ef8872d",
+                "name": "K.VEERAPANDI",
+                "education": "M.sc",
+                "occupation": "Self Employement",
+                "age": "28",
+                "annual_income": "0",
+                "source_of_income": "Self Employement",
+                "moveable_assets": "90,000",
+                "immoveable_assets": "0",
+                "total_assets": "90,000",
+                "liabilities": "0",
+                "net_assets": "90,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEERAPANDI_K__Srivilliputhur.jpg",
+                "party": {
+                    "id": "MY INDIA PARTY",
+                    "en_label": "MY INDIA PARTY",
+                    "ta_label": "\u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "SRIVILLIPUTHUR",
+                    "constituency_en_label": "Srivilliputhur",
+                    "constituency_ta_label": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VIRUDHUNAGAR",
+                    "district_en_label": "Virudhunagar",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0ba8\u0b95\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93132a08-638a-4273-a2bc-0bce3ef8872d",
+                "name": "K.\u0bb5\u0bc0\u0bb0\u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf",
+                "education": "M.sc",
+                "occupation": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "age": "28",
+                "annual_income": "0",
+                "source_of_income": "Self Employement",
+                "moveable_assets": "90,000",
+                "immoveable_assets": "0",
+                "total_assets": "90,000",
+                "liabilities": "0",
+                "net_assets": "90,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VEERAPANDI_K__Srivilliputhur.jpg",
+                "party": {
+                    "id": "MY INDIA PARTY",
+                    "en_label": "MY INDIA PARTY",
+                    "ta_label": "\u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "SRIVILLIPUTHUR",
+                    "constituency_en_label": "Srivilliputhur",
+                    "constituency_ta_label": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd",
+                    "district_id": "VIRUDHUNAGAR",
+                    "district_en_label": "Virudhunagar",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0ba8\u0b95\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "\u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf",
+                "self_source_of_income": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
                 "candidate_id": "93031e42-fea6-483f-a420-43286f3f99e2",
                 "name": "A.KANNAN",
                 "education": "5th standard",

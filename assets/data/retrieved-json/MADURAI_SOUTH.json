@@ -1166,6 +1166,152 @@
         },
         {
             "en": {
+                "candidate_id": "92fcd815-b27b-47d1-a9a8-efaf836e2be9",
+                "name": "R.SARAVANAN",
+                "education": "10th pass",
+                "occupation": "REPORTER",
+                "age": "33",
+                "annual_income": "0",
+                "source_of_income": "REPORTER",
+                "moveable_assets": "12,000",
+                "immoveable_assets": "0",
+                "total_assets": "12,000",
+                "liabilities": "190,400",
+                "net_assets": "-178,400",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_SOUTH_13.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DUSBIN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_SOUTH",
+                    "constituency_en_label": "Madurai South",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "92fcd815-b27b-47d1-a9a8-efaf836e2be9",
+                "name": "R.\u0b9a\u0bb0\u0bb5\u0ba3\u0ba9\u0bcd",
+                "education": "10th pass",
+                "occupation": "\u0ba8\u0bbe\u0bb3\u0bbf\u0ba4\u0bb4\u0bcd \u0ba8\u0bbf\u0bb0\u0bc1\u0baa\u0bb0\u0bcd (\u0baa\u0bc1\u0ba4\u0bc1 \u0baf\u0bc1\u0b95\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf)",
+                "age": "33",
+                "annual_income": "0",
+                "source_of_income": "REPORTER",
+                "moveable_assets": "12,000",
+                "immoveable_assets": "0",
+                "total_assets": "12,000",
+                "liabilities": "190,400",
+                "net_assets": "-178,400",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_SOUTH_13.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DUSBIN.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "MADURAI_SOUTH",
+                    "constituency_en_label": "Madurai South",
+                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1)",
+                    "district_id": "MADURAI",
+                    "district_en_label": "Madurai",
+                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0ba8\u0bbe\u0bb3\u0bbf\u0ba4\u0bb4\u0bcd \u0ba8\u0bbf\u0bb0\u0bc1\u0baa\u0bb0\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "cases_pending_description": "",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba8\u0bbe\u0bb3\u0bbf\u0ba4\u0bb4\u0bcd \u0ba8\u0bbf\u0bb0\u0bc1\u0baa\u0bb0\u0bcd (\u0baa\u0bc1\u0ba4\u0bc1 \u0baf\u0bc1\u0b95\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf)",
+                "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
                 "candidate_id": "9302b600-dd96-4e80-ae8e-d4e255484d5f",
                 "name": "V.C.RAVICHANDRAN",
                 "education": "8TH DISCONTINUE",
@@ -1458,27 +1604,27 @@
         },
         {
             "en": {
-                "candidate_id": "92fcd815-b27b-47d1-a9a8-efaf836e2be9",
-                "name": "R.SARAVANAN",
+                "candidate_id": "93072800-2048-4465-a6ac-587af9bf6928",
+                "name": "T.S.VENGADACHALAPATHY",
                 "education": "10th pass",
-                "occupation": "REPORTER",
-                "age": "33",
+                "occupation": "COOLI",
+                "age": "54",
                 "annual_income": "0",
-                "source_of_income": "REPORTER",
-                "moveable_assets": "12,000",
-                "immoveable_assets": "0",
-                "total_assets": "12,000",
-                "liabilities": "190,400",
-                "net_assets": "-178,400",
+                "source_of_income": "COOLI",
+                "moveable_assets": "252,788",
+                "immoveable_assets": "1,400,000",
+                "total_assets": "1,652,788",
+                "liabilities": "0",
+                "net_assets": "1,652,788",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_SOUTH_13.jpg",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VENGADACHALAPATHY_T_S_MaduraiSouth.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
                     "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
                     "en_label": "Independent",
-                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DUSBIN.JPG"
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FUNNEL.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "MADURAI_SOUTH",
@@ -1527,27 +1673,27 @@
                 ]
             },
             "ta": {
-                "candidate_id": "92fcd815-b27b-47d1-a9a8-efaf836e2be9",
-                "name": "R.\u0b9a\u0bb0\u0bb5\u0ba3\u0ba9\u0bcd",
+                "candidate_id": "93072800-2048-4465-a6ac-587af9bf6928",
+                "name": "T.S.\u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0b9f\u0b9a\u0bcd\u0b9a\u0bb2\u0baa\u0ba4\u0bbf",
                 "education": "10th pass",
-                "occupation": "\u0ba8\u0bbe\u0bb3\u0bbf\u0ba4\u0bb4\u0bcd \u0ba8\u0bbf\u0bb0\u0bc1\u0baa\u0bb0\u0bcd (\u0baa\u0bc1\u0ba4\u0bc1 \u0baf\u0bc1\u0b95\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf)",
-                "age": "33",
+                "occupation": " \u0b95\u0bc2\u0bb2\u0bbf ",
+                "age": "54",
                 "annual_income": "0",
-                "source_of_income": "REPORTER",
-                "moveable_assets": "12,000",
-                "immoveable_assets": "0",
-                "total_assets": "12,000",
-                "liabilities": "190,400",
-                "net_assets": "-178,400",
+                "source_of_income": "COOLI",
+                "moveable_assets": "252,788",
+                "immoveable_assets": "1,400,000",
+                "total_assets": "1,652,788",
+                "liabilities": "0",
+                "net_assets": "1,652,788",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADURAI_SOUTH_13.jpg",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VENGADACHALAPATHY_T_S_MaduraiSouth.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
                     "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
                     "en_label": "Independent",
-                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/DUSBIN.JPG"
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FUNNEL.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "MADURAI_SOUTH",
@@ -1595,10 +1741,10 @@
                     }
                 ],
                 "other_party_name": "",
-                "self_source_of_income": "\u0ba8\u0bbe\u0bb3\u0bbf\u0ba4\u0bb4\u0bcd \u0ba8\u0bbf\u0bb0\u0bc1\u0baa\u0bb0\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+                "self_source_of_income": "\u0b95\u0bc2\u0bb2\u0bbf ",
                 "cases_pending_description": "",
                 "self_education_description": "",
-                "self_profession_occupation": "\u0ba8\u0bbe\u0bb3\u0bbf\u0ba4\u0bb4\u0bcd \u0ba8\u0bbf\u0bb0\u0bc1\u0baa\u0bb0\u0bcd (\u0baa\u0bc1\u0ba4\u0bc1 \u0baf\u0bc1\u0b95\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf)",
+                "self_profession_occupation": " \u0b95\u0bc2\u0bb2\u0bbf ",
                 "cases_convicted_description": ""
             }
         },
@@ -1745,152 +1891,6 @@
                 "cases_pending_description": "",
                 "self_education_description": "",
                 "self_profession_occupation": "\u0b9f\u0bbf\u0bb0\u0bbe\u0bb5\u0bb2\u0bcd\u0bb8\u0bcd",
-                "cases_convicted_description": ""
-            }
-        },
-        {
-            "en": {
-                "candidate_id": "93072800-2048-4465-a6ac-587af9bf6928",
-                "name": "T.S.VENGADACHALAPATHY",
-                "education": "10th pass",
-                "occupation": "COOLI",
-                "age": "54",
-                "annual_income": "0",
-                "source_of_income": "COOLI",
-                "moveable_assets": "252,788",
-                "immoveable_assets": "1,400,000",
-                "total_assets": "1,652,788",
-                "liabilities": "0",
-                "net_assets": "1,652,788",
-                "no_of_criminal_cases": 0,
-                "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VENGADACHALAPATHY_T_S_MaduraiSouth.jpg",
-                "party": {
-                    "id": "Independent",
-                    "short_name": "I",
-                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
-                    "en_label": "Independent",
-                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FUNNEL.JPG"
-                },
-                "thokuthi": {
-                    "constituency_id": "MADURAI_SOUTH",
-                    "constituency_en_label": "Madurai South",
-                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1)",
-                    "district_id": "MADURAI",
-                    "district_en_label": "Madurai",
-                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
-                },
-                "holdings": [
-                    {
-                        "y_from": 2015,
-                        "y_to": 2016,
-                        "candidate": "0",
-                        "spouse": "0",
-                        "overall": "0"
-                    },
-                    {
-                        "y_from": 2016,
-                        "y_to": 2017,
-                        "candidate": "0",
-                        "spouse": "0",
-                        "overall": "0"
-                    },
-                    {
-                        "y_from": 2017,
-                        "y_to": 2018,
-                        "candidate": "0",
-                        "spouse": "0",
-                        "overall": "0"
-                    },
-                    {
-                        "y_from": 2018,
-                        "y_to": 2019,
-                        "candidate": "0",
-                        "spouse": "0",
-                        "overall": "0"
-                    },
-                    {
-                        "y_from": 2019,
-                        "y_to": 2020,
-                        "candidate": "0",
-                        "spouse": "0",
-                        "overall": "0"
-                    }
-                ]
-            },
-            "ta": {
-                "candidate_id": "93072800-2048-4465-a6ac-587af9bf6928",
-                "name": "T.S.\u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0b9f\u0b9a\u0bcd\u0b9a\u0bb2\u0baa\u0ba4\u0bbf",
-                "education": "10th pass",
-                "occupation": " \u0b95\u0bc2\u0bb2\u0bbf ",
-                "age": "54",
-                "annual_income": "0",
-                "source_of_income": "COOLI",
-                "moveable_assets": "252,788",
-                "immoveable_assets": "1,400,000",
-                "total_assets": "1,652,788",
-                "liabilities": "0",
-                "net_assets": "1,652,788",
-                "no_of_criminal_cases": 0,
-                "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VENGADACHALAPATHY_T_S_MaduraiSouth.jpg",
-                "party": {
-                    "id": "Independent",
-                    "short_name": "I",
-                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
-                    "en_label": "Independent",
-                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FUNNEL.JPG"
-                },
-                "thokuthi": {
-                    "constituency_id": "MADURAI_SOUTH",
-                    "constituency_en_label": "Madurai South",
-                    "constituency_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 (\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1)",
-                    "district_id": "MADURAI",
-                    "district_en_label": "Madurai",
-                    "district_ta_label": "\u0bae\u0ba4\u0bc1\u0bb0\u0bc8"
-                },
-                "holdings": [
-                    {
-                        "y_from": 2015,
-                        "y_to": 2016,
-                        "candidate": "0",
-                        "spouse": "0",
-                        "overall": "0"
-                    },
-                    {
-                        "y_from": 2016,
-                        "y_to": 2017,
-                        "candidate": "0",
-                        "spouse": "0",
-                        "overall": "0"
-                    },
-                    {
-                        "y_from": 2017,
-                        "y_to": 2018,
-                        "candidate": "0",
-                        "spouse": "0",
-                        "overall": "0"
-                    },
-                    {
-                        "y_from": 2018,
-                        "y_to": 2019,
-                        "candidate": "0",
-                        "spouse": "0",
-                        "overall": "0"
-                    },
-                    {
-                        "y_from": 2019,
-                        "y_to": 2020,
-                        "candidate": "0",
-                        "spouse": "0",
-                        "overall": "0"
-                    }
-                ],
-                "other_party_name": "",
-                "self_source_of_income": "\u0b95\u0bc2\u0bb2\u0bbf ",
-                "cases_pending_description": "",
-                "self_education_description": "",
-                "self_profession_occupation": " \u0b95\u0bc2\u0bb2\u0bbf ",
                 "cases_convicted_description": ""
             }
         }

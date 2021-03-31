@@ -1456,6 +1456,152 @@
         },
         {
             "en": {
+                "candidate_id": "93133600-72de-49b7-937a-bcbc75744c2d",
+                "name": "S .KALIMUTHU",
+                "education": "Illiterate",
+                "occupation": "Agricultural wages",
+                "age": "51",
+                "annual_income": "0",
+                "source_of_income": "Agricultural Wages",
+                "moveable_assets": "0",
+                "immoveable_assets": "0",
+                "total_assets": "0",
+                "liabilities": "0",
+                "net_assets": "0",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALIMUTHUS_Tiruchuli.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "TIRUCHULI",
+                    "constituency_en_label": "Tiruchuli",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bc1\u0bb4\u0bbf",
+                    "district_id": "VIRUDHUNAGAR",
+                    "district_en_label": "Virudhunagar",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0ba8\u0b95\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93133600-72de-49b7-937a-bcbc75744c2d",
+                "name": "S .\u0b9a\u0bc1 \u0b95\u0bbe\u0bb3\u0bbf\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1",
+                "education": "Illiterate",
+                "occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd  \u0b95\u0bc2\u0bb2\u0bbf ",
+                "age": "51",
+                "annual_income": "0",
+                "source_of_income": "Agricultural Wages",
+                "moveable_assets": "0",
+                "immoveable_assets": "0",
+                "total_assets": "0",
+                "liabilities": "0",
+                "net_assets": "0",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. \u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KALIMUTHUS_Tiruchuli.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BAT.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "TIRUCHULI",
+                    "constituency_en_label": "Tiruchuli",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bc1\u0bb4\u0bbf",
+                    "district_id": "VIRUDHUNAGAR",
+                    "district_en_label": "Virudhunagar",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0ba8\u0b95\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd  \u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0b95\u0bcd  \u0b95\u0bc2\u0bb2\u0bbf ",
+                "cases_convicted_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8"
+            }
+        },
+        {
+            "en": {
                 "candidate_id": "93058d1b-ea72-4be1-a69a-02d85b75c704",
                 "name": "P.CHENNAKESAVAN",
                 "education": "7 TH STANDARD",
@@ -1598,6 +1744,152 @@
                 "self_education_description": "",
                 "self_profession_occupation": "\u0b95\u0bc2\u0bb2\u0bbf \u0baa\u0bc6\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd",
                 "cases_convicted_description": ""
+            }
+        },
+        {
+            "en": {
+                "candidate_id": "93133cc3-a4a9-471f-949e-930b36d5f721",
+                "name": "S.SETHURAMALINGAM",
+                "education": "SSLC",
+                "occupation": "Government Pensioner",
+                "age": "76",
+                "annual_income": "0",
+                "source_of_income": "Monthly Pension",
+                "moveable_assets": "0",
+                "immoveable_assets": "1,800,000",
+                "total_assets": "1,800,000",
+                "liabilities": "0",
+                "net_assets": "1,800,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SETHURAMALINGAM_Tiruchuli.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FLUTE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "TIRUCHULI",
+                    "constituency_en_label": "Tiruchuli",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bc1\u0bb4\u0bbf",
+                    "district_id": "VIRUDHUNAGAR",
+                    "district_en_label": "Virudhunagar",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0ba8\u0b95\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ]
+            },
+            "ta": {
+                "candidate_id": "93133cc3-a4a9-471f-949e-930b36d5f721",
+                "name": "S.\u0b9a \u0b9a\u0bc7\u0ba4\u0bc1\u0bb0\u0bbe\u0bae\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+                "education": "SSLC",
+                "occupation": "\u0b85\u0bb0\u0b9a\u0bc1 \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd ",
+                "age": "76",
+                "annual_income": "0",
+                "source_of_income": "Monthly Pension",
+                "moveable_assets": "0",
+                "immoveable_assets": "1,800,000",
+                "total_assets": "1,800,000",
+                "liabilities": "0",
+                "net_assets": "1,800,000",
+                "no_of_criminal_cases": 0,
+                "cases_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8. \u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SETHURAMALINGAM_Tiruchuli.jpg",
+                "party": {
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FLUTE.JPG"
+                },
+                "thokuthi": {
+                    "constituency_id": "TIRUCHULI",
+                    "constituency_en_label": "Tiruchuli",
+                    "constituency_ta_label": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bc1\u0bb4\u0bbf",
+                    "district_id": "VIRUDHUNAGAR",
+                    "district_en_label": "Virudhunagar",
+                    "district_ta_label": "\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0ba8\u0b95\u0bb0\u0bcd"
+                },
+                "holdings": [
+                    {
+                        "y_from": 2015,
+                        "y_to": 2016,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2016,
+                        "y_to": 2017,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2017,
+                        "y_to": 2018,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2018,
+                        "y_to": 2019,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    },
+                    {
+                        "y_from": 2019,
+                        "y_to": 2020,
+                        "candidate": "0",
+                        "spouse": "0",
+                        "overall": "0"
+                    }
+                ],
+                "other_party_name": "",
+                "self_source_of_income": "\u0bae\u0bbe\u0ba4 \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+                "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b85\u0bb0\u0b9a\u0bc1 \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd ",
+                "cases_convicted_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8"
             }
         },
         {

@@ -1328,7 +1328,7 @@
                     "short_name": "I",
                     "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
                     "en_label": "Independent",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/THROWING_A_JAVELIN.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "THIRUPARANKUNDRAM",
@@ -1397,7 +1397,7 @@
                     "short_name": "I",
                     "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
                     "en_label": "Independent",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/THROWING_A_JAVELIN.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "THIRUPARANKUNDRAM",
@@ -1468,7 +1468,7 @@
                 "net_assets": "423,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ILANGOVAN_P__Thiruparankundram.JPG",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ILANGOVAN_P__Thiruparankundram.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
@@ -1537,7 +1537,7 @@
                 "net_assets": "423,000",
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ILANGOVAN_P__Thiruparankundram.JPG",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ILANGOVAN_P__Thiruparankundram.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
