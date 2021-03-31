@@ -77,7 +77,7 @@ Symbol Name : AUTO-RICKSHAW
 
 =====================
 
-Name : N.IMAYAEESWARAN
+Name : N.IMAYAESWARAN
 Age : 39
 Party Name : Naam Tamilar Katchi
 Education : ITI Fitter
@@ -147,7 +147,7 @@ Symbol Name : WATERMELON
 
 =====================
 
-Name : C.MURUGAN
+Name : VAATHIAR C MURUGAN
 Age : 42
 Party Name : Ambedkarite Party of India
 Education : 8th pass

@@ -77,7 +77,7 @@ Symbol Name : HELICOPTER
 
 =====================
 
-Name : N.SengottuVelu
+Name : N.SengottuVellu
 Age : 52
 Party Name : Ahimsa Socialist Party
 Education : 8th pass
@@ -231,7 +231,7 @@ Symbol Name : BINOCULARS
 
 =====================
 
-Name : C.Sathishkumar
+Name : C.SATHIESHKUMAR
 Age : 28
 Party Name : Independent
 Education : 12th pass
@@ -329,7 +329,7 @@ Symbol Name : T
 
 =====================
 
-Name : C.Balamurughan
+Name : C.BALAMURUGAN
 Age : 31
 Party Name : Independent
 Education : B.COM
@@ -371,7 +371,7 @@ Symbol Name : SCISSORS
 
 =====================
 
-Name : R.Ranjith
+Name : R.Ranjit
 Age : 32
 Party Name : Independent
 Education : B.E CS

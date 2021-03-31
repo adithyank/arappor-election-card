@@ -133,7 +133,7 @@ Symbol Name : WINNOWER
 
 =====================
 
-Name : K.Kulanthaivelu
+Name : K.KUZHANDAIVEL
 Age : 36
 Party Name : Independent
 Education : 8th pass
@@ -175,7 +175,7 @@ Symbol Name : LAPTOP
 
 =====================
 
-Name : P.SREERANGAN
+Name : P.SEERANGAN
 Age : 42
 Party Name : Independent
 Education : S.S.L.C

@@ -56,9 +56,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
+      "symbolName": "EARS_OF_CORN_AND_SICKLE",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/EARS_OF_CORN_AND_SICKLE.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUPPUR_NORTH_3.jpg",
       "photoName": "TIRUPPUR_NORTH_3",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/EARS_OF_CORN_AND_SICKLE.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_NORTH_3.jpg"
     },
     {

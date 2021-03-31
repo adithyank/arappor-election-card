@@ -87,9 +87,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
+      "symbolName": "RISING_SUN",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADATHUKULAM_17.jpg",
       "photoName": "MADATHUKULAM_17",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/RISING_SUN.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_17.jpg"
     },
     {
@@ -178,9 +180,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "ஏதுமில்லை\n. ஏதுமில்லை\n",
-      "symbolUrl": "null",
+      "symbolName": "PRESSURE_COOKER",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADATHUKULAM_6.jpg",
       "photoName": "MADATHUKULAM_6",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/PRESSURE_COOKER.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_6.jpg"
     },
     {
@@ -207,9 +211,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "ஏதுமில்லை\n. ஏதுமில்லை\n",
-      "symbolUrl": "",
+      "symbolName": "GANNA_KISAN",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADATHUKULAM_7.jpg",
       "photoName": "MADATHUKULAM_7",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/GANNA_KISAN.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_7.jpg"
     },
     {
@@ -391,10 +397,12 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "ஏதுமில்லை\n. ஏதுமில்லை\n",
-      "symbolUrl": "",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADATHUKULAM_12.jpg",
-      "photoName": "MADATHUKULAM_12",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_12.jpg"
+      "symbolName": "LADY__PURSE",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/LADY__PURSE.JPG",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PMAHENDRAN_Madathukulam.jpg",
+      "photoName": "PMAHENDRAN_Madathukulam",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/LADY__PURSE.JPG",
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PMAHENDRAN_Madathukulam.jpg"
     },
     {
       "recid": "92fea251-e393-4a4d-96a3-a677834c7b40",

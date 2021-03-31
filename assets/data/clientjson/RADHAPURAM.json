@@ -645,9 +645,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
+      "symbolName": "LAPTOP",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/LAPTOP.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RADHAPURAM_35.jpg",
       "photoName": "RADHAPURAM_35",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/LAPTOP.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_35.jpg"
     },
     {

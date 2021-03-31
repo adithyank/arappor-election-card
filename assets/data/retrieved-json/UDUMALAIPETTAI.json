@@ -2114,13 +2114,13 @@
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": null,
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Rajini_K__Udumalaipettai.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
                     "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
                     "en_label": "Independent",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TRACTOR_CHALATA_KISAN.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "UDUMALAIPETTAI",
@@ -2185,13 +2185,13 @@
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": null,
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Rajini_K__Udumalaipettai.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
                     "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
                     "en_label": "Independent",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TRACTOR_CHALATA_KISAN.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "UDUMALAIPETTAI",

@@ -203,7 +203,7 @@ Symbol Name : GIFT_PACKS
 
 =====================
 
-Name : V.SHAMUNDESWARI
+Name : V.SAMUNDESWARI
 Age : 41
 Party Name : All India Jananayaka Makkal Kazhagam
 Education : Not given

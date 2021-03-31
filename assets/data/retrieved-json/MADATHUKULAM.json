@@ -325,7 +325,7 @@
                     "short_name": "DMK",
                     "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
                     "en_label": "Dravida Munnetra Kazhagam",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "MADATHUKULAM",
@@ -396,7 +396,7 @@
                     "short_name": "DMK",
                     "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
                     "en_label": "Dravida Munnetra Kazhagam",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "MADATHUKULAM",
@@ -766,7 +766,7 @@
                     "id": "AMMA MAKKAL MUNNETRA KAZHAGAM",
                     "en_label": "AMMA MAKKAL MUNNETRA KAZHAGAM",
                     "ta_label": "AMMA MAKKAL MUNNETRA KAZHAGAM",
-                    "party_image": null
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "MADATHUKULAM",
@@ -836,7 +836,7 @@
                     "id": "AMMA MAKKAL MUNNETRA KAZHAGAM",
                     "en_label": "AMMA MAKKAL MUNNETRA KAZHAGAM",
                     "ta_label": "AMMA MAKKAL MUNNETRA KAZHAGAM",
-                    "party_image": null
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "MADATHUKULAM",
@@ -914,7 +914,7 @@
                     "short_name": "NTK",
                     "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
                     "en_label": "Naam Tamilar Katchi",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "MADATHUKULAM",
@@ -985,7 +985,7 @@
                     "short_name": "NTK",
                     "ta_label": "\u0ba8\u0bbe\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
                     "en_label": "Naam Tamilar Katchi",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "MADATHUKULAM",
@@ -1805,13 +1805,13 @@
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 0,
                 "cases_description": "",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADATHUKULAM_12.jpg",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PMAHENDRAN_Madathukulam.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
                     "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
                     "en_label": "Independent",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/LADY__PURSE.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "MADATHUKULAM",
@@ -1876,13 +1876,13 @@
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 0,
                 "cases_description": "\u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\n. \u0b8f\u0ba4\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\n",
-                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MADATHUKULAM_12.jpg",
+                "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PMAHENDRAN_Madathukulam.jpg",
                 "party": {
                     "id": "Independent",
                     "short_name": "I",
                     "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
                     "en_label": "Independent",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/LADY__PURSE.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "MADATHUKULAM",

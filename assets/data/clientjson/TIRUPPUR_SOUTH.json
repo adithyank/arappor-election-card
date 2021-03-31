@@ -335,9 +335,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
+      "symbolName": "HAND_CARPET",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HAND_CARPET.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUPPUR_SOUTH_35.jpg",
       "photoName": "TIRUPPUR_SOUTH_35",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/HAND_CARPET.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_35.jpg"
     },
     {
@@ -612,9 +614,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
+      "symbolName": "CAMERA",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CAMERA.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VIJAYAKUMAR_A__Tiruppur(South).jpg",
       "photoName": "VIJAYAKUMAR_A__Tiruppur(South)",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/CAMERA.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIJAYAKUMAR_A__Tiruppur(South).jpg"
     }
   ]

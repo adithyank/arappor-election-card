@@ -189,7 +189,7 @@ Symbol Name : FOUNTAIN
 
 =====================
 
-Name : T.MADHIYAZHAGAN
+Name : D.MADHIYAZHAGAN
 Age : 46
 Party Name : Independent
 Education : 10th pass

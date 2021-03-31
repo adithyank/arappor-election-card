@@ -190,7 +190,7 @@ Symbol Name : GAS_CYLINDER
 
 =====================
 
-Name : Dr. K.PADMARAJAN
+Name : K.PADMARAJAN
 Age : 60
 Party Name : Independent
 Education : M.A.History

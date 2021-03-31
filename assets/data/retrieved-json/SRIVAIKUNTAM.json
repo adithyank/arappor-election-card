@@ -26,7 +26,7 @@
                     "short_name": "INC",
                     "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd",
                     "en_label": "Indian National Congress",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/Hand.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "SRIVAIKUNTAM",
@@ -97,7 +97,7 @@
                     "short_name": "INC",
                     "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bb8\u0bcd",
                     "en_label": "Indian National Congress",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/Hand.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "SRIVAIKUNTAM",
@@ -458,10 +458,10 @@
                 "annual_income": "422,000",
                 "source_of_income": "Private School",
                 "moveable_assets": "4,778,597",
-                "immoveable_assets": "16,300,000,000",
-                "total_assets": "16,304,778,597",
+                "immoveable_assets": "163,000,000",
+                "total_assets": "167,778,597",
                 "liabilities": "1,600,000",
-                "net_assets": "16,303,178,597",
+                "net_assets": "166,178,597",
                 "criminal_cases_pending": "1",
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
@@ -528,10 +528,10 @@
                 "annual_income": "422,000",
                 "source_of_income": "Private School",
                 "moveable_assets": "4,778,597",
-                "immoveable_assets": "16,300,000,000",
-                "total_assets": "16,304,778,597",
+                "immoveable_assets": "163,000,000",
+                "total_assets": "167,778,597",
                 "liabilities": "1,600,000",
-                "net_assets": "16,303,178,597",
+                "net_assets": "166,178,597",
                 "criminal_cases_pending": "1",
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,

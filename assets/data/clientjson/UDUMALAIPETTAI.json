@@ -459,8 +459,12 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
-      "photoUrl": "null"
+      "symbolName": "TRACTOR_CHALATA_KISAN",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TRACTOR_CHALATA_KISAN.JPG",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Rajini_K__Udumalaipettai.jpg",
+      "photoName": "Rajini_K__Udumalaipettai",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/TRACTOR_CHALATA_KISAN.JPG",
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Rajini_K__Udumalaipettai.jpg"
     }
   ]
 }

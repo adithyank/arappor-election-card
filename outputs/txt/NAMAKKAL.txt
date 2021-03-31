@@ -2,7 +2,7 @@ Constituency Document
 =====================
 
 Constituency Name : NAMAKKAL
-No of Candidates : 25
+No of Candidates : 26
 No of Independent Candidates : 10
 
 =====================
@@ -31,7 +31,7 @@ Liability : 4 lacs
 Net Asset : 1 crore 44 lacs
 Criminal Cases : 0
 Case Details : 
-Symbol Name-
+Symbol Name : BOOK
 
 =====================
 
@@ -203,17 +203,17 @@ Symbol Name : GANNA_KISAN
 
 =====================
 
-Name : S.MUTHUSAMY
-Age : 44
-Party Name : Independent
-Education : MEDICAL LABORATORY TECHNICIAN
-Occupation : Wage business
+Name : A.S.MATHESWARAN
+Age : 56
+Party Name : Nam India Party
+Education : 3rd standard
+Occupation : POWER LOOM INCOME
 Total Assets : 5 lacs
 Liability : 3 lacs
 Net Asset : 2 lacs
 Criminal Cases : 0
-Case Details : 
-Symbol Name : SPANNER
+Case Details : பொருந்தாது . பொருந்தாது 
+Symbol Name : CCTV_CAMERA
 
 =====================
 
@@ -269,7 +269,7 @@ Liability : No
 Net Asset : 27 lacs
 Criminal Cases : 0
 Case Details : 
-Symbol Name-
+Symbol Name : MATCHBOX
 
 =====================
 
@@ -312,6 +312,20 @@ Net Asset : 21274
 Criminal Cases : 0
 Case Details : 
 Symbol Name : TRUCK
+
+=====================
+
+Name : S.MUTHUSAMY
+Age : 44
+Party Name : Independent
+Education : MEDICAL LABORATORY TECHNICIAN
+Occupation : Wage business
+Total Assets : 5 lacs
+Liability : 3 lacs
+Net Asset : 2 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SPANNER
 
 =====================
 

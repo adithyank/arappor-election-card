@@ -371,7 +371,7 @@ Symbol Name : CHESS_BOARD
 
 =====================
 
-Name : A.VENKATASALAM
+Name : A.VENKATACHALAM
 Age : 54
 Party Name : Independent
 Education : 8th pass

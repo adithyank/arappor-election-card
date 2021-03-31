@@ -492,10 +492,10 @@
       "caseDetailTamil": "\n. ",
       "symbolName": "FOOTBALL",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FOOTBALL.JPG",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/COIMBATORE_SOUTH_4.jpg",
-      "photoName": "COIMBATORE_SOUTH_4",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/Dummy.jpg",
+      "photoName": "Dummy",
       "soSymbolUrl": "assets/data/retrieved-imgs/symbol/FOOTBALL.JPG",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_SOUTH_4.jpg"
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Dummy.jpg"
     },
     {
       "recid": "9304d6a7-66ff-4e99-982d-c555121e43a0",

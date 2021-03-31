@@ -1816,9 +1816,10 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SALEM_SOUTH_36.jpg",
                 "party": {
-                    "id": "National People's Party",
-                    "en_label": "National People's Party",
-                    "ta_label": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SEWING_MACHINE.JPG"
                 },
                 "thokuthi": {
@@ -1886,9 +1887,10 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SALEM_SOUTH_36.jpg",
                 "party": {
-                    "id": "National People's Party",
-                    "en_label": "National People's Party",
-                    "ta_label": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/SEWING_MACHINE.JPG"
                 },
                 "thokuthi": {
@@ -2114,9 +2116,10 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SALEM_SOUTH_43.jpg",
                 "party": {
-                    "id": "All India Jananayaka Makkal Kazhagam",
-                    "en_label": "All India Jananayaka Makkal Kazhagam",
-                    "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/MIXEE.JPG"
                 },
                 "thokuthi": {
@@ -2184,9 +2187,10 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SALEM_SOUTH_43.jpg",
                 "party": {
-                    "id": "All India Jananayaka Makkal Kazhagam",
-                    "en_label": "All India Jananayaka Makkal Kazhagam",
-                    "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/MIXEE.JPG"
                 },
                 "thokuthi": {
@@ -2235,11 +2239,11 @@
                     }
                 ],
                 "other_party_name": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
-                "self_source_of_income": "",
                 "cases_pending_description": "",
-                "self_education_description": "",
+                "cases_convicted_description": "",
                 "self_profession_occupation": "\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bbf, \u0b9a\u0bae\u0bc2\u0b95 \u0b9a\u0bc7\u0bb5\u0bc8 ",
-                "cases_convicted_description": ""
+                "self_source_of_income": "",
+                "self_education_description": ""
             }
         },
         {
@@ -3012,9 +3016,10 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SALEM_SOUTH_22.jpg",
                 "party": {
-                    "id": "AHILA BHARAT HINDU MAHASABHA",
-                    "en_label": "AHILA BHARAT HINDU MAHASABHA",
-                    "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0baa\u0bbe\u0bb0\u0ba4 \u0b87\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bbe\u0b9a\u0baa\u0bbe ",
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG"
                 },
                 "thokuthi": {
@@ -3082,9 +3087,10 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SALEM_SOUTH_22.jpg",
                 "party": {
-                    "id": "AHILA BHARAT HINDU MAHASABHA",
-                    "en_label": "AHILA BHARAT HINDU MAHASABHA",
-                    "ta_label": "\u0b85\u0b95\u0bbf\u0bb2 \u0baa\u0bbe\u0bb0\u0ba4 \u0b87\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bbe\u0b9a\u0baa\u0bbe ",
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG"
                 },
                 "thokuthi": {

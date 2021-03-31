@@ -25,9 +25,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "null",
+      "symbolName": "FLOWERS_AND_GRASS",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FLOWERS_AND_GRASS.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PrabhuInbadass_S__Coonoor.jpg",
       "photoName": "PrabhuInbadass_S__Coonoor",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/FLOWERS_AND_GRASS.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PrabhuInbadass_S__Coonoor.jpg"
     },
     {

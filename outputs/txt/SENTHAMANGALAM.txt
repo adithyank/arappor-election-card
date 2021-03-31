@@ -175,7 +175,7 @@ Symbol Name : TELEVISION
 
 =====================
 
-Name : C.RANJITH
+Name : C.RANCHITH
 Age : 29
 Party Name : Independent
 Education : DIPLOMA IN IT

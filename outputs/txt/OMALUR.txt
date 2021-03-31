@@ -7,7 +7,7 @@ No of Independent Candidates : 6
 
 =====================
 
-Name : V.Thomas
+Name : N.V.Thomas
 Age : 49
 Party Name : Bahujan Samaj Party
 Education : 8th pass
@@ -49,7 +49,7 @@ Liability : 3 crore 26 lacs
 Net Asset : 45 crore 49 lacs
 Criminal Cases : 1
 Case Details : உபியில் தலித் பெண் கற்பழிப்பு, கொலைக்கு நீதிக்கிடைக்க போராட்டம், உபியில் ராகுல் காந்தியின் கைதை கண்டித்து போராட்டம் . 
-Symbol Name-
+Symbol Name : Hand
 
 =====================
 
