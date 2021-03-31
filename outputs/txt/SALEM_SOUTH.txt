@@ -3,7 +3,7 @@ Constituency Document
 
 Constituency Name : SALEM_SOUTH
 No of Candidates : 24
-No of Independent Candidates : 10
+No of Independent Candidates : 13
 
 =====================
 
@@ -177,7 +177,7 @@ Symbol Name : MIKE
 
 Name : M.KUMAR
 Age : 51
-Party Name : National People's Party
+Party Name : Independent
 Education : 10th pass
 Occupation : READYMADE DRESSES MANUFACTURING
 Total Assets : 1 lacs
@@ -205,7 +205,7 @@ Symbol Name : GIFT_PACKS
 
 Name : V.SAMUNDESWARI
 Age : 41
-Party Name : All India Jananayaka Makkal Kazhagam
+Party Name : Independent
 Education : Not given
 Occupation : HOUSE WIFE , SOCIAL WORK
 Total Assets : 20000
@@ -289,7 +289,7 @@ Symbol Name : DIAMOND
 
 Name : K.MARIAPPAN
 Age : 39
-Party Name : AHILA BHARAT HINDU MAHASABHA
+Party Name : Independent
 Education : 10th pass
 Occupation : PRIVATE BUSINESS
 Total Assets : 9 lacs

@@ -2,8 +2,8 @@ Constituency Document
 =====================
 
 Constituency Name : MADURAI_WEST
-No of Candidates : 14
-No of Independent Candidates : 7
+No of Candidates : 15
+No of Independent Candidates : 8
 
 =====================
 
@@ -74,7 +74,7 @@ Liability : No
 Net Asset : 71000
 Criminal Cases : 0
 Case Details : 
-Symbol Name : PLATE_STAND
+Symbol Name : PAN
 
 =====================
 
@@ -117,6 +117,20 @@ Net Asset : -2 crore 71 lacs
 Criminal Cases : 1
 Case Details : கொடிய ஆயுதங்களுடன் கலகம் உண்டுபண்ணுதல், வழிப்பறி மற்றும் கொலைசெய்யும் நோக்கத்துடன் தாக்க முயற்சித்தல், பொதுவிடத்தில் ஆபாசமாக செயல்/பேசியது, கொலை மிரட்டல், விதிமீறி தடைசெய்யப்பட்ட ஆயுதம்/வெடிபொருட்கள் வைத்திருந்தது.. 
 Symbol Name : GANNA_KISAN
+
+=====================
+
+Name : K.K.Arasu Thiruvalavan
+Age : 76
+Party Name : Independent
+Education : M.A in Tamil 
+Occupation : State Government Pensioner
+Total Assets : 19 lacs
+Liability : 4 lacs
+Net Asset : 15 lacs
+Criminal Cases : 0
+Case Details : 
+Symbol Name : SEWING_MACHINE
 
 =====================
 

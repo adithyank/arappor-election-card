@@ -45,7 +45,7 @@ Liability : 27 lacs
 Net Asset : 3 crore 75 lacs
 Criminal Cases : 0
 Case Details : 
-Symbol Name-
+Symbol Name : RISING_SUN
 
 =====================
 
@@ -89,7 +89,7 @@ Criminal Cases : 0
 Case Details : ஏதுமில்லை
 . ஏதுமில்லை
 
-Symbol Name-
+Symbol Name : PRESSURE_COOKER
 
 =====================
 
@@ -105,7 +105,7 @@ Criminal Cases : 0
 Case Details : ஏதுமில்லை
 . ஏதுமில்லை
 
-Symbol Name-
+Symbol Name : GANNA_KISAN
 
 =====================
 
@@ -192,7 +192,7 @@ Criminal Cases : 0
 Case Details : ஏதுமில்லை
 . ஏதுமில்லை
 
-Symbol Name-
+Symbol Name : LADY__PURSE
 
 =====================
 

@@ -297,7 +297,7 @@ Liability : No
 Net Asset : 8000
 Criminal Cases : 0
 Case Details : 
-Symbol Name-
+Symbol Name : LAPTOP
 
 =====================
 

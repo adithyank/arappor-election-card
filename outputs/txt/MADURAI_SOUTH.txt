@@ -2,8 +2,8 @@ Constituency Document
 =====================
 
 Constituency Name : MADURAI_SOUTH
-No of Candidates : 14
-No of Independent Candidates : 7
+No of Candidates : 13
+No of Independent Candidates : 6
 
 =====================
 
@@ -130,20 +130,6 @@ Net Asset : -2 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : DUSBIN
-
-=====================
-
-Name : K.K.Arasu Thiruvalavan
-Age : 76
-Party Name : Independent
-Education : M.A in Tamil 
-Occupation : State Government Pensioner
-Total Assets : 19 lacs
-Liability : 4 lacs
-Net Asset : 15 lacs
-Criminal Cases : 0
-Case Details : 
-Symbol Name : SEWING_MACHINE
 
 =====================
 
