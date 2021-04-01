@@ -304,9 +304,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": " ஏதுமில்லை.  ஏதுமில்லை",
-      "symbolUrl": "null",
+      "symbolName": "HURRICANE_LAMP",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HURRICANE_LAMP.jpg",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VIRUGAMPAKKAM_39.jpg",
       "photoName": "VIRUGAMPAKKAM_39",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/HURRICANE_LAMP.jpg",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_39.jpg"
     },
     {

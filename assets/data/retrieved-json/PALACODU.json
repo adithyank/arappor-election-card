@@ -319,7 +319,7 @@
                 "criminal_cases_pending": "3",
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 3,
-                "cases_description": "Case details Not available. . ",
+                "cases_description": "Case section details Not available. . ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PALACODU_20.jpg",
                 "party": {
                     "id": "Dravida Munnetra Kazhagam",
@@ -390,7 +390,7 @@
                 "criminal_cases_pending": "3",
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 3,
-                "cases_description": "",
+                "cases_description": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb5\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PALACODU_20.jpg",
                 "party": {
                     "id": "Dravida Munnetra Kazhagam",
@@ -446,7 +446,7 @@
                 ],
                 "other_party_name": "",
                 "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd, \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
-                "cases_pending_description": "",
+                "cases_pending_description": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb5\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
                 "self_education_description": "",
                 "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd",
                 "cases_convicted_description": ""
