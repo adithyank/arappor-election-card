@@ -1666,11 +1666,11 @@
                 "cases_description": "Unlawful Assembly. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VILAVANCODE_3.jpg",
                 "party": {
-                    "id": "Communist Party of India (Marxist-Leninist) (Liberation)",
-                    "short_name": "CPOIML",
-                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bc1\u0b9f\u0bae\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf (\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bcd-\u0bb2\u0bc6\u0ba9\u0bbf\u0ba9\u0bbf\u0baf\u0bae\u0bcd) (\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8)",
-                    "en_label": "Communist Party of India (Marxist-Leninist) (Liberation)",
-                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FLAG_AND_THREE_STARS.JPG"
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "VILAVANCODE",
@@ -1737,11 +1737,11 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/VILAVANCODE_3.jpg",
                 "party": {
-                    "id": "Communist Party of India (Marxist-Leninist) (Liberation)",
-                    "short_name": "CPOIML",
-                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bc1\u0b9f\u0bae\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf (\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bcd-\u0bb2\u0bc6\u0ba9\u0bbf\u0ba9\u0bbf\u0baf\u0bae\u0bcd) (\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8)",
-                    "en_label": "Communist Party of India (Marxist-Leninist) (Liberation)",
-                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/FLAG_AND_THREE_STARS.JPG"
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "VILAVANCODE",
