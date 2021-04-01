@@ -110,9 +110,9 @@ Age : 63
 Party Name : AMMA MAKKAL MUNNETRA KAZHAGAM
 Education : 9TH STD
 Occupation : AGRICULTURE
-Total Assets : 53 lacs
-Liability : 1 crore 58 lacs
-Net Asset : -1 crore 05 lacs
+Total Assets : 1 crore 77 lacs
+Liability : 34 lacs
+Net Asset : 1 crore 43 lacs
 Criminal Cases : 4
 Case Details : 147-கலவரம் உண்டுபடுத்துதல்,188- அரசு   ஊழியரால் முறையாக அறிவிக்கப்பட்ட கட்டளைக்கு கீழ்ப்படியாமை,  341-ஆபத்தான ஆயுதங்கள் வைத்து காயப்படுத்துதல், . 
 Symbol Name : PRESSURE_COOKER

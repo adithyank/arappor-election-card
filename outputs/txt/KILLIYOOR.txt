@@ -119,7 +119,7 @@ Symbol Name : AIRCONDITIONER
 
 =====================
 
-Name : A.Jayaraj
+Name : E.Jayaraj
 Age : 39
 Party Name : TamilNadu Ilangyar Katchi
 Education : BSC

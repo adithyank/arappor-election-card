@@ -102,7 +102,8 @@ Total Assets : 16 lacs
 Liability : No
 Net Asset : 16 lacs
 Criminal Cases : 1
-Case Details : போராட்டம் நடத்துதல். 
+Case Details : சட்ட விரோதமாக கூட்டம் கூடியது,
+அரசு   ஊழியரால் முறையாக அறிவிக்கப்பட்ட கட்டளைக்கு கீழ்ப்படியாமை, முறையற்ற தடுப்பு. 
 Symbol Name : GANNA_KISAN
 
 =====================

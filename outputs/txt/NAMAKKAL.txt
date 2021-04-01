@@ -226,7 +226,7 @@ Total Assets : 19 lacs
 Liability : No
 Net Asset : 19 lacs
 Criminal Cases : 1
-Case Details : 
+Case Details : 143 சட்ட விரோதமாக கூட்டம் கூடியது, 188 அரசு   ஊழியரால் முறையாக அறிவிக்கப்பட்ட கட்டளைக்கு கீழ்ப்படியாமை. 
 Symbol Name : COAT
 
 =====================

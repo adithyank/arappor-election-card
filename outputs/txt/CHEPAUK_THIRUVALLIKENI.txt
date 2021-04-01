@@ -378,7 +378,7 @@ Liability : No
 Net Asset : 35000
 Criminal Cases : 0
 Case Details : 
-Symbol Name-
+Symbol Name : CHEPAUK_THIRUVALLIKENI_28
 
 =====================
 

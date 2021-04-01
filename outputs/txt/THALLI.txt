@@ -77,7 +77,7 @@ Symbol Name : PRESSURE_COOKER
 
 =====================
 
-Name : R.Mariselvarani
+Name : R.Maryselvarani
 Age : 48
 Party Name : Naam Tamilar Katchi
 Education : 12th pass

@@ -256,9 +256,9 @@ Age : 44
 Party Name : Pudhiya Tamizhagam Katchi
 Education : 9th Standard, Government Higher Secondary School, Moongilpatti (1995-96)
 Occupation : Real Estate
-Total Assets : 10
+Total Assets : 10000
 Liability : No
-Net Asset : 10
+Net Asset : 10000
 Criminal Cases : 2
 Case Details : 2 நிலுவையில் உள்ள வழக்குகள். வழங்கப்பட்ட பிரிவுகள் பற்றிய விவரங்கள் எதுவும் இல்லை. 
 Symbol Name : TELEVISION

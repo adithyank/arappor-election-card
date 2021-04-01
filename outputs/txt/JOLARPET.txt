@@ -161,7 +161,7 @@ Symbol Name : TELEVISION
 
 =====================
 
-Name : A.VEERAMANI
+Name : H.VEERAMANI
 Age : 65
 Party Name : Independent
 Education : 9th Std

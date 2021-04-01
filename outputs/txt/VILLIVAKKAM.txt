@@ -323,7 +323,7 @@ Symbol Name : ELECTRIC_POLE
 Name : M.Jalal
 Age : 40
 Party Name : Independent
-Education : IX TH Standard
+Education : 9th std
 Occupation : Mutton Marcher
 Total Assets : 12000
 Liability : No
