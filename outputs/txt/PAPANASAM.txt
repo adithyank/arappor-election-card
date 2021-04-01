@@ -186,7 +186,7 @@ Liability : No
 Net Asset : 34 lacs
 Criminal Cases : 1
 Case Details : பொய் வழக்கு. 
-Symbol Name-
+Symbol Name : HAND_CARPET
 
 =====================
 
