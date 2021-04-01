@@ -376,7 +376,7 @@
             },
             "ta": {
                 "candidate_id": "9304b8b2-10c5-4727-8344-d0d4c358f245",
-                "name": "M.\u0bae. \u0baa\u0bbf\u0bb0\u0baa\u0bc1 \u0bb0\u0bbe\u0b9c\u0b9a\u0bc7\u0b95\u0bb0\u0bcd ",
+                "name": "M.\u0baa\u0bbf\u0bb0\u0baa\u0bc1 \u0bb0\u0bbe\u0b9c\u0b9a\u0bc7\u0b95\u0bb0\u0bcd ",
                 "education": "MBBS",
                 "occupation": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
                 "age": "37",
@@ -390,7 +390,7 @@
                 "criminal_cases_pending": "2",
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 2,
-                "cases_description": "\u0ba4\u0bc2\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc2\u0b9f\u0bc1 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0b9f\u0bc8\u0baf\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd. ",
+                "cases_description": "143 \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, 188- \u0b85\u0bb0\u0b9a\u0bc1   \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, 341 - \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/M_PRABHURAJASEKAR_Pappireddipatti.jpg",
                 "party": {
                     "id": "Dravida Munnetra Kazhagam",
@@ -445,11 +445,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "self_source_of_income": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
-                "cases_pending_description": "\u0ba4\u0bc2\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bc2\u0b9f\u0bc1 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0b9f\u0bc8\u0baf\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-                "self_education_description": "",
+                "cases_pending_description": "143 \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, 188- \u0b85\u0bb0\u0b9a\u0bc1   \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, 341 - \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd",
+                "cases_convicted_description": "",
                 "self_profession_occupation": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
-                "cases_convicted_description": ""
+                "self_source_of_income": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bcd",
+                "self_education_description": ""
             }
         },
         {
@@ -616,10 +616,10 @@
                 "total_assets": "55,569,405",
                 "liabilities": "33,043,213",
                 "net_assets": "22,526,192",
-                "criminal_cases_pending": "2",
+                "criminal_cases_pending": "4",
                 "criminal_cases_convicted": 0,
-                "no_of_criminal_cases": 2,
-                "cases_description": "tnoppd act - FIR filed in palacode police station. ",
+                "no_of_criminal_cases": 4,
+                "cases_description": "143- Unlawful Assembly, 188-Disobedience to order duly promulgated by public servant, 306- Abetment of suicide, 341  wrongful restrain . ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_2.jpg",
                 "party": {
                     "id": "AMMA MAKKAL MUNNETT RAKAZAGAM",
@@ -686,10 +686,10 @@
                 "total_assets": "55,569,405",
                 "liabilities": "33,043,213",
                 "net_assets": "22,526,192",
-                "criminal_cases_pending": "2",
+                "criminal_cases_pending": "4",
                 "criminal_cases_convicted": 0,
-                "no_of_criminal_cases": 2,
-                "cases_description": "TNOPPD act - \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0baa\u0bbe\u0bb2\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. ",
+                "no_of_criminal_cases": 4,
+                "cases_description": "143- \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1,188- \u0b85\u0bb0\u0b9a\u0bc1   \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, 306- \u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bc1\u0ba4\u0bb2\u0bcd, 341- \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PAPPIREDDIPPATTI_2.jpg",
                 "party": {
                     "id": "AMMA MAKKAL MUNNETT RAKAZAGAM",
@@ -743,11 +743,11 @@
                     }
                 ],
                 "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd",
-                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
-                "cases_pending_description": "TNOPPD act - \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0baa\u0bbe\u0bb2\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
-                "self_education_description": "",
+                "cases_pending_description": "143- \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1,188- \u0b85\u0bb0\u0b9a\u0bc1   \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, 306- \u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bc1\u0ba4\u0bb2\u0bcd, 341- \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd",
+                "cases_convicted_description": "",
                 "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
-                "cases_convicted_description": ""
+                "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
+                "self_education_description": ""
             }
         },
         {

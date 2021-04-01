@@ -77,7 +77,7 @@ Symbol Name : TRACTOR_CHALATA_KISAN
 
 =====================
 
-Name : v.NIROSHA .V
+Name : V.NIROSHA
 Age : 32
 Party Name : Amma Makkal Munnettra Kazagam
 Education : S.S.L.C.,

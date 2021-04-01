@@ -319,7 +319,7 @@
                 "criminal_cases_pending": "1",
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
-                "cases_description": "",
+                "cases_description": "124- Assaulting President, Governor, etc., with intent to compel or restrain the exercise of any lawful power, 144- Joining unlawful assembly armed with deadly weapon, 188 Disobedience to order duly promulgated by public servant. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MOORTHIYKS_Paramathi-Velur.jpg",
                 "party": {
                     "id": "Dravida Munnetra Kazhagam",
@@ -390,7 +390,7 @@
                 "criminal_cases_pending": "1",
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
-                "cases_description": "",
+                "cases_description": "124-\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bc1 \u0b89\u0baf\u0bb0\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd , 188 \u0b85\u0bb0\u0b9a \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8,144- \u0b95\u0bca\u0b9f\u0bbf\u0baf \u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd \u0b8f\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba3\u0bc8\u0ba4\u0bb2\u0bcd. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/MOORTHIYKS_Paramathi-Velur.jpg",
                 "party": {
                     "id": "Dravida Munnetra Kazhagam",
@@ -446,7 +446,7 @@
                 ],
                 "other_party_name": "",
                 "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
-                "cases_pending_description": "",
+                "cases_pending_description": "124-\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bc1 \u0b89\u0baf\u0bb0\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd , 188 \u0b85\u0bb0\u0b9a \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8,144- \u0b95\u0bca\u0b9f\u0bbf\u0baf \u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd \u0b8f\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba3\u0bc8\u0ba4\u0bb2\u0bcd",
                 "self_education_description": "",
                 "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd ",
                 "cases_convicted_description": ""
@@ -1953,10 +1953,10 @@
                 "candidate_id": "93008dbd-f879-4ef2-bf87-1ac1094d6a72",
                 "name": "N.SUNDARAM",
                 "education": "5th pass",
-                "occupation": "\u0b89\u0ba3\u0bb5\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4 ",
+                "occupation": "Food Production ",
                 "age": "50",
                 "annual_income": "0",
-                "source_of_income": "\u0b89\u0ba3\u0bb5\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4 ",
+                "source_of_income": "Food Production ",
                 "moveable_assets": "375,000",
                 "immoveable_assets": "0",
                 "total_assets": "375,000",
@@ -2027,7 +2027,7 @@
                 "occupation": "\u0b89\u0ba3\u0bb5\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf",
                 "age": "50",
                 "annual_income": "0",
-                "source_of_income": "\u0b89\u0ba3\u0bb5\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4 ",
+                "source_of_income": "Food Production ",
                 "moveable_assets": "375,000",
                 "immoveable_assets": "0",
                 "total_assets": "375,000",
@@ -2036,7 +2036,7 @@
                 "criminal_cases_pending": 0,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 0,
-                "cases_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 . \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
+                "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/PARAMATHI_VELUR_20.jpg",
                 "party": {
                     "id": "Independent",
@@ -2091,11 +2091,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "self_source_of_income": "\u0b89\u0ba3\u0bb5\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf",
-                "cases_pending_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
-                "self_education_description": "",
+                "cases_pending_description": "",
+                "cases_convicted_description": "",
                 "self_profession_occupation": "\u0b89\u0ba3\u0bb5\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf",
-                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+                "self_source_of_income": "\u0b89\u0ba3\u0bb5\u0bc1 \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf",
+                "self_education_description": ""
             }
         },
         {
@@ -3452,7 +3452,7 @@
             "en": {
                 "candidate_id": "9300af28-5ae3-47e4-be0b-cfdaced39263",
                 "name": " M.PRABHAHARAN",
-                "education": "\u0baa\u0b9f\u0bcd\u0b9f\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1  ",
+                "education": "Diploma ",
                 "occupation": "BUSINESS",
                 "age": "31",
                 "annual_income": "0",
@@ -3523,7 +3523,7 @@
             "ta": {
                 "candidate_id": "9300af28-5ae3-47e4-be0b-cfdaced39263",
                 "name": " M.\u0baa\u0bbf\u0bb0\u0baa\u0bbe\u0b95\u0bb0\u0ba9\u0bcd",
-                "education": "\u0baa\u0b9f\u0bcd\u0b9f\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1  ",
+                "education": "Diploma ",
                 "occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
                 "age": "31",
                 "annual_income": "0",
@@ -3591,11 +3591,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
                 "cases_pending_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
-                "self_education_description": "",
+                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 ",
                 "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
-                "cases_convicted_description": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bc1 "
+                "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "self_education_description": ""
             }
         },
         {

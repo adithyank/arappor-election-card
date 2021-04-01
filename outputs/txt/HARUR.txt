@@ -114,7 +114,7 @@ Total Assets : 6 crore 64 lacs
 Liability : 2 crore 61 lacs
 Net Asset : 4 crore 03 lacs
 Criminal Cases : 4
-Case Details : NOT MENTIONED. 
+Case Details : 
 Symbol Name : PRESSURE_COOKER
 
 =====================

@@ -233,14 +233,14 @@
       "educationTamil": "9TH STD",
       "occupation": "AGRICULTURE",
       "occupationTamil": "விவசாயம் ",
-      "totalAsset": "53 lacs",
-      "totalAssetTamil": "53 லட்சம்",
-      "liability": "1 crore 58 lacs",
-      "liabilityTamil": "1 கோடி 58 லட்சம்",
-      "netAsset": "-1 crore 05 lacs",
-      "netAssetTamil": "-1 கோடி 05 லட்சம்",
+      "totalAsset": "1 crore 77 lacs",
+      "totalAssetTamil": "1 கோடி 77 லட்சம்",
+      "liability": "34 lacs",
+      "liabilityTamil": "34 லட்சம்",
+      "netAsset": "1 crore 43 lacs",
+      "netAssetTamil": "1 கோடி 43 லட்சம்",
       "criminalCase": "4",
-      "caseDetailEnglish": "A1 Gulty U/S: 188, 147, 341, 4 TNP (PDL) Act rw 149, 3(0 TNP (PDL) Act tiw. 149 (3 counts), 3(0 TNP (PDL) Act riw 149 and 341 r/w 149 IPC",
+      "caseDetailEnglish": "143- Unlawful Assembly, 188- Disobedience to order duly promulgated by public servant, 341- wrongful restrain. 188- Disobedience to order duly promulgated by public servant, 147- Rioting, 341 - wrongful restrain, ",
       "caseDetailTamil": "147-கலவரம் உண்டுபடுத்துதல்,188- அரசு   ஊழியரால் முறையாக அறிவிக்கப்பட்ட கட்டளைக்கு கீழ்ப்படியாமை,  341-ஆபத்தான ஆயுதங்கள் வைத்து காயப்படுத்துதல், . ",
       "symbolName": "PRESSURE_COOKER",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PRESSURE_COOKER.JPG",
@@ -337,10 +337,9 @@
       "caseDetailTamil": "",
       "symbolName": "CAULIFLOWER",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CAULIFLOWER.JPG",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SHANMUGAM_P__Dharmapuri.jpg",
-      "photoName": "SHANMUGAM_P__Dharmapuri",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/ds",
       "soSymbolUrl": "assets/data/retrieved-imgs/symbol/CAULIFLOWER.JPG",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHANMUGAM_P__Dharmapuri.jpg"
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ds"
     },
     {
       "recid": "9305129b-d883-4aeb-985d-2bd3d8762d0e",
@@ -492,9 +491,10 @@
       "caseDetailTamil": "",
       "symbolName": "POT",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/POT.JPG",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/sd",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/DHARMAPURI_28.JPG",
+      "photoName": "DHARMAPURI_28",
       "soSymbolUrl": "assets/data/retrieved-imgs/symbol/POT.JPG",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/sd"
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DHARMAPURI_28.JPG"
     },
     {
       "recid": "93050a51-c403-4547-9015-2fd437e5b1d2",

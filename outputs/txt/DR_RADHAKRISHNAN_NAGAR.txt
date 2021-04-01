@@ -52,7 +52,7 @@ Symbol Name : ELEPHANT
 Name : E.RAMADASS
 Age : 68
 Party Name : Makkal Nalvaazhvu Katchi
-Education : Chennai Corporation High School, Chennai
+Education : SSLC
 Occupation : Social Activist
 Total Assets : 12 lacs
 Liability : No

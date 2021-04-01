@@ -44,7 +44,7 @@ Total Assets : 96 lacs
 Liability : 32 lacs
 Net Asset : 63 lacs
 Criminal Cases : 3
-Case Details : 
+Case Details : வழக்கு விவரங்கள் குறிப்பிடவில்லை. 
 Symbol Name : RISING_SUN
 
 =====================

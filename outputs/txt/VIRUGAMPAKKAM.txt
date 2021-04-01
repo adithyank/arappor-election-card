@@ -143,7 +143,7 @@ Liability : No
 Net Asset : 1 lacs
 Criminal Cases : 0
 Case Details :  ஏதுமில்லை.  ஏதுமில்லை
-Symbol Name-
+Symbol Name : HURRICANE_LAMP
 
 =====================
 

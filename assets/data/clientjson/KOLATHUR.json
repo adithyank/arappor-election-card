@@ -738,8 +738,12 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
-      "photoUrl": "null"
+      "symbolName": "KOLATHUR_58",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/KOLATHUR_58.JPG",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/KOLATHUR_58.JPG",
+      "photoName": "KOLATHUR_58",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/KOLATHUR_58.JPG",
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_58.JPG"
     },
     {
       "recid": "92fd5537-7c20-4a44-81ac-ff6fd20dd968",

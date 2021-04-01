@@ -800,9 +800,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
+      "symbolName": "CHEPAUK_THIRUVALLIKENI_28",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CHEPAUK_THIRUVALLIKENI_28.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/CHEPAUK_THIRUVALLIKENI_28.jpg",
       "photoName": "CHEPAUK_THIRUVALLIKENI_28",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/CHEPAUK_THIRUVALLIKENI_28.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_28.jpg"
     }
   ]

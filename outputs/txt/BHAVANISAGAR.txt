@@ -33,7 +33,7 @@ Criminal Cases : 0
 Case Details : பொருந்தாது
 . பொருந்தாது
 
-Symbol Name-
+Symbol Name : EARS_OF_CORN_AND_SICKLE
 
 =====================
 

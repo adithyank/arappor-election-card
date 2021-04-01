@@ -4,7 +4,7 @@
     {
       "recid": "92f68d0b-f9d2-4613-bcdd-76319864374d",
       "name": "E.R.ESWARAN",
-      "nameTamil": "E.R.E .R. ஈஸ்வரன் ",
+      "nameTamil": "E.R.ஈஸ்வரன் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -24,7 +24,7 @@
       "netAssetTamil": "23 கோடி 86 லட்சம்",
       "criminalCase": "5",
       "caseDetailEnglish": "Rioting, Unlawful assembly, Disobeying, Wrongful restraint. ",
-      "caseDetailTamil": "கலகம், பயங்கர ஆயுதங்களுடன் கலகம் செய்ததாக, கொலை செய்ய முயற்சி செய்தல், அடுத்தவரை காயப்படுத்தியத்திற்கு, குற்றங்கருதி மிரட்டல் விட்டதாக . பொருந்தாது ",
+      "caseDetailTamil": "கலகம், பயங்கர ஆயுதங்களுடன் கலகம் செய்ததாக, கொலை செய்ய முயற்சி செய்தல், அடுத்தவரை காயப்படுத்தியத்திற்கு, குற்றங்கருதி மிரட்டல் விட்டதாக . ",
       "symbolName": "RISING_SUN",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUCHENGODU_5.jpg",
@@ -35,7 +35,7 @@
     {
       "recid": "92f69bb7-f265-45ee-b54f-b1e1af60b498",
       "name": "Pon.Saraswathi",
-      "nameTamil": "Pon.சரஸ்வதி பொன்",
+      "nameTamil": "Pon.சரஸ்வதி ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -54,8 +54,8 @@
       "netAsset": "11 crore 62 lacs",
       "netAssetTamil": "11 கோடி 62 லட்சம்",
       "criminalCase": "1",
-      "caseDetailEnglish": "* Forgery for purpose of cheating. *Cheating and dishonestly inducing delivery of property . Candidate accused of forging her sister R.M. Shanthi\u0027s signature.. ",
-      "caseDetailTamil": "* மோசடி மற்றும் நேர்மையற்ற முறையில் சொத்து விநியோகத்தைத் தூண்டும். பொன். சரஸ்வதி அவர்களின் சகோதரி R.M. சாந்தி  போல் பொன். சரஸ்வதி கையெழுத்திட்டார்  என மோசடி குற்றச்சாட்டு . ",
+      "caseDetailEnglish": "* Forgery for purpose of cheating. *Cheating and dishonestly inducing delivery of property . . ",
+      "caseDetailTamil": "* மோசடி மற்றும் நேர்மையற்ற முறையில் சொத்து விநியோகத்தைத் தூண்டும் மோசடி குற்றச்சாட்டு . ",
       "symbolName": "TWO_LEAVES",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUCHENGODU_1.jpg",
@@ -66,7 +66,7 @@
     {
       "recid": "92fefcb7-4fbf-4631-b792-b2767f3b8b50",
       "name": "A.Kalaivanan",
-      "nameTamil": "A.A கலைவாணன்",
+      "nameTamil": "A.கலைவாணன்",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -97,7 +97,7 @@
     {
       "recid": "92ff011a-5568-455a-87f3-96b62b88b8fc",
       "name": "K.Sivakumar",
-      "nameTamil": "K.க.சிவக்குமார் ",
+      "nameTamil": "K.சிவக்குமார் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -128,7 +128,7 @@
     {
       "recid": "92fefddd-4a5d-49b4-aca9-9df3b445a57d",
       "name": "K.Chinnathambi",
-      "nameTamil": "K.K .சின்னதம்பி ",
+      "nameTamil": "K.சின்னதம்பி ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -159,7 +159,7 @@
     {
       "recid": "92ff02c6-fbdf-4571-9c99-53a753cdba47",
       "name": "N.SengottuVellu",
-      "nameTamil": "N.ந.செங்கோட்டுவேலு ",
+      "nameTamil": "N.செங்கோட்டுவேலு ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -190,7 +190,7 @@
     {
       "recid": "92f86b2e-d60f-4f3f-b5e4-8f84bd47e35b",
       "name": "P.NATARAJAN",
-      "nameTamil": "P.பொ.நடராஜன் ",
+      "nameTamil": "P.நடராஜன் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -213,15 +213,15 @@
       "caseDetailTamil": "பொருந்தாது . பொருந்தாது ",
       "symbolName": "GANNA_KISAN",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GANNA_KISAN.JPG",
-      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/TIRUCHENGODU_17.jpg",
-      "photoName": "TIRUCHENGODU_17",
+      "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/NATARAJANP_Tiruchengodu.jpg",
+      "photoName": "NATARAJANP_Tiruchengodu",
       "soSymbolUrl": "assets/data/retrieved-imgs/symbol/GANNA_KISAN.JPG",
-      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_17.jpg"
+      "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATARAJANP_Tiruchengodu.jpg"
     },
     {
       "recid": "92f960d6-c2f7-4727-8c18-6fec4d77755f",
       "name": "K.Yuvaraj kumar",
-      "nameTamil": "K.K.யுவராஜ்குமார் ",
+      "nameTamil": "K.யுவராஜ்குமார் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -252,7 +252,7 @@
     {
       "recid": "92feff8d-f0b0-4c3c-a095-806fd82e779f",
       "name": "R.JANAGARAJ",
-      "nameTamil": "R.R. ஜனகராஜ் ",
+      "nameTamil": "R.ஜனகராஜ் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -283,7 +283,7 @@
     {
       "recid": "92f69fbf-801b-4c49-b84d-6165cf68349d",
       "name": "R.HEMALATHA",
-      "nameTamil": "R.ரா.ஹேமலதா ",
+      "nameTamil": "R.ஹேமலதா ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -345,7 +345,7 @@
     {
       "recid": "92fef6ac-8091-4654-8072-aaf2f16dd9e8",
       "name": "K.Eswaran",
-      "nameTamil": "K.க. ஈஸ்வரன் ",
+      "nameTamil": "K.ஈஸ்வரன் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -438,7 +438,7 @@
     {
       "recid": "92fef0e3-ea2a-4511-bcf2-e95a2c09970d",
       "name": "S.Karthikeyan",
-      "nameTamil": "S.S .கார்த்திகேயன் ",
+      "nameTamil": "S.கார்த்திகேயன் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -469,7 +469,7 @@
     {
       "recid": "92fefa8f-a022-47e7-9ee7-4cf4178719f9",
       "name": "T.Shanmugasundaram",
-      "nameTamil": "T.T .சண்முகசுந்தரம்",
+      "nameTamil": "T.சண்முகசுந்தரம்",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -500,7 +500,7 @@
     {
       "recid": "92fef978-adc2-45f7-afcb-2a9e1a6e8f4f",
       "name": "C.SATHIESHKUMAR",
-      "nameTamil": "C.சி.சதீஸ்குமார் ",
+      "nameTamil": "C.சதீஸ்குமார் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -531,7 +531,7 @@
     {
       "recid": "92fef816-73cf-4964-80a0-21b26d30ab65",
       "name": "R.CHANDRA",
-      "nameTamil": "R.R. சந்திரா ",
+      "nameTamil": "R.சந்திரா ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -562,7 +562,7 @@
     {
       "recid": "92feec13-29ad-4400-b46a-e00c51b8418b",
       "name": "K.Saravanan",
-      "nameTamil": "K.கா .சரவணன் ",
+      "nameTamil": "K.சரவணன் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -593,7 +593,7 @@
     {
       "recid": "92feef76-6b10-4e0b-84b5-8098d9ace706",
       "name": "M.Saraswathi",
-      "nameTamil": "M.M சரஸ்வதி ",
+      "nameTamil": "M.சரஸ்வதி ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -624,7 +624,7 @@
     {
       "recid": "92fef44c-b4fd-4e0c-a3ec-5d90d3ea66a6",
       "name": "C.SenthilKumar",
-      "nameTamil": "C.சி.செந்தில்குமார் ",
+      "nameTamil": "C.செந்தில்குமார் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -717,7 +717,7 @@
     {
       "recid": "92fc9039-9dc2-45d1-9691-1e0313904014",
       "name": "C.BALAMURUGAN",
-      "nameTamil": "C.C .பாலமுருகன் ",
+      "nameTamil": "C.பாலமுருகன் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -810,7 +810,7 @@
     {
       "recid": "92fef2a6-7f25-426a-860b-d73951a97945",
       "name": "R.Ranjit",
-      "nameTamil": "R.R .ரஞ்சித் ",
+      "nameTamil": "R.ரஞ்சித் ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
@@ -841,7 +841,7 @@
     {
       "recid": "92feee61-7057-42b4-b3a6-0954a9d2db48",
       "name": "K.Velu",
-      "nameTamil": "K.K .வேலு ",
+      "nameTamil": "K.வேலு ",
       "constituency": "TIRUCHENGODU",
       "constituencyTamil": "திருச்செங்கோடு",
       "district": "Namakkal",
