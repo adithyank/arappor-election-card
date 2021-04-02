@@ -1068,7 +1068,7 @@
                 "party": {
                     "id": "Annaithu Makkal Puratchi Katchi",
                     "en_label": "Annaithu Makkal Puratchi Katchi",
-                    "ta_label": "\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GLASS_TUMBLER.JPG"
                 },
                 "thokuthi": {
@@ -1138,7 +1138,7 @@
                 "party": {
                     "id": "Annaithu Makkal Puratchi Katchi",
                     "en_label": "Annaithu Makkal Puratchi Katchi",
-                    "ta_label": "\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/GLASS_TUMBLER.JPG"
                 },
                 "thokuthi": {
@@ -1186,7 +1186,7 @@
                         "overall": "0"
                     }
                 ],
-                "other_party_name": "\u0b85\u0ba3\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
+                "other_party_name": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
                 "self_source_of_income": "\u0ba4\u0bb0\u0bb5\u0bc1 \u0b87\u0bb2\u0bcd\u0bb2\u0bc8",
                 "cases_pending_description": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
                 "self_education_description": "",
@@ -1356,7 +1356,7 @@
                 "total_assets": "1,682,000",
                 "liabilities": "1,000,000",
                 "net_assets": "682,000",
-                "criminal_cases_pending": "4",
+                "criminal_cases_pending": 4,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 4,
                 "cases_description": "ASSUALT, ILLEGAL MINING OF SAND. ",
@@ -1427,7 +1427,7 @@
                 "total_assets": "1,682,000",
                 "liabilities": "1,000,000",
                 "net_assets": "682,000",
-                "criminal_cases_pending": "4",
+                "criminal_cases_pending": 4,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 4,
                 "cases_description": "\u0b85\u0b9f\u0bbf\u0ba4\u0b9f\u0bbf, \u0bae\u0ba3\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 . ",

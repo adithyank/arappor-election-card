@@ -7,10 +7,10 @@
                 "candidate_id": "930328e4-7da1-45d2-81ac-014416f200ef",
                 "name": "K.PONNUTHAI",
                 "education": "12th PASS",
-                "occupation": "PARTY OWNER",
+                "occupation": "PARTY WORKER",
                 "age": "47",
                 "annual_income": "0",
-                "source_of_income": "PARTY OWNER",
+                "source_of_income": "PARTY WORKER",
                 "moveable_assets": "719,490",
                 "immoveable_assets": "760,000",
                 "total_assets": "1,479,490",
@@ -26,7 +26,7 @@
                     "short_name": "CPOIM",
                     "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bae\u0bcd\u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf (\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b9a\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd)",
                     "en_label": "Communist party of India (Marxist)",
-                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/EARS_OF_CORN_AND_SICKLE.JPG"
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HAMMER_SICKLE_AND_STAR.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "THIRUPARANKUNDRAM",
@@ -81,7 +81,7 @@
                 "occupation": "\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd",
                 "age": "47",
                 "annual_income": "0",
-                "source_of_income": "PARTY OWNER",
+                "source_of_income": "PARTY WORKER",
                 "moveable_assets": "719,490",
                 "immoveable_assets": "760,000",
                 "total_assets": "1,479,490",
@@ -97,7 +97,7 @@
                     "short_name": "CPOIM",
                     "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bae\u0bcd\u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf (\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b9a\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd)",
                     "en_label": "Communist party of India (Marxist)",
-                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/EARS_OF_CORN_AND_SICKLE.JPG"
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/HAMMER_SICKLE_AND_STAR.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "THIRUPARANKUNDRAM",
@@ -464,7 +464,7 @@
                 "total_assets": "23,469,765",
                 "liabilities": "176,000",
                 "net_assets": "23,293,765",
-                "criminal_cases_pending": "4",
+                "criminal_cases_pending": 4,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 4,
                 "cases_description": "Unlawful assembly, Bribery and illegal payments in connection with election, Danger or obstruction in public way, Wrongful retsraint.. ",
@@ -534,7 +534,7 @@
                 "total_assets": "23,469,765",
                 "liabilities": "176,000",
                 "net_assets": "23,293,765",
-                "criminal_cases_pending": "4",
+                "criminal_cases_pending": 4,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 4,
                 "cases_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0bae\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0b95 \u0bb2\u0b9e\u0bcd\u0b9a\u0bae\u0bcd/ \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0baa\u0ba3\u0bae\u0bcd \u0b85\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1/\u0ba4\u0b9f\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd . ",
@@ -591,11 +591,11 @@
                     }
                 ],
                 "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd ",
-                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0bae\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0b95 \u0bb2\u0b9e\u0bcd\u0b9a\u0bae\u0bcd/ \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0baa\u0ba3\u0bae\u0bcd \u0b85\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1/\u0ba4\u0b9f\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd ",
-                "cases_convicted_description": "",
-                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
                 "self_source_of_income": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
-                "self_education_description": ""
+                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0bae\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0b95 \u0bb2\u0b9e\u0bcd\u0b9a\u0bae\u0bcd/ \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0baa\u0ba3\u0bae\u0bcd \u0b85\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1/\u0ba4\u0b9f\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
             }
         },
         {
@@ -1806,7 +1806,7 @@
                 "total_assets": "1,110,537",
                 "liabilities": "389,663",
                 "net_assets": "720,874",
-                "criminal_cases_pending": "1",
+                "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
                 "cases_description": "Obscene words, Voluntarily causing hurt using dangerous weapons, Woman harassment.. ",
@@ -1877,7 +1877,7 @@
                 "total_assets": "1,110,537",
                 "liabilities": "389,663",
                 "net_assets": "720,874",
-                "criminal_cases_pending": "1",
+                "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
                 "cases_description": "\u0baa\u0bca\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0b9a\u0bcd \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc7\u0b9a\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bae\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0bb5\u0bc7\u0bb1\u0bc1 \u0bb5\u0bb4\u0bbf\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0ba8\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1.. ",
@@ -1935,11 +1935,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "cases_pending_description": "\u0baa\u0bca\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0b9a\u0bcd \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc7\u0b9a\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bae\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0bb5\u0bc7\u0bb1\u0bc1 \u0bb5\u0bb4\u0bbf\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0ba8\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1.",
-                "cases_convicted_description": "",
-                "self_profession_occupation": "\u0b86\u0b9f\u0bcd\u0b9f\u0bcb \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
                 "self_source_of_income": "\u0b86\u0b9f\u0bcd\u0b9f\u0bcb \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
-                "self_education_description": ""
+                "cases_pending_description": "\u0baa\u0bca\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0b9a\u0bcd \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc7\u0b9a\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bae\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0bb5\u0bc7\u0bb1\u0bc1 \u0bb5\u0bb4\u0bbf\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0ba8\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1.",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b86\u0b9f\u0bcd\u0b9f\u0bcb \u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bcd",
+                "cases_convicted_description": ""
             }
         },
         {
@@ -3000,7 +3000,7 @@
                 "total_assets": "316,711",
                 "liabilities": "120,000",
                 "net_assets": "196,711",
-                "criminal_cases_pending": "3",
+                "criminal_cases_pending": 3,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 3,
                 "cases_description": "Malignant act likely to spread infection of disease dangerous to life, Unlawful assembly, Disobedience to rule duly promulgated by public servant, Wrongful restraint.. ",
@@ -3071,7 +3071,7 @@
                 "total_assets": "316,711",
                 "liabilities": "120,000",
                 "net_assets": "196,711",
-                "criminal_cases_pending": "3",
+                "criminal_cases_pending": 3,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 3,
                 "cases_description": "\u0b89\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bc8 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0ba4\u0bc0\u0baf \u0b8e\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd, \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1. ",
@@ -3129,11 +3129,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "cases_pending_description": "\u0b89\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bc8 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0ba4\u0bc0\u0baf \u0b8e\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd, \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
-                "cases_convicted_description": "",
-                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
                 "self_source_of_income": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
-                "self_education_description": ""
+                "cases_pending_description": "\u0b89\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bc8 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0ba4\u0bc0\u0baf \u0b8e\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd, \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bae\u0bcd",
+                "cases_convicted_description": ""
             }
         },
         {

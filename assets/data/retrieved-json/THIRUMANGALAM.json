@@ -166,7 +166,7 @@
                 "total_assets": "13,303,990",
                 "liabilities": "1,646,000",
                 "net_assets": "11,657,990",
-                "criminal_cases_pending": "1",
+                "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
                 "cases_description": "Unlawful assembly, Disobedience to rule duly promulgated by public servant. ",
@@ -237,7 +237,7 @@
                 "total_assets": "13,303,990",
                 "liabilities": "1,646,000",
                 "net_assets": "11,657,990",
-                "criminal_cases_pending": "1",
+                "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
                 "cases_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bc2\u0bb4\u0bbf\u0baf\u0bb0\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8  . ",
@@ -295,11 +295,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bc2\u0bb4\u0bbf\u0baf\u0bb0\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8  ",
-                "cases_convicted_description": "",
-                "self_profession_occupation": "\u0b89\u0bb4\u0bb5\u0bb0\u0bcd ",
                 "self_source_of_income": "\u0b89\u0bb4\u0bb5\u0bb0\u0bcd ",
-                "self_education_description": ""
+                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bc2\u0bb4\u0bbf\u0baf\u0bb0\u0bbf\u0ba9\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8  ",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b89\u0bb4\u0bb5\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
             }
         },
         {
@@ -316,7 +316,7 @@
                 "total_assets": "18,438,543",
                 "liabilities": "55,697,000",
                 "net_assets": "-37,258,457",
-                "criminal_cases_pending": "6",
+                "criminal_cases_pending": 6,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 6,
                 "cases_description": "Unlawful assembly, Rioting, armed with deadly weapons, Prosecution of common objects, Disobedience to rule duly promulgated by public servant, Negligent/Malignant act likely to spread infection of disease dangerous to life, Obscene act/language in public place, Murder, Wrongful confinement, House-trespass, Criminal intimidation, Voluntarily causing hurt, with deadly weapons, Theft, Arrest to prevent the commission of cognizable offences, Penalty for unauthorised disfigurement by advertisements. ",
@@ -386,7 +386,7 @@
                 "total_assets": "18,438,543",
                 "liabilities": "55,697,000",
                 "net_assets": "-37,258,457",
-                "criminal_cases_pending": "6",
+                "criminal_cases_pending": 6,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 6,
                 "cases_description": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bb2\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc7\u0ba4\u0bae\u0bcd \u0bb5\u0bbf\u0bb4\u0bc8\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0baa\u0bca\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd \u0baa\u0bc1\u0bb0\u0bbf\u0ba4\u0bb2\u0bcd, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd,\u0b89\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0ba8\u0bcb\u0baf\u0bcd\u0ba4\u0bcd\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd, \u0b9a\u0bbf\u0bb1\u0bc8\u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0baf \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0ba4\u0bc2\u0ba3\u0bcd\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b95\u0bca\u0bb2\u0bc8 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba4\u0ba9\u0bbf\u0ba8\u0baa\u0bb0\u0bc8 \u0b9a\u0bbf\u0bb1\u0bc8\u0bb5\u0bc8\u0ba4\u0bb2\u0bcd, \u0b85\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bc0\u0bb1\u0bbf \u0baa\u0bbf\u0bb1\u0bb0\u0bcd\u0bae\u0ba9\u0bc8 \u0ba8\u0bc1\u0bb4\u0bc8\u0ba4\u0bb2\u0bcd, \u0b95\u0bca\u0b9f\u0bbf\u0baf \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0ba4\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95 \u0b95\u0b9f\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1, \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0bbe\u0bb5\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0baa\u0ba4\u0bbe\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1.\n. ",
@@ -1058,7 +1058,7 @@
                 "total_assets": "2,482,000",
                 "liabilities": "500,000",
                 "net_assets": "1,982,000",
-                "criminal_cases_pending": "1",
+                "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
                 "cases_description": "Rioting, armed with deadly weapons, Voluntarily causing hurt, Wrongful confinement to extort confession, or compel restoration of property, Criminal intimidation.. ",
@@ -1129,7 +1129,7 @@
                 "total_assets": "2,482,000",
                 "liabilities": "500,000",
                 "net_assets": "1,982,000",
-                "criminal_cases_pending": "1",
+                "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
                 "cases_description": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bae\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bb2\u0b95\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba8\u0baa\u0bb0\u0bc8 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc8\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0baf\u0bbe\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd. ",
@@ -1187,11 +1187,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "cases_pending_description": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bae\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bb2\u0b95\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba8\u0baa\u0bb0\u0bc8 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc8\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0baf\u0bbe\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd",
-                "cases_convicted_description": "",
-                "self_profession_occupation": "\u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd ",
                 "self_source_of_income": "\u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd ",
-                "self_education_description": ""
+                "cases_pending_description": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bae\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bb2\u0b95\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba4\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbe\u0b95 \u0b95\u0bbe\u0baf\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0ba8\u0baa\u0bb0\u0bc8 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc8\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0baf\u0bbe\u0ba4\u0bc1, \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd ",
+                "cases_convicted_description": ""
             }
         },
         {
@@ -1958,7 +1958,7 @@
                 "total_assets": "839,000",
                 "liabilities": "160,000",
                 "net_assets": "679,000",
-                "criminal_cases_pending": "1",
+                "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
                 "cases_description": "RIOTING, AREMD WITH DADLY WEAPONS, OBSCENE ACT/LANGUAGE IN PUBLIC PLACE, ATTEMPT MURDER, VOLUNTARILY CAUSING HURT, WITH DEADLY WEAPON, THEFT, CRIMINAL INTIMIDATION. ",
@@ -2028,7 +2028,7 @@
                 "total_assets": "839,000",
                 "liabilities": "160,000",
                 "net_assets": "679,000",
-                "criminal_cases_pending": "1",
+                "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
                 "cases_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0bae\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd \u0baa\u0bc1\u0bb0\u0bbf\u0ba4\u0bb2\u0bcd , \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf , \u0bae\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf\u0baf\u0bc8 \u0b89\u0baa\u0baf\u0bcb\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd , \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 , \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd. ",
@@ -2085,11 +2085,11 @@
                     }
                 ],
                 "other_party_name": "\u0b85\u0bae\u0bcd\u0bae\u0bbe \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0b95\u0bae\u0bcd",
-                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0bae\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd \u0baa\u0bc1\u0bb0\u0bbf\u0ba4\u0bb2\u0bcd , \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf , \u0bae\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf\u0baf\u0bc8 \u0b89\u0baa\u0baf\u0bcb\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd , \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 , \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd",
-                "cases_convicted_description": "",
-                "self_profession_occupation": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
                 "self_source_of_income": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
-                "self_education_description": ""
+                "cases_pending_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, \u0bae\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd \u0baa\u0bc1\u0bb0\u0bbf\u0ba4\u0bb2\u0bcd , \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf , \u0bae\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf\u0baf\u0bc8 \u0b89\u0baa\u0baf\u0bcb\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd , \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 , \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
+                "cases_convicted_description": ""
             }
         },
         {
@@ -2694,7 +2694,7 @@
                 "total_assets": "435,000",
                 "liabilities": "0",
                 "net_assets": "435,000",
-                "criminal_cases_pending": "1",
+                "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
                 "cases_description": " UNLAWFUL ASSEMBLY, DANGER OR OBSTRUCTION IN PUBLIC WAY, NEGLIGENT ACT LIKELY TO SPREAD INFECTION OF DISEASE DANGEROUS TO LIFE, WRONGFUL RESTRAINT. ",
@@ -2765,7 +2765,7 @@
                 "total_assets": "435,000",
                 "liabilities": "0",
                 "net_assets": "435,000",
-                "criminal_cases_pending": "1",
+                "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
                 "cases_description": "\u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1/\u0ba4\u0b9f\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0ba4\u0bb2\u0bcd, \u0b95\u0bb5\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bbe\u0b95 \u0b89\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0ba8\u0bcb\u0baf\u0bcd\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd, \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd,. ",

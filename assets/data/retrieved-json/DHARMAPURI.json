@@ -16,7 +16,7 @@
                 "total_assets": "10,802,918",
                 "liabilities": "1,000,000",
                 "net_assets": "9,802,918",
-                "criminal_cases_pending": "3",
+                "criminal_cases_pending": 3,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 3,
                 "cases_description": "151 Crpc- Arrest to prevent the commission of cognizable offences,188- Disobedience to order duly promulgated by public servant, 143 Unlawful Assembly . ",
@@ -87,7 +87,7 @@
                 "total_assets": "10,802,918",
                 "liabilities": "1,000,000",
                 "net_assets": "9,802,918",
-                "criminal_cases_pending": "3",
+                "criminal_cases_pending": 3,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 3,
                 "cases_description": "188- \u0b85\u0bb0\u0b9a\u0bc1 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0baf\u0ba4\u0bc1, 143-\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, 151 Cr.P.C- \u0baa\u0bca\u0ba4\u0bc1 \u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc1\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1. ",
@@ -145,11 +145,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "cases_pending_description": "188- \u0b85\u0bb0\u0b9a\u0bc1 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0baf\u0ba4\u0bc1, 143-\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, 151 Cr.P.C- \u0baa\u0bca\u0ba4\u0bc1 \u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc1\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
-                "cases_convicted_description": "",
-                "self_profession_occupation": " \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf",
                 "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
-                "self_education_description": ""
+                "cases_pending_description": "188- \u0b85\u0bb0\u0b9a\u0bc1 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0baf\u0ba4\u0bc1, 143-\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, 151 Cr.P.C- \u0baa\u0bca\u0ba4\u0bc1 \u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc1\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+                "self_education_description": "",
+                "self_profession_occupation": " \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf",
+                "cases_convicted_description": ""
             }
         },
         {
@@ -466,7 +466,7 @@
                 "total_assets": "690,000",
                 "liabilities": "0",
                 "net_assets": "690,000",
-                "criminal_cases_pending": "1",
+                "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
                 "cases_description": "143- Unlawful assembly, 341-wrongful restrain. ",
@@ -537,7 +537,7 @@
                 "total_assets": "690,000",
                 "liabilities": "0",
                 "net_assets": "690,000",
-                "criminal_cases_pending": "1",
+                "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
                 "cases_description": "143- \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, 341- \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd. ",
@@ -595,11 +595,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "cases_pending_description": "143- \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, 341- \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd",
-                "cases_convicted_description": "",
-                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf,\u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
                 "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf,\u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
-                "self_education_description": ""
+                "cases_pending_description": "143- \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, 341- \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf,\u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+                "cases_convicted_description": ""
             }
         },
         {
@@ -918,9 +918,9 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/DHARMAPURI_4.jpg",
                 "party": {
-                    "id": "My India Party",
-                    "en_label": "My India Party",
-                    "ta_label": "",
+                    "id": "MY INDIA PARTY",
+                    "en_label": "MY INDIA PARTY",
+                    "ta_label": "\u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG"
                 },
                 "thokuthi": {
@@ -988,9 +988,9 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/DHARMAPURI_4.jpg",
                 "party": {
-                    "id": "My India Party",
-                    "en_label": "My India Party",
-                    "ta_label": "",
+                    "id": "MY INDIA PARTY",
+                    "en_label": "MY INDIA PARTY",
+                    "ta_label": "\u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/CCTV_CAMERA.JPG"
                 },
                 "thokuthi": {
@@ -1038,12 +1038,12 @@
                         "overall": "0"
                     }
                 ],
-                "other_party_name": "",
-                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "other_party_name": "\u0bae\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
                 "cases_pending_description": "",
-                "self_education_description": "",
+                "cases_convicted_description": "",
                 "self_profession_occupation": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
-                "cases_convicted_description": ""
+                "self_source_of_income": "\u0b87\u0bb2\u0bcd\u0bb2\u0bc8 ",
+                "self_education_description": ""
             }
         },
         {
@@ -1060,8 +1060,8 @@
                 "total_assets": "17,719,075",
                 "liabilities": "3,368,125",
                 "net_assets": "14,350,950",
-                "criminal_cases_pending": "3",
-                "criminal_cases_convicted": "1",
+                "criminal_cases_pending": 3,
+                "criminal_cases_convicted": 1,
                 "no_of_criminal_cases": 4,
                 "cases_description": "143- Unlawful Assembly, 188- Disobedience to order duly promulgated by public servant, 341- wrongful restrain. 188- Disobedience to order duly promulgated by public servant, 147- Rioting, 341 - wrongful restrain, ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RAJENDRAN_D_K__Dharmapuri.jpg",
@@ -1130,8 +1130,8 @@
                 "total_assets": "17,719,075",
                 "liabilities": "3,368,125",
                 "net_assets": "14,350,950",
-                "criminal_cases_pending": "3",
-                "criminal_cases_convicted": "1",
+                "criminal_cases_pending": 3,
+                "criminal_cases_convicted": 1,
                 "no_of_criminal_cases": 4,
                 "cases_description": "147-\u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd,188- \u0b85\u0bb0\u0b9a\u0bc1   \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8,  341-\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, . ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/RAJENDRAN_D_K__Dharmapuri.jpg",
@@ -1208,7 +1208,7 @@
                 "total_assets": "4,247,461",
                 "liabilities": "2,610,500",
                 "net_assets": "1,636,961",
-                "criminal_cases_pending": "4",
+                "criminal_cases_pending": 4,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 4,
                 "cases_description": "143- Unlawful Assembly, 147- Rioting, 188- Disobedience to order duly promulgated by public servant, 294- obscene acts,  323- causing voluntary hurt, 341- wrongful restrain, 506-  criminal intimidation . ",
@@ -1279,7 +1279,7 @@
                 "total_assets": "4,247,461",
                 "liabilities": "2,610,500",
                 "net_assets": "1,636,961",
-                "criminal_cases_pending": "4",
+                "criminal_cases_pending": 4,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 4,
                 "cases_description": "506 \u0b95\u0bca\u0bb2\u0bc8  \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, 143- \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, 147-\u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, 188- \u0b85\u0bb0\u0b9a\u0bc1   \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, 294- \u0b86\u0baa\u0bbe\u0b9a\u0bae\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 ,341 -\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd. ",
@@ -1337,11 +1337,11 @@
                     }
                 ],
                 "other_party_name": "",
-                "cases_pending_description": "506 \u0b95\u0bca\u0bb2\u0bc8  \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, 143- \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, 147-\u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, 188- \u0b85\u0bb0\u0b9a\u0bc1   \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, 294- \u0b86\u0baa\u0bbe\u0b9a\u0bae\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 ,341 -\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd",
-                "cases_convicted_description": "",
-                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
                 "self_source_of_income": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
-                "self_education_description": ""
+                "cases_pending_description": "506 \u0b95\u0bca\u0bb2\u0bc8  \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd, 143- \u0b9a\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0bb0\u0bcb\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1, 147-\u0b95\u0bb2\u0bb5\u0bb0\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd, 188- \u0b85\u0bb0\u0b9a\u0bc1   \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bcd\u0b9f\u0bb3\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc0\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bc8, 294- \u0b86\u0baa\u0bbe\u0b9a\u0bae\u0bbe\u0ba9 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 ,341 -\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b86\u0baf\u0bc1\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd",
+                "self_education_description": "",
+                "self_profession_occupation": "\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bae\u0bcd",
+                "cases_convicted_description": ""
             }
         },
         {
