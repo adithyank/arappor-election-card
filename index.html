@@ -49,35 +49,62 @@
 </div-->
 
 <main>
-    <div class="maindiv" style="height: calc(100vh - 8rem);">
+    <div class="maindiv" style="height: calc(100vh - 10rem);">
 
         <div class="container-fluid h-100">
 
             <div class="row">
-                <div class="col-3">
+                <div class="ml-3 col-3">
 
-                    <div class="w2ui-field w2ui-span5">
+                    <div class="row mb-0">
+                        <div class="col-auto">
                         <label>Constituency</label>
-                        <div> <input style="font-size: 0.8rem; width: 100%" id="constituencyList" type="list"></div>
+                        </div>
+                    </div>
+
+                    <div class="row mt-0 mb-3">
+                        <div class="col-9">
+                            <div class="w2ui-field w2ui-span0">
+                                <div> <input style="font-size: 0.8rem; width: 100%" id="constituencyList" type="list"></div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <input type="button" id="btnLoadConstituency" class="btn btn-primary" value="Load">
+                        </div>
                     </div>
                 </div>
 
-                <div class="col-auto">
-                    <input type="button" id="btnLoadConstituency" class="btn btn-primary" value="Load">
+                <div class="col-5">
+                    <div class="row mt-5">
+                        <div class="col-auto">
+                            <input type="button" id="btnViewFullCard" class="btn btn-primary" value="Full Card">
+                        </div>
+                        <div class="col-auto">
+                            <input type="button" id="btnViewVideoCard" class="btn btn-primary" value="Video Card">
+                        </div>
+                        <div class="col-auto">
+                            <input type="button" onclick="saveDivAsImage()" class="btn btn-primary" value="Save Current">
+                        </div>
+                    </div>
+
+                    <div class="row mt-2">
+
+                        <div class="col-auto">
+                            <input type="button" onclick="saveAllCards('video')" class="btn btn-primary" value="Save All Video Cards">
+                        </div>
+
+                        <div class="col-auto">
+                            <input type="button" onclick="saveAllCards('full')" class="btn btn-primary" value="Save All Full Cards">
+                        </div>
+
+                        <div class="col-auto">
+                            <input type="button" onclick="window.stop=1" class="btn btn-danger" value="STOP">
+                        </div>
+                    </div>
+
                 </div>
-                <div class="col-auto">
-                    <input type="button" id="btnViewFullCard" class="btn btn-primary" value="Full Card">
-                </div>
-                <div class="col-auto">
-                    <input type="button" id="btnViewVideoCard" class="btn btn-primary" value="Video Card | சட்டத">
-                </div>
-                <div class="col-auto">
-                    <input type="button" onclick="saveDivAsImage()" class="btn btn-primary" value="Save">
-                </div>
-                <div class="col-auto">
-                    <input type="button" onclick="saveAllVideoCards()" class="btn btn-primary" value="Save All Video Cards">
-                </div>
-                <div class="col-auto">
+
+                <div class="col-3" style="background-color: lightgray">
                     <label id = "labelProgress"></label>
                 </div>
             </div>
@@ -88,12 +115,14 @@
                 </div>
 
                 <div id="carddiv" class="col-sm-8 h-100">
-
-                    <div class="election-videocard-parent">
-                        <div id="videocardcontentdiv">
+                    <div class="row m-3">
+                        <div class="election-videocard-parent">
+                            <div id="videocardcontentdiv">
+                            </div>
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
 
