@@ -2,6 +2,7 @@ var constituencyList = ['GUMMIDIPOONDI', 'ALANDUR', 'PONNERI','TIRUTTANI','THIRU
 var constituencyList1 = ['SIRKAZHI']
 var constituencyBaseUrl = 'http://election.arappor.org/api/candidates-by-constituency/CONSTITUENCY'
 var constituencyBaseUrlSO = 'assets/data/clientjson/CONSTITUENCY.json'
+var viewmode = "full"
 
 var candidatesTableConfig = {
 
@@ -18,24 +19,28 @@ var candidatesTableConfig = {
                 ],
 
                 onClick: function(event) {
-                    var grid = this;
-                    //var form = w2ui.subjectAdditionForm;
+                console.log("viewmode = ", viewmode)
 
-                    event.onComplete = function () {
+                    var grid = this;
+
+                    event.onComplete = function (event) {
                         var sel = grid.getSelection();
 
                         if (sel.length == 0) {return}
 
                         var tableData = grid.get(sel[0])
 
-                        sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/vcdesign.html", tableData)
-//                        sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/fullcard.html", tableData)
+                        if (viewmode === 'full')
+                            sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/fullcard.html", tableData)
+                        else
+                            sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/vcdesign.html", tableData)
                     }
-                }
             }
         }
+}
 
 $(document).on('click', '#btnViewFullCard', function(e) {
+    viewmode = 'full'
     let sel = w2ui.candidatesTable.getSelection()
     if (sel.length == 0)
        return
@@ -44,6 +49,7 @@ $(document).on('click', '#btnViewFullCard', function(e) {
 })
 
 $(document).on('click', '#btnViewVideoCard', function(e) {
+    viewmode = 'video'
     let sel = w2ui.candidatesTable.getSelection()
     if (sel.length == 0)
        return
@@ -97,8 +103,12 @@ $(document).on('click', '#btnLoadConstituency', function(e) {
 
 })
 
-var saveAllVideoCards = function()
+var saveAllCards = function(cardType)
 {
+    stop = 0
+
+    window.viewmode = cardType
+
 //    alert("wait, i m coming")
     let constituencyIdx = 0
     let previousConstituencyIdx = -1
