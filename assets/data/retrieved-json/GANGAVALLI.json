@@ -5,7 +5,7 @@
         {
             "en": {
                 "candidate_id": "92ff8711-e480-4398-8526-d694cd8eaf3e",
-                "name": "Sellammal",
+                "name": "V.M.Sellammal",
                 "education": "8th pass",
                 "occupation": "Self employed",
                 "age": "47",
@@ -76,7 +76,7 @@
             },
             "ta": {
                 "candidate_id": "92ff8711-e480-4398-8526-d694cd8eaf3e",
-                "name": "V.M. \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bae\u0bcd\u0bae\u0bbe\u0bb3\u0bcd ",
+                "name": "V.M..V.M. \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bae\u0bcd\u0bae\u0bbe\u0bb3\u0bcd ",
                 "education": "8th pass",
                 "occupation": "\u0b9a\u0bc1\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd ",
                 "age": "47",
@@ -472,8 +472,8 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/GANGAVALLI_16.jpg",
                 "party": {
-                    "id": "Puthiya Tamizhagam Katchi",
-                    "en_label": "Puthiya Tamizhagam Katchi",
+                    "id": "Puthiya Tamilagam",
+                    "en_label": "Puthiya Tamilagam",
                     "ta_label": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf   ",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG"
                 },
@@ -542,8 +542,8 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/GANGAVALLI_16.jpg",
                 "party": {
-                    "id": "Puthiya Tamizhagam Katchi",
-                    "en_label": "Puthiya Tamizhagam Katchi",
+                    "id": "Puthiya Tamilagam",
+                    "en_label": "Puthiya Tamilagam",
                     "ta_label": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf   ",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TELEVISION.JPG"
                 },
@@ -1516,9 +1516,10 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/GANGAVALLI_14.jpg",
                 "party": {
-                    "id": "INDU MAKKAL KATCHI",
-                    "en_label": "INDU MAKKAL KATCHI",
-                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bc1  \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BELT.JPG"
                 },
                 "thokuthi": {
@@ -1586,9 +1587,10 @@
                 "cases_description": "",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/GANGAVALLI_14.jpg",
                 "party": {
-                    "id": "INDU MAKKAL KATCHI",
-                    "en_label": "INDU MAKKAL KATCHI",
-                    "ta_label": "\u0b87\u0ba8\u0bcd\u0ba4\u0bc1  \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf ",
+                    "id": "Independent",
+                    "short_name": "I",
+                    "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
+                    "en_label": "Independent",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BELT.JPG"
                 },
                 "thokuthi": {

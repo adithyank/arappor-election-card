@@ -19,7 +19,7 @@
                 "criminal_cases_pending": 5,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 5,
-                "cases_description": "Unlawful assembly, Wantonly giving provocation with intent to cause riot, Obstructing public servant in discharge of public functions, Negligent act likely to spread infection of disease dangerous to life, Wrongful restraint,  refuses to comply with any direction given by any central/state authority. ",
+                "cases_description": "Unlawful assembly, Obstructing public servant in discharge of public functions, Negligent act likely to spread infection of disease dangerous to life, Wrongful restraint,  Refuses to comply with any direction given by any central/state authority. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/METTUR_11.jpg",
                 "party": {
                     "id": "Dravida Munnetra Kazhagam",
@@ -469,7 +469,7 @@
                 "criminal_cases_pending": 2,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 2,
-                "cases_description": "Disobedience to rule duly promulgated by public servant, Assault/criminal force to deter public servant from discharge of duty, Assault or criminal force with intent to dishonour person, otherwise than on grave provocation, Obscene act/language in public place, Punishment of criminal conspiracy, Cheating and dishonestly inducing delivery of property, Forgery of valuable security and for purpose of cheating, Using as genuine a forged document.. ",
+                "cases_description": "Disobedience to rule duly promulgated by public servant, Assault/criminal force to deter public servant from discharge of duty, Assault or criminal force with intent to dishonor person, otherwise than on grave provocation, Obscene act/language in public place, Criminal conspiracy, Cheating and dishonestly inducing delivery of property, Forgery of valuable security for purpose of cheating, Using as genuine a forged document.. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/METTUR_7.jpg",
                 "party": {
                     "id": "Pattali Makkal Katchi",
@@ -1515,7 +1515,7 @@
                 "criminal_cases_pending": 1,
                 "criminal_cases_convicted": 0,
                 "no_of_criminal_cases": 1,
-                "cases_description": "Rioting, Obscene acts/language in public place, Voluntarily causing hurt with deadly weapons, Criminal intimidation, Mischief causing damage to public property.. ",
+                "cases_description": "Rioting, Obscene acts/language in public place, Voluntarily causing hurt with deadly weapons, Criminal intimidation, Disfigurement of public property by objectionable advertisements.. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/METTUR_61.jpg",
                 "party": {
                     "id": "Independent",
