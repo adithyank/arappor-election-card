@@ -401,6 +401,7 @@ public class PDFCreator
 
     public static class Candidate
     {
+        public String slno;
         public String recid;
         public String name;
         public String nameTamil;
@@ -439,6 +440,7 @@ public class PDFCreator
 
             //en.entrySet().forEach(System.out::println);
 
+            slno         = "" + (i + 1);
             this.constituency = constituency;
             this.constituencyTamil = str(ta, "thokuthi", "constituency_ta_label");
             this.district = str(en, "thokuthi", "district_en_label");
@@ -523,6 +525,7 @@ public class PDFCreator
 //            break;
         }
 
+        printCounts(cs);
     }
 
     public static void main(String[] args) throws Exception
