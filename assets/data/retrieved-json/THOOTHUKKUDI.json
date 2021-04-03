@@ -1072,7 +1072,7 @@
                     "id": "Veerathiyagi Vishvanathadas Thozhilargal Katchi",
                     "en_label": "Veerathiyagi Vishvanathadas Thozhilargal Katchi",
                     "ta_label": "\u0bb5\u0bc0\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
-                    "party_image": null
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PASTEL_AND_MORTAR.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "THOOTHUKKUDI",
@@ -1142,7 +1142,7 @@
                     "id": "Veerathiyagi Vishvanathadas Thozhilargal Katchi",
                     "en_label": "Veerathiyagi Vishvanathadas Thozhilargal Katchi",
                     "ta_label": "\u0bb5\u0bc0\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bbf \u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0ba4\u0bbe\u0bb8\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf",
-                    "party_image": null
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PASTEL_AND_MORTAR.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "THOOTHUKKUDI",
@@ -2567,7 +2567,7 @@
                     "short_name": "I",
                     "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
                     "en_label": "Independent",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "THOOTHUKKUDI",
@@ -2638,7 +2638,7 @@
                     "short_name": "I",
                     "ta_label": "\u0b9a\u0bc1\u0baf\u0bc7\u0b9a\u0bcd\u0b9a\u0bc8",
                     "en_label": "Independent",
-                    "party_image": ""
+                    "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG"
                 },
                 "thokuthi": {
                     "constituency_id": "THOOTHUKKUDI",

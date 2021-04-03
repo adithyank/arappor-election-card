@@ -22,10 +22,10 @@
                 "cases_description": "1. LOCATION DISPUTE. ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AYYAPPANP_Usilampatti.jpg",
                 "party": {
-                    "id": "Dravida Munnetra Kazhagam",
-                    "short_name": "DMK",
-                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
-                    "en_label": "Dravida Munnetra Kazhagam",
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
                 },
                 "thokuthi": {
@@ -93,10 +93,10 @@
                 "cases_description": "\u0b87\u0b9f\u0bae\u0bcd  \u0b9a\u0bae\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0ba9  \u0ba4\u0b95\u0bb0\u0bbe\u0bb1\u0bc1 . ",
                 "candidate_image": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/AYYAPPANP_Usilampatti.jpg",
                 "party": {
-                    "id": "Dravida Munnetra Kazhagam",
-                    "short_name": "DMK",
-                    "ta_label": "\u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
-                    "en_label": "Dravida Munnetra Kazhagam",
+                    "id": "All India Anna Dravida Munnetra kazhagam",
+                    "short_name": "AIADMK",
+                    "ta_label": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd",
+                    "en_label": "All India Anna Dravida Munnetra kazhagam",
                     "party_image": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/TWO_LEAVES.JPG"
                 },
                 "thokuthi": {
