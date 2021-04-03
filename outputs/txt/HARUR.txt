@@ -56,7 +56,7 @@ Education : B.E., Aeronautical
 Occupation : Trainer , Karate master, Self employed
 Total Assets : 20000
 Liability : 1 lacs
-Net Asset : -1 lacs
+Net Asset :  - 90000
 Criminal Cases : 0
 Case Details : 
 Symbol Name : CCTV_CAMERA

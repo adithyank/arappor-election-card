@@ -113,7 +113,7 @@ Education : B.COM, M.COM, MSW
 Occupation : BUSINESS
 Total Assets : 85000
 Liability : 2 lacs
-Net Asset : -1 lacs
+Net Asset :  - 95000
 Criminal Cases : 0
 Case Details : இல்லை. 
 Symbol Name : COCONUT_FARM

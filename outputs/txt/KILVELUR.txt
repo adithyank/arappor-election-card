@@ -31,7 +31,7 @@ Liability : 12 lacs
 Net Asset : 7 lacs
 Criminal Cases : 0
 Case Details : 
-Symbol Name : HAMMER_SICKLE_STAR
+Symbol Name : HAMMER_SICKLE_AND_STAR
 
 =====================
 
@@ -42,7 +42,7 @@ Education : B.D.S.,
 Occupation : DENTIST 
 Total Assets : 75 lacs
 Liability : 1 crore 83 lacs
-Net Asset : -1 crore 08 lacs
+Net Asset :  - 1 crore 08 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : BATTERY_TORCH

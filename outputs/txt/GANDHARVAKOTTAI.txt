@@ -182,7 +182,7 @@ Education : B.E (EEE)
 Occupation : Engineer
 Total Assets : 73500
 Liability : 3 lacs
-Net Asset : -2 lacs
+Net Asset :  - 2 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : BUCKET

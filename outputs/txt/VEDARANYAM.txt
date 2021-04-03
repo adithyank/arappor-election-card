@@ -156,7 +156,7 @@ Education : Diploma in Mechanical
 Occupation : Business
 Total Assets : 1 crore 40 lacs
 Liability : 1 crore 65 lacs
-Net Asset : - crore 24 lacs
+Net Asset :  - 25 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : BALLOON

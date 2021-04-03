@@ -28,7 +28,7 @@ Education : M.Sc.,  B.Ed.,
 Occupation : Private school teacher 
 Total Assets : 30 lacs
 Liability : 31 lacs
-Net Asset : 0 lacs
+Net Asset :  - 35000
 Criminal Cases : 0
 Case Details : 
 Symbol Name : BATTERY_TORCH
@@ -56,7 +56,7 @@ Education : B.A(History)
 Occupation : Jewelry appraiser(STATE BANK OF INDIA)
 Total Assets : 2 lacs
 Liability : 5 lacs
-Net Asset : -3 lacs
+Net Asset :  - 3 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : POT

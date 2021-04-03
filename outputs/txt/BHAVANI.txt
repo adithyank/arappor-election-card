@@ -3,7 +3,7 @@ Constituency Document
 
 Constituency Name : BHAVANI
 No of Candidates : 14
-No of Independent Candidates : 5
+No of Independent Candidates : 6
 
 =====================
 
@@ -121,7 +121,7 @@ Symbol Name : DIAMOND
 
 Name : A.Abdulkadher
 Age : 38
-Party Name : All India Anna Dravida Munnetra kazhagam
+Party Name : Independent
 Education : HSS (higher secondary school)
 Occupation : Daily Wages
 Total Assets : 30000

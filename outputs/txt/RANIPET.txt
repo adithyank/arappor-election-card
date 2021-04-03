@@ -182,7 +182,7 @@ Education : HSC
 Occupation : Business
 Total Assets : 3000
 Liability : 39000
-Net Asset : 0 lacs
+Net Asset :  - 36000
 Criminal Cases : 0
 Case Details : 
 Symbol Name : GIFT_PACKS

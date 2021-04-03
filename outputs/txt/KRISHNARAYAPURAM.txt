@@ -267,7 +267,7 @@ Education : B.A., B.L.,
 Occupation : ADVOCATE
 Total Assets : 15000
 Liability : 4 lacs
-Net Asset : -4 lacs
+Net Asset :  - 4 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : BAT

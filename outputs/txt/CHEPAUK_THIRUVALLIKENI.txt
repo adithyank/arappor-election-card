@@ -319,7 +319,7 @@ Education : 12th pass
 Occupation : Electrical & Plumbing
 Total Assets : 89000
 Liability : 1 lacs
-Net Asset : -1 lacs
+Net Asset :  - 51000
 Criminal Cases : 1
 Case Details : நிலம் அல்லது நீர் தொடர்பான தகராறு அமைதி மீறலை ஏற்படுத்தும் நடைமுறை.. 
 Symbol Name : PETROL_PUMP

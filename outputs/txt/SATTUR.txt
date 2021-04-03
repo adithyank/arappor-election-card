@@ -350,7 +350,7 @@ Education : 6TH STD
 Occupation : SELF EMPLOYED - BUSINESS
 Total Assets : 43000
 Liability : 50000
-Net Asset : -7000
+Net Asset :  - 7000
 Criminal Cases : 0
 Case Details : 
 Symbol Name : MATCHBOX

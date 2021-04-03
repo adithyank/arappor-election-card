@@ -215,7 +215,7 @@ Education : Not given
 Occupation : Farmer
 Total Assets : 2 lacs
 Liability : 4 lacs
-Net Asset : -2 lacs
+Net Asset :  - 2 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : TRACTOR_CHALATA_KISAN

@@ -98,7 +98,7 @@ Education : HIGHER SECONDARY
 Occupation : STREET FOOD VENDOR
 Total Assets : 12500
 Liability : 1 lacs
-Net Asset : -1 lacs
+Net Asset :  - 87500
 Criminal Cases : 0
 Case Details : இல்லை. 
 Symbol Name : RING

@@ -98,7 +98,7 @@ Education : 8th pass
 Occupation : SELF BUSINESS
 Total Assets : 4 lacs
 Liability : 6 lacs
-Net Asset : -2 lacs
+Net Asset :  - 2 lacs
 Criminal Cases : 1
 Case Details : ஆபாசமான வார்த்தைகள் பயன்படுத்துவது, மோசடி செய்தல், தண்ணியை காயப்படுத்திக் கொள்வது, மிரட்டுதல், எஸ்சி/ எஸ்டி வன்கொடுமை சட்டம்.. 
 Symbol Name : GLASS_TUMBLER

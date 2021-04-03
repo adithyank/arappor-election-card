@@ -252,7 +252,7 @@ Education : B.E.
 Occupation : AGRICULTURE
 Total Assets : 3 lacs
 Liability : 4 lacs
-Net Asset : 0 lacs
+Net Asset :  - 29660
 Criminal Cases : 2
 Case Details : கழகம் விளைவித்தல் வார்த்தைகளால் திட்டியது காயம் ஏற்படுத்தி அத்துமீறல். 
 Symbol Name : BAT

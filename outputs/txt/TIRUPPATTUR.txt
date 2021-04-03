@@ -112,7 +112,7 @@ Education : B.Sc
 Occupation : Labour Union Worker
 Total Assets : 1 lacs
 Liability : 1 lacs
-Net Asset : -8000
+Net Asset :  - 8000
 Criminal Cases : 0
 Case Details : இல்லை . 
 Symbol Name : CCTV_CAMERA
@@ -238,7 +238,7 @@ Education : 8th Standard Pass
 Occupation : Wager
 Total Assets : 1 lacs
 Liability : 40 lacs
-Net Asset : - crore 38 lacs
+Net Asset :  - 39 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : WATERMELON

@@ -98,7 +98,7 @@ Education : 12th pass
 Occupation : Photographer
 Total Assets : 30500
 Liability : 1 lacs
-Net Asset : -1 lacs
+Net Asset :  - 89500
 Criminal Cases : 0
 Case Details : 
 Symbol Name : GAS_CYLINDER

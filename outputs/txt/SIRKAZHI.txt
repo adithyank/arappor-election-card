@@ -98,7 +98,7 @@ Education : H.S.C
 Occupation : Collection Agent, Manna Furniture
 Total Assets : 2 lacs
 Liability : 13 lacs
-Net Asset : - crore 11 lacs
+Net Asset :  - 11 lacs
 Criminal Cases : 0
 Case Details : ஏதுமில்லை . 
 Symbol Name : BATTERY_TORCH

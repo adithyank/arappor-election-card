@@ -182,7 +182,7 @@ Education : B.E
 Occupation : Engineer
 Total Assets : No
 Liability : 3 lacs
-Net Asset : -3 lacs
+Net Asset :  - 3 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : RING

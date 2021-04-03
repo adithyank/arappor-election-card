@@ -84,7 +84,7 @@ Education : 8th pass
 Occupation : NOT MENTIONED
 Total Assets : 21 lacs
 Liability : 21 lacs
-Net Asset : 0 lacs
+Net Asset :  - 15340
 Criminal Cases : 0
 Case Details : 
 Symbol Name : PRESSURE_COOKER

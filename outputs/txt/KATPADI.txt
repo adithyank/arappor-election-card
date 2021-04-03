@@ -70,7 +70,7 @@ Education : B.Tech
 Occupation : Own Business
 Total Assets : 9 lacs
 Liability : 10 lacs
-Net Asset : -1 lacs
+Net Asset :  - 70529
 Criminal Cases : 0
 Case Details : இல்லை . 
 Symbol Name : AUTO-RICKSHAW

@@ -154,7 +154,7 @@ Education : 12th pass
 Occupation : Daily wages
 Total Assets : 2 lacs
 Liability : 6 lacs
-Net Asset : -4 lacs
+Net Asset :  - 4 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : GLASS_TUMBLER

@@ -43,7 +43,7 @@ Education : 10th pass
 Occupation : SILVER BUSINESS
 Total Assets : 59 lacs
 Liability : 77 lacs
-Net Asset : - crore 17 lacs
+Net Asset :  - 18 lacs
 Criminal Cases : 1
 Case Details : இடையூறு ஏற்படுத்துதல் . 
 Symbol Name : RISING_SUN
@@ -387,7 +387,7 @@ Symbol Name : IRON
 
 =====================
 
-Name : M.JEEVANANDAM
+Name : M.Jeevanantham
 Age : 58
 Party Name : Independent
 Education : DIPLOMA IN ELECTRICAL

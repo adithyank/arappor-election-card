@@ -88,7 +88,7 @@ Education : B.Com., Nagamalai Navarasam Arts & Science College, Arachalur, Erode
 Occupation : Grocery Store
 Total Assets : 4 lacs
 Liability : 7 lacs
-Net Asset : -3 lacs
+Net Asset :  - 3 lacs
 Criminal Cases : 0
 Case Details :  
 .  

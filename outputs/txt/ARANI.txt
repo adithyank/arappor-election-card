@@ -42,7 +42,7 @@ Education : 8th Standard
 Occupation : Silk Sarees Sales
 Total Assets : 4 lacs
 Liability : 6 lacs
-Net Asset : -2 lacs
+Net Asset :  - 2 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : NAGARA
@@ -98,7 +98,7 @@ Education : B.A., (History )Not completed
 Occupation : Agriculture
 Total Assets : 8 lacs
 Liability : 8 lacs
-Net Asset : 0 lacs
+Net Asset :  - 38000
 Criminal Cases : 0
 Case Details : 
 Symbol Name : BATTERY_TORCH

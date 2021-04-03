@@ -70,7 +70,7 @@ Education : 12th pass
 Occupation : Business
 Total Assets : 41 lacs
 Liability : 60 lacs
-Net Asset : - crore 18 lacs
+Net Asset :  - 19 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : GANNA_KISAN
@@ -112,7 +112,7 @@ Education : 7TH Pass
 Occupation : Labour job
 Total Assets : 10935
 Liability : 49700
-Net Asset : 0 lacs
+Net Asset :  - 38765
 Criminal Cases : 0
 Case Details : 
 Symbol Name : BISCUIT

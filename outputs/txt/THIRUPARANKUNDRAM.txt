@@ -11,13 +11,13 @@ Name : K.PONNUTHAI
 Age : 47
 Party Name : Communist party of India (Marxist)
 Education : 12th PASS
-Occupation : PARTY OWNER
+Occupation : PARTY WORKER
 Total Assets : 15 lacs
 Liability : 4 lacs
 Net Asset : 11 lacs
 Criminal Cases : 0
 Case Details : 
-Symbol Name : EARS_OF_CORN_AND_SICKLE
+Symbol Name : HAMMER_SICKLE_AND_STAR
 
 =====================
 

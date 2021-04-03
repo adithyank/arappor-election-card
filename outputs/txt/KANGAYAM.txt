@@ -238,7 +238,7 @@ Education : Msc; Bharathiyar University, year passing 2011
 Occupation : System Admin
 Total Assets : 6 lacs
 Liability : 7 lacs
-Net Asset : -1 lacs
+Net Asset :  - 1 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : BATSMAN
@@ -336,7 +336,7 @@ Education : 6th
 Occupation : Farmer
 Total Assets : 50292
 Liability : 3 lacs
-Net Asset : -3 lacs
+Net Asset :  - 3 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : ELECTRIC_POLE

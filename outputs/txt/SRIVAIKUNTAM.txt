@@ -84,7 +84,7 @@ Education : 10th pass
 Occupation : VAITHIYAR
 Total Assets : 38 lacs
 Liability : 73 lacs
-Net Asset : - crore 35 lacs
+Net Asset :  - 35 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : BATTERY_TORCH
@@ -126,7 +126,7 @@ Education : Degree
 Occupation : Business Owner
 Total Assets : 11 lacs
 Liability : 18 lacs
-Net Asset : -7 lacs
+Net Asset :  - 7 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : HAT

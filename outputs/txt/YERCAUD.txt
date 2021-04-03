@@ -84,7 +84,7 @@ Education : M.sc(Mathematics), B.Ed
 Occupation : FARMER
 Total Assets : 2 lacs
 Liability : 4 lacs
-Net Asset : -2 lacs
+Net Asset :  - 2 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : GANNA_KISAN

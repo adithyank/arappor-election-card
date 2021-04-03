@@ -42,7 +42,7 @@ Education : BSc (Agri Business Management)
 Occupation : house wife
 Total Assets : 12 lacs
 Liability : 28 lacs
-Net Asset : - crore 16 lacs
+Net Asset :  - 16 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : GANNA_KISAN

@@ -238,7 +238,7 @@ Education : Illiterate
 Occupation : REAL ESTATE BROKER
 Total Assets : 16 lacs
 Liability : 32 lacs
-Net Asset : - crore 15 lacs
+Net Asset :  - 16 lacs
 Criminal Cases : 0
 Case Details : ஏதுமில்லை. 
 Symbol Name : MATCHBOX

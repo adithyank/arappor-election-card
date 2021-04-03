@@ -3,11 +3,11 @@ Constituency Document
 
 Constituency Name : GANGAVALLI
 No of Candidates : 11
-No of Independent Candidates : 3
+No of Independent Candidates : 4
 
 =====================
 
-Name : Sellammal
+Name : V.M.Sellammal
 Age : 47
 Party Name : Bahujan Samaj Party
 Education : 8th pass
@@ -57,7 +57,7 @@ Symbol Name : RISING_SUN
 
 Name : P.Navan
 Age : 34
-Party Name : Puthiya Tamizhagam Katchi
+Party Name : Puthiya Tamilagam
 Education : 12th FAIL
 Occupation : Daily wage
 Total Assets : 3 lacs
@@ -155,7 +155,7 @@ Symbol Name : BEAD_NECKBANGLE
 
 Name : K.Senthilkumar
 Age : 43
-Party Name : INDU MAKKAL KATCHI
+Party Name : Independent
 Education : ITI
 Occupation : Computer service
 Total Assets : 10500

@@ -84,7 +84,7 @@ Education : ITI Fitter
 Occupation : Tier Shop and Home appliances
 Total Assets : 4 lacs
 Liability : 36 lacs
-Net Asset : - crore 31 lacs
+Net Asset :  - 32 lacs
 Criminal Cases : 1
 Case Details : இ .பி .கோ .147,148,149,323,324,506(ii ). சட்ட  விரோதமாக  கூடுதல் ,பயங்கர ஆயுதங்களில்  தாக்குதல் 
 Symbol Name : BATTERY_TORCH
@@ -98,7 +98,7 @@ Education : SSLC (1989)
 Occupation : Business
 Total Assets : 6 lacs
 Liability : 61 lacs
-Net Asset : - crore 54 lacs
+Net Asset :  - 55 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
 Symbol Name : AIRCONDITIONER
@@ -127,7 +127,7 @@ Education : 10th pass
 Occupation : Business, photographer
 Total Assets : 3 lacs
 Liability : 3 lacs
-Net Asset : 0 lacs
+Net Asset :  - 11000
 Criminal Cases : 0
 Case Details : இல்லை. 
 Symbol Name : CAMERA

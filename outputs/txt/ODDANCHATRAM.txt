@@ -111,7 +111,7 @@ Education : 5th pass
 Occupation : SMALL SHOP
 Total Assets : 55000
 Liability : 2 lacs
-Net Asset : -2 lacs
+Net Asset :  - 2 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : GLASS_TUMBLER

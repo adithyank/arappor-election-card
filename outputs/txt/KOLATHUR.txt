@@ -140,7 +140,7 @@ Education : B.Com B.L
 Occupation : Lawyer
 Total Assets : 95000
 Liability : 4 lacs
-Net Asset : -3 lacs
+Net Asset :  - 3 lacs
 Criminal Cases : 2
 Case Details : குடும்ப வழக்கு, சொத்தை சேதப்படுத்துதல் . 
 Symbol Name : TELEPHONE
@@ -308,7 +308,7 @@ Education : 8TH STANDARD
 Occupation : SELF EMPLOYED
 Total Assets : 5 lacs
 Liability : 7 lacs
-Net Asset : -1 lacs
+Net Asset :  - 1 lacs
 Criminal Cases : 0
 Case Details : இல்லை . 
 Symbol Name : MATCHBOX

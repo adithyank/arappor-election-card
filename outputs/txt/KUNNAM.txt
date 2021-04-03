@@ -197,7 +197,7 @@ Education : B.B.A., D.TED.
 Occupation : BUSINESS
 Total Assets : 6 lacs
 Liability : 13 lacs
-Net Asset : -7 lacs
+Net Asset :  - 7 lacs
 Criminal Cases : 0
 Case Details : ஏதுமில்லை . 
 Symbol Name : AUTO-RICKSHAW

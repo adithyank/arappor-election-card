@@ -28,7 +28,7 @@ Education :
 Occupation : Business
 Total Assets : 5 lacs
 Liability : 6 lacs
-Net Asset : -1 lacs
+Net Asset :  - 74638
 Criminal Cases : 0
 Case Details : 
 Symbol Name : ELEPHANT
@@ -286,7 +286,7 @@ Education : B.A (History)
 Occupation : Daily wage Worker
 Total Assets : No
 Liability : 50000
-Net Asset : 0 lacs
+Net Asset :  - 50000
 Criminal Cases : 0
 Case Details : 
 Symbol Name : SOFA

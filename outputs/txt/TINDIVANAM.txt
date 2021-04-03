@@ -98,7 +98,7 @@ Education : B.E.B.L
 Occupation : Advocate
 Total Assets : 80000
 Liability : 2 lacs
-Net Asset : -1 lacs
+Net Asset :  - 74000
 Criminal Cases : 1
 Case Details : ஹைட்ரொ கார்பன் எதிர்த்து போராட்டம் . 
 Symbol Name : GANNA_KISAN

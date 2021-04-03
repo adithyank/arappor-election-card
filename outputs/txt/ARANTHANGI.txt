@@ -309,7 +309,7 @@ Party Name : Independent
 Education : 10th Standard
 Occupation : Farmer
 Total Assets : 10 lacs
-Liability : -2
+Liability :  - 2
 Net Asset : 10 lacs
 Criminal Cases : 0
 Case Details : இல்லை . 

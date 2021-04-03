@@ -140,7 +140,7 @@ Education : MBA
 Occupation : SELF BUSINESS
 Total Assets : 10 lacs
 Liability : 17 lacs
-Net Asset : -7 lacs
+Net Asset :  - 7 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : PRESSURE_COOKER

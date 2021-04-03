@@ -98,7 +98,7 @@ Education : B.A., B.L.,
 Occupation : ADVOCATE
 Total Assets : 58 lacs
 Liability : 96 lacs
-Net Asset : - crore 38 lacs
+Net Asset :  - 38 lacs
 Criminal Cases : 1
 Case Details : U/S 138 காசோலையை அவமதிப்பது வழக்கு .  கணக்கில் உள்ள நிதிகளின் பற்றாக்குறை போன்றவற்றிற்கான காரணங்கள்.. 
 Symbol Name : BATTERY_TORCH

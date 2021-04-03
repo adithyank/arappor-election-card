@@ -154,7 +154,7 @@ Education : B.Sc., B.Ed.,
 Occupation : R.O Water Treatment Business
 Total Assets : 26 lacs
 Liability : 35 lacs
-Net Asset : -9 lacs
+Net Asset :  - 9 lacs
 Criminal Cases : 1
 Case Details : கொத்தடிமை வழக்கு. 
 Symbol Name : TELEPHONE
@@ -196,7 +196,7 @@ Education : B.A.B.L.
 Occupation : weaving
 Total Assets : 63800
 Liability : 3 lacs
-Net Asset : -2 lacs
+Net Asset :  - 2 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : WHISTLE

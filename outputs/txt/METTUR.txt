@@ -16,7 +16,7 @@ Total Assets : 11 crore 39 lacs
 Liability : 7 crore 44 lacs
 Net Asset : 3 crore 94 lacs
 Criminal Cases : 5
-Case Details : பொது மக்களுக்கான அரசியல் போராட்டங்களின் பொது சட்ட்டங்களை மீறியதாக பதியப்பட்ட வழக்கு . 
+Case Details : சட்ட விரோதமாக கூட்டம் கூடியது, வேண்டுமென்றே ஆத்திரமூட்டி  கலகம் உண்டுபண்ணதல், பொதுச்செயல்களை செய்யவிடாமல் பொதுவூழியரை தடுத்தது, கவனக்குறைவாக உயிருக்கு ஆபத்தான நோய்தொற்று பரப்புதல், முறையற்ற தடுப்பு, மத்திய/மாநில அதிகாரியின் ஆணைக்கு இணங்காதது. 
 Symbol Name : RISING_SUN
 
 =====================
@@ -58,8 +58,7 @@ Total Assets : 2 crore 78 lacs
 Liability : 66 lacs
 Net Asset : 2 crore 11 lacs
 Criminal Cases : 2
-Case Details : மறியல் செய்தது, நிலப் பிரச்சனை சம்பந்தமாக 
-. 
+Case Details : பொதுவூழிதரின் உத்தரவுக்கு கீழ்ப்படியாதது, பொதுவூழியரை கடமையை செய்யவிடாமல் தடுப்பது/தாக்குவது, நபரை அவமதிக்கும் வகையில் அவரைத் தாக்குவது/கடுமையாக ஆத்திரமூடுத்தல், பொதுவிடத்தில் அபசமக செயல்/மொழி புரிதல், குற்றவியல் சதிக்கான தண்டனை, நில மோசடி, மதிப்புள்ள பத்திரத்தை  மற்றும் ஏமாற்றுவதற்காக மோசடி செய்வது, போலியாவணங்களை உண்மையானதென பயன்படுத்துதல். 
 Symbol Name : MANGO
 
 =====================
@@ -95,11 +94,11 @@ Symbol Name : LADIES_FINGER
 Name : C.MANIKANDAN
 Age : 29
 Party Name : Naam Tamilar Katchi
-Education : 
-Occupation : 
-Total Assets : No
-Liability : No
-Net Asset : No
+Education : D.M.E.,
+Occupation : FARMER
+Total Assets : 19 lacs
+Liability : 75000
+Net Asset : 19 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : GANNA_KISAN
@@ -157,7 +156,7 @@ Total Assets : 3 lacs
 Liability : No
 Net Asset : 3 lacs
 Criminal Cases : 1
-Case Details : இலங்கை தமிழர் பிரச்சனைக்காக போராட்டத்தில் கலந்து கொண்டதால் . 
+Case Details : கலகம் உண்டுபண்ணுதல், பொதுவிடத்தில் ஆபாசமாக செயல்/மொழி புரிதல், தன்னிச்சையாக கொடிய ஆயுதம் கொண்டு காயம் உண்டுபண்ணுதல், கொலை மிரட்டல், பொதுச்சொத்துக்கு சேதம் விளைவித்தல். 
 Symbol Name : ELECTRIC_POLE
 
 =====================

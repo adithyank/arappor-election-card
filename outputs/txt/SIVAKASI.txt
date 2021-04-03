@@ -364,7 +364,7 @@ Education : M.A.,
 Occupation : Income from Husband's Army Pension
 Total Assets : 14 lacs
 Liability : 20 lacs
-Net Asset : -5 lacs
+Net Asset :  - 5 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : FLUTE

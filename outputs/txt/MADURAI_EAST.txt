@@ -196,7 +196,7 @@ Education : M.com
 Occupation : FARMER
 Total Assets : 22049
 Liability : 60000
-Net Asset : 0 lacs
+Net Asset :  - 37951
 Criminal Cases : 0
 Case Details : 
 Symbol Name : GIFT_PACKS

@@ -77,7 +77,7 @@ Symbol Name : MANGO
 
 =====================
 
-Name : N.Manokaran
+Name : N.Manogaran
 Age : 58
 Party Name : Amma Makkal Munnettra Kazhagam
 Education : B.Sc.,
@@ -98,7 +98,7 @@ Education : 8th pass
 Occupation : NAMATHU KADAI SUPER MARKET
 Total Assets : 70000
 Liability : 4 lacs
-Net Asset : -3 lacs
+Net Asset :  - 3 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
 Symbol Name : POT
@@ -114,7 +114,7 @@ Total Assets : 12 lacs
 Liability : No
 Net Asset : 12 lacs
 Criminal Cases : 1
-Case Details : கொலை வழக்கு பதிவு செய்யப்பட்டுள்ளது . 
+Case Details : தானாக காயத்தை ஏற்படுத்துவது, சட்டவிரோதமாக கூடுவது.. 
 Symbol Name : GRAPES
 
 =====================

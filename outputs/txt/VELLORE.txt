@@ -168,7 +168,7 @@ Education : 8th pass
 Occupation : Private Company Employee
 Total Assets : 10000
 Liability : 11000
-Net Asset : -1000
+Net Asset :  - 1000
 Criminal Cases : 0
 Case Details : இல்லை . 
 Symbol Name : BAT

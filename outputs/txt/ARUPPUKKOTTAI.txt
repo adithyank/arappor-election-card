@@ -142,7 +142,7 @@ Education : B.E. (CSE)
 Occupation : Self Employed
 Total Assets : 1 lacs
 Liability : 2 lacs
-Net Asset : 0 lacs
+Net Asset :  - 19782
 Criminal Cases : 0
 Case Details : 
 Symbol Name : CCTV_CAMERA

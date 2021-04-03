@@ -210,7 +210,7 @@ Education : RC model primary school in 2001
 Occupation : Private Service Labour
 Total Assets : 63000
 Liability : 1 lacs
-Net Asset : 0 lacs
+Net Asset :  - 42000
 Criminal Cases : 2
 Case Details : மோசடி, கலவரம் மற்றும் வன்முறையில் ஈடுபடுவது. 
 Symbol Name : POT

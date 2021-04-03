@@ -56,7 +56,7 @@ Education : B.E, MBA
 Occupation : Business
 Total Assets : 3 crore 36 lacs
 Liability : 3 crore 68 lacs
-Net Asset : - crore 31 lacs
+Net Asset :  - 32 lacs
 Criminal Cases : 6
 Case Details : பொது இடங்களில் கலவரத்தில் ஈடுபடுதல், தானாக தன்னைதானே புண்படுத்திக்கொள்வது, சட்டவிரோதமாக பொது இடங்களில் கூட்டம் கூடுவது, ஏமாற்றுதல்.. 
 Symbol Name : RISING_SUN

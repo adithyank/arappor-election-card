@@ -150,7 +150,7 @@ Education : B.A,B.ED
 Occupation : OWN BUSINESS
 Total Assets : 50000
 Liability : 75000
-Net Asset : 0 lacs
+Net Asset :  - 25000
 Criminal Cases : 0
 Case Details : 
 Symbol Name : GLASS_TUMBLER
@@ -222,7 +222,7 @@ Education : 10th pass
 Occupation : FARMER
 Total Assets : 2 lacs
 Liability : 5 lacs
-Net Asset : -3 lacs
+Net Asset :  - 3 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : AUTO-RICKSHAW

@@ -56,7 +56,7 @@ Education : M.A. SOCIOLOGY, M.Phil.Public Health
 Occupation : SELF EMPLOYMENT
 Total Assets : 11600
 Liability : 10 lacs
-Net Asset : -10 lacs
+Net Asset :  - 10 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : ELEPHANT
@@ -72,7 +72,7 @@ Total Assets : 37 lacs
 Liability : 3 lacs
 Net Asset : 33 lacs
 Criminal Cases : 1
-Case Details : குற்றங்கருதி மிரட்டல் விட்டதாக . 
+Case Details : பொதுப் பணியாளரால், முறைப்படி பிரகடனப்படுத்தப்பட்ட உத்தரவிற்கு கீழ்ப்படியாமை, குற்றம் கருதி மிரட்டல். 
 Symbol Name : AUTO-RICKSHAW
 
 =====================
@@ -112,7 +112,7 @@ Education : B.Com., B.L.,
 Occupation : LAWYER
 Total Assets : 3 crore 20 lacs
 Liability : 8 crore 63 lacs
-Net Asset : -5 crore 42 lacs
+Net Asset :  - 5 crore 42 lacs
 Criminal Cases : 1
 Case Details : காசோலை மோசடி. 
 Symbol Name : PRESSURE_COOKER
@@ -121,7 +121,7 @@ Symbol Name : PRESSURE_COOKER
 
 Name : S.BABU
 Age : 45
-Party Name : Nam India Party
+Party Name : My India Party
 Education : 10th FAIL
 Occupation : DAILY WAGE - CONSTRUCTION
 Total Assets : 1 lacs
@@ -154,7 +154,7 @@ Education : 8th pass
 Occupation : Paint Artist
 Total Assets : 7 lacs
 Liability : 9 lacs
-Net Asset : -2 lacs
+Net Asset :  - 2 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : COAT

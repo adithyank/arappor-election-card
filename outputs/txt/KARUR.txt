@@ -926,7 +926,7 @@ Education : B.A ,B.L.
 Occupation : ADVOCATE
 Total Assets : 2 lacs
 Liability : 6 lacs
-Net Asset : -4 lacs
+Net Asset :  - 4 lacs
 Criminal Cases : 0
 Case Details : பொருந்தாது . பொருந்தாது 
 Symbol Name : SWINGS
@@ -954,7 +954,7 @@ Education : 10th Standard
 Occupation : INTERIOR DECOR
 Total Assets : 17 lacs
 Liability : 21 lacs
-Net Asset : -3 lacs
+Net Asset :  - 3 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
 Symbol Name : DUSBIN

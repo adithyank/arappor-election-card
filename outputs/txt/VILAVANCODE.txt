@@ -3,7 +3,7 @@ Constituency Document
 
 Constituency Name : VILAVANCODE
 No of Candidates : 15
-No of Independent Candidates : 6
+No of Independent Candidates : 7
 
 =====================
 
@@ -163,7 +163,7 @@ Symbol Name : BAT
 
 Name : Y.MARIASELVAN
 Age : 49
-Party Name : Communist Party of India (Marxist-Leninist) (Liberation)
+Party Name : Independent
 Education : 12th pass
 Occupation : Small Business
 Total Assets : 1 lacs
@@ -171,7 +171,7 @@ Liability : No
 Net Asset : 1 lacs
 Criminal Cases : 2
 Case Details : 
-Symbol Name : FLAG_AND_THREE_STARS
+Symbol Name : POT
 
 =====================
 

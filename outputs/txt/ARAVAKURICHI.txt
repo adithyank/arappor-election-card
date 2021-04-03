@@ -434,7 +434,7 @@ Education : 12th standard
 Occupation : TEXTILES BUSINESS
 Total Assets : 15 lacs
 Liability : 19 lacs
-Net Asset : -4 lacs
+Net Asset :  - 4 lacs
 Criminal Cases : 0
 Case Details : பொருந்தாது . பொருந்தாது 
 Symbol Name : GAS_CYLINDER

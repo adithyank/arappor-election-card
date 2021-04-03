@@ -168,7 +168,7 @@ Education : 10th pass
 Occupation : Real Estate 
 Total Assets : 42 lacs
 Liability : 59 lacs
-Net Asset : - crore 17 lacs
+Net Asset :  - 18 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
 Symbol Name : PEN_NIB_WITH_SEVEN_RAYS

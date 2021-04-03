@@ -323,7 +323,7 @@ Education : 9TH STD
 Occupation : DRIVER
 Total Assets : 24 lacs
 Liability : 27 lacs
-Net Asset : -3 lacs
+Net Asset :  - 3 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : AUTO-RICKSHAW

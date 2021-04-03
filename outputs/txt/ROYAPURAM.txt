@@ -154,7 +154,7 @@ Education : B.A.B.L.
 Occupation : ADVOCATE
 Total Assets : 3 lacs
 Liability : 9 lacs
-Net Asset : -6 lacs
+Net Asset :  - 6 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : BATSMAN

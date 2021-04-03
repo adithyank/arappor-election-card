@@ -126,7 +126,7 @@ Education : 8th Pass
 Occupation : Driver
 Total Assets : 1 lacs
 Liability : 3 lacs
-Net Asset : -2 lacs
+Net Asset :  - 2 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : SETHOSCOPE

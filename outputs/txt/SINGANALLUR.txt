@@ -278,7 +278,7 @@ Education : DME Incomplete
 Occupation : Self employed - Used automobile sale
 Total Assets : 9 lacs
 Liability : 12 lacs
-Net Asset : -3 lacs
+Net Asset :  - 3 lacs
 Criminal Cases : 0
 Case Details : 
 Symbol Name : COCONUT_FARM

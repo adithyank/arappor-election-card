@@ -93,7 +93,7 @@ Symbol Name : GAS_CYLINDER
 
 Name : T.RAMASAMY
 Age : 64
-Party Name : My India Party
+Party Name : MY INDIA PARTY
 Education : 5th pass
 Occupation : NIL
 Total Assets : 5 lacs

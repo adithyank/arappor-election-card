@@ -335,7 +335,7 @@ Party Name : Independent
 Education : BA perusing(Not completed) TN Open University
 Occupation : Siddha Medical product related store
 Total Assets : 33 lacs
-Liability : -2
+Liability :  - 2
 Net Asset : 33 lacs
 Criminal Cases : 0
 Case Details : 

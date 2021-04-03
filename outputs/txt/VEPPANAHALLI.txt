@@ -160,7 +160,7 @@ Education : M.E.,
 Occupation : Agriculture and Business
 Total Assets : 7 lacs
 Liability : 7 lacs
-Net Asset : 0 lacs
+Net Asset :  - 12978
 Criminal Cases : 0
 Case Details : இல்லை. 
 Symbol Name : WELL

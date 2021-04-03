@@ -112,7 +112,7 @@ Education : M.A., B.L.,
 Occupation : ADVOCATE
 Total Assets : 4 lacs
 Liability : 5 lacs
-Net Asset : 0 lacs
+Net Asset :  - 19000
 Criminal Cases : 0
 Case Details : இல்லை . 
 Symbol Name : BUNGLOW

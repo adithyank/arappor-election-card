@@ -28,7 +28,7 @@ Education : HSC
 Occupation : RSSS Pictures,  Real Estate - Owner
 Total Assets : 16 crore 22 lacs
 Liability : 16 crore 26 lacs
-Net Asset : -4 lacs
+Net Asset :  - 5 lacs
 Criminal Cases : 6
 Case Details : காசோலை சம்பந்தமான வழக்கு, தகாத வார்த்தைகள் உபயோகித்ததாக வழக்கு, தனி நபர் தாக்குதல் அதற்கான வழக்கு ,வங்கி கடன் மறைகேட்டிற்கான வழக்கு. 
 Symbol Name : LOTUS_BJP
@@ -168,7 +168,7 @@ Education : B.A., B.L.
 Occupation : Advocate
 Total Assets : 5 lacs
 Liability : 11 lacs
-Net Asset : -6 lacs
+Net Asset :  - 6 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
 Symbol Name : RING
@@ -210,7 +210,7 @@ Education : BBL.,
 Occupation : Self employed
 Total Assets : 55 lacs
 Liability : 76 lacs
-Net Asset : - crore 21 lacs
+Net Asset :  - 22 lacs
 Criminal Cases : 0
 Case Details : இல்லை. 
 Symbol Name : DIAMOND

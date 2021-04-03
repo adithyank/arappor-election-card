@@ -112,7 +112,7 @@ Education : B.Tech (IT)
 Occupation : Employee at Visai Technologies
 Total Assets : 22093
 Liability : 2 lacs
-Net Asset : -2 lacs
+Net Asset :  - 2 lacs
 Criminal Cases : 0
 Case Details : ஏதுமில்லை . 
 Symbol Name : HELICOPTER
@@ -126,7 +126,7 @@ Education : H.S.C
 Occupation : Agriculture
 Total Assets : 2 lacs
 Liability : 5 lacs
-Net Asset : -3 lacs
+Net Asset :  - 3 lacs
 Criminal Cases : 0
 Case Details : ஏதுமில்லை . 
 Symbol Name : CUP_&_SAUCER

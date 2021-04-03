@@ -56,7 +56,7 @@ Education : 8TH STANDARD
 Occupation : AGRICULTURE WAGES
 Total Assets : 2 lacs
 Liability : 2 lacs
-Net Asset : 0 lacs
+Net Asset :  - 20500
 Criminal Cases : 0
 Case Details : 
 Symbol Name : FLAG_AND_THREE_STARS

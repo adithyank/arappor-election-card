@@ -126,7 +126,7 @@ Education : 8th Standard
 Occupation : MAN POWER BUSINESS
 Total Assets : 4 lacs
 Liability : 6 lacs
-Net Asset : -3 lacs
+Net Asset :  - 3 lacs
 Criminal Cases : 0
 Case Details : ஏதுமில்லை. 
 Symbol Name : GAS_CYLINDER
@@ -252,7 +252,7 @@ Education : B.Sc Maths
 Occupation : Private Company
 Total Assets : 4 lacs
 Liability : 6 lacs
-Net Asset : -2 lacs
+Net Asset :  - 2 lacs
 Criminal Cases : 0
 Case Details : ஏதுமில்லை . 
 Symbol Name : BRICKS
