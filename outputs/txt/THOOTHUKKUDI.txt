@@ -115,7 +115,7 @@ Liability : No
 Net Asset : 4 lacs
 Criminal Cases : 0
 Case Details : 
-Symbol Name-
+Symbol Name : PASTEL_AND_MORTAR
 
 =====================
 
@@ -255,7 +255,7 @@ Liability : 19 lacs
 Net Asset : 6 lacs
 Criminal Cases : 0
 Case Details : 
-Symbol Name-
+Symbol Name : BALLOON
 
 =====================
 

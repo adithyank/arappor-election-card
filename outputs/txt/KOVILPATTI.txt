@@ -113,7 +113,7 @@ Occupation : Pensioner(Former MP)
 Total Assets : 12 crore 26 lacs
 Liability : 57 crore 43 lacs
 Net Asset :  - 45 crore 16 lacs
-Criminal Cases : 8
+Criminal Cases : 10
 Case Details : 
 Symbol Name : PRESSURE_COOKER
 

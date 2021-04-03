@@ -3,7 +3,7 @@ Constituency Document
 
 Constituency Name : MADURAI_WEST
 No of Candidates : 15
-No of Independent Candidates : 8
+No of Independent Candidates : 7
 
 =====================
 
@@ -52,7 +52,7 @@ Symbol Name : TWO_LEAVES
 
 Name : R.KARTHIKEYAN
 Age : 42
-Party Name : Independent
+Party Name : AKHIL BHARAT HINDU MAHASABHA
 Education : B.A
 Occupation : SELF EMPLOYEE
 Total Assets : 3 lacs
