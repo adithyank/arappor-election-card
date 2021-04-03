@@ -83,7 +83,7 @@
                             <input type="button" id="btnViewVideoCard" class="btn btn-primary" value="Video Card">
                         </div>
                         <div class="col-auto">
-                            <input type="button" onclick="saveDivAsImage()" class="btn btn-primary" value="Save Current">
+                            <input type="button" onclick="saveDivAsImage(currentCandidate.constituency, currentCandidate.photoName, currentCandidate.slno)" class="btn btn-primary" value="Save Current">
                         </div>
                     </div>
 
@@ -148,12 +148,12 @@
 
 <script>
 
-var saveDivAsImage = function(cons, name) {
+var saveDivAsImage = function(cons, name, slno) {
     html2canvas(document.querySelector(".card-content")).then(canvas => {
         //document.body.appendChild(canvas)
 
       var link = document.createElement('a');
-      link.download = cons + '-' + name + '.png';
+      link.download = cons + '--' + slno + '--' + name + '.png';
       link.href = canvas.toDataURL()
       link.click();
     });
