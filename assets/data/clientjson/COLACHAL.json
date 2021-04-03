@@ -2,6 +2,7 @@
   "name": "COLACHAL",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fed8a0-f6bd-45a5-9597-2ff6ed001e67",
       "name": "K.M.ANISH",
       "nameTamil": "K.M.அனிஷ்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COLACHAL_14.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fe99c5-a926-4ba1-ab89-df810c3d146e",
       "name": "M.SIVAKUMAR",
       "nameTamil": "M.சிவக்குமார்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COLACHAL_5.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fe93cc-6cb6-4d84-a902-a8476f2335fc",
       "name": "J.G.PRINCE",
       "nameTamil": "J.G.பிரின்ஸ்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COLACHAL_3.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fea9d0-d653-4d3c-86f7-20e154e076c1",
       "name": "P.RAMESH",
       "nameTamil": "P.இரமேஷ்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COLACHAL_10.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fe88f6-db83-4384-b011-b438bcfd7753",
       "name": "S M.ANTHONY MUTHU",
       "nameTamil": "S M..அந்தோணி முத்து",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COLACHAL_2.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f89720-0930-41a3-8fd1-3ca4da75865f",
       "name": "J.ANTONY ASLIN",
       "nameTamil": "J.ஆன்றனி ஆஸ்லின் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COLACHAL_1.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fecafd-60ba-49c6-a4e5-4be9296b3fb1",
       "name": "A.krishnakumar",
       "nameTamil": "A.கிருஷ்ணக்குமார்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COLACHAL_11.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fea022-47ec-43be-9190-c007664bbc77",
       "name": "C.RAJA",
       "nameTamil": "C.இராஜா",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COLACHAL_7.jpg"
     },
     {
+      "slno": "9",
       "recid": "92feceb6-e68e-48ec-a2b3-c39e1b586aed",
       "name": "S.LATHIS MARY",
       "nameTamil": "S.லாதிஸ் மேரி",
@@ -268,8 +277,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "7 lacs",
       "liabilityTamil": "7 லட்சம்",
-      "netAsset": "-5 lacs",
-      "netAssetTamil": "-5 லட்சம்",
+      "netAsset": " - 5 lacs",
+      "netAssetTamil": " - 5 லட்சம்",
       "criminalCase": "1",
       "caseDetailEnglish": "case against chit. ",
       "caseDetailTamil": "",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COLACHAL_12.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fedc97-1bf3-4a38-acab-e20f5669c309",
       "name": "S.MOHAMMED ALI",
       "nameTamil": "S.முகம்மது அலி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COLACHAL_15.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fea534-c372-4d19-91cd-18ead2e37e4c",
       "name": "R.MARY STELLA",
       "nameTamil": "R.மேரி ஸ்டெல்லா",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COLACHAL_9.jpg"
     },
     {
+      "slno": "12",
       "recid": "93007eda-023f-4d59-97cc-022b0e44d314",
       "name": "R.VIJAYAKUMAR",
       "nameTamil": "R.R.VIJAYAKUMAR",

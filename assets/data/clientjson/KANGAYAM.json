@@ -2,6 +2,7 @@
   "name": "KANGAYAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9303ba92-cd6e-428f-b1dd-0464558c510d",
       "name": "N.Ayyavu",
       "nameTamil": "N.அய்யாவு",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_48.jpg"
     },
     {
+      "slno": "2",
       "recid": "93053118-4b16-4b7f-aefc-bb472cb2465d",
       "name": "M.P.Saminathan",
       "nameTamil": "M.P..சாமிநாதன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAMINATHAN_M_P_Kangayam.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f64fa9-ff5a-4f3d-897f-560d87622c3f",
       "name": "A.S.RAMALINGAM",
       "nameTamil": "A.S.ராமலிங்கம்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_5.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304f5e1-08dd-474f-a6d8-c0e9676f545e",
       "name": "K.SIVANANTHAM",
       "nameTamil": "K.சிவானந்தம்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVANANTHAM_K_Kangayam.jpg"
     },
     {
+      "slno": "5",
       "recid": "93052b00-3d50-45ad-8683-a3bf638a0cb0",
       "name": "S.Manoharan",
       "nameTamil": "S.மனோகரன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANOHARAN_S_Kangayam.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fe1c00-484d-4e8e-9c74-aae4146c3518",
       "name": "C.Ramesh",
       "nameTamil": "C.ரமேஷ்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_37.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304020a-189e-40c1-981a-45389b2af1c0",
       "name": "R.Appasamy",
       "nameTamil": "R.R.Appasamy",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_53.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f22727-09d7-45ec-9151-4ee3f70c6541",
       "name": "R.Immanuvel",
       "nameTamil": "R.இம்மானூவேல்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_1.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fe1f08-d85d-4771-8f5f-99baeca5b009",
       "name": "P.Gopinath",
       "nameTamil": "P.கோபிநாத்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_38.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fe29fd-744e-423e-b512-84f96ae1196c",
       "name": "P.SathishKumar",
       "nameTamil": "P.சதீஸ்குமார்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_45.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe10fe-c2da-4021-95c3-f22903959115",
       "name": "S.Sathyamoorthy",
       "nameTamil": "S.சத்தியமூர்த்தி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_35.jpg"
     },
     {
+      "slno": "12",
       "recid": "92faf399-4a56-4fed-ab98-0497cca37221",
       "name": "N.Sukumaran",
       "nameTamil": "N.சுகுமாரன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_2.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fb013b-fed1-459a-ae81-5539a403e17c",
       "name": "D.Subramaniyan",
       "nameTamil": "D.சுப்ரமணியன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_24.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fe253d-e5e8-4dbe-8de5-9d1b556be988",
       "name": "K.Selvakumar",
       "nameTamil": "K.செல்வகுமார்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_41.jpg"
     },
     {
+      "slno": "15",
       "recid": "92f4d004-0d73-4437-89bf-0506a64ab4d2",
       "name": "P.Nallamuthu",
       "nameTamil": "P.நல்லமுத்து",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_3.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fe22bb-307b-4b32-9577-4fd23c38a56e",
       "name": "C.Nithyananthan",
       "nameTamil": "C.நித்யானந்தம்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_40.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fe2717-78f3-4238-bc83-3e699a8f8ddb",
       "name": "G.Prabhakaran",
       "nameTamil": "G.பிரபாகரன்",
@@ -516,8 +533,8 @@
       "totalAssetTamil": "6 லட்சம்",
       "liability": "7 lacs",
       "liabilityTamil": "7 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_42.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fe210a-99c1-47aa-8f62-c83f7a0f8809",
       "name": "A.Mani",
       "nameTamil": "A.மணி",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_39.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fe1536-dcd4-43b6-81dc-d11c70af1f9c",
       "name": "R.Manikandan",
       "nameTamil": "R.மணிகண்டன்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_36.jpg"
     },
     {
+      "slno": "20",
       "recid": "9303b787-6b97-4d10-955b-42d865638e4e",
       "name": "R.Ravikumar",
       "nameTamil": "R.ரவிக்குமார்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_47.jpg"
     },
     {
+      "slno": "21",
       "recid": "9303bcef-6371-4400-82c1-15787e07a044",
       "name": "N.Ramalingam",
       "nameTamil": "N.இராமலிங்கம்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_51.jpg"
     },
     {
+      "slno": "22",
       "recid": "92f8c290-f182-4f2a-b224-fb1fd89a9981",
       "name": "B.RAJENDRAN",
       "nameTamil": "B.ராஜேந்திரன்",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_10.jpg"
     },
     {
+      "slno": "23",
       "recid": "9303b5a1-f1f0-48bb-a47b-af693f564782",
       "name": "P.Rajendran",
       "nameTamil": "P.ராஜேந்திரன்",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_46.jpg"
     },
     {
+      "slno": "24",
       "recid": "92f89d7d-2102-4364-9ed3-609775290f52",
       "name": "K.K.Vaduganathan",
       "nameTamil": "K.K.வடுகநாதன்",
@@ -733,8 +757,8 @@
       "totalAssetTamil": "50292",
       "liability": "3 lacs",
       "liabilityTamil": "3 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_13.jpg"
     },
     {
+      "slno": "25",
       "recid": "9303bfd1-e648-49b2-b019-c699d159ab75",
       "name": "K.O.Jahangir",
       "nameTamil": "K.O.ஜஹாங்கீர்",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANGAYAM_52.jpg"
     },
     {
+      "slno": "26",
       "recid": "9306ba72-6c3e-47d2-963b-3c57531380a4",
       "name": "G.Jothi Kalimuthu",
       "nameTamil": "G.ஜோதி காளிமுத்து",

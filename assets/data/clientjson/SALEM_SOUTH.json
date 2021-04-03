@@ -2,6 +2,7 @@
   "name": "SALEM_SOUTH",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fc45e6-5c0a-4d80-b5e2-0e34b7e27c1c",
       "name": "A.S.SARAVANAN",
       "nameTamil": "A.S.சரவணன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_21.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6cb8e-fd10-408a-8daa-c508c27aea10",
       "name": "E.BALASUBRAMANIAN",
       "nameTamil": "E.பாலசுப்ரமணியன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92facb2e-eeb7-42fc-ad03-6e640027555f",
       "name": "S.Murali",
       "nameTamil": "S.முரளி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_17.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f87246-b36a-40f5-a74e-f4963bd0d910",
       "name": "R.ELAVARASAN",
       "nameTamil": "R.இளவரசன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_7.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff7ed3-cb5c-4ddb-9d45-a481f58bad33",
       "name": "V.SATHYAPRIYA",
       "nameTamil": "V. சத்தியபிரியா ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_32.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f6801e-4e67-4142-9051-703d5015ad3f",
       "name": "M.SUNDAR",
       "nameTamil": "M.சுந்தர்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_3.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff974b-1859-4b62-a7eb-681ac53fd2a1",
       "name": "M.PRABHU MANIKANDAN",
       "nameTamil": "M. பிரபு மணிகண்டன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_42.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fad1f4-c641-4f55-91a6-dffebb257dd7",
       "name": "S.MARIAMMA",
       "nameTamil": "S.மாரியம்மா",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_16.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fc9df1-41e7-419e-a4d7-cccc4f411801",
       "name": "S.RAJI",
       "nameTamil": "S.ராஜி ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_24.jpg"
     },
     {
+      "slno": "10",
       "recid": "93052da8-de72-44c7-a3ce-eab21e0e1eb3",
       "name": "SE.VENKATAJALAM",
       "nameTamil": "SE.வெங்கடாசலம் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SE_VENKATAJALAM_Salem(South).jpg"
     },
     {
+      "slno": "11",
       "recid": "92f90bfa-9164-40e5-81a8-9bc92d508bf5",
       "name": "R.VELMURUGAN",
       "nameTamil": "R.வேல்முருகன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_VELMURUGAN_Salem(South).jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff94d5-99bc-47a6-8027-baea7702c2f1",
       "name": "S.KRISHNAKUMAR",
       "nameTamil": "S.கிருஷ்ணகுமார் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_41.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff8755-5083-4379-9c26-8ac0dbef0cb1",
       "name": "M.KUMAR",
       "nameTamil": "M.குமார் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_36.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fc3e14-4eab-4b12-befd-811ec8c65660",
       "name": "S.SARAVANAN",
       "nameTamil": "S.சரவணன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_20.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff9923-02f8-4d6c-84ff-6220a1e9766e",
       "name": "V.SAMUNDESWARI",
       "nameTamil": "V.சாமுண்டீஸ்வரி ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_43.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fac498-da53-4435-9cca-2a0ec19c2525",
       "name": "R.Sundaram",
       "nameTamil": "R.சுந்தரம் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_15.jpg"
     },
     {
+      "slno": "17",
       "recid": "92ff9b3b-99da-4424-86e1-7cc6a1937424",
       "name": "K.SELVARAJ",
       "nameTamil": "K.செல்வராஜ் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_44.jpg"
     },
     {
+      "slno": "18",
       "recid": "92ff80e8-590a-4449-b06c-99a54cd0e42e",
       "name": "B.DEVI",
       "nameTamil": "B.தேவி",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_33.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fc4e96-97f5-4650-b740-7eb39b3554fb",
       "name": "M.PERIYASAMI",
       "nameTamil": "M.பெரியசாமி",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_23.jpg"
     },
     {
+      "slno": "20",
       "recid": "92ff829a-e15a-4392-aba3-a04a35148494",
       "name": "N.MAYAKKANNAN",
       "nameTamil": "N.மாயக்கண்ணன் ",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_34.jpg"
     },
     {
+      "slno": "21",
       "recid": "92fc4ab0-752f-4798-815e-498ca2808f27",
       "name": "K.MARIAPPAN",
       "nameTamil": "K.மாரியப்பன்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_22.jpg"
     },
     {
+      "slno": "22",
       "recid": "92ff9311-1fdd-4875-b03b-fda246ed97da",
       "name": "D.M.MOHAMMADNAZEERUDEEN",
       "nameTamil": "D.M.முஹம்மது நஜுருத்தீன் ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_40.jpg"
     },
     {
+      "slno": "23",
       "recid": "92ff901f-e95d-4d31-8ad9-d31f7b335e76",
       "name": "K.YASINBASHA",
       "nameTamil": "K.யாசின்பாஷா ",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_SOUTH_38.jpg"
     },
     {
+      "slno": "24",
       "recid": "92ff8a23-72f2-4264-a659-6bdf03c26174",
       "name": "K.N.VEERASENAN",
       "nameTamil": "K.N.வீரசேனன் ",

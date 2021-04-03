@@ -2,6 +2,7 @@
   "name": "THIRUMANGALAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f70aa2-6d52-4811-82b3-c7b59c1950ef",
       "name": "RB.UDHAYAKUMAR",
       "nameTamil": "RB.உதயகுமார் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_5.jpg"
     },
     {
+      "slno": "2",
       "recid": "930528fa-541e-4085-9112-05a616bebc56",
       "name": "M.MANIMARAN",
       "nameTamil": "M. மணிமாறன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANIMARANM_Thirumangalam.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcf707-9941-4c08-9510-e0530bd57008",
       "name": "K.ATHINARAYANAN",
       "nameTamil": "K.ஆதிநாராயணன் ",
@@ -82,8 +85,8 @@
       "totalAssetTamil": "1 கோடி 84 லட்சம்",
       "liability": "5 crore 56 lacs",
       "liabilityTamil": "5 கோடி 56 லட்சம்",
-      "netAsset": "-3 crore 72 lacs",
-      "netAssetTamil": "-3 கோடி 72 லட்சம்",
+      "netAsset": " - 3 crore 72 lacs",
+      "netAssetTamil": " - 3 கோடி 72 லட்சம்",
       "criminalCase": "6",
       "caseDetailEnglish": "Unlawful assembly, Rioting, armed with deadly weapons, Prosecution of common objects, Disobedience to rule duly promulgated by public servant, Negligent/Malignant act likely to spread infection of disease dangerous to life, Obscene act/language in public place, Murder, Wrongful confinement, House-trespass, Criminal intimidation, Voluntarily causing hurt, with deadly weapons, Theft, Arrest to prevent the commission of cognizable offences, Penalty for unauthorised disfigurement by advertisements. ",
       "caseDetailTamil": "பயங்கர ஆயுதங்களுடன் கலகம் செய்தது, பொதுச் சொத்துக்கு சேதம் விழைவித்தல், சட்ட விரோதமாக கூட்டம் கூடியது, பொது இடத்தில் ஆபாசச் செயல் புரிதல், கொலை மிரட்டல்,உயிருக்கு ஆபத்தான நோய்த்தொற்று பரப்புதல், சிறைதண்டனைக்குறிய குற்றம் செய்ய தூண்டுதல், கொலை வழக்கு, முறையற்று தனிநபரை சிறைவைதல், அத்துமீறி பிறர்மனை நுழைதல், கொடிய ஆயுதங்களுடன் தனிச்சையாக கடுமையான காயம் உண்டுபண்ணுதல், திருட்டு, தடுப்புக் காவல், பொதுவிடத்தில் அனுமதியின்றி பதாகைகள் வைத்தது.\n. ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_23.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fed637-75fb-4f77-9df5-58ab3ffc414f",
       "name": "K.ARUMUGAM",
       "nameTamil": "K.ஆறுமுகம் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_29.jpg"
     },
     {
+      "slno": "5",
       "recid": "93052e37-5232-408d-adec-2d12c2b25377",
       "name": "M.SAARAL",
       "nameTamil": "M.சாராள்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SARALM_Thirumangalam.jpg"
     },
     {
+      "slno": "6",
       "recid": "92faeef5-35f6-4e94-8a59-2c09a136baab",
       "name": "M.NIRMAL",
       "nameTamil": "M.நிர்மல் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_7.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fed522-c8a9-49ee-972d-5a8fff02f481",
       "name": "A.MARIKANNAN",
       "nameTamil": "A.மாரிக்கண்ணன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_25.jpg"
     },
     {
+      "slno": "8",
       "recid": "93011466-6d52-4321-96ba-fa550f2bbd94",
       "name": "M.RAMKUMAR",
       "nameTamil": "M.ராம்குமார் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_14.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fee09c-31a4-486f-8855-548bfe1f4440",
       "name": "M.ALAGARSAMY",
       "nameTamil": "M.அழகர்சாமி ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_17.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff12b3-b371-48d2-af58-01da94b59aa3",
       "name": "A.KALI",
       "nameTamil": "A.காளி ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_32.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff1515-f5e5-49a7-a09a-9ed5938bd397",
       "name": "R.CHANDRASEKARAN",
       "nameTamil": "R.சந்திரசேகரன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_33.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fedf77-a330-4592-8a93-ff36d55ba1e0",
       "name": "N.THIRALIPANDI",
       "nameTamil": "N.திரளிபாண்டி ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_27.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fab030-9d0b-4a9e-bce5-7c641186bd55",
       "name": "B.DURAIPANDI",
       "nameTamil": "B.துரைபாண்டி ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_6.jpg"
     },
     {
+      "slno": "14",
       "recid": "92feef65-e00e-4e81-9afd-60d49a68140b",
       "name": "N.R.BALAMURUGAN",
       "nameTamil": "N.R..பாலமுருகன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_35.jpg"
     },
     {
+      "slno": "15",
       "recid": "93051feb-b9f0-42bf-b1c3-c0f16dd9dd7f",
       "name": "M.MUTHURAJA",
       "nameTamil": "M.M.MUTHURAJA",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUTHURAJAM_Thirumangalam.jpg"
     },
     {
+      "slno": "16",
       "recid": "930526ac-4648-47fe-bdc0-63cd444b1393",
       "name": "P.MUTHUVELRAJ",
       "nameTamil": "P.முத்துவேல்ராஜ் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUTHUVELRAJP_Thirumangalam.jpg"
     },
     {
+      "slno": "17",
       "recid": "9306d5ce-dc6d-4230-abec-90eeff461ed9",
       "name": "A.RAMANATHANA",
       "nameTamil": "A.A.RAMANATHANA",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAMANATHANA_Thirumangalam.jpg"
     },
     {
+      "slno": "18",
       "recid": "9304a299-1c28-4f7f-8b72-8f978a85fdde",
       "name": "M.RAMANATHAN",
       "nameTamil": "M.ராமநாதன் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_26.jpg"
     },
     {
+      "slno": "19",
       "recid": "93052c2d-d2b5-4c59-bf0e-88b23e38046c",
       "name": "R.RAMAMOORTHI",
       "nameTamil": "R.",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAMAMOORTHIR_Thirumangalam.jpg"
     },
     {
+      "slno": "20",
       "recid": "92f101a0-c626-4954-ae5b-90a36f98a3bd",
       "name": "P.RAJANBABU",
       "nameTamil": "P.ராஜன்பாபு",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_1.jpg"
     },
     {
+      "slno": "21",
       "recid": "92fed84e-d21e-48f5-a5b1-8ae55b9b49c5",
       "name": "S.VEERANAN",
       "nameTamil": "S.வீரணன் ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_28.jpg"
     },
     {
+      "slno": "22",
       "recid": "92fedc12-2aec-4588-a4d3-9a90171f8084",
       "name": "V.VEERAMANI",
       "nameTamil": "V.வீரமணி ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_31.jpg"
     },
     {
+      "slno": "23",
       "recid": "92fceda7-b078-4767-9734-7926d972dd67",
       "name": "G.VAIRASEEMAN",
       "nameTamil": "G.வைரச்சீமான் ",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMANGALAM_19.jpg"
     },
     {
+      "slno": "24",
       "recid": "92fed2cb-540f-42f2-be18-cb9f5af2efd8",
       "name": "R.JAGADEESHKUMAR",
       "nameTamil": "R.ஜெகதீஸ்குமார் ",

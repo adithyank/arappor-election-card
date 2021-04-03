@@ -2,6 +2,7 @@
   "name": "VILATHIKULAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f4dea2-4c04-4eae-aed2-4a31ae6cb224",
       "name": "P.CHINNAPPAN",
       "nameTamil": "P.சின்னப்பன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fcd734-88b7-412f-9a58-3d63dfcdf2cc",
       "name": "A.Manikkaraj",
       "nameTamil": "A.மாணிக்கராஜ்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_24.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa7005-b8b1-4937-b594-f23ce5811bdd",
       "name": "V.MARKANDAYAN",
       "nameTamil": "V.மார்க்கண்டேயன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_10.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f67326-ad17-49f3-9e3b-be972ab6afa2",
       "name": "K .Karuppasamy",
       "nameTamil": "K .கருப்பசாமி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_2.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fce03f-1e5c-4f35-aaad-145b9fafa7c1",
       "name": "M.Gandhi",
       "nameTamil": "M.காந்தி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_26.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fc6dc2-ac91-4d32-add2-c3700de2c47f",
       "name": "K.SEENISELVI",
       "nameTamil": "K.சீனிச்செல்வி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_17.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304f15c-1230-498f-8a75-1e447d0d1dc3",
       "name": "R.BALAJI",
       "nameTamil": "R.பாலாஜி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BALAJIR_Vilathikulam.jpg"
     },
     {
+      "slno": "8",
       "recid": "9300f4a7-6b22-41f4-a33a-d9c6be7176a3",
       "name": "S.MARIMUTHU",
       "nameTamil": "S.மாரிமுத்து",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_35.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fc7c14-83d9-4816-a421-7ecde08b49e0",
       "name": "C.MUTHUKUMAR",
       "nameTamil": "C.முத்துக்குமார்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_18.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300eb49-2f24-4e37-96ef-b4db64104c53",
       "name": "X.WILSON",
       "nameTamil": "X.வில்சன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_33.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300ee79-1b31-40eb-80c8-48e7d90953b1",
       "name": "K.ARUMUGAPERUMAL",
       "nameTamil": "K.ஆறுமுகப்பெருமாள்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_34.jpg"
     },
     {
+      "slno": "12",
       "recid": "9300da42-363b-4ea0-aed6-95b5e12d07c1",
       "name": "S.ARUMUGAM",
       "nameTamil": "S.ஆறுமுகம்  ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_28.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fccde5-ab75-4a34-a3dc-1f314458d143",
       "name": "S.Chelladurai",
       "nameTamil": "S.செல்லத்துரை",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_21.jpg"
     },
     {
+      "slno": "14",
       "recid": "9300e76f-d70e-4d6c-a17d-676bd01a65b6",
       "name": "M.MURUGANANTHAM",
       "nameTamil": "M.முருகானந்தம்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILATHIKULAM_32.jpg"
     },
     {
+      "slno": "15",
       "recid": "9304e0d9-9c11-439c-9ad0-9704229b987c",
       "name": "P.RAJAMANI",
       "nameTamil": "P.ராஜாமணி பி ",

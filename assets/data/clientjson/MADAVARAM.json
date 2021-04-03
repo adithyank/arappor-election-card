@@ -2,6 +2,7 @@
   "name": "MADAVARAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f94821-4863-4145-ba7c-5addd4de15f5",
       "name": "S.Sudharsanam",
       "nameTamil": "S.சுதர்சனம் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_6.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f69584-4dcc-4f24-a678-5300aea5a5e2",
       "name": "S.DEEPAK",
       "nameTamil": "S.தீபக் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f69b78-1198-48ce-b9f5-2ad2512ccaa8",
       "name": "V.MOORTHY",
       "nameTamil": "V.மூர்த்தி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_3.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff39d7-9203-4646-89a0-752b5a123761",
       "name": "P.ARAVIND KUMAR",
       "nameTamil": "P.அரவிந்த் குமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_29.jpg"
     },
     {
+      "slno": "5",
       "recid": "930700b8-8efc-46c2-b146-1a099aa6220c",
       "name": "R.ELUMALAI",
       "nameTamil": "R.ஏழுமலை ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ELUMALAI_R_Madavaram.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fcbec7-7afb-411d-810f-3603a2e1c138",
       "name": "E.SAMPATH",
       "nameTamil": "E.சம்பத்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_15.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f69202-3fb8-4059-aad5-fe0a79cefcea",
       "name": "D.DHAKSHINAMOORTHY",
       "nameTamil": "D. தக்ஷ்ணாமூர்த்தி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_1.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fb0871-5020-4489-bf13-6204cd9cb1f2",
       "name": "M.YUVARAJ",
       "nameTamil": "M.யுவராஜ் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_11.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff4615-efcb-4ac0-b8d9-5290545e1b12",
       "name": "M.VINOTHKUMAR",
       "nameTamil": "M.வினோத் குமார் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_36.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f9419f-d8e4-4cbd-9dc4-68ef37858bb3",
       "name": "K.RAMESH",
       "nameTamil": "K.ரமேஷ் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAMESH_Madavaram.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff3d4e-f309-4b2c-ad79-298a3e4acdc2",
       "name": "S.ARIVUNITHI",
       "nameTamil": "S.அறிவுநிதி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_31.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fb0a67-a57e-4998-9a68-9772b058e3cf",
       "name": "A.SAKTHIVEL",
       "nameTamil": "A.சக்திவேல் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_12.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff41bf-856a-4afb-958f-2eb131b55e4f",
       "name": "S.SATHISH KUMAR",
       "nameTamil": "S.சதீஷ் குமார் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_35.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fd14b3-36b9-472d-8b3b-313d46b3bcde",
       "name": "D.SUDHARSANAN",
       "nameTamil": "D.சுதர்சனன் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_14.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff2ed2-b4e3-45a7-a8c4-e3e1a2151310",
       "name": "M.Nirmal Kumar",
       "nameTamil": "M.நிர்மல் குமார் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_26.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fb0d95-1d74-47d8-9e20-f5d02261df82",
       "name": "M.G.BABU",
       "nameTamil": "M.G..பாபு  ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_13.jpg"
     },
     {
+      "slno": "17",
       "recid": "92ff3ff2-8ecc-4d3c-b359-a99db811c3b1",
       "name": "S.MOORTHY",
       "nameTamil": "S.மூர்த்தி ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_34.jpg"
     },
     {
+      "slno": "18",
       "recid": "92ff33d1-d1cf-4165-8b2d-37029267f53b",
       "name": "G.Ramesh",
       "nameTamil": "G.ரமேஷ்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_28.jpg"
     },
     {
+      "slno": "19",
       "recid": "92ff4874-44b2-41e8-a3aa-a52d336c18dc",
       "name": "S.RAMU",
       "nameTamil": "S.ராமு ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADAVARAM_37.jpg"
     },
     {
+      "slno": "20",
       "recid": "92ff0fc5-db49-4bae-aecb-39c8ec9cd253",
       "name": "S.Jayaseelan",
       "nameTamil": "S.ஜெயசீலன் ",

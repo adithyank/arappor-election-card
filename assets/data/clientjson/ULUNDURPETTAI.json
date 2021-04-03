@@ -2,6 +2,7 @@
   "name": "ULUNDURPETTAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93047e58-ebc8-4fef-bbf3-9ad54e10979b",
       "name": "R.KUMARAGURU",
       "nameTamil": "R.குமரகுரு ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ULUNDURPETTAI_3.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f86bbc-752d-4fda-9ee0-5e563d038767",
       "name": "S.SATHIYAMOORTHY",
       "nameTamil": "S.சத்தியமூர்த்தி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ULUNDURPETTAI_5.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304fe54-29ce-497a-9fe9-42eb61b8ec7f",
       "name": "A J.MANIKANNAN",
       "nameTamil": "A J.மணிகண்ணன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANIKANNANAJ_Ulundurpettai.jpg"
     },
     {
+      "slno": "4",
       "recid": "930507fe-3eab-4bc3-9219-1b7169129872",
       "name": "K.G.P.Rajamani",
       "nameTamil": "K.G.P.ராஜாமணி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_G_P_Rajamani_Ulundurpettai.jpg"
     },
     {
+      "slno": "5",
       "recid": "93009b80-470f-48ec-bb7e-9a6abd4104d4",
       "name": "A.KUMAR",
       "nameTamil": "A.குமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ULUNDURPETTAI_17.jpg"
     },
     {
+      "slno": "6",
       "recid": "93009f4f-2de4-4eb1-928d-5f1c6656df56",
       "name": "S.CHINNAIYAN",
       "nameTamil": "S.சின்னயன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ULUNDURPETTAI_20.jpg"
     },
     {
+      "slno": "7",
       "recid": "9300a1ca-b2c0-4f57-ae29-26b7f3b68785",
       "name": "P.DHANAPAL",
       "nameTamil": "P.தனபால்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ULUNDURPETTAI_21.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fa651f-3394-416c-b098-bcf10dab88e9",
       "name": "L.Pushbamary",
       "nameTamil": "L.L.Pushbamary",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PushbamaryL_Ulundurpettai.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304fa01-fea5-46a5-97fd-a16ec2314bdd",
       "name": "M.VENKATESAN",
       "nameTamil": "M.வெங்கடேசன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VENkATESANM_Ulundurpettai.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300c9e3-f1ba-4a47-998b-2d459d280574",
       "name": "K.RAJAMANI",
       "nameTamil": "K.ராஜாமணி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ULUNDURPETTAI_11.jpg"
     },
     {
+      "slno": "11",
       "recid": "93009d5a-8cad-46e0-9470-424fbba62d2c",
       "name": "M.KATHIRVEL",
       "nameTamil": "M.கதிர்வெல்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ULUNDURPETTAI_18.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fccf2b-7931-4d6d-9a23-b2b6794c8ce5",
       "name": "M.Deepa",
       "nameTamil": "M.தீபா",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ULUNDURPETTAI_10.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fccd91-efa4-4cb7-9488-859154fc8c2f",
       "name": "R.Mani",
       "nameTamil": "R.மணி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ULUNDURPETTAI_9.jpg"
     },
     {
+      "slno": "14",
       "recid": "9300cc8c-bda1-465e-84ed-d022e7f25685",
       "name": "M.MANIKANNAN",
       "nameTamil": "M.மணிக்கண்ணன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ULUNDURPETTAI_12.jpg"
     },
     {
+      "slno": "15",
       "recid": "9300cebb-52e3-4698-b9f5-b004a420907c",
       "name": "K.RAJASTALIN",
       "nameTamil": "K.ராஜாஸ்டாலின்",

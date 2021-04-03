@@ -2,6 +2,7 @@
   "name": "KANCHEEPURAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fefba0-5534-42a7-a165-09b840ae0f9f",
       "name": "C.V.M.P.Ezhailzrasan",
       "nameTamil": "C.V.M.எழிலரசன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_7.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fe7a86-696b-492c-ae56-4ed15b5ac88b",
       "name": "K.PRABAKARAN",
       "nameTamil": "K.பிரபாகரன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fee363-e894-414f-952a-7a2a68bf5915",
       "name": "B.Gopinath",
       "nameTamil": "B.கோபிநாத்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_11.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fee7c5-cc54-4971-84fa-82dcb193419b",
       "name": "S.SALDIN",
       "nameTamil": "S.சால்டின்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_12.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fef829-4459-4ad2-8811-9c4c1ef1f0e1",
       "name": "P.Magesh Kumar",
       "nameTamil": "P.மகேஷ் குமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_26.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff1945-dcd9-4f51-9c78-b716e96eba37",
       "name": "N.Manogaran",
       "nameTamil": "N.மனோகரன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_35.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fe7c0a-e0c0-4cbb-a557-0c31f9bf45fa",
       "name": "M.MEGANATHAN",
       "nameTamil": "M.மேகநாதன்",
@@ -206,8 +213,8 @@
       "totalAssetTamil": "70000",
       "liability": "4 lacs",
       "liabilityTamil": "4 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_21.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff154c-937b-45cf-9f17-8f2d679e59bb",
       "name": "L.Arulnathan",
       "nameTamil": "L.அருள்நாதன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_31.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fee995-a7dd-408f-a9fc-8c2536b77a7d",
       "name": "M.ELANGOVAN",
       "nameTamil": "M.இளங்கோவன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_17.jpg"
     },
     {
+      "slno": "10",
       "recid": "92feefbf-0feb-4139-a09d-ba5d01bd53a8",
       "name": "P.EZHILARASAN",
       "nameTamil": "P.எழிலரசன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_15.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fef3bb-6ebc-496e-b7da-3b7457122c58",
       "name": "S.Srinivasan",
       "nameTamil": "S.சீனிவாசன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_24.jpg"
     },
     {
+      "slno": "12",
       "recid": "92feecc2-3524-4bb2-9c68-e2ff985fe6e5",
       "name": "D.GNANAMOORTHY",
       "nameTamil": "D.ஞானமூர்த்தி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_16.jpg"
     },
     {
+      "slno": "13",
       "recid": "92feff01-6704-4b04-9aa0-ea2895a0e4f2",
       "name": "T.Magesh",
       "nameTamil": "T.மகேஷ்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_29.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fee174-9899-4be2-ab17-c0038beed63c",
       "name": "R.VinothRaj",
       "nameTamil": "R.வினோத்ராஜ்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANCHEEPURAM_20.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fee549-abe7-4f28-b3d9-7b6381af7627",
       "name": "J.JAYARAJ",
       "nameTamil": "J.ஜெயராஜ்",

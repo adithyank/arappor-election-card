@@ -2,6 +2,7 @@
   "name": "PENNAGARAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "930707ab-dfa9-45b7-a377-ad6a6eb5810d",
       "name": "P.N.P.INBASEKARAN",
       "nameTamil": "P.N.P.இன்பசேகரன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/P_N_P_INBASEKARAN_Pennagaram.jpg"
     },
     {
+      "slno": "2",
       "recid": "92ff670e-2236-46a5-b4df-4033a59576fa",
       "name": "R.UDHAYAKUMAR",
       "nameTamil": "R.உதயகுமார்  ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PENNAGARAM_16.jpg"
     },
     {
+      "slno": "3",
       "recid": "930080bf-7c12-4b3e-800b-727be0478b8e",
       "name": "S.MOORTHI",
       "nameTamil": "S.மூர்த்தி ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PENNAGARAM_32.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fe79c9-48cb-4eb1-be38-62de37a6f07a",
       "name": "C.ANNADURAI",
       "nameTamil": "C.அண்ணாதுரை",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PENNAGARAM_14.jpg"
     },
     {
+      "slno": "5",
       "recid": "93055bce-07fa-4d49-b9c3-a65cfa36eae5",
       "name": "R.TAMILAZHAGAN",
       "nameTamil": "R.தமிழழகன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_TAMILAZHAGAN_Pennagaram.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f668c1-89ca-4928-8b1e-e5bdb73d736c",
       "name": "G.K.MANI",
       "nameTamil": "G.K.மணி ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/G_K_MANI_Pennagaram.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff6008-1db0-4973-a1f7-2e21f2fe1e3e",
       "name": "K.SHAKILA",
       "nameTamil": "K.ஷகிலா  ",
@@ -206,8 +213,8 @@
       "totalAssetTamil": "58 லட்சம்",
       "liability": "96 lacs",
       "liabilityTamil": "96 லட்சம்",
-      "netAsset": "- crore 38 lacs",
-      "netAssetTamil": "- கோடி 38 லட்சம்",
+      "netAsset": " - 38 lacs",
+      "netAssetTamil": " - 38 லட்சம்",
       "criminalCase": "1",
       "caseDetailEnglish": "U/S 138-Case of Contempt of Cheques. Reasons such as lack of funds in the account.. ",
       "caseDetailTamil": "U/S 138 காசோலையை அவமதிப்பது வழக்கு .  கணக்கில் உள்ள நிதிகளின் பற்றாக்குறை போன்றவற்றிற்கான காரணங்கள்.. ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PENNAGARAM_23.jpg"
     },
     {
+      "slno": "8",
       "recid": "93007ebe-6ba6-491e-bd13-5b133a5d148c",
       "name": "V.ANNADURAI",
       "nameTamil": "V.அண்ணாதுரை ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PENNAGARAM_31.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fa82db-12f2-49ba-8a3e-c41a6b0a1024",
       "name": "N.SIVALINGAM",
       "nameTamil": "N.சிவலிங்கம்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PENNAGARAM_9.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff7396-e207-443b-ac9a-720bde137149",
       "name": "K.DHARUMAN",
       "nameTamil": "K.தருமன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PENNAGARAM_17.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff6521-d586-48a1-bee2-7219fbc3c1a2",
       "name": "P.THIRUMURUGAN",
       "nameTamil": "P.திருமுருகன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PENNAGARAM_25.jpg"
     },
     {
+      "slno": "12",
       "recid": "93007bcd-8f00-4eb0-a94f-3474604d4b0e",
       "name": "A.PERIYANANJAPPAN",
       "nameTamil": "A.பெரியநஞ்சப்பன்  ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PENNAGARAM_29.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff57ce-09bf-4422-a71c-65a31141ff72",
       "name": "K.G.MANI",
       "nameTamil": "K.G.மணி ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PENNAGARAM_20.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff58e6-0e82-4975-ba5f-937bec3371d1",
       "name": "P.MANI",
       "nameTamil": "P.மணி ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PENNAGARAM_15.jpg"
     },
     {
+      "slno": "15",
       "recid": "9305a370-d21a-4775-b4a0-a62573668a73",
       "name": "S.Munusamy",
       "nameTamil": "S.முனுசாமி ",

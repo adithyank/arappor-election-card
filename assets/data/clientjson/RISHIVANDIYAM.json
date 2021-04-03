@@ -2,6 +2,7 @@
   "name": "RISHIVANDIYAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f84177-4b65-452d-8112-2a77ef3611ab",
       "name": "K.KARTHIKEYAN",
       "nameTamil": "K.கார்த்திகேயன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_3.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fc6a78-dca4-4fe1-994b-9cc6fce87caf",
       "name": "Santhosh",
       "nameTamil": "சந்தோஷ்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_8.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fea933-3354-417a-9083-5841ad73027e",
       "name": "S.Veeran",
       "nameTamil": "S.வீரன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_26.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fe9fce-eca9-44e0-a247-75330fc4b873",
       "name": "K.Shanmugasundaram",
       "nameTamil": "K.சண்முகசுந்தரம்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_22.jpg"
     },
     {
+      "slno": "5",
       "recid": "9305055d-9bb0-400e-a616-0397439b6b27",
       "name": "SURESH MANIVANNAN",
       "nameTamil": "சுரேஷ் மணிவண்ணன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SURESHMANIVANNANR_Rishivandiyam.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fe99f6-1c54-49a8-a896-b092538bbfc9",
       "name": "M.Tamilvanan",
       "nameTamil": "M.தமிழ்வாணன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_19.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f96e42-1265-44f2-aa8b-7d0ad79b5b82",
       "name": "A.NARAYANAN",
       "nameTamil": "A.நாராயணன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_6.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fc8022-4c70-47ab-8ae0-31157b16929f",
       "name": "S.Prabhu",
       "nameTamil": "S.பிரபு",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_10.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fe8922-aa77-4944-aa8e-ad6d42ae9298",
       "name": "K.Radhakrishnan",
       "nameTamil": "K.ராதாகிருஷ்ணன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_14.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fe91c2-2fc3-45ca-b0c5-17ab63ca80e6",
       "name": "J.Venkaraman",
       "nameTamil": "J.வெங்கட்ராமன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_16.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe93e3-e9d0-4c3d-ada2-54f436f17317",
       "name": "G.Karthick",
       "nameTamil": "G.கார்த்திக்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_17.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fc6d11-329f-4a2d-a0b0-11c1c9816eb7",
       "name": "K.Guru",
       "nameTamil": "K.குரு",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_9.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe8df4-748d-458c-9222-099fc8437246",
       "name": "V.Chandrasekaran",
       "nameTamil": "V.சந்திரசேகரன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_15.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fe9bfc-f07c-4c3e-a6f0-e238e6ee62ce",
       "name": "M.Santhosh",
       "nameTamil": "M.சந்தோஷ்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIVANDIYAM_20.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fe9776-5413-4ac6-8656-e35aa44b54e8",
       "name": "K.Murugan",
       "nameTamil": "K.முருகன்",

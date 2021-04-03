@@ -2,6 +2,7 @@
   "name": "LALGUDI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fec7c3-01f3-4771-9947-018f799dd1fd",
       "name": "A.SOUNDARAPANDIAN",
       "nameTamil": "A.சௌந்தரபாண்டியன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LALGUDI_17.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fe9952-3331-4509-8b0b-bd23649ebf7a",
       "name": "D.R.DHARMARAJ",
       "nameTamil": "D.R..தர்மராஜ் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LALGUDI_13.jpg"
     },
     {
+      "slno": "3",
       "recid": "930274b4-d668-4ccb-8d6c-b802b66fd6cc",
       "name": "K.KAMARAJ",
       "nameTamil": "K.காமராஜ் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LALGUDI_20.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304d1b2-fa6e-408f-9084-74ff311a46f5",
       "name": "R.SILAMBARASAN",
       "nameTamil": "R.சிலம்பரசன்\t",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_SILAMBARASAN_Lalgudi.jpg"
     },
     {
+      "slno": "5",
       "recid": "93026ffe-fac7-44f1-a9e7-113389ec3adc",
       "name": "P.NAMBIRAJAN",
       "nameTamil": "P.நம்பிராஜன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LALGUDI_18.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f6ae52-cf63-42e5-ac18-41352fce1fce",
       "name": "K.MALAR TAMIL PRABHA",
       "nameTamil": "K.மலர் தமிழ் பிரபா",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LALGUDI_1.jpg"
     },
     {
+      "slno": "7",
       "recid": "930272e2-7008-4ad2-b418-5e14965cc7cf",
       "name": "V.MUTHUKUMAR",
       "nameTamil": "V.முத்துக்குமார் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LALGUDI_19.jpg"
     },
     {
+      "slno": "8",
       "recid": "9304d8a9-8481-429f-a1ff-4529329da57c",
       "name": "M.VIJAYAMURTHY",
       "nameTamil": "M.விஜயமூர்த்தி\t",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_VIJAYAMURTHY_Lalgudi.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fcd8ba-ad3f-42cc-8124-ebce3272bf6c",
       "name": "K.Anantha Babu",
       "nameTamil": "K.ஆனந்தபாபு",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LALGUDI_10.jpg"
     },
     {
+      "slno": "10",
       "recid": "930277e3-ded8-4fcd-b71a-752888c8801c",
       "name": "A.ANANDHKUMAR",
       "nameTamil": "A.ஆனந்த்குமார் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LALGUDI_21.jpg"
     },
     {
+      "slno": "11",
       "recid": "92feb89b-36ef-42e0-86ee-90a5be5006b1",
       "name": "P.M.SAHADEVAN",
       "nameTamil": "P.M..சகாதேவன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LALGUDI_16.jpg"
     },
     {
+      "slno": "12",
       "recid": "9304d4dc-e3ca-4f9b-9321-e8069d85c075",
       "name": "K.THANGAMANI",
       "nameTamil": "K.தங்கமணி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANBILK_THANGAMANI_Lalgudi.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fabc9f-f6ea-4bdc-8146-92eeb9839561",
       "name": "K.DHARMARAJ",
       "nameTamil": "K.தர்மராஜ்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LALGUDI_3.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fcda5a-c113-455d-a91d-583d651f2416",
       "name": "U.Johnson",
       "nameTamil": "U.ஜான்சன்",

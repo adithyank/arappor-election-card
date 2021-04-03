@@ -2,6 +2,7 @@
   "name": "ROYAPURAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f95d4f-4909-4b64-ba4c-cc395c39b58f",
       "name": "S.KUMAR",
       "nameTamil": "S.குமார்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUMAR_S_Royapuram.jpg"
     },
     {
+      "slno": "2",
       "recid": "930517a8-4593-4c9b-88bb-eb34a7c24c7a",
       "name": "R.Murthy",
       "nameTamil": "R.மூர்த்தி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MURTHY_R_IDREAM_Royapuram.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f712da-dff1-4ceb-9464-4421ca758cfc",
       "name": "D.JAYAKUMAR",
       "nameTamil": "D.ஜெயக்குமார்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_2.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fe863f-e6db-4e6d-afde-8c6ce97d7b0b",
       "name": "S.Kamali",
       "nameTamil": "S.கமலி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_23.jpg"
     },
     {
+      "slno": "5",
       "recid": "9300e54f-47cd-4a3b-b70e-0b5d81c0895c",
       "name": "S.Gunasekaran",
       "nameTamil": "S.குனசேகரன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_31.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fb1217-14cd-45ee-9768-81b51d793537",
       "name": "A.Mohan",
       "nameTamil": "A.மோகன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_17.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fb6d24-6146-42d8-ad2f-908ab890ba06",
       "name": "C.Ramajayam",
       "nameTamil": "C.ராமஜெயம்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_14.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fe7cab-c47b-4125-a3f3-42d36774b29a",
       "name": "M.James Martin",
       "nameTamil": "M.ஜேம்ஸ் மார்டின்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_18.jpg"
     },
     {
+      "slno": "9",
       "recid": "9300e0c8-dd56-45ea-9860-87ed73dec268",
       "name": "H.Karunakaran",
       "nameTamil": "H.கருணாகரன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_27.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300ef18-b4f8-45bc-8067-f9df4625977e",
       "name": "V.Karthick",
       "nameTamil": "V.கார்த்திக்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_36.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300e6d1-f69d-45d5-8e2f-8eece411372a",
       "name": "K.R.Kalidass",
       "nameTamil": "K.R.காளிதாஸ்",
@@ -330,8 +341,8 @@
       "totalAssetTamil": "3 லட்சம்",
       "liability": "9 lacs",
       "liabilityTamil": "9 லட்சம்",
-      "netAsset": "-6 lacs",
-      "netAssetTamil": "-6 லட்சம்",
+      "netAsset": " - 6 lacs",
+      "netAssetTamil": " - 6 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_33.jpg"
     },
     {
+      "slno": "12",
       "recid": "9300f848-b17f-4fef-ac42-72a05d6eb42d",
       "name": "G.Gokul",
       "nameTamil": "G.கோகுல்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_43.jpg"
     },
     {
+      "slno": "13",
       "recid": "93051336-16f7-455a-b48d-86cdee08ac0a",
       "name": "S.Sathish",
       "nameTamil": "S.சதிஷ்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATHISH_S_Royapuram.jpg"
     },
     {
+      "slno": "14",
       "recid": "9305113d-65c9-48f8-a529-882f692071a8",
       "name": "T.Suganthan",
       "nameTamil": "T.சுகந்தன் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUGANTHAN_T_Royapuram.jpg"
     },
     {
+      "slno": "15",
       "recid": "9300df6d-2dcf-4156-a952-0d8c433567f4",
       "name": "R.Sundarapandian",
       "nameTamil": "R.சுந்தரபாண்டியன்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_24.jpg"
     },
     {
+      "slno": "16",
       "recid": "9300e8f5-5255-4331-a7a9-5acafd6c2453",
       "name": "S.N.Subramani",
       "nameTamil": "S.N.சுப்ரமணி",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_34.jpg"
     },
     {
+      "slno": "17",
       "recid": "9300f4ee-41d8-48a1-8450-8bd8936addfc",
       "name": "T.Chellappan",
       "nameTamil": "T.செல்லப்பன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_41.jpg"
     },
     {
+      "slno": "18",
       "recid": "9300f944-0978-4922-aca4-337f2318b8c5",
       "name": "J.Selvakumar",
       "nameTamil": "J.செல்வகுமார்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_46.jpg"
     },
     {
+      "slno": "19",
       "recid": "9300f670-503d-4d51-ada6-0ab76a780570",
       "name": "G.Dhanasekaran",
       "nameTamil": "G.தனசேகரன்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_42.jpg"
     },
     {
+      "slno": "20",
       "recid": "9300f150-360f-4c44-b5ce-794dc9e386c7",
       "name": "S.Dinakaran",
       "nameTamil": "S.தினகரன்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_38.jpg"
     },
     {
+      "slno": "21",
       "recid": "9300f256-4ddc-4e31-a432-808875a3761f",
       "name": "K.Prasath",
       "nameTamil": "K.பிரசாத்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_39.jpg"
     },
     {
+      "slno": "22",
       "recid": "9300f051-d2f2-49fb-9ab0-40b7563a5051",
       "name": "V.Prabhakaran",
       "nameTamil": "V.பிரபாகரன்",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_37.jpg"
     },
     {
+      "slno": "23",
       "recid": "9300e3e2-8cd2-4d9f-9422-dd78575608f5",
       "name": "D.Prabhu",
       "nameTamil": "D.பிரபு",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_30.jpg"
     },
     {
+      "slno": "24",
       "recid": "92fe8089-ef90-4268-8be9-4128a53b67d3",
       "name": "T.C.S.Murthy",
       "nameTamil": "T.C.S.மூர்த்தி",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_22.jpg"
     },
     {
+      "slno": "25",
       "recid": "9300fa6f-41f0-49bd-ac73-0f7d5da6a526",
       "name": "A.Vindhan",
       "nameTamil": "A.விந்தன்",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROYAPURAM_44.jpg"
     },
     {
+      "slno": "26",
       "recid": "9300e279-8935-41bb-a2ce-bc457fef14f1",
       "name": "G.Velu",
       "nameTamil": "G.வேலு",

@@ -2,6 +2,7 @@
   "name": "BHUVANAGIRI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93050777-fcd8-460d-8f77-25f2df1e7a7e",
       "name": "A.Arunmozhithevan",
       "nameTamil": "A.அருண்மொழித்தேவன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Arunmozhithevan_A_Bhuvanagiri.jpg"
     },
     {
+      "slno": "2",
       "recid": "93051007-9e79-4604-bff4-d51b849c91c1",
       "name": "R.Ezhilvendhan",
       "nameTamil": "R.எழில்வேந்தன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Ezhilvendhan_R_Bhuvanagiri.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6d7fa-a20c-4b01-b7c9-f1f4b5b24b72",
       "name": "K.SARAVANAN",
       "nameTamil": "K.சரவணன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BHUVANAGIRI_2.jpg"
     },
     {
+      "slno": "4",
       "recid": "93050de4-6bb4-4fb5-9999-445747c049e1",
       "name": "K.S.K.Balamurugan",
       "nameTamil": "K.S.K.பாலமுருகன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Balamurugan_K_S_K_Bhuvanagiri.jpg"
     },
     {
+      "slno": "5",
       "recid": "930540a8-a158-4d77-9cb3-e2892ad4b3dc",
       "name": "R.Rathinavel",
       "nameTamil": "R.ரத்தினவேல்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Rathinavel_R__Bhuvanagiri.jpg"
     },
     {
+      "slno": "6",
       "recid": "930523fe-ee98-47d6-a4f7-b5d5da4c67e5",
       "name": "R.Revathi",
       "nameTamil": "R.ரேவதி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Revathi_R__Bhuvanagiri.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f8984e-3e7b-43e3-b384-ca7cf6eb670e",
       "name": "S.Anandan",
       "nameTamil": "S.ஆனந்தன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BHUVANAGIRI_3.jpg"
     },
     {
+      "slno": "8",
       "recid": "93052b2e-9ef2-42b8-b789-063ad8727f68",
       "name": "P.Ezhilvendan",
       "nameTamil": "P.எழில்வேந்தன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Ezhilvendan_P__Bhuvanagiri.jpg"
     },
     {
+      "slno": "9",
       "recid": "930520c4-c09f-435a-a318-eb886306989e",
       "name": "J.Saravanan",
       "nameTamil": "J.சரவணன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Saravanan_J__Bhuvanagiri.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fe3575-e76d-4d5f-a278-24087d566e4f",
       "name": "T.Sivakumari",
       "nameTamil": "T.சிவகுமாரி ",
@@ -299,8 +309,8 @@
       "totalAssetTamil": "5 லட்சம்",
       "liability": "15 lacs",
       "liabilityTamil": "15 லட்சம்",
-      "netAsset": "- crore 10 lacs",
-      "netAssetTamil": "- கோடி 10 லட்சம்",
+      "netAsset": " - 11 lacs",
+      "netAssetTamil": " - 11 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BHUVANAGIRI_6.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe38b5-553d-4e88-a018-d5ceeee2976a",
       "name": "M.Pazhanivel",
       "nameTamil": "M.பழனிவேல் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BHUVANAGIRI_8.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fe3720-c33e-4cdf-84d8-a8ae40da8ff5",
       "name": "G.C. .Balamurugan",
       "nameTamil": "G.C. .பாலமுருகன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BHUVANAGIRI_7.jpg"
     },
     {
+      "slno": "13",
       "recid": "930528bb-1a7e-4edc-9096-91cacd7065e2",
       "name": "R.Ranjith",
       "nameTamil": "R.ரஞ்சித்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Ranjith_R_Bhuvanagiri.jpg"
     },
     {
+      "slno": "14",
       "recid": "93052659-f847-4108-8bcd-b70f646bfb57",
       "name": "K.Jeyakumar",
       "nameTamil": "K.ஜெயக்குமார்",

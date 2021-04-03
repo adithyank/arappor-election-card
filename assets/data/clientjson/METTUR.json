@@ -2,6 +2,7 @@
   "name": "METTUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fb4c12-0826-4a44-9148-1125bc28bbf6",
       "name": "S.SRINIVASAPERUMAL",
       "nameTamil": "S.சீனிவாசப்பெருமாள் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUR_11.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fc999b-caf2-4448-abbf-3a4c6d8d4eef",
       "name": "M.RAMESH ARAVIND",
       "nameTamil": "M.ரமேஷ் அரவிந்த் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUR_50.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fc8fbb-8b27-4489-a71b-aa97e2ba29e5",
       "name": "P.ANUSUYA",
       "nameTamil": "P.அனுசூயா ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUR_45.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f93d3c-692d-41e6-af2e-231136ce5466",
       "name": "S.SADHASIVAM",
       "nameTamil": "S.சதாசிவம் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUR_7.jpg"
     },
     {
+      "slno": "5",
       "recid": "9302fb6c-6140-4573-90ed-50778a509bc1",
       "name": "K.THANGAVEL",
       "nameTamil": "K.தங்கவேல் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUR_76.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f16a50-ebd4-4f53-b7a3-6dcd66d3080c",
       "name": "P.BANUPRIYA",
       "nameTamil": "P.பானுப்ரியா",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUR_2.jpg"
     },
     {
+      "slno": "7",
       "recid": "93084c33-a7e2-4a9c-bc77-b7a87f51de2b",
       "name": "C.MANIKANDAN",
       "nameTamil": "C.மணிகண்டன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANIKANDAN_C_Mettur.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fb46e5-3f0d-441a-9511-e4e212833e4f",
       "name": "K.RASAPPAN",
       "nameTamil": "K.ராசப்பன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUR_10.jpg"
     },
     {
+      "slno": "9",
       "recid": "9301757b-5715-45c8-afda-0e20fdb8ed89",
       "name": "A.AMBIKA",
       "nameTamil": "A.அம்பிகா ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUR_55.jpg"
     },
     {
+      "slno": "10",
       "recid": "93019a12-7b59-4ec6-a032-ed91dfa30831",
       "name": "P.Arivazhagan",
       "nameTamil": "P.அறிவழகன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUR_72.jpg"
     },
     {
+      "slno": "11",
       "recid": "930187f8-02a7-44e8-a29f-6e427800bca2",
       "name": "P.SADHASIVAM",
       "nameTamil": "P. சதாசிவம் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUR_61.jpg"
     },
     {
+      "slno": "12",
       "recid": "93084e94-6618-46e8-b71f-7b8279e00d15",
       "name": "A.SELVAN",
       "nameTamil": "A.செல்வன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SELVAN_Mettur.jpg"
     },
     {
+      "slno": "13",
       "recid": "9301a5d5-fbcf-4afe-9845-22e78329afc9",
       "name": "P.Sekar",
       "nameTamil": "P.சேகர் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUR_62.jpg"
     },
     {
+      "slno": "14",
       "recid": "92f16557-1886-46c7-81d3-cd28ca42ee97",
       "name": "K.PADMARAJAN",
       "nameTamil": "K. பத்மராஜன்  ",

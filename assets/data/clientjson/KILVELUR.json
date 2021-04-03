@@ -2,6 +2,7 @@
   "name": "KILVELUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92febffd-6204-46b5-8658-788ee4204a7b",
       "name": "U.TAMILARASAN",
       "nameTamil": "U.தமிழரசன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVELUR_13.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fc976c-6cbe-44a9-8a74-940b89f37ce3",
       "name": "V.P.NAAGAIMAALI",
       "nameTamil": "V.P.நாகைமாலி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVELUR_5.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fb1587-a058-48d7-a048-01fec66dc0e8",
       "name": "G.SIDHU",
       "nameTamil": "G.சித்து",
@@ -82,8 +85,8 @@
       "totalAssetTamil": "75 லட்சம்",
       "liability": "1 crore 83 lacs",
       "liabilityTamil": "1 கோடி 83 லட்சம்",
-      "netAsset": "-1 crore 08 lacs",
-      "netAssetTamil": "-1 கோடி 08 லட்சம்",
+      "netAsset": " - 1 crore 08 lacs",
+      "netAssetTamil": " - 1 கோடி 08 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVELUR_3.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fec7cd-fac9-456e-a5d5-d10dc65989bb",
       "name": "M.NEETHIMOHAN",
       "nameTamil": "M.நீதிமோகன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVELUR_15.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f8788d-ee8b-4ea7-98fa-a3d973260247",
       "name": "S .PONELAVAZHAKI",
       "nameTamil": "S .பொன்  இளவழகி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVELUR_1.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304cbf2-547d-4030-803a-8ee0548dc8bb",
       "name": "S.MUTHALAGAN",
       "nameTamil": "S.முத்தழகன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUTHALAGANS_Kilvelur.jpg"
     },
     {
+      "slno": "7",
       "recid": "92feba58-2327-423d-9d64-e70274c23e80",
       "name": "S.VADIVEL RAVANAN",
       "nameTamil": "S.வடிவேல் இராவணன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVELUR_11.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fb41d1-173b-4aaa-93f4-cc707ef92f6f",
       "name": "G.KALAISELVAN",
       "nameTamil": "G.கலைச்செல்வன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVELUR_2.jpg"
     },
     {
+      "slno": "9",
       "recid": "92febd52-11e4-4ee8-aa53-410760638e03",
       "name": "G.MARUTHAIYAN",
       "nameTamil": "G.மருதையன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVELUR_12.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fc9bef-6100-445a-81e5-d467f862eb89",
       "name": "V.D.MUKUNDHAN",
       "nameTamil": "V.D.முகுந்தன்",

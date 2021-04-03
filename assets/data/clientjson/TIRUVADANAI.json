@@ -2,6 +2,7 @@
   "name": "TIRUVADANAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f2fef6-e626-4492-af1a-c460e29a4985",
       "name": "N.Anbubagurudeen",
       "nameTamil": "N.அன்புபகுரூதின்.நா",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVADANAI_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "92faec2e-d028-403a-a3dd-f74c5557b4ee",
       "name": "K.C.ANIMUTHU",
       "nameTamil": "K.C.ஆனிமுத்து",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVADANAI_15.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304ce12-a1a2-4633-801b-9fd0d9c71993",
       "name": "E.KARUMANICKAM",
       "nameTamil": "E.கருமாணிக்கம்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARUMANICKAM_Tiruvadanai.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fc781b-f4f9-4c3b-b835-48bd53057dee",
       "name": "A.RAMALINGAM",
       "nameTamil": "A.ராமலிங்கம்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAMALINGAM_Tiruvadanai.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f579e2-89b8-45bf-a429-89461da19616",
       "name": "N.ANANDH",
       "nameTamil": "N.ஆனந்த்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANANDHN_Tiruvadanai.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fae591-1fde-44bc-8cd8-dfc38411adad",
       "name": "S.ANANTHARAJ",
       "nameTamil": "S.அனந்தராஜ்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVADANAI_11.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fd0430-6124-4704-950d-e4ef1972820f",
       "name": "P.Sathyaraj",
       "nameTamil": "P.சத்யராஜ்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVADANAI_21.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fd0a93-ca9d-4370-9d19-c32d78f59e58",
       "name": "S.JAWAHAR",
       "nameTamil": "S.S.JAWAHAR",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVADANAI_24.jpg"
     },
     {
+      "slno": "9",
       "recid": "9300e524-ac00-47ec-8057-1ac1d2dde2c7",
       "name": "P.SIKKANDAR",
       "nameTamil": "P.சிக்கந்தர்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVADANAI_32.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300e844-d74a-4ae2-a1a1-6a5a9c396866",
       "name": "N.SURIYA PRAKASH",
       "nameTamil": "N.சூர்ய பிரகாஷ்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVADANAI_34.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300eb32-ed04-41e3-a8c3-8e1f46276fc7",
       "name": "S.PRADEEP",
       "nameTamil": "S.பிரதீப்",
@@ -330,8 +341,8 @@
       "totalAssetTamil": "12000",
       "liability": "1 lacs",
       "liabilityTamil": "1 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVADANAI_35.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fc7be0-38b3-420b-be2f-c9965962f089",
       "name": "M.PRAVEEN",
       "nameTamil": "M. பிரவின்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVADANAI_19.jpg"
     },
     {
+      "slno": "13",
       "recid": "9300ef38-a979-4f47-a1fd-33ef95bffdbc",
       "name": "K.PERUMAL",
       "nameTamil": "K.பெருமாள்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVADANAI_38.jpg"
     },
     {
+      "slno": "14",
       "recid": "9300f156-8286-46c8-a1fd-44b60da3ef25",
       "name": "A.MANI",
       "nameTamil": "A.மணி",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVADANAI_39.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fc7357-0614-4303-9333-3441214b65c8",
       "name": "C.MANIKANDAN",
       "nameTamil": "C.மணிகண்டன்",

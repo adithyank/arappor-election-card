@@ -2,6 +2,7 @@
   "name": "UDHAGAMANDALAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93070875-d3aa-4b71-95bd-13e7b7236545",
       "name": "R.GANESH",
       "nameTamil": "R..கணேஷ்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANESH_R__Udhagamandalam.jpg"
     },
     {
+      "slno": "2",
       "recid": "9307054c-f76a-422d-a67f-d862e8b6976b",
       "name": "M.Bhojarajan",
       "nameTamil": "M.போஜராஜன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BHOJARAJAN_M__Udhagamandalam.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f9429f-803b-46bf-9180-b67163d8c870",
       "name": "S.SURESH BABU",
       "nameTamil": "S.சுரேஷ் பாபு",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDHAGAMANDALAM_4.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fe1fd9-4dbe-4c0a-8f7a-7f5810e7b90d",
       "name": "T.Lakshmanan",
       "nameTamil": "T.லட்சுமணன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDHAGAMANDALAM_10.jpg"
     },
     {
+      "slno": "5",
       "recid": "93051ca3-d34e-4129-bf6f-99761e99f06b",
       "name": "A.Jayakumar",
       "nameTamil": "A.ஜெயக்குமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYAKUMAR_A__Udhagamandalam.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f5ed6f-2f71-4b0d-9168-4c382e330241",
       "name": "B.AROKIYANATHAN",
       "nameTamil": "B.ஆரோக்கிய நாதன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDHAGAMANDALAM_2.jpg"
     },
     {
+      "slno": "7",
       "recid": "93002ea6-e111-406b-9f7b-20439a1c37f2",
       "name": "B.KRISHNAMURTHI",
       "nameTamil": "B.கிருஷ்ணமூர்த்தி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDHAGAMANDALAM_16.jpg"
     },
     {
+      "slno": "8",
       "recid": "9300346b-fa2a-4bf8-8c95-3b2d8365a5a5",
       "name": "A.SARDARBABU",
       "nameTamil": "A.சர்தார் பாபு",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDHAGAMANDALAM_20.jpg"
     },
     {
+      "slno": "9",
       "recid": "93003809-c869-4a95-bcd4-4233e1d9181e",
       "name": "M.A.VINOTHKUMAR",
       "nameTamil": "M.A.வினோத்குமார் ",

@@ -2,6 +2,7 @@
   "name": "PALLADAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93049b2f-fba2-404e-bcd3-da79d14d2ba6",
       "name": "R.Annadurai",
       "nameTamil": "R.அண்ணாதுரை",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNADURAIR_Palladam.jpg"
     },
     {
+      "slno": "2",
       "recid": "930499ab-d9b2-40a9-9757-e2188bbfbcf7",
       "name": "M.S.M.Anandan",
       "nameTamil": "M.S.M.ஆனந்தன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANANDANMSM_Palladam.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fdc387-c551-4f94-9bd9-905e446bafbc",
       "name": "K.MuthuRathinam",
       "nameTamil": "K.முத்துரத்தினம்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_8.jpg"
     },
     {
+      "slno": "4",
       "recid": "9303e811-d97a-4263-b1f5-39bd9615b36e",
       "name": "A.Antony Mariaraj",
       "nameTamil": "A.ஆன்டனி மரியராஜ்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_26.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fd9b6a-3ec5-4144-8ed5-20f6ba3e1f86",
       "name": "R.Umanath",
       "nameTamil": "R.உமாநாத்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_3.jpg"
     },
     {
+      "slno": "6",
       "recid": "9303dde0-7774-44ea-9926-512190497a77",
       "name": "G.Siva Kumar",
       "nameTamil": "G.குமார்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_15.jpg"
     },
     {
+      "slno": "7",
       "recid": "93049328-9e9d-4826-a2d8-2d6e6dba6347",
       "name": "Subramanian",
       "nameTamil": "சுப்பிரமணியன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUBRAMANIANS_Palladam.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fde8e3-c0bd-4427-8741-e87241080ce4",
       "name": "K.Thinakaran",
       "nameTamil": "K.தினகரன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_10.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fdbc14-9c04-49b7-96bf-7818ca19f6e1",
       "name": "G.Mayilsamy",
       "nameTamil": "G.மயில்சாமி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_6.jpg"
     },
     {
+      "slno": "10",
       "recid": "93049544-ad14-44b6-bd56-7741e784ec35",
       "name": "R.Jothimani",
       "nameTamil": "R.ஜோதிமணி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JOTHIMANIR_Palladam.jpg"
     },
     {
+      "slno": "11",
       "recid": "9303e4ac-ae3a-455a-96db-ca4a2dab6e1d",
       "name": "M.ShahulHameed",
       "nameTamil": "M.ஷாகுல் ஹமீத்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_24.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fdbd75-12a2-4889-b00b-6056887e5079",
       "name": "T.Saratha",
       "nameTamil": "T.சாரதா",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_5.jpg"
     },
     {
+      "slno": "13",
       "recid": "9303e00d-6f23-447c-b53b-b70e41209380",
       "name": "A.Thangaraj",
       "nameTamil": "A.தங்கராஜ்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_20.jpg"
     },
     {
+      "slno": "14",
       "recid": "9303ec95-2490-4717-8351-c9bc6eb71471",
       "name": "R.Thuyamani",
       "nameTamil": "R.தூயமணி",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_31.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fda915-7166-4ff5-81ad-54cf53816e63",
       "name": "V.Maruthasalam",
       "nameTamil": "V.மருதாசலம்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_4.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fe0ed6-f898-433b-b7aa-b1ebf99875f7",
       "name": "M.Muthurathinam",
       "nameTamil": "M.முத்துரத்தினம் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_16.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fe0ace-cc2e-41c0-89dc-0692e7bbb371",
       "name": "L.Muthurathinam",
       "nameTamil": "L.முத்துரத்தினம்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_11.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fda02e-c6ab-4d6a-8cec-8831276f87b2",
       "name": "K.Murugesan",
       "nameTamil": "K.முருகேசன்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_2.jpg"
     },
     {
+      "slno": "19",
       "recid": "92f711c5-6297-4442-9934-767e16d1e1b0",
       "name": "V.RAMESH",
       "nameTamil": "V.ரமேஷ்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLADAM_1.jpg"
     },
     {
+      "slno": "20",
       "recid": "93071216-ed1c-4dba-bec8-b800c61f8b96",
       "name": "M.Vijaykumar",
       "nameTamil": "M.விஜய்குமார்",

@@ -2,6 +2,7 @@
   "name": "KAVUNDAMPALAYAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93051446-bcb4-4bd7-be16-c139d8d9ad84",
       "name": "G.ARUNKUMAR",
       "nameTamil": "G.G. அருண்குமார் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/G_Arunkumar_Kavundampalayam.jpg"
     },
     {
+      "slno": "2",
       "recid": "9305262a-5ed6-4ba2-be22-2a2d7e5dc3d8",
       "name": "R .KRISHNAN",
       "nameTamil": "R .R. கிருஷ்ணன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_Krishnan_Kavundampalayam.jpg"
     },
     {
+      "slno": "3",
       "recid": "93050114-ac8e-46d3-bf1b-ff403ebf74a5",
       "name": "M.ARUNA",
       "nameTamil": "M.S. அருணா ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Aruna_M_Kavundampalayam.jpg"
     },
     {
+      "slno": "4",
       "recid": "93052fdf-a241-43ff-b6de-e472874ea272",
       "name": "M.KALAMANI",
       "nameTamil": "M.M. கலாமணி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Kalamani_M_Kavundampalayam.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fe8599-865d-4ea4-aca1-8f7e69ced421",
       "name": "K.Siva",
       "nameTamil": "K.சிவா",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KAVUNDAMPALAYAM_30.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fb1229-065a-4344-b5b4-d19999e768ce",
       "name": "M.Selvaraj",
       "nameTamil": "M.செல்வராஜ்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Selvaraj_M_Kavundampalayam.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fb1437-fc49-49ab-82e4-585bcb75f82d",
       "name": "A.Pankaj Jain",
       "nameTamil": "A.பங்கஜ் ஜெயின்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KAVUNDAMPALAYAM_10.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fe8aa2-93e5-4f37-ad76-550996ecf547",
       "name": "T.Arunkumar",
       "nameTamil": "T.அருண்குமார்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KAVUNDAMPALAYAM_25.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fe87a5-e0be-4fc9-a0e9-c90cbf8cd84b",
       "name": "M.Krishnan",
       "nameTamil": "M.கிருஷ்ணன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KAVUNDAMPALAYAM_31.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fe817e-3bf3-4123-9c8c-dd154b388a1b",
       "name": "K.Suriya Kumar",
       "nameTamil": "K.சூர்யாகுமார்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KAVUNDAMPALAYAM_29.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe8e69-70e2-48d8-96e5-7363aaac00f3",
       "name": "M.Gnanaraj",
       "nameTamil": "M.ஞானராஜ்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KAVUNDAMPALAYAM_26.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fe75e6-2e3a-42a0-8e48-40130f90817a",
       "name": "V.Pushpanantham",
       "nameTamil": "V.புஷ்பானந்தம்",

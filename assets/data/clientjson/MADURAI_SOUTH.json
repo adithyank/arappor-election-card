@@ -2,6 +2,7 @@
   "name": "MADURAI_SOUTH",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fcc4d3-9c7f-4a06-a07e-94ea07d3369a",
       "name": "S.S.SARAVANAN",
       "nameTamil": "S.S.சரவணன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_SOUTH_3.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fcc73e-d0f3-4199-8a2e-2f068812d31c",
       "name": "M.BOOMINATHAN",
       "nameTamil": "M.பூமிநாதன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_SOUTH_9.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcb862-caa6-465c-be06-701818d128a1",
       "name": "M.ABBAS",
       "nameTamil": "M.அப்பாஸ்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_SOUTH_4.jpg"
     },
     {
+      "slno": "4",
       "recid": "9302ab98-b0b2-4cbe-9410-3564db135e48",
       "name": "G.ESWARAN",
       "nameTamil": "G.ஈஸ்வரன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_SOUTH_18.jpg"
     },
     {
+      "slno": "5",
       "recid": "9300a418-29bb-4858-a0f7-faf0a90aeb6c",
       "name": "K.SADAM HUSSAIN",
       "nameTamil": "K.சதாம் உசேன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_SOUTH_16.jpg"
     },
     {
+      "slno": "6",
       "recid": "9302b2fc-1eb1-4bf6-a59e-a670f3c32399",
       "name": "S.BHARATHIKANNAMMA",
       "nameTamil": "S.பாரதிகண்ணம்மா ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_SOUTH_14.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fccdf9-deb7-40ea-b9f1-94b23844375e",
       "name": "SHA.RAAJALINGAM",
       "nameTamil": "SHA.ராஜலிங்கம்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_SOUTH_10.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff7ac1-b071-4227-97b6-afa3bd9dd4ec",
       "name": "K.R.Umesh",
       "nameTamil": "K.R.உமேஷ் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_SOUTH_20.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fcd815-b27b-47d1-a9a8-efaf836e2be9",
       "name": "R.SARAVANAN",
       "nameTamil": "R.சரவணன்",
@@ -268,8 +277,8 @@
       "totalAssetTamil": "12000",
       "liability": "2 lacs",
       "liabilityTamil": "2 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_SOUTH_13.jpg"
     },
     {
+      "slno": "10",
       "recid": "9302b600-dd96-4e80-ae8e-d4e255484d5f",
       "name": "V.C.RAVICHANDRAN",
       "nameTamil": "V.C.ரவிச்சந்திரன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_SOUTH_22.jpg"
     },
     {
+      "slno": "11",
       "recid": "9302a939-8e8e-4ca0-9d7e-0f96695534d9",
       "name": "K.RAJKUMAR (A) MANIKANDAN",
       "nameTamil": "K.ராஜ்குமார் (எ) மணிகண்டன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_SOUTH_15.jpg"
     },
     {
+      "slno": "12",
       "recid": "93072800-2048-4465-a6ac-587af9bf6928",
       "name": "T.S.VENGADACHALAPATHY",
       "nameTamil": "T.S.வெங்கடச்சலபதி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VENGADACHALAPATHY_T_S_MaduraiSouth.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff78c2-fa9f-4fe7-9487-14ab9bd62448",
       "name": "K.JEYA",
       "nameTamil": "K.ஜெயா",

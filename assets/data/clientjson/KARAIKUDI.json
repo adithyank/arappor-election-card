@@ -2,6 +2,7 @@
   "name": "KARAIKUDI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fdbf36-773d-4456-900b-66e07968b2bb",
       "name": "N.BALUSWAMY",
       "nameTamil": "N.பாலுச்சாமி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARAIKUDI_13.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304ebee-65e5-4776-bdd4-75732bba9019",
       "name": "S.MANGUDI",
       "nameTamil": "S.மாங்குடி",
@@ -51,8 +53,8 @@
       "totalAssetTamil": "2 கோடி 53 லட்சம்",
       "liability": "3 crore 06 lacs",
       "liabilityTamil": "3 கோடி 06 லட்சம்",
-      "netAsset": "- crore 52 lacs",
-      "netAssetTamil": "- கோடி 52 லட்சம்",
+      "netAsset": " - 53 lacs",
+      "netAssetTamil": " - 53 லட்சம்",
       "criminalCase": "9",
       "caseDetailEnglish": "Election rule break, un authorised public meeting during Corona time, . ",
       "caseDetailTamil": "தேர்தல் விதிமுறை மீறல், கொரோனா விதிமுறைகளை மீறியதாக வழக்கு, சட்டவிரோதமாக ஒன்று கூடி பொது சொத்துக்கு சேதம் விளைவித்தது, . ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_Mangudi_Karaikudi.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6c298-90cc-4c3b-a435-afc4a36baa7a",
       "name": "H.RAJA",
       "nameTamil": "H.இராஜா",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARAIKUDI_2.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304f568-0299-42df-9eb0-77ba3acf2856",
       "name": "N.Duraimanickam",
       "nameTamil": "N.துரைமானிக்கம்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/N_DuraiManickam_Karaikudi.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f6d9ef-462a-4bfa-a659-e83958d2bcb2",
       "name": "V.Dherpoki V Pandi",
       "nameTamil": "V.தேர்போகி வே பாண்டி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARAIKUDI_1.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fdc6a5-d745-4d82-8fec-07c4918192a7",
       "name": "G.RAJKUMAR",
       "nameTamil": "G.ராஜ்குமார்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARAIKUDI_15.jpg"
     },
     {
+      "slno": "7",
       "recid": "93010441-c2dd-466d-9679-ea3a809658ca",
       "name": "S.Rajkumar",
       "nameTamil": "S.ராஜ்குமார் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARAIKUDI_18.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fdc36f-55f8-4c98-aa84-64abca8d4f2f",
       "name": "B .VANITHA",
       "nameTamil": "B .வனிதா",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARAIKUDI_14.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fdb860-af7c-4ffa-bf9a-6047bcf456bd",
       "name": "A.GANESAN",
       "nameTamil": "A.கணேசன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARAIKUDI_10.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f8e93e-04b5-4382-b9c8-5a5ca80cc6d9",
       "name": "M.NainaMohamed",
       "nameTamil": "M.ம. நைய்னா முகமது",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARAIKUDI_5.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fdba77-b1eb-43ce-a486-93ca5f78ac58",
       "name": "A.PARAMASIVAM",
       "nameTamil": "A.பரமசிவம்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARAIKUDI_11.jpg"
     },
     {
+      "slno": "12",
       "recid": "93010838-1a91-4b84-9561-7bb474326cac",
       "name": "N.Meenal",
       "nameTamil": "N.மீனாள் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARAIKUDI_20.jpg"
     },
     {
+      "slno": "13",
       "recid": "9304e81a-1a32-4082-9e2e-cb2cc5af13be",
       "name": "K.VELU",
       "nameTamil": "K.வேலு",

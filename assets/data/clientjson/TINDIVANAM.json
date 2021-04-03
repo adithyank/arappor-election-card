@@ -2,6 +2,7 @@
   "name": "TINDIVANAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f773a4-6d36-4e01-8fc7-ac3c2c0652bf",
       "name": "P.Arjunan",
       "nameTamil": "P.அர்ஜுனன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TINDIVANAM_11.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fae1fd-6a4d-40f8-93ba-e2edec4ab855",
       "name": "A.GOVINDASAMY",
       "nameTamil": "A.கோவிந்தசாமி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TINDIVANAM_17.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fd1751-c90f-4e9e-99ac-c1dac0dff27e",
       "name": "K.Chandralekha",
       "nameTamil": "K.சந்திரலேகா",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TINDIVANAM_26.jpg"
     },
     {
+      "slno": "4",
       "recid": "93051f84-c543-421f-8e0d-d5a498b24473",
       "name": "P.SEETHAPATHY",
       "nameTamil": "P.சீதாபதி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SEETHAPATHYP_Tindivanam.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fd0e8b-3715-4bd9-af03-e84859affa85",
       "name": "Ilavarasan",
       "nameTamil": "இளவரசன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TINDIVANAM_23.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fd109f-2a6a-45db-b275-90ca493eb015",
       "name": "M.Settu",
       "nameTamil": "M.சேட்டு",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TINDIVANAM_24.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304ce06-c406-404d-9742-bc8f3b22cd71",
       "name": "P.PACHIMUTHU",
       "nameTamil": "P.பேச்சிமுத்து ",
@@ -206,8 +213,8 @@
       "totalAssetTamil": "80000",
       "liability": "2 lacs",
       "liabilityTamil": "2 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 74000",
+      "netAssetTamil": " - 74000",
       "criminalCase": "1",
       "caseDetailEnglish": "Hydro Carbon Protest. ",
       "caseDetailTamil": "ஹைட்ரொ கார்பன் எதிர்த்து போராட்டம் . ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PACHIMUTHUP_Tindivanam.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fb9420-b254-475b-9c6f-845f020df17b",
       "name": "S.POYATHU @ANBIN POYYAMOZHI",
       "nameTamil": "S.பொய்யாது @அன்பின் பொய்யாமொழி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TINDIVANAM_16.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fcf22a-8d18-47ef-9644-f54c7532c594",
       "name": "A.MOHAN",
       "nameTamil": "A.மோகன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TINDIVANAM_22.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f8d21e-93ad-499c-93f1-df8a66fa623d",
       "name": "S.VISWANATHAN",
       "nameTamil": "S..விஸ்வநாதன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TINDIVANAM_13.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fd197a-4d42-4988-8a15-e2379d4b019a",
       "name": "J.Arulmaran",
       "nameTamil": "J.அருள்மாறன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TINDIVANAM_27.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff2c4e-f2c8-420a-becd-c297f8890dc2",
       "name": "M.Gokulakrishnan",
       "nameTamil": "M.கோகுலகிருஷ்ணன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TINDIVANAM_34.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff0ad6-166b-47dc-bb61-bc80d692565b",
       "name": "A.Thambiraj",
       "nameTamil": "A.தம்பிராஜ் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TINDIVANAM_28.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff11c2-6b38-40ee-ad7b-39c406552d0c",
       "name": "S.Vinoth",
       "nameTamil": "S.வினோத் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TINDIVANAM_31.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff2e3f-7516-44f5-930c-f2f599c1978d",
       "name": "S.Vetrivendhan",
       "nameTamil": "S.வெற்றிவேந்தன் ",

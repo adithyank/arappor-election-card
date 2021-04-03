@@ -2,6 +2,7 @@
   "name": "CHEYYAR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f68ff4-84fa-4cf3-bd38-e3377dcc0f21",
       "name": "K.DUSI MOHAN",
       "nameTamil": "K.மோகன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DUSI_K_MOHAN_Cheyyar.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304b7ad-8f6f-48de-a84a-904bb5ecf3c2",
       "name": "S.Vijayakanth",
       "nameTamil": "S.விஜயகாந்த் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIJAYAKANTH_S_Cheyyar.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6c1dc-701f-49eb-84f9-0ea2592a229c",
       "name": "O.Jothi",
       "nameTamil": "O.ஜோதி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYAR_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fd3711-9f90-4052-9c1e-fb8d3aaff99b",
       "name": "S.Kuttimani",
       "nameTamil": "S.குட்டிமணி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYAR_10.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fe94e7-407f-4899-b038-a7668ab12f4f",
       "name": "B.Nadarajan",
       "nameTamil": "B.நடராஜன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYAR_19.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f6a00e-5362-4280-be9d-4c15d279d3aa",
       "name": "G.Bheeman",
       "nameTamil": "G.பீமன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYAR_6.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304ba58-7ea7-42e1-bfef-62fd850ba471",
       "name": "M.Manikandan",
       "nameTamil": "M.மணிகண்டன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANIKANDAN_M_Cheyyar.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fa9308-62db-4c4e-8c84-d1e708292205",
       "name": "T.Mayilvaganan",
       "nameTamil": "T.மயில்வாகனன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYAR_8.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304cae1-9689-44d1-beb1-532c6b30839a",
       "name": "J.Maryvoilet",
       "nameTamil": "J.மேரிவைலட் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MARYVOILET_J_Cheyyar.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fcc968-8119-403f-943d-d5de21d7dd11",
       "name": "M.K.Varadharajan",
       "nameTamil": "M.K..வரதராஜன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYAR_14.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe9bcf-eddb-486c-b82e-a0fa2305fa70",
       "name": "V.Venkatesan",
       "nameTamil": "V.வெங்கடேசன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYAR_24.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fca951-c2da-4b1a-ac9c-cafb4dfb955a",
       "name": "C.Anandasekaran",
       "nameTamil": "C.ஆனந்தசேகரன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYAR_13.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fccccd-1e73-46ea-b170-5e5f7c176469",
       "name": "M.UdhayaKumar",
       "nameTamil": "M.உதயகுமார் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYAR_15.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fc9e6e-a39c-4867-a89c-e097176fcce0",
       "name": "T.Suresh Babu",
       "nameTamil": "T.சுரேஷ் பாபு ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYAR_12.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fa8f2a-a563-4e36-9f5b-518f87a68fea",
       "name": "V.Nirmala",
       "nameTamil": "V.நிர்மலா",

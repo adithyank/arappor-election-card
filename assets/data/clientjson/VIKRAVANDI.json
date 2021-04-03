@@ -2,6 +2,7 @@
   "name": "VIKRAVANDI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f867cb-48cb-433d-85cc-231c9332cb8b",
       "name": "C.ARUMUGAM",
       "nameTamil": "C.ஆறுமுகம்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIKRAVANDI_8.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f95c9e-7f59-426a-bf33-3ff5fb1d97a3",
       "name": "N.Pugazhenthi",
       "nameTamil": "N.புகழேந்தி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIKRAVANDI_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f692f7-1dd1-4ed9-aaae-6c9477c9cc0b",
       "name": "R.Muthamil Selvan",
       "nameTamil": "R.முத்தமிழ்செல்வன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIKRAVANDI_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff2052-c0f1-4417-92b3-ca2fab574b21",
       "name": "S.ELANGOVAN",
       "nameTamil": "S.இளங்கோவன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIKRAVANDI_27.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fd01ea-ea98-4f1d-afa3-c2d05f0827e5",
       "name": "R.Iyyanar",
       "nameTamil": "R.ஐயனார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIKRAVANDI_9.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fd1163-2cca-4e37-b91e-581ea233dd6a",
       "name": "R.Senthil",
       "nameTamil": "R.செந்தில்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIKRAVANDI_14.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff06b0-1601-4c06-a2da-ec6c5a409d8d",
       "name": "P.RAJIVGANDHI",
       "nameTamil": "P.ராஜீவ்காந்தி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIKRAVANDI_16.jpg"
     },
     {
+      "slno": "8",
       "recid": "9304dc2c-2376-4b27-b020-9a748211d41f",
       "name": "R.SHEEBA ASHMI",
       "nameTamil": "R.ஷீபா ஆஸ்மி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHEEBAASHMIR_Vikravandi.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff093f-bd0f-4858-aa3d-3251da785a8f",
       "name": "K.IYYAPPAN",
       "nameTamil": "K.அய்யப்பன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIKRAVANDI_17.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff02c9-8526-4a32-b7d7-05565aa9cc34",
       "name": "A.AYYANAR",
       "nameTamil": "A.அய்யனார்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIKRAVANDI_15.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff1e9d-425f-4bfa-8706-95660068c32b",
       "name": "A.KANNADHASAN",
       "nameTamil": "A.கண்ணதாசன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIKRAVANDI_26.jpg"
     },
     {
+      "slno": "12",
       "recid": "9304d727-19a7-487d-a717-1a36323cfe85",
       "name": "J.GAYATHRI",
       "nameTamil": "J.காயத்தி ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GAYATHRIJ_Vikravandi.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff0d03-862a-4455-a77b-3e1d28360977",
       "name": "R.SATHISH",
       "nameTamil": "R.சதிஷ் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIKRAVANDI_19.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff240c-5824-4f49-bd5d-92f8eba2b810",
       "name": "P.RAGHUPATHY",
       "nameTamil": "P.ரகுபதி",

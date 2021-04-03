@@ -2,6 +2,7 @@
   "name": "MANNARGUDI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6777f-e4b3-4b2e-b6a0-d57616eb94df",
       "name": "RAJAMANICKAM SIVA",
       "nameTamil": "ராஜமாணிக்கம் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANNARGUDI_2.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fce674-9f5e-4e63-bd7b-1c19c6ec2f40",
       "name": "T.R.B.RAJAA",
       "nameTamil": "T.R.B.ராஜா ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANNARGUDI_24.jpg"
     },
     {
+      "slno": "3",
       "recid": "92ff6e6a-d1b7-43d5-9c2e-fbcc229dcf12",
       "name": "R.ARAVINDAN",
       "nameTamil": "R.அரவிந்தன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANNARGUDI_27.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff85b9-cbf8-49ab-9333-734403239a51",
       "name": "S.ANBANANDHAM",
       "nameTamil": "S.அன்பானந்தம் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANNARGUDI_29.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff8fc6-cf20-43ae-a42c-e2a781e93f9e",
       "name": "S.KAMARAJ",
       "nameTamil": "S.காமராஜ் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANNARGUDI_30.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fec597-f19c-4c71-ab49-0b502c62f91a",
       "name": "S.SATHISHKUMAR",
       "nameTamil": "S.சதீஷ்குமார் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANNARGUDI_25.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304d0ec-6e82-4502-9102-2190d8b4882f",
       "name": "T.KUMERASAN",
       "nameTamil": "T.குமரேசன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUMARESANT_Mannargudi.jpg"
     },
     {
+      "slno": "8",
       "recid": "9304d594-8ea9-4dda-a6ad-8c67f24a632f",
       "name": "T.BHARATHIDHASAN",
       "nameTamil": "T.பாரதிதாசன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARADHIDASANT_Mannargudi.jpg"
     },
     {
+      "slno": "9",
       "recid": "930d4fd1-697a-43a5-9f62-60701ba88bcb",
       "name": "M.MARIMUTHU",
       "nameTamil": "M.M.MARIMUTHU",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MARIMUTHUA_V_M_Mannargudi.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fc9f44-0c1b-42b7-9f46-4b8c3606103e",
       "name": "S.MURUGAN",
       "nameTamil": "S.முருகன் ",

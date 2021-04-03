@@ -2,6 +2,7 @@
   "name": "KADAYANALLUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f88eac-6891-4349-a7ff-05a69032d805",
       "name": "C.KRISHNA MURALI",
       "nameTamil": "C..கிருஷ்ணமுரளி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KADAYANALLUR_2.jpg"
     },
     {
+      "slno": "2",
       "recid": "92feed42-16d4-42d0-a2d7-f7db86e89542",
       "name": "M.AMBIKADEVI",
       "nameTamil": "M.M.AMBIKADEVI",
@@ -51,8 +53,8 @@
       "totalAssetTamil": "30 லட்சம்",
       "liability": "31 lacs",
       "liabilityTamil": "31 லட்சம்",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 35000",
+      "netAssetTamil": " - 35000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KADAYANALLUR_21.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fd88cb-9f3b-4f19-ab17-280325d6921e",
       "name": "S.AYYADURAIPANDIAN",
       "nameTamil": "S.அய்யாத்துரைப்பாண்டியன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KADAYANALLUR_8.jpg"
     },
     {
+      "slno": "4",
       "recid": "93049bcc-b19f-49cb-a7c6-98072f72c95c",
       "name": "S.RAJARAM",
       "nameTamil": "S.S.RAJARAM",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "5 lacs",
       "liabilityTamil": "5 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_RAJARAM_Kadayanallur.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fc6ce5-b367-4282-b355-66c0552d4060",
       "name": "M.MUTHULAKSHMI",
       "nameTamil": "M..முத்துலட்சுமி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KADAYANALLUR_3.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fd97bc-2f0c-4f69-9a38-adc6a2d757d7",
       "name": "K.A.M.MUHAMMED ABUBACKER",
       "nameTamil": "K.A.M.முகம்மது அபுபக்கர்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KADAYANALLUR_10.jpg"
     },
     {
+      "slno": "7",
       "recid": "930492af-4b0d-4771-84a2-408350b5d59e",
       "name": "M.AYYADURAI",
       "nameTamil": "M.அய்யாத்துரை",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_AYYADURAI_Kadayanallur.jpg"
     },
     {
+      "slno": "8",
       "recid": "930494be-121e-4b45-b128-ea8ac84d0b35",
       "name": "R.AYYADURAI",
       "nameTamil": "R.ஐயாத்துரை",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_KRISHNAN_Kadayanallur.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fc7567-603d-4dee-ac46-a55f1ff7fa63",
       "name": "T.AVANIRAJA",
       "nameTamil": "T.ஆவணிராஜா",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KADAYANALLUR_5.jpg"
     },
     {
+      "slno": "10",
       "recid": "930498ce-77e2-448c-b111-f2e49cc810a7",
       "name": "K.RADHAKRISHNAN",
       "nameTamil": "K.இராதாகிருஷ்ணன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/T_Sermadurai_Radhapuram.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fc7173-1649-4f31-859c-2a65c60c6dc6",
       "name": "R.RAJAPONNUSAMY",
       "nameTamil": "R.இராஜா பொன்னுச்சாமி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KADAYANALLUR_4.jpg"
     },
     {
+      "slno": "12",
       "recid": "930235f5-5fa9-4aba-91ae-4c5eceeccc8c",
       "name": "A.GANESAN",
       "nameTamil": "A.கணேசன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KADAYANALLUR_32.jpg"
     },
     {
+      "slno": "13",
       "recid": "93090e13-413d-476e-8c4c-57de1650036f",
       "name": "R.KRISHNAN",
       "nameTamil": "R.கிருஷ்ணன் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_KRISHNAN_Kadayanallur.jpg"
     },
     {
+      "slno": "14",
       "recid": "93090cd5-f230-4fc1-b3bf-9be45fa5e79f",
       "name": "A.SANKAR",
       "nameTamil": "A.சங்கர் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_SANKAR_Kadayanallur.jpg"
     },
     {
+      "slno": "15",
       "recid": "930111cf-f2a3-4353-a4fc-afc688783cdf",
       "name": "R.SIVASUBRAMANIYAN",
       "nameTamil": "R.சிவசுப்பிரமணியன்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KADAYANALLUR_28.jpg"
     },
     {
+      "slno": "16",
       "recid": "930910bb-442f-4aa1-8b89-15e6e2871679",
       "name": "S.SEENIVASAN",
       "nameTamil": "S.சீனிவாசன் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_SEENIVASAN_Kadayanallur.jpg"
     },
     {
+      "slno": "17",
       "recid": "93010a42-7287-4b00-84b1-4dcbde9a3a93",
       "name": "R.POOLOGARAJ",
       "nameTamil": "R.பூலோகராஜ்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KADAYANALLUR_24.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fc77f1-60aa-4c23-8497-8e89d2fbea07",
       "name": "K.MARIDURAIPANDIAN",
       "nameTamil": "K..மாரித்துரைப்பாண்டி",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KADAYANALLUR_6.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fee701-cac1-4c7f-a860-2c14bed14d9d",
       "name": "S.MURUGANANTHAM",
       "nameTamil": "S.S.MURUGANANTHAM",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KADAYANALLUR_20.jpg"
     },
     {
+      "slno": "20",
       "recid": "93091376-cb36-40f5-abd1-93223c40fa2e",
       "name": "P.RAJI",
       "nameTamil": "P.ராஜி ",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/P_RAJI_Kadayanallur.jpg"
     },
     {
+      "slno": "21",
       "recid": "9304968b-1082-409c-ae66-0823f34d8859",
       "name": "VELAMMAL",
       "nameTamil": "வேலம்மாள்",

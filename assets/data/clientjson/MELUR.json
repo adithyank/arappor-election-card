@@ -2,6 +2,7 @@
   "name": "MELUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92feec05-7908-4f66-9731-5987368f0954",
       "name": "T.RAVICHANDRAN",
       "nameTamil": "T.ரவிசந்திரன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MELUR_20.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6dea5-a740-4540-a919-c97ba7d8039b",
       "name": "P.Periyapullan Alias Selvam",
       "nameTamil": "P.பெரியபுல்லன் அலியாஸ் செல்வம்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MELUR_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fd20b2-c069-451a-b2b1-4ce6587fbc54",
       "name": "K.KATHIRESAN",
       "nameTamil": "K.கதிரேசன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MELUR_13.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fce627-c0ea-44e8-8368-fac72d591137",
       "name": "P.KARUPPUSAMY",
       "nameTamil": "P.கருப்பச்சாமி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARUPPUSAMYP__Melur.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fb13e2-cd1d-4bec-973a-4b0b6f315e44",
       "name": "K.SENTHILRAJ",
       "nameTamil": "K.செந்தில்ராஜ்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MELUR_10.jpg"
     },
     {
+      "slno": "6",
       "recid": "93051c7b-f652-427a-8f1f-436f441268ef",
       "name": "A.Selvaraj",
       "nameTamil": "A.செல்வராஜ்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SELVARAJA__Melur.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff0cc5-7ec6-4851-967e-f5d8d909b50b",
       "name": "P.KANNAN",
       "nameTamil": "P.கண்ணன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MELUR_21.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f104aa-8b95-4b6a-b9f1-5880254610a5",
       "name": "M.Gopalakrishnan",
       "nameTamil": "M.கோபாலகிருஷ்ணன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MELUR_1.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f69a2c-fdd1-42f9-8963-60aecfa051c7",
       "name": "R.SIVASAMY",
       "nameTamil": "R.சிவா சாமி ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MELUR_5.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fc92b9-1c94-47e5-ad7a-465258352248",
       "name": "P.DHARMAR",
       "nameTamil": "P.தர்மா",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MELUR_12.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fee8c6-b059-4658-bac0-e0ab1b37f5c8",
       "name": "S.DHINAKARAN",
       "nameTamil": "S.தினகரன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MELUR_24.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff25bf-7a18-4179-906a-6423be2e07b3",
       "name": "N.NAGENDRAN",
       "nameTamil": "N.நாகேந்திரன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MELUR_22.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fc9168-f6a0-46e3-ad9d-6b3053067142",
       "name": "K.PANDI",
       "nameTamil": "K.பாண்டி ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MELUR_15.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff1b42-215b-4c11-b3ec-ff88e62ddfd8",
       "name": "T.BALAN",
       "nameTamil": "T.பாலன் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MELUR_17.jpg"
     },
     {
+      "slno": "15",
       "recid": "92f68773-f9cf-4c2b-981f-1fc63881e178",
       "name": "C .Mohanram",
       "nameTamil": "C .மோகன்ராம்",

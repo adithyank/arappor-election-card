@@ -2,6 +2,7 @@
   "name": "KURINJIPADI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92faeabc-eec3-40f8-a73c-e38be2a6e3c3",
       "name": "Selvi Ramajayam",
       "nameTamil": "செல்வி ராமஜெயம் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KURINJIPADI_4.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f8fb67-2d9f-46ea-97ed-3a77aae57961",
       "name": "M.R.K.Panneerselvam",
       "nameTamil": "M.R.K.பன்னீர்செல்வம்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KURINJIPADI_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "93057a26-f2b4-40e9-b373-68ee91633c3e",
       "name": "T.Velayutham",
       "nameTamil": "T.வேலாயுதம்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/T_VELAYUDHAM_Kurinjipadi.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fef9b4-7da6-4b7e-8db7-16a21ee23db2",
       "name": "K.Chandhramouli",
       "nameTamil": "K.சந்திரமௌலி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KURINJIPADI_14.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fae506-d6e8-4c3f-b19a-70c0e67e6875",
       "name": "s.Sumathi",
       "nameTamil": "s.சுமதி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KURINJIPADI_3.jpg"
     },
     {
+      "slno": "6",
       "recid": "930500ef-c4c4-40fd-b1e1-513ac65b55b6",
       "name": "R.Muthukrishnan",
       "nameTamil": "R.முத்துகிருஷ்ணன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_MUTHUKRISHNAN_Kurinjipadi.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304fdf0-5562-4883-baaa-c7058939e87f",
       "name": "A.Vasanthakumar",
       "nameTamil": "A.வசந்தகுமார்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_VASANTHAKUMAR_Kurinjipadi.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fef411-3022-4ff2-a3da-0fd29bb5875f",
       "name": "R.Sarathkumar",
       "nameTamil": "R.சரத்குமார்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KURINJIPADI_11.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fefb78-2280-483d-a5ed-40b467590263",
       "name": "Prijetha Rosilin",
       "nameTamil": "பிரிஜிதா ரோசிலின் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KURINJIPADI_15.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fef5e1-3c9a-4d50-ad0d-464e2d9c7386",
       "name": "L.Mathiyazhagan",
       "nameTamil": "L.மதியழகன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KURINJIPADI_13.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fefc9e-3684-4b0a-b1a3-093aae7089a6",
       "name": "N.Muthazhagan",
       "nameTamil": "N.முத்தழகன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KURINJIPADI_17.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fef1f7-03b4-4133-b0c9-0e0ba66585e7",
       "name": "R.Rajesh",
       "nameTamil": "R.ராஜேஷ்",

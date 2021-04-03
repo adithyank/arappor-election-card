@@ -2,6 +2,7 @@
   "name": "VILLUPURAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f8f071-51ba-4ec7-8a6e-c46a089dc85e",
       "name": "R.Lakshmanan",
       "nameTamil": "R.இலட்சுமணன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_7.jpg"
     },
     {
+      "slno": "2",
       "recid": "930528f1-dca3-4ece-bb2d-af239a3e681b",
       "name": " C V.SHANMUGAM",
       "nameTamil": " C V.சண்முகம் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHANMUGAMCVe_Villupuram.jpg"
     },
     {
+      "slno": "3",
       "recid": "93004c1b-f176-42db-8a91-690b3ee1c055",
       "name": "N.Sivabalan",
       "nameTamil": "N.சிவபாலன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_17.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f8730a-fdf4-482e-8a9b-6494c472b6ec",
       "name": "J.Selvam",
       "nameTamil": "J.செல்வம்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_10.jpg"
     },
     {
+      "slno": "5",
       "recid": "93006839-3c76-444b-a7eb-61f47d35df83",
       "name": "K.Dass",
       "nameTamil": "K.தாஸ் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_34.jpg"
     },
     {
+      "slno": "6",
       "recid": "92faa923-a110-402b-9d86-9b6815eb04f6",
       "name": "D.Duraisamy",
       "nameTamil": "D.துரைசாமி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_11.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff78a8-457a-4d46-b7da-758fe088bb8d",
       "name": "N.Devanathan",
       "nameTamil": "N. தேவநாதன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_15.jpg"
     },
     {
+      "slno": "8",
       "recid": "92faf9fd-1f7e-48fe-914a-f0512841c0ef",
       "name": "R.Balasundaram",
       "nameTamil": "R.பாலசுந்தரம்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_13.jpg"
     },
     {
+      "slno": "9",
       "recid": "930054cb-a426-4452-a436-1d30e4a83782",
       "name": "A.Mohamed Ibrahim",
       "nameTamil": "A.முகம்மது இப்ராஹிம் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_22.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300633e-debc-4f06-bb9d-4f8d1c9cc68c",
       "name": "A.S.Victor",
       "nameTamil": "A.S.விக்டர் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_30.jpg"
     },
     {
+      "slno": "11",
       "recid": "9305254b-840a-4e3d-86dd-0ccc6180e772",
       "name": "G.INIYADAYALAN",
       "nameTamil": "G.இனியதயாளன் ",
@@ -330,8 +341,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "3 lacs",
       "liabilityTamil": "3 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/INIYADAYALANG_Villupuram.jpg"
     },
     {
+      "slno": "12",
       "recid": "93004a01-b6a3-4290-9fa1-be18dbfb254d",
       "name": "G.Iyannar",
       "nameTamil": "G.அய்யனார் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_16.jpg"
     },
     {
+      "slno": "13",
       "recid": "9300694f-e6d0-4074-b2ad-8be7270c11f7",
       "name": "V.Kuppan",
       "nameTamil": "V.குப்பன் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_35.jpg"
     },
     {
+      "slno": "14",
       "recid": "93005108-7903-4bfa-8136-f75504cd5952",
       "name": "R.Kumar",
       "nameTamil": "R.குமார் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_21.jpg"
     },
     {
+      "slno": "15",
       "recid": "92faf4cc-c8be-4841-babc-709e7755ab62",
       "name": "P.Kesavan",
       "nameTamil": "P.கேசவன்",
@@ -454,8 +469,8 @@
       "totalAssetTamil": "3 லட்சம்",
       "liability": "8 lacs",
       "liabilityTamil": "8 லட்சம்",
-      "netAsset": "-5 lacs",
-      "netAssetTamil": "-5 லட்சம்",
+      "netAsset": " - 5 lacs",
+      "netAssetTamil": " - 5 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_12.jpg"
     },
     {
+      "slno": "16",
       "recid": "930055e6-2cab-4ac0-b0ce-94516ef92d2e",
       "name": "A.Shanmugam",
       "nameTamil": "A.சண்முகம் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_23.jpg"
     },
     {
+      "slno": "17",
       "recid": "930065a4-9731-4d66-bbc8-363dbaf96502",
       "name": "G.Shanmugam",
       "nameTamil": "G.சண்முகம்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_32.jpg"
     },
     {
+      "slno": "18",
       "recid": "930060f1-df87-4e0e-ad52-35d2f093f5c8",
       "name": "V.Shanmugam",
       "nameTamil": "V.சண்முகம் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_29.jpg"
     },
     {
+      "slno": "19",
       "recid": "9300587c-140b-4a8b-ac47-d35b5581620a",
       "name": "R.Subramanian",
       "nameTamil": "R.சுப்பிரமணியன் ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_25.jpg"
     },
     {
+      "slno": "20",
       "recid": "93005e56-2324-4837-9589-089434acda83",
       "name": "Su.Va.Dakshinamoorthy",
       "nameTamil": "Su.Va.தட்சிணாமூர்த்தி ",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_28.jpg"
     },
     {
+      "slno": "21",
       "recid": "930066cc-7049-47af-8ab6-e293c90d63d4",
       "name": "D.Narendiran",
       "nameTamil": "D.நரேந்திரன் ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_33.jpg"
     },
     {
+      "slno": "22",
       "recid": "92f89878-e37e-42ea-a4bc-ef8bd188d6b3",
       "name": "K.Balu",
       "nameTamil": "K.பாலு",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_5.jpg"
     },
     {
+      "slno": "23",
       "recid": "93004fb2-d224-4452-b986-6c8fd24e73d3",
       "name": "M.Prabakaran",
       "nameTamil": "M.பிரபாகரன் ",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_19.jpg"
     },
     {
+      "slno": "24",
       "recid": "92f89f0c-ab70-4df1-8ab7-779724dc4f51",
       "name": "K.Raman",
       "nameTamil": "K.ராமன்",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLUPURAM_6.jpg"
     },
     {
+      "slno": "25",
       "recid": "9300574e-09bc-40a0-a433-b9455a0958f6",
       "name": "R.Jaiaadhe",
       "nameTamil": "R.ஜெய்யாதே ",

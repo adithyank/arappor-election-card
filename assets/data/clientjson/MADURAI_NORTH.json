@@ -2,6 +2,7 @@
   "name": "MADURAI_NORTH",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fca93c-2d37-47db-a03d-fd42bb2b674e",
       "name": "P.SARAVANAN",
       "nameTamil": "P.சரவணன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_NORTH_23.jpg"
     },
     {
+      "slno": "2",
       "recid": "930711de-f83a-4f38-9044-d9b5512ea72e",
       "name": "G.THALAPATHI",
       "nameTamil": "G.தளபதி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THALAPATHIG_MaduraiNorth.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fceb9e-dcb7-4aec-8de2-ec0f6f244fa9",
       "name": "M.ALAGAR",
       "nameTamil": "M.அழகர்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_NORTH_22.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fca0f0-cbf6-4c16-90ee-e4e6a6a73108",
       "name": "S.ANBARASI",
       "nameTamil": "S.அன்பரசி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_NORTH_16.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fca42b-2ee8-4984-8d81-1e75a8053a82",
       "name": "S.VASANTHAKUMAR",
       "nameTamil": "S.வசந்தகுமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_NORTH_15.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fd22e2-e5bd-47a1-a08e-8db7e8832061",
       "name": "M.J.VOLTAIRE",
       "nameTamil": "M.J.வால்டேர்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_NORTH_6.jpg"
     },
     {
+      "slno": "7",
       "recid": "9306fcda-946c-4853-b137-718622d8c628",
       "name": "M.JEYAPAL",
       "nameTamil": "M.ஜெயபால் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JEYAPALM_MaduraiNorth.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff17cb-e900-4dac-ae9e-a9e27c28b499",
       "name": "J.ABUBAKKARSIDDIQ",
       "nameTamil": "J.அபுபக்கர் சித்திக்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_NORTH_32.jpg"
     },
     {
+      "slno": "9",
       "recid": "93025e11-0d09-42ae-a544-714ad1b3a0a2",
       "name": "T.RAAM VISHWAKARMA ",
       "nameTamil": "T.ராம்விஸ்வகர்மா",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_NORTH_30.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff1227-85c2-458d-b09d-ff5cf62c7b86",
       "name": "D.ISMAYIL",
       "nameTamil": "D.இஸ்மாயில்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_NORTH_25.jpg"
     },
     {
+      "slno": "11",
       "recid": "930290ab-e201-4df7-8e78-c78dd84da9d2",
       "name": "N.KUPPUSAMY",
       "nameTamil": "N.குப்புசாமி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_NORTH_14.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fcc01c-e340-4b35-b01f-80c65a04982b",
       "name": "J.KESAVARAJAH ",
       "nameTamil": "J.கேசவராஜா",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_NORTH_12.jpg"
     },
     {
+      "slno": "13",
       "recid": "93068f16-037f-4fcf-b70c-e4da21fe0a6e",
       "name": "P.SANKARAPANDI",
       "nameTamil": "P.சக்கரபாண்டி ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARAPANDIP_MaduraiNorth.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff1da5-61d1-436e-9791-ef6a28cae6a6",
       "name": "K.THEIVAMMAL",
       "nameTamil": "K.தெய்வம்மாள் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_NORTH_31.jpg"
     },
     {
+      "slno": "15",
       "recid": "9306ba4b-3057-4fef-94e0-022a6ae59f42",
       "name": "R.NATARAJAN",
       "nameTamil": "R.நடராஜன் ",

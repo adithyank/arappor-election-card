@@ -2,6 +2,7 @@
   "name": "MADURAI_CENTRAL",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304c506-138f-4a68-ac20-c67a460cb226",
       "name": "A.Dhavamani",
       "nameTamil": "A.தவமணி ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THAVAMANIA_MaduraiCentral.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304ba7c-9314-4889-9ed9-1071be872e5e",
       "name": "P.PALANIVELTHIAGARAJAN",
       "nameTamil": "P.பழனிவேல் தியாகராஜன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALANIVELTHIAGARAJAN_MaduraiCentral.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fb8285-3b57-4bfa-bae2-52a80c0b118b",
       "name": "N.Jothi Muthuramalingam",
       "nameTamil": "N.ஜோதி முத்துராமலிங்கம் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_CENTRAL_3.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304b41e-b5e2-4f08-91a1-89fd6546baf0",
       "name": "M.ESWARI",
       "nameTamil": "M.ஈஸ்வரி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ESWARIM_MaduraiCentral.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304cac3-00d8-4e1c-8c3d-05d855713243",
       "name": "GS.SIKKANDARBATCHA",
       "nameTamil": "GS.சிக்கந்தர் பாட்ஷா ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIKKANDARBATCHAGS_MaduraiCentral.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f88aee-8e87-4e3e-818b-e47e013aaf81",
       "name": "J.PANDIAMMAL",
       "nameTamil": "J.பாண்டியம்மாள் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_CENTRAL_2.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fef006-f910-4ea8-a307-8839ceb3d391",
       "name": "B.MANI",
       "nameTamil": "B.மணி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_CENTRAL_12.jpg"
     },
     {
+      "slno": "8",
       "recid": "9300e865-8d35-4367-95e0-bb97468896b0",
       "name": "E.V.S.Rajakumar Naidu",
       "nameTamil": "E.V.S.ராஜகுமார் நாயுடு ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_CENTRAL_4.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff1619-b824-4ce0-a9fa-fbba45febaad",
       "name": "R.ELANGOVAN",
       "nameTamil": "R.இளங்கோவன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_CENTRAL_10.jpg"
     },
     {
+      "slno": "10",
       "recid": "93005e7d-2602-467e-85d6-82b0b1cb3015",
       "name": "CKREMMER SURESH",
       "nameTamil": "கிரம்மர் சுரேஷ் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_CENTRAL_21.jpg"
     },
     {
+      "slno": "11",
       "recid": "93011e9e-b762-40d2-a7fc-3dd6ebbc843c",
       "name": "M.R.KRISHNAPRABBU",
       "nameTamil": "M.R.கிருஷ்ணபிரபு ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_CENTRAL_14.jpg"
     },
     {
+      "slno": "12",
       "recid": "930120e4-d851-4176-aba1-ab701bd0b5ee",
       "name": "N.Sathiyendran",
       "nameTamil": "N.சத்தியேந்தரன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_CENTRAL_16.jpg"
     },
     {
+      "slno": "13",
       "recid": "9303103a-305c-4de7-932c-a98e2ad98f4d",
       "name": "S.SIVA SANKAR",
       "nameTamil": "S.சிவசங்கர் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_CENTRAL_20.jpg"
     },
     {
+      "slno": "14",
       "recid": "92feb238-d435-4faa-8b8e-3018bbf33adf",
       "name": "K.R.Rajasuriyaa",
       "nameTamil": "K.R.ராஜசூரியா ",

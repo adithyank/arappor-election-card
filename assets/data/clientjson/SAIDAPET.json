@@ -2,6 +2,7 @@
   "name": "SAIDAPET",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9306fdbe-e3be-4df2-9ac5-529e9c0dab7e",
       "name": "R.KUMAR",
       "nameTamil": "R.குமார்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOTTURKUMAR_R_Saidapet.jpg"
     },
     {
+      "slno": "2",
       "recid": "9306f0bc-1697-4924-806b-6ccacdf48052",
       "name": "MA.SUBRAMANIYAN",
       "nameTamil": "MA.சுப்ரமணியன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUBRAMANIAN_MA_Saidapet.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f70fcc-384f-447e-8b60-228a6ad502c3",
       "name": "S.Saidai Duraisamy",
       "nameTamil": "S.சைதை துரைசாமி ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAIDAPET_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff5c86-559b-49cc-afbe-f27b2948c701",
       "name": "N.SAGAYAMARY",
       "nameTamil": "N.சகாயமேரி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAIDAPET_42.jpg"
     },
     {
+      "slno": "5",
       "recid": "9306e46a-fccb-4c6a-a736-e0f708d2e93d",
       "name": "T.SIVAGNANASAMBANDAN",
       "nameTamil": "T.சிவஞானசம்பந்தம்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAGNANASAMBANDAN_T_Saidapet.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fa8fb5-25a6-43ef-b913-7cc9e9e8e09e",
       "name": "M.SNEGAPRIYA",
       "nameTamil": "M.சிநேகபிரியா ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAIDAPET_12.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fa9506-65a1-40b5-abd4-b6d888b9b47f",
       "name": "B.SURESHKUMAR",
       "nameTamil": "B.சுரேஷ் குமார் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAIDAPET_14.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f8c917-9935-4fc8-a5eb-b8207e665079",
       "name": "G.Senthamizhan",
       "nameTamil": "G.செந்தமிழன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAIDAPET_2.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304f136-f6d4-42cf-9656-31045ab384a6",
       "name": "V.ASHOK KUMAR",
       "nameTamil": "V.அசோக் குமார் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ASHOKKUMAR_V_Saidapet.jpg"
     },
     {
+      "slno": "10",
       "recid": "9306fa5f-22cc-4253-adee-c169ffc19bf0",
       "name": "M.ARUNKUMAR",
       "nameTamil": "M.அருண்குமார்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARUNKUMAR_M_Saidapet.jpg"
     },
     {
+      "slno": "11",
       "recid": "9306d6ac-3641-415a-9d77-e18bd055ea3c",
       "name": "P.ALAGANATHAN",
       "nameTamil": "P.அழகநாதன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALAGANATHAN_B_Saidapet.jpg"
     },
     {
+      "slno": "12",
       "recid": "92f8caa8-e645-46d1-bb30-92540970d1d6",
       "name": "M.Imrankhan",
       "nameTamil": "M.இம்ரான் கான்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAIDAPET_6.jpg"
     },
     {
+      "slno": "13",
       "recid": "9306d475-4c8f-494e-b570-70055ba9860b",
       "name": "K.ELANGO",
       "nameTamil": "K.இளங்கோ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ELANGO_K_Saidapet.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff570c-5921-4728-a8b5-04a15b16d236",
       "name": "R.KANDHASAMY",
       "nameTamil": "R.கந்தசாமி ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAIDAPET_37.jpg"
     },
     {
+      "slno": "15",
       "recid": "9306dc4f-cb25-4345-8289-ec2ecca5845e",
       "name": "K.KOTHANDAPANI",
       "nameTamil": "K.கோதண்டபானி",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOTHANDAPANI_K_Saidapet.jpg"
     },
     {
+      "slno": "16",
       "recid": "92ff58a5-6899-49e3-91d8-bf029bc05c90",
       "name": "S.SATHISH KUMAR",
       "nameTamil": "S.சதீஷ் குமார் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAIDAPET_39.jpg"
     },
     {
+      "slno": "17",
       "recid": "9306e807-6e12-4916-bcd4-c56b5efbdc6c",
       "name": "D.SARAVANAN",
       "nameTamil": "D.சரவணன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SARAVANAN_D_Saidapet.jpg"
     },
     {
+      "slno": "18",
       "recid": "9304f3e7-6bc9-48f0-803e-a8980b2600e4",
       "name": "S.R.SIVASANKAR",
       "nameTamil": "S.R..சிவசங்கர் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVASANKAR_S_R_Saidapet.jpg"
     },
     {
+      "slno": "19",
       "recid": "9306fc4c-c467-4d2a-89aa-7dba077f20b9",
       "name": "V.BALAJI",
       "nameTamil": "V.பாலாஜி",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BALAJI_V_Saidapet.jpg"
     },
     {
+      "slno": "20",
       "recid": "9306d29d-760c-4b39-b5b1-1a9d4145fd66",
       "name": "C.PRAKASH",
       "nameTamil": "C.பிரகாஷ்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PRAKASH_C_Saidapet.jpg"
     },
     {
+      "slno": "21",
       "recid": "92ff5394-8f7a-49f5-922d-70e513898018",
       "name": "A.PREMKUMAR",
       "nameTamil": "A.பிரேம் குமார் ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAIDAPET_35.jpg"
     },
     {
+      "slno": "22",
       "recid": "9306e182-cdd5-416c-a6ba-0e1096458340",
       "name": "S.MANIMARAN",
       "nameTamil": "S.மணிமாறன்",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANIMARAN_S_Saidapet.jpg"
     },
     {
+      "slno": "23",
       "recid": "92ff60eb-6b43-438e-ac7b-8a94bae35443",
       "name": "R.MURTHI",
       "nameTamil": "R.மூர்த்தி ",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAIDAPET_44.jpg"
     },
     {
+      "slno": "24",
       "recid": "92ff500f-77d9-4277-af3f-464e5802bace",
       "name": "N.RAJESH",
       "nameTamil": "N.ராஜேஷ் ",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAIDAPET_34.jpg"
     },
     {
+      "slno": "25",
       "recid": "9306f3f8-a50e-4700-a621-5d8c0f47246a",
       "name": "A.RISHIKUMAR",
       "nameTamil": "A.ரிஷிகுமார்",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RISHIKUMAR_A_Saidapet.jpg"
     },
     {
+      "slno": "26",
       "recid": "9306ea29-9259-40a4-9e42-c4959c713d8a",
       "name": "J.LOGANATHAN",
       "nameTamil": "J.லோகநாதன்",
@@ -808,6 +834,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LOGANATHAN_J_Saidapet.jpg"
     },
     {
+      "slno": "27",
       "recid": "9306de65-f304-4c24-87ab-994978d92e5b",
       "name": "A.VASANTH",
       "nameTamil": "A.வசந்த்",
@@ -839,6 +866,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VASANTH_H_Saidapet.jpg"
     },
     {
+      "slno": "28",
       "recid": "9306f5e6-1da3-47c6-9f2a-0a60a830cc22",
       "name": "R.VIJAYAKUMAR",
       "nameTamil": "R.விஜயகுமார்",
@@ -870,6 +898,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIJAYAKUMAR_R_Saidapet.jpg"
     },
     {
+      "slno": "29",
       "recid": "9306d9a7-7c57-4925-b41c-f1ff2b555789",
       "name": "K.VENKATESH",
       "nameTamil": "K.வெங்கடேஷ்",
@@ -901,6 +930,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VENKATESH_K_Saidapet.jpg"
     },
     {
+      "slno": "30",
       "recid": "9304f663-3ed1-42ba-a528-c3a90ff3effb",
       "name": "S.JOTHI SAIRAM",
       "nameTamil": "S.ஜோதி சாய்ராம்",

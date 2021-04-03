@@ -2,6 +2,7 @@
   "name": "PERAMBALUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f9d944-0751-4f47-9d41-ff62712f73eb",
       "name": "K.Rajendran",
       "nameTamil": "K.இராஜேந்திரன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJENDRAN_K__Perambalur.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fe8fa6-4bf7-44bd-a7d0-8d8de765c738",
       "name": "A.Gunasekaran",
       "nameTamil": "A.குணசேகரன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBALUR_17.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f67a15-08f2-49a2-a14a-e738bafe5158",
       "name": "R.Thamilselvan",
       "nameTamil": "R.தமிழ்ச்செல்வன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBALUR_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f689cc-e63c-49c3-aed8-dde554d6bc19",
       "name": "M.Prabhaharan",
       "nameTamil": "M.பிரபாகரன்",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "3 கோடி 36 லட்சம்",
       "liability": "3 crore 68 lacs",
       "liabilityTamil": "3 கோடி 68 லட்சம்",
-      "netAsset": "- crore 31 lacs",
-      "netAssetTamil": "- கோடி 31 லட்சம்",
+      "netAsset": " - 32 lacs",
+      "netAssetTamil": " - 32 லட்சம்",
       "criminalCase": "6",
       "caseDetailEnglish": "Riot obsence act in any public place, voluntarily causing hurt, Alleged Unlawful Assembly, Cheating.. ",
       "caseDetailTamil": "பொது இடங்களில் கலவரத்தில் ஈடுபடுதல், தானாக தன்னைதானே புண்படுத்திக்கொள்வது, சட்டவிரோதமாக பொது இடங்களில் கூட்டம் கூடுவது, ஏமாற்றுதல்.. ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBALUR_3.jpg"
     },
     {
+      "slno": "5",
       "recid": "93074d87-cbb8-4a31-9630-d737dbc21394",
       "name": "K.RAJENDRAN",
       "nameTamil": "K.ராஜேந்திரன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBALUR_9.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fb10bf-44fb-44d0-ad72-ea906f78ad5a",
       "name": "M.SASIKALA",
       "nameTamil": "M.சசிகலா ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBALUR_10.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f67f0d-5841-4102-aead-a8a25ed884b8",
       "name": "M.Maheshwari",
       "nameTamil": "M.மகேஸ்வரி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBALUR_2.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fb0db8-ac66-4db2-8f4a-22f5115c2555",
       "name": "T.RADHIKA",
       "nameTamil": "T.ராதிகா ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBALUR_8.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fe8d21-75e3-4c2b-a1e6-0ab3cf6de24c",
       "name": "S.Sathish",
       "nameTamil": "S.சதிஷ்",

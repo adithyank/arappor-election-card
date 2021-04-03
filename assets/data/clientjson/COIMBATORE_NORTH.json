@@ -2,6 +2,7 @@
   "name": "COIMBATORE_NORTH",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9309f444-8ff0-4623-bc3e-8f00289e8781",
       "name": "K. ARJUNAN",
       "nameTamil": "K.அர்ஜுன்னன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMMANK_ARJUNAN_Coimbatore(North).jpg"
     },
     {
+      "slno": "2",
       "recid": "9304e94a-e5cd-473d-bb43-43cba9d96efb",
       "name": "V.M.SHANMUGASUNDARAM",
       "nameTamil": "V.M.சண்முகசுந்தரம் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHANMUGASUNDARAMV_M_Coimbatore(North).jpg"
     },
     {
+      "slno": "3",
       "recid": "92fce547-bce7-4cee-a212-45c93436c7d2",
       "name": "N.R.Appadurai",
       "nameTamil": "N.R.அப்பாதுரை",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_7.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff066d-79e1-4af6-b5d7-c2ede15bff81",
       "name": "M.P.Rajkumar",
       "nameTamil": "M.P..இராஜ்குமார் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_13.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fecf39-0b5c-4803-8f1d-67a2714fe23f",
       "name": "V.Kannapiran",
       "nameTamil": "V.கண்ணபிரான்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_21.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fd0d58-8f3f-49f6-955c-e76025120760",
       "name": "R.Thangavelu",
       "nameTamil": "R.தங்கவேலு",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_10.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304f711-c632-4137-9566-7cfa038b05bc",
       "name": "K.DURAIRAJ",
       "nameTamil": "K.துரைராஜ் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DURAIRAJK_Coimbatore(North).jpg"
     },
     {
+      "slno": "8",
       "recid": "92fa9d11-a9e0-4669-b8af-bfafa9429bb7",
       "name": "M.Panneer Selvaraj",
       "nameTamil": "M.பன்னீர் செல்வராஜ்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_5.jpg"
     },
     {
+      "slno": "9",
       "recid": "93051dd9-35b6-426e-9226-26cf3fedf702",
       "name": "B.Balendran",
       "nameTamil": "B.பாலேந்திரன்.கோ.பா",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BalendranC_B_Coimbatore(North).jpg"
     },
     {
+      "slno": "10",
       "recid": "92feca2a-734f-4962-8352-a5affecef783",
       "name": "A.Arul Murugan",
       "nameTamil": "A.அருள்முருகன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_19.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fd0f77-c3e6-4faa-813f-5832a1e9499f",
       "name": "P.Keerthiga Parathasarathy",
       "nameTamil": "P.கீர்த்திகா பார்த்தசாரதி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_12.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fed613-88fd-4241-a22b-00ce889ec455",
       "name": "K.Shanmugasundaram",
       "nameTamil": "K. சண்முகசுந்தரம்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_23.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fecdc8-8d18-4c80-9d61-9f61e92eaca2",
       "name": "S.Dalit S Jeyaraj",
       "nameTamil": "S.தலித் சு. ஜெயராஜ்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_20.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fed364-46f0-4dd4-af26-b65373224c13",
       "name": "R.Navamani",
       "nameTamil": "R.நவமணி",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_24.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fec89e-b33b-4656-a273-47eb652edd01",
       "name": "M.Bala Murugan",
       "nameTamil": "M.பாலமுருகன்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_18.jpg"
     },
     {
+      "slno": "16",
       "recid": "92feb1c6-0bee-49dc-b64f-f01d9e9072f4",
       "name": "V.Balaji",
       "nameTamil": "V.பாலாஜி",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_16.jpg"
     },
     {
+      "slno": "17",
       "recid": "92f25f8a-d13c-443c-9826-c1dfb3941a5c",
       "name": "V K.MAHARISHI MANDHARACSALAM",
       "nameTamil": "V K.மஹரிஷி மந்தாரசலம்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_1.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fcd819-9f55-4d8a-bb33-3b4c75a3f169",
       "name": "D .Rameshkumar",
       "nameTamil": "D .ரமேஷ்குமார்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COIMBATORE_NORTH_6.jpg"
     },
     {
+      "slno": "19",
       "recid": "9304fc23-82c6-4337-ac47-20cff464dc78",
       "name": "M.LOGANATHAN",
       "nameTamil": "M.லோகநாதன் ",

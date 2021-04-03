@@ -2,6 +2,7 @@
   "name": "PALACODU",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92feee57-d858-4938-9d01-32370eb9e4cc",
       "name": "R.HARI",
       "nameTamil": "R.அரி    ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALACODU_38.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304ac1b-81ed-4288-b256-0eb9d8b27bb6",
       "name": "K.P.ANBALAGAN",
       "nameTamil": "K.P.அன்பழகன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANBALAGAN_K_P__Palacode.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fb050e-81a0-4ba4-a085-067d43173e59",
       "name": "P.K.MURUGAN",
       "nameTamil": "P.K.முருகன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALACODU_20.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fedda5-bad0-46d9-a482-7fb688c948ef",
       "name": "P.VIJAYA SANKAR",
       "nameTamil": "P.விஜயசங்கர் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALACODU_42.jpg"
     },
     {
+      "slno": "5",
       "recid": "93049798-5529-47fd-9962-80caaffc6002",
       "name": "K.KALAISELVI",
       "nameTamil": "K.கலைச்செல்வி ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALAISELVI_G__Palacode.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fd0222-1b64-4692-96e2-d6313041af43",
       "name": "D.RAJASEKAR",
       "nameTamil": "D.இராஜசேகர் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALACODU_19.jpg"
     },
     {
+      "slno": "7",
       "recid": "9301145b-4399-4365-87ae-687fca6f5b25",
       "name": "D.ANBARASU",
       "nameTamil": "D.அன்பரசு ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALACODU_24.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fef8e9-587b-43e6-b452-d4ababc4d74b",
       "name": "M.P.SHARAVANAN",
       "nameTamil": "M.P.சரவணன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALACODU_33.jpg"
     },
     {
+      "slno": "9",
       "recid": "92feeff4-8184-4a74-b3e1-00dbe030d233",
       "name": "K .MURUGAN",
       "nameTamil": "K .முருகன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALACODU_37.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fef414-1ee8-449e-ab72-4ed8e3a5595a",
       "name": "K.G.MURUGAN",
       "nameTamil": "K.G.முருகன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALACODU_35.jpg"
     },
     {
+      "slno": "11",
       "recid": "92feeb52-21e1-444b-9868-195150b18384",
       "name": "T.RAJKUMAR",
       "nameTamil": "T.ராஜ்குமார்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALACODU_39.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fef1d4-cbce-420f-8f54-8c5f0535798c",
       "name": "M.VADIVEL",
       "nameTamil": "M.வடிவேல்",

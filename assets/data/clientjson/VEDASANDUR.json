@@ -2,6 +2,7 @@
   "name": "VEDASANDUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93051d13-f354-4896-85a7-1795a4fe08cf",
       "name": "S.GANDHIRAJAN",
       "nameTamil": "S.காந்திராஜன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANDHIRAJANS_Vedasandur.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fc6c48-8a97-4c5d-ab31-e81f03b0fb32",
       "name": "V.P.B.Paramasivam",
       "nameTamil": "V.P.B.பரமசிவம்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_13.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcf56d-0d4f-43a9-acec-d738fde4ae62",
       "name": "A.KARTHIKEYAN",
       "nameTamil": "A.கார்த்திகேயன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_19.jpg"
     },
     {
+      "slno": "4",
       "recid": "9302a65d-b387-49af-a15e-84504022b094",
       "name": "V.KALIMUTHU",
       "nameTamil": "V.காளிமுத்து",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "13 லட்சம்",
       "liability": "15 lacs",
       "liabilityTamil": "15 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_32.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f69f04-58ad-4ee1-9a11-6e0950ab825a",
       "name": "R.POTHUMANI",
       "nameTamil": "R.போதுமணி ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_2.jpg"
     },
     {
+      "slno": "6",
       "recid": "9302b321-36f4-4c6f-9947-63c71a95bcda",
       "name": "M.G.Maneeshankar",
       "nameTamil": "M.G..மணிசங்கர்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_25.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fef8f1-2161-4964-a2aa-bd246c01dca2",
       "name": "K.MURUGESAN",
       "nameTamil": "K.முருகேசன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_29.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fefdc8-7a11-4297-b6fd-f45dcf33a3d1",
       "name": "P.RAMASAMY",
       "nameTamil": "P.ராமசாமி ",
@@ -237,8 +245,8 @@
       "totalAssetTamil": "81 லட்சம்",
       "liability": "3 crore 18 lacs",
       "liabilityTamil": "3 கோடி 18 லட்சம்",
-      "netAsset": "-2 crore 37 lacs",
-      "netAssetTamil": "-2 கோடி 37 லட்சம்",
+      "netAsset": " - 2 crore 37 lacs",
+      "netAssetTamil": " - 2 கோடி 37 லட்சம்",
       "criminalCase": "3",
       "caseDetailEnglish": "Causing disappearance of evidence of offence, or giving false information to screen offender,\nAttempt to commit culpable homicide,\nPunishment for voluntarily causing hurt\u0027\nVoluntarily causing hurt by dangerous weapons or means.. ",
       "caseDetailTamil": "குற்றத்திற்கான சான்றுகள் காணாமல் போதல் அல்லது குற்றவாளியைத் திரையிட தவறான தகவல்களை வழங்குதல்,\nகுற்றமற்ற கொலைக்கு முயற்சி,\nதானாக முன்வந்து புண்படுத்தும் தண்டனை,\nஆபத்தான ஆயுதங்கள் அல்லது வழிமுறைகளால் தானாகவே காயத்தை ஏற்படுத்துகிறது.. ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_18.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff4e46-959a-4163-8b72-a857e6f67053",
       "name": "S.VETRIVEL",
       "nameTamil": "S.வெற்றிவேல்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_31.jpg"
     },
     {
+      "slno": "10",
       "recid": "930517fb-5e5b-4e08-a6c0-08994fb47f00",
       "name": "K.R.SARAVANAKUMAR",
       "nameTamil": "K.R.சரவணகுமார் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SARAVANAKUMARKR_Vedasandur.jpg"
     },
     {
+      "slno": "11",
       "recid": "93051a10-36cd-4f62-893b-59db9ac8c507",
       "name": "V.SUKUMAR",
       "nameTamil": "V.சுகுமார் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUKUMARV_Vedasandur.jpg"
     },
     {
+      "slno": "12",
       "recid": "93029cdc-10aa-4698-aa26-70e98fc022a7",
       "name": "v.SELVARAJ",
       "nameTamil": "v.செல்வராஜ்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_41.jpg"
     },
     {
+      "slno": "13",
       "recid": "93029674-a528-414f-b4b9-1ac128c60c8c",
       "name": "Dr MARUR N DHARMALINGAM",
       "nameTamil": "டாக்டர் மரூர் N.தர்மலிங்கம்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_35.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fefd88-0065-4222-8f0f-587794bf01a3",
       "name": "P.NANDAKUMAR",
       "nameTamil": "P.நந்தகுமார்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_38.jpg"
     },
     {
+      "slno": "15",
       "recid": "930895f5-ff42-4139-affb-75c511d2cac7",
       "name": "B.PALANICHAMY",
       "nameTamil": "B.பழனிச்சாமி",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALANICHAMYB_Vedasandur.jpg"
     },
     {
+      "slno": "16",
       "recid": "92ff1f2a-17d5-4710-9ee3-287dbf6fad19",
       "name": "R.PRASATH",
       "nameTamil": "R.பிரசாத் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_34.jpg"
     },
     {
+      "slno": "17",
       "recid": "92feffc1-a876-4bb0-be6e-4635b4edc242",
       "name": "V.MUTHUSAMY",
       "nameTamil": "V.முத்துசாமி",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_27.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fef3e1-e205-4cf8-b8f8-8e7c930155be",
       "name": "P.MURUGAN",
       "nameTamil": "P.முருகன்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_28.jpg"
     },
     {
+      "slno": "19",
       "recid": "92ff04a7-71d0-4c15-acd1-29e6d073647f",
       "name": "S.MOORTHY",
       "nameTamil": "S.மூர்த்தி",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEDASANDUR_42.jpg"
     },
     {
+      "slno": "20",
       "recid": "93089ada-27fa-4712-ae04-389ae50de7b5",
       "name": "K.K.RAMASAMY",
       "nameTamil": "K.K..ராமசாமி",

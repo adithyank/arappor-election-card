@@ -2,6 +2,7 @@
   "name": "TIRUKKOYILUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fb8aa2-db42-4c1b-985f-772bb5dde39e",
       "name": "V.A.T.KALIYAVARADHAN",
       "nameTamil": "V.A.T.கலிவரதன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUKKOYILUR_6.jpg"
     },
     {
+      "slno": "2",
       "recid": "93053a0e-dc20-42df-9f31-46d1c1452ac7",
       "name": "S.PANJAVARNAM",
       "nameTamil": "S.பஞ்சவர்னம்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVA_PANJAVARNAM_Tirukkoyilur.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6b62a-1e0a-4ee8-97f9-8bd69fe7bee1",
       "name": "K.Ponmudy",
       "nameTamil": "K.பொன்முடி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUKKOYILUR_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304f48a-de3b-4e3e-8350-b22de05f5a07",
       "name": "L.VENKATESAN",
       "nameTamil": "L.வெங்கடேசன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/L_VENKATESAN_Tirukkoyilur.jpg"
     },
     {
+      "slno": "5",
       "recid": "93053c13-465c-4100-a08a-8e2c4813caef",
       "name": "S.SANKAR",
       "nameTamil": "S.சங்கர்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARS_Tirukkoyilur.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304e2de-43eb-4e49-b0a1-50ebb47862e6",
       "name": "M.SENTHILKUMAR",
       "nameTamil": "M.செந்தில்குமார் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHILKUMARM_Tirukkoyilur.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f684e7-011f-4cb2-b69a-7981a25912d6",
       "name": "S.Murugan",
       "nameTamil": "S.முருகன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUKKOYILUR_5.jpg"
     },
     {
+      "slno": "8",
       "recid": "93052e3f-d963-4e69-b853-0c2d0826c7b6",
       "name": "V R.RAJINI",
       "nameTamil": "V R.ரஜினி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJINIVR_Tirukkoyilur.jpg"
     },
     {
+      "slno": "9",
       "recid": "93006f98-31a0-4294-a3e1-90013db39804",
       "name": "K.KATHIRAVAN",
       "nameTamil": "K.கதிரவன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUKKOYILUR_21.jpg"
     },
     {
+      "slno": "10",
       "recid": "9305386e-dcc8-4db5-bfba-3b6db981d692",
       "name": "A.Prakash",
       "nameTamil": "A.பிரகாஷ்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PRAKASHA_Tirukkoyilur.jpg"
     },
     {
+      "slno": "11",
       "recid": "930071af-97c3-4d3e-b78e-239b820e2ea9",
       "name": "M.MAGESH",
       "nameTamil": "M.மகேஷ்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUKKOYILUR_22.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff1574-58cf-4911-85e6-e69b009f84ce",
       "name": "S.MATHIVANAN",
       "nameTamil": "S.மதிவாணன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUKKOYILUR_16.jpg"
     },
     {
+      "slno": "13",
       "recid": "93007367-d741-4037-9996-743d73f7c5dd",
       "name": "M.VIGNESH",
       "nameTamil": "M.விக்னேஷ்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUKKOYILUR_23.jpg"
     },
     {
+      "slno": "14",
       "recid": "930074eb-e127-4232-a153-9e86a89a0f4c",
       "name": "G.JAYAVINDAN",
       "nameTamil": "G.ஜெயவிந்தன்",

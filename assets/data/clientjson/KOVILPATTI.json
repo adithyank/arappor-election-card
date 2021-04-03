@@ -2,6 +2,7 @@
   "name": "KOVILPATTI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6d62b-df58-4ad2-9e32-6be8ff61c06c",
       "name": "C.Kadambur Raju",
       "nameTamil": "C.கடம்பூர் ராஜூ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_2.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fe84e3-bb96-4570-8e36-eb145269b7d1",
       "name": "K.SRINIVASAN",
       "nameTamil": "K.சீனிவாசன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_18.jpg"
     },
     {
+      "slno": "3",
       "recid": "9300946c-71b0-4fbb-ab44-ae1858c500aa",
       "name": "R.RAMACHANDRAN",
       "nameTamil": "R.இராமச்சந்திரன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_27.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f8cf46-29aa-46e1-845b-32c8dc2a9852",
       "name": "S.UDAIYAR",
       "nameTamil": "S..உடையார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_8.jpg"
     },
     {
+      "slno": "5",
       "recid": "93063b06-44d6-4bc6-a301-6eb7ae39607e",
       "name": "K.KATHIRAVAN",
       "nameTamil": "K.கதிரவன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_Kathiravan_Kovilpatti.jpg"
     },
     {
+      "slno": "6",
       "recid": "93063eb9-208d-4be6-b71a-86a49ba878b3",
       "name": "M.GOMATHI",
       "nameTamil": "M.கோமதி  ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_Gomathi_Kovilpatti.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fe8825-5ae9-4f1f-adbd-f9322daba99f",
       "name": "K.SHANMUGA SUNDARAM",
       "nameTamil": "K.சண்முக சுந்தரம்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_19.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f6fcf0-8084-4201-bbed-f399487c4239",
       "name": "TTV.Dhinakaran",
       "nameTamil": "TTV.தினகரன்",
@@ -237,8 +245,8 @@
       "totalAssetTamil": "12 கோடி 26 லட்சம்",
       "liability": "57 crore 43 lacs",
       "liabilityTamil": "57 கோடி 43 லட்சம்",
-      "netAsset": "-45 crore 16 lacs",
-      "netAssetTamil": "-45 கோடி 16 லட்சம்",
+      "netAsset": " - 45 crore 16 lacs",
+      "netAssetTamil": " - 45 கோடி 16 லட்சம்",
       "criminalCase": "8",
       "caseDetailEnglish": "CC.No.18/2019, 17/2019, 2/2019 \u0026 5/2019:  Foreign exchange (Hawala), Defamatory speech in public meeting \u0026 allegedly bribe to officials.. ",
       "caseDetailTamil": "",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_3.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fd0458-7e3b-4d3e-a6d3-188127ca39dd",
       "name": "MGR.NAMBBI",
       "nameTamil": "MGR.எம்.ஜி.ஆர். நம்பி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_13.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f105ca-709f-4f95-84ae-b62c2d123825",
       "name": "P.Rajkumar Poliah",
       "nameTamil": "P.இராஜ்குமார் போலையா",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_1.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300ce0c-f5a8-4b27-8d5a-17f79d10d92f",
       "name": "P.ATHIKARAN@ATHIKUMAR",
       "nameTamil": "P.அதிகரன் என்கிற ஆதிகுமார்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_39.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fe8013-60d0-4fe5-b4c9-ec9dbe563cc8",
       "name": "J.RAVISHANKAR JEYACHANDIRAN",
       "nameTamil": "J.இரவிஷங்கர் ஜெயச்சந்திரன்",
@@ -372,6 +384,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_12.jpg"
     },
     {
+      "slno": "13",
       "recid": "9300d821-743f-4282-8f1b-14abc3f0ba41",
       "name": "P.RAMASAMY",
       "nameTamil": "P.இராமசாமி",
@@ -403,6 +416,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_44.jpg"
     },
     {
+      "slno": "14",
       "recid": "9300d945-c89d-4cf9-ab08-a4214482006e",
       "name": "S.KANNAN",
       "nameTamil": "S.கண்ணன்",
@@ -434,6 +448,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_45.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fe8aba-1d41-40fb-be0f-1d2e1acd6782",
       "name": "A.KALIRAJ",
       "nameTamil": "A.காளிராஜ்",
@@ -465,6 +480,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_20.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fd1ec9-35b2-417d-b0ea-bac102f2a47a",
       "name": "P.GUNASEKARAN",
       "nameTamil": "P.குணசேகரன்",
@@ -496,6 +512,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_17.jpg"
     },
     {
+      "slno": "17",
       "recid": "9300cbdf-cf61-468a-a842-8f44bf3d62b7",
       "name": "A.SIVASUBRAMANIAN",
       "nameTamil": "A.சிவசுப்பிரமணியன்",
@@ -527,6 +544,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_38.jpg"
     },
     {
+      "slno": "18",
       "recid": "9300abc2-8a7f-41a3-b122-dd6d08e9960f",
       "name": "P.SUBASH",
       "nameTamil": "P.சுபாஷ்",
@@ -558,6 +576,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_36.jpg"
     },
     {
+      "slno": "19",
       "recid": "9300c940-246b-4630-a63c-35fd1ff842e1",
       "name": "A.PATTURANI",
       "nameTamil": "A.பட்டுராணி",
@@ -576,8 +595,8 @@
       "totalAssetTamil": "40439",
       "liability": "11 lacs",
       "liabilityTamil": "11 லட்சம்",
-      "netAsset": "- crore 10 lacs",
-      "netAssetTamil": "- கோடி 10 லட்சம்",
+      "netAsset": " - 10 lacs",
+      "netAssetTamil": " - 10 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -589,6 +608,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_37.jpg"
     },
     {
+      "slno": "20",
       "recid": "9300a27b-a934-46e2-9ad7-4abc81ce738f",
       "name": "K.PANDIMUNEESWARI",
       "nameTamil": "K.பாண்டிமுனீஸ்வரி",
@@ -620,6 +640,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_31.jpg"
     },
     {
+      "slno": "21",
       "recid": "92fd1891-a174-4439-b321-b9a9df033ff0",
       "name": "M.PONNUSAMY",
       "nameTamil": "M.பொன்னுசாமி",
@@ -651,6 +672,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_16.jpg"
     },
     {
+      "slno": "22",
       "recid": "93009fec-53a4-4e46-9b4d-c12883b687a4",
       "name": "M.MANTHIRASUDAMANI",
       "nameTamil": "M.மந்திரசூடாமணி",
@@ -682,6 +704,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_30.jpg"
     },
     {
+      "slno": "23",
       "recid": "93009a9e-c10c-4905-8bfd-ca455ad286a4",
       "name": "M.MARIMUTHU",
       "nameTamil": "M.மாரிமுத்து",
@@ -713,6 +736,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_28.jpg"
     },
     {
+      "slno": "24",
       "recid": "93009d7d-f391-409d-bb6c-9ba443f2e47c",
       "name": "S.RAMESHKANNAN",
       "nameTamil": "S.இரமேஷ் கண்ணன்",
@@ -744,6 +768,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_29.jpg"
     },
     {
+      "slno": "25",
       "recid": "9300d6a1-ab22-4fed-a18c-54353b8d8ddf",
       "name": "J.S.RAJA",
       "nameTamil": "J.S.இராஜா",
@@ -775,6 +800,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOVILPATTI_42.jpg"
     },
     {
+      "slno": "26",
       "recid": "9300d36a-248e-4142-8086-2d5192d4a419",
       "name": "S.RENGANAYAGALU",
       "nameTamil": "S.ரெங்கநாயகலு",

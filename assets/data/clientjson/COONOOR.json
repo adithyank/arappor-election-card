@@ -2,6 +2,7 @@
   "name": "COONOOR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93050d73-2309-48be-ae22-c7db044fb788",
       "name": "S.Prabhu Inbadass",
       "nameTamil": "S.பிரபுஇன்பதாஸ் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PrabhuInbadass_S__Coonoor.jpg"
     },
     {
+      "slno": "2",
       "recid": "93051f59-0e6b-46b7-8a4a-2a396965d186",
       "name": "K.Ramachandran",
       "nameTamil": "K.ராமசந்திரன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Ramachandran_K__Coonoor.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa82e5-6d83-48fa-a1f6-6384b92b1885",
       "name": "D.Vinoth",
       "nameTamil": "D.வினோத்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COONOOR_5.jpg"
     },
     {
+      "slno": "4",
       "recid": "930045fc-46e2-41a7-9801-74ad98cb736b",
       "name": "R.Arumugam",
       "nameTamil": "R.ஆறுமுகம்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COONOOR_14.jpg"
     },
     {
+      "slno": "5",
       "recid": "93050931-862e-43c2-b3aa-5435972f7dc4",
       "name": "S.Kalaiselvan",
       "nameTamil": "S.கலைச்செல்வன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Kalaiselvan_S__Coonoor.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fdce58-1464-4617-9847-5f1cdeef86c3",
       "name": "H B.Raja kumar",
       "nameTamil": "H B.ராஜா குமார் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COONOOR_9.jpg"
     },
     {
+      "slno": "7",
       "recid": "93051828-0eb8-466b-b3d5-ffaed51af1b7",
       "name": "M.Lavanya",
       "nameTamil": "M.லாவண்யா ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Lavanya_M__Coonoor.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fdcaa2-c712-4494-a1a4-ed52b9725179",
       "name": "K.Chandran",
       "nameTamil": "K.சந்திரன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/COONOOR_8.jpg"
     },
     {
+      "slno": "9",
       "recid": "93051ae2-8b71-4787-a6b0-8d6762c9e3f8",
       "name": "A.Basha",
       "nameTamil": "A.பாஷா ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Basha_A__Coonoor.jpg"
     },
     {
+      "slno": "10",
       "recid": "930047dc-0b6a-4791-97f9-55a93e969fcc",
       "name": "D.Jayaprakash",
       "nameTamil": "D.ஜெயபிரகாஷ்",

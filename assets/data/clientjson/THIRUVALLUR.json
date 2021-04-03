@@ -2,6 +2,7 @@
   "name": "THIRUVALLUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6cb79-0f6d-497d-bf6d-dadd4bb14035",
       "name": "VG.Raajendran",
       "nameTamil": "VG.ராஜேந்திரன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVALLUR_5.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f57ec3-b5f2-414a-8d51-febea0eb5f0e",
       "name": "D.Doss",
       "nameTamil": "D.தாஸ்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVALLUR_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92facdd5-b8c0-411d-a550-7fc84463872c",
       "name": "Be Ve.Ramanah",
       "nameTamil": "Be Ve.ரமணா",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVALLUR_9.jpg"
     },
     {
+      "slno": "4",
       "recid": "93007468-46c9-4879-a67c-f625b7cdd394",
       "name": "N.Guru",
       "nameTamil": "N.குரு ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVALLUR_28.jpg"
     },
     {
+      "slno": "5",
       "recid": "93035729-9095-4c09-98c5-d84096987cb9",
       "name": "P.Pasupathy",
       "nameTamil": "P.பசுபதி ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PASUPATHY_P__Thiruvallur.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff59c6-0801-4b42-8f29-86ea049b9aa9",
       "name": "E.Kumar",
       "nameTamil": "E.குமார் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVALLUR_25.jpg"
     },
     {
+      "slno": "7",
       "recid": "930075e9-b2b3-4af4-8e65-16b7f84f4451",
       "name": "J.Sasikumar",
       "nameTamil": "J.சசிகுமார் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVALLUR_30.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff4fed-cd82-411f-a4f7-00577ffc8eca",
       "name": "N.Balakrishnan ",
       "nameTamil": "N.நா பாலகிருஷ்ணன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVALLUR_22.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff40a2-1275-4429-b9e3-477ebb554509",
       "name": "R.Ramanan ",
       "nameTamil": "R.ரா ரமணன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVALLUR_21.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff54c3-8087-43cc-b2b5-d6944e5edc8f",
       "name": "G.Rajendiran ",
       "nameTamil": "G.ராஜேந்திரன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVALLUR_23.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff35f4-3f87-490c-977f-1fa2e771c0dc",
       "name": "R.Revathi",
       "nameTamil": "R.ரேவதி ",

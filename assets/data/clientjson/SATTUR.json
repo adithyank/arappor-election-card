@@ -2,6 +2,7 @@
   "name": "SATTUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93029e41-c5ca-4cf3-9201-fa7a8d71b778",
       "name": "A.R.R.RAGHURAMAN",
       "nameTamil": "A.R.R.ரகுராமன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_13.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f5785e-cecf-471a-9f4f-9113856f62f9",
       "name": "R K.RAVICHADHRAN",
       "nameTamil": "R K.ரவிச்சந்திரன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "9302a102-3a10-4606-89dd-a7aa2e8bc19a",
       "name": "S.ANGUSAMY",
       "nameTamil": "S.அங்குசாமி ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_15.jpg"
     },
     {
+      "slno": "4",
       "recid": "9302e138-ac5a-4b4b-878d-769292846ad4",
       "name": "P.SUBBURAMAN",
       "nameTamil": "P.சுப்புராமன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_35.jpg"
     },
     {
+      "slno": "5",
       "recid": "9302b57d-4ad1-4b42-9972-d7496c9ef70f",
       "name": "P.PALANICHAMY",
       "nameTamil": "P.பழனிச்சாமி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_19.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fb0928-c5a6-45eb-9c0d-80a185d51da5",
       "name": "K.PANDI",
       "nameTamil": "K.பாண்டி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_5.jpg"
     },
     {
+      "slno": "7",
       "recid": "930295f5-924e-42c8-9ff7-f61998ffdea3",
       "name": "M.BHARATHI",
       "nameTamil": "M.பாரதி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_11.jpg"
     },
     {
+      "slno": "8",
       "recid": "9302dc02-f9b5-42ba-99b8-1bed80515885",
       "name": "G.MARIKANNAN",
       "nameTamil": "G.G.MARIKANNAN",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_31.jpg"
     },
     {
+      "slno": "9",
       "recid": "93049a97-e8b0-4ed4-b789-f630cfa78c66",
       "name": "M.S.R.RAJAVARMAN",
       "nameTamil": "M.S.R.ராஜவர்மன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAVARMAN_M_S_R__Sattur.jpg"
     },
     {
+      "slno": "10",
       "recid": "9302e4e7-18c4-49d8-b962-e66c2a9813f1",
       "name": "R.RAJKUMAR",
       "nameTamil": "R.ராஜ்குமார்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_36.jpg"
     },
     {
+      "slno": "11",
       "recid": "9302c2a1-9bd9-4e9d-9a4b-9a9dbdc724a2",
       "name": "K.JEYAGANESH",
       "nameTamil": "K.ஜெயகனேஷ்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_23.jpg"
     },
     {
+      "slno": "12",
       "recid": "9302aacf-4f20-468d-9294-a8e5fd533397",
       "name": "A.ANTHONYRAJ",
       "nameTamil": "A.அந்தோணி ராஜ் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_18.jpg"
     },
     {
+      "slno": "13",
       "recid": "930297fe-4afd-4074-a935-0390cb74c277",
       "name": "S.KARUTHAPANDIAN",
       "nameTamil": "S.கருத்தப்பாண்டியன் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_12.jpg"
     },
     {
+      "slno": "14",
       "recid": "9302c51d-f6e9-4e33-aab0-4d82a76c802f",
       "name": "P.GURUSAMY",
       "nameTamil": "P.P.GURUSAMY",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_24.jpg"
     },
     {
+      "slno": "15",
       "recid": "9302ec4c-141e-485c-9e97-1f29b7560a07",
       "name": "M.SARAVANAKUMAR",
       "nameTamil": "M.M.SARAVANAKUMAR",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_37.jpg"
     },
     {
+      "slno": "16",
       "recid": "9302de3a-77d6-47ac-90ff-669a144b0e6c",
       "name": "S.SUBRAMANIAN",
       "nameTamil": "S.சுப்ரமணியன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_34.jpg"
     },
     {
+      "slno": "17",
       "recid": "9302a43d-6bd3-4de6-83a7-5381efdd7383",
       "name": "R.SENTHUR PANDIAN",
       "nameTamil": "R.செந்தூர் பாண்டியன் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_16.jpg"
     },
     {
+      "slno": "18",
       "recid": "9302b8f8-6578-4727-b2c9-20fcb0c61ad5",
       "name": "P.CHELLAPANDIAN",
       "nameTamil": "P.செல்லபாண்டியன்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_20.jpg"
     },
     {
+      "slno": "19",
       "recid": "9302f1a6-0f42-4691-aa57-39019914438c",
       "name": "S.DHAMODHARAN",
       "nameTamil": "S.தாமோதரன்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_41.jpg"
     },
     {
+      "slno": "20",
       "recid": "9302cf3a-90b1-49ff-86ec-6ba2ce239e40",
       "name": "R.BALASUBRAMANIAN",
       "nameTamil": "R.பாலசுப்பிரமணியன்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_28.jpg"
     },
     {
+      "slno": "21",
       "recid": "9302bee6-7b40-47e9-936f-251c173f5bd6",
       "name": "K.BALAMURUGAN",
       "nameTamil": "K.பாலமுருகன்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_22.jpg"
     },
     {
+      "slno": "22",
       "recid": "9302d6eb-02b9-4722-8415-f3f8c846217e",
       "name": "J.PRABAKARAN",
       "nameTamil": "J.J.PRABAKARAN",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_29.jpg"
     },
     {
+      "slno": "23",
       "recid": "9302ef4d-d7c7-446f-a8be-23be40dbda31",
       "name": "M.MAHESKUMAR",
       "nameTamil": "M.மகேஷ்குமார்",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_40.jpg"
     },
     {
+      "slno": "24",
       "recid": "9302c955-0e28-40ce-b502-d744ecba35bb",
       "name": "V.MANOHARAN",
       "nameTamil": "V.மனோகரன்",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_27.jpg"
     },
     {
+      "slno": "25",
       "recid": "9302a6e3-4f33-4579-a268-d58edf791aa2",
       "name": "M.MARIAPPAN",
       "nameTamil": "M.மாரியப்பன்",
@@ -764,8 +789,8 @@
       "totalAssetTamil": "43000",
       "liability": "50000",
       "liabilityTamil": "50000",
-      "netAsset": "-7000",
-      "netAssetTamil": "-7000",
+      "netAsset": " - 7000",
+      "netAssetTamil": " - 7000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_17.jpg"
     },
     {
+      "slno": "26",
       "recid": "9302c762-3042-404a-a1a0-e9bd8ed1fe88",
       "name": "B.RAGU",
       "nameTamil": "B.ரகு",
@@ -808,6 +834,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATTUR_26.jpg"
     },
     {
+      "slno": "27",
       "recid": "9302bb1a-f308-420f-aac2-cc5add43e743",
       "name": "A.RAMESH",
       "nameTamil": "A.ரமேஷ்",

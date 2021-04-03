@@ -2,6 +2,7 @@
   "name": "VANIYAMBADI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f58fcb-5c66-4e28-8584-36b30c4f23e4",
       "name": "G.Senthil kumar",
       "nameTamil": "G.செந்தில் குமார் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANIYAMBADI_3.jpg"
     },
     {
+      "slno": "2",
       "recid": "93051e0c-a4ad-408c-ab93-f889d36c214c",
       "name": "D.RAMU",
       "nameTamil": "D.ராமு ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/D_Ramu_Vaniyambadi.jpg"
     },
     {
+      "slno": "3",
       "recid": "93051a74-5d24-4be7-99e2-e2537930d28e",
       "name": "R.SEKAR",
       "nameTamil": "R.சேகர் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_Sekar_Vaniyambadi.jpg"
     },
     {
+      "slno": "4",
       "recid": "930518cc-5251-40c5-9db4-7b44e027a713",
       "name": "M.GNANADOSS",
       "nameTamil": "M.ஞானதாஸ் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_GNANADOSS_Vaniyambadi.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f58690-7406-4f2b-ab52-2dc5fd9af127",
       "name": " AJ.Devendhiran",
       "nameTamil": " AJ.தேவேந்திரன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANIYAMBADI_1.jpg"
     },
     {
+      "slno": "6",
       "recid": "930500d0-9ca7-4592-8f86-0d8ebd7d146b",
       "name": "N.MOHAMMED NAYEEM",
       "nameTamil": "N.மொஹம்மத் நயீம் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/N_MOHAMMEDNAYEEM_Vaniyambadi.jpg"
     },
     {
+      "slno": "7",
       "recid": "93050684-5b15-487b-9c03-e43ea3917b24",
       "name": "T.S.VAKEEL AHMED",
       "nameTamil": "T.S.வக்கீல் அஹ்மத் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/T_S_VAKEELAHMED_Vaniyambadi.jpg"
     },
     {
+      "slno": "8",
       "recid": "93052050-1067-4a6c-ab0e-d18dd910b2f2",
       "name": "B.JAGAN",
       "nameTamil": "B.ஜெகன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/B_JAGAN_Vaniyambadi.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f588f8-19c5-46d3-b976-b2fbf1b360e4",
       "name": "P.Abdul Wahid",
       "nameTamil": "P.P .அப்துல் வாஹித் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANIYAMBADI_2.jpg"
     },
     {
+      "slno": "10",
       "recid": "93051cb3-60f3-478c-af2e-3f6f59e741bd",
       "name": "M.SURESH",
       "nameTamil": "M.சுரேஷ் ",
@@ -299,8 +309,8 @@
       "totalAssetTamil": "10 லட்சம்",
       "liability": "17 lacs",
       "liabilityTamil": "17 லட்சம்",
-      "netAsset": "-7 lacs",
-      "netAssetTamil": "-7 லட்சம்",
+      "netAsset": " - 7 lacs",
+      "netAssetTamil": " - 7 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_SURESH_Vaniyambadi.jpg"
     },
     {
+      "slno": "11",
       "recid": "9305258b-09af-4d34-9ded-924c770b739a",
       "name": "A.SYED MOHAMMED SALEEM",
       "nameTamil": "A.சயீத் முகமத் சலீம் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SYEDMOHAMMEDSALEEM_Vaniyambadi.jpg"
     },
     {
+      "slno": "12",
       "recid": "9305304c-b1d8-4c2b-8005-aff536637946",
       "name": "S.DELHIRAJI",
       "nameTamil": "S.டெல்லி ராஜி ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DELHIRAJI_S_Vaniyambadi.jpg"
     },
     {
+      "slno": "13",
       "recid": "92f9a060-6e60-4a59-ad18-199f724b2b84",
       "name": "C M.Mohammed Hussain",
       "nameTamil": "C M.முஹம்மது ஹுசேன்",

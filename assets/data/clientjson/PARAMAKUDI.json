@@ -2,6 +2,7 @@
   "name": "PARAMAKUDI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304f26c-28ed-47c4-9c64-e2c53cf64fa2",
       "name": "V.GOVINDAN",
       "nameTamil": "V.கோவிந்தன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOVINDANV_Paramakudi.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fad174-a52d-48b8-aa05-4e0b5a7cd921",
       "name": "N.SADHAN PRABHAKAR",
       "nameTamil": "N.பிரபாகர்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PARAMAKUDI_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fe9f2a-6bb1-4ed2-adf0-5e0673b7f3ea",
       "name": "U.SELVI",
       "nameTamil": "U.செல்வி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PARAMAKUDI_14.jpg"
     },
     {
+      "slno": "4",
       "recid": "9300d346-d878-4fb7-88cc-682b9219b0de",
       "name": "S.MURUGESAN",
       "nameTamil": "S.முருகேசன்",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "1 கோடி 80 லட்சம்",
       "liability": "2 crore 05 lacs",
       "liabilityTamil": "2 கோடி 05 லட்சம்",
-      "netAsset": "- crore 24 lacs",
-      "netAssetTamil": "- கோடி 24 லட்சம்",
+      "netAsset": " - 25 lacs",
+      "netAssetTamil": " - 25 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PARAMAKUDI_9.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fe8388-8dfc-4694-8b6e-918f76ed06e0",
       "name": "M.KARUPPU RAJA",
       "nameTamil": "M.கருப்புராஜா",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PARAMAKUDI_6.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f56250-6386-4801-b042-ec79761cbcaa",
       "name": "S.SASIKALA",
       "nameTamil": "S.சசிகலா",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PARAMAKUDI_1.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fe8936-2528-47b8-90b1-76470bb1d105",
       "name": "M.PARTHASARATHI",
       "nameTamil": "M.பார்த்தசாரதி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PARAMAKUDI_10.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fea173-ba4f-4aa4-9f0b-4e563de808f8",
       "name": "C.RAMAPANDI",
       "nameTamil": "C.ராம பாண்டி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PARAMAKUDI_15.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304f4a7-49b8-4cc4-97d2-eeb8db2f3fb1",
       "name": "M.UDHAYAKUMAR",
       "nameTamil": "M.உதயகுமார்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDHAYAKUMARM_Paramakudi.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fea69a-6ecd-4ab1-a3e7-1fccea175713",
       "name": "R.UDAYAKUMAR",
       "nameTamil": "R.உதய குமார்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PARAMAKUDI_17.jpg"
     },
     {
+      "slno": "11",
       "recid": "92feaec3-b016-4cea-999b-4e37e5581ec7",
       "name": "S.KUMAR",
       "nameTamil": "S.குமார்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PARAMAKUDI_19.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fea329-67e8-46eb-b4f9-7ef29c0944d6",
       "name": "S.BALAMURUGAN",
       "nameTamil": "S.பாலமுருகன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PARAMAKUDI_16.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe8780-3e14-4dae-a150-24b9052d5957",
       "name": "K.MURUKESAN",
       "nameTamil": "K.முருகேசன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PARAMAKUDI_8.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fe8ff8-8a0c-4651-830d-3334cdb03cee",
       "name": "V.RAVISANKAR",
       "nameTamil": "V.ரவிசங்கர்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PARAMAKUDI_13.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fe85b5-5582-4c41-8073-38ab01de6b40",
       "name": "K.RAJIV GANDHI",
       "nameTamil": "K.ராஜீவ் காந்தி",

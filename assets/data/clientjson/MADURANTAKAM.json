@@ -2,6 +2,7 @@
   "name": "MADURANTAKAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f5913e-ea3c-4efa-b086-246fa40714d2",
       "name": "P.SUMITHA",
       "nameTamil": "P.சுமிதா ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURANTAKAM_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f8883d-e5fd-4a47-9921-d1a4182069f3",
       "name": "K.Maragatham",
       "nameTamil": "K.மரகதம் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURANTAKAM_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fc645b-f022-48ec-866d-116fc55b7056",
       "name": "A .KOTHANDAN",
       "nameTamil": "A .கோதண்டன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURANTAKAM_4.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fcd3e3-aa8b-4930-ac84-0ad0c4413c88",
       "name": "C.E.Sathya",
       "nameTamil": "C.E..சத்யா ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURANTAKAM_7.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fcdfd1-b7c6-4ab3-b2a3-fc996196404c",
       "name": "S.Subash",
       "nameTamil": "S.சுபாஷ் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURANTAKAM_13.jpg"
     },
     {
+      "slno": "6",
       "recid": "93051192-b6de-4eba-9980-d67c26bdb3dd",
       "name": "N.Moorthi",
       "nameTamil": "N.மூர்த்தி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Moorthi_N_Madurantakam.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fedfef-5b89-4bc6-bc18-8b6fc3974aaf",
       "name": "K.Dinesh",
       "nameTamil": "K.தினேஷ் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURANTAKAM_18.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fed215-5b13-40eb-8485-dad0ec379b73",
       "name": "M.Madhanraj",
       "nameTamil": "M.மதன்ராஜ் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURANTAKAM_15.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fed8f1-c6ca-463f-a7ef-e1fed7cb58be",
       "name": "S.Tamizhselvan",
       "nameTamil": "S.தமிழ்செல்வன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURANTAKAM_17.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fee17c-5b21-47b6-aa15-d83fff438c42",
       "name": "M.Ranjitham",
       "nameTamil": "M.ரஞ்சிதம் ",

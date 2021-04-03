@@ -2,6 +2,7 @@
   "name": "TIRUCHENDUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9300d7e9-5e10-4c4b-a930-2d50fd3baf5d",
       "name": "R.ANITHA R RADHAKRISHNAN",
       "nameTamil": "R.அனிதா ஆர். இராதாகிருஷ்ணன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_28.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304f69d-9f9c-4b65-9ed9-1dfc7c50401b",
       "name": "M.RADHA KRISHNAN ",
       "nameTamil": "M.இராதாகிருஷ்ணன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RadhakrishnanM_Tiruchendur.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcdbf2-75a3-42e6-8e21-86b26f74162d",
       "name": "S.GLORIYAN",
       "nameTamil": "S.குளோரியன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_15.jpg"
     },
     {
+      "slno": "4",
       "recid": "9300cb56-33ab-4858-86b3-0b388ea1e5c7",
       "name": "K.KENNADY BABU",
       "nameTamil": "K.க கென்னடி பாபு",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "2 lacs",
       "liabilityTamil": "2 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 72000",
+      "netAssetTamil": " - 72000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -124,6 +128,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_20.jpg"
     },
     {
+      "slno": "5",
       "recid": "92faea70-46d9-4d17-987b-d17f134b6c82",
       "name": "X.ROOSWELT",
       "nameTamil": "X.ரூஸ்வெல்ட்",
@@ -155,6 +160,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_7.jpg"
     },
     {
+      "slno": "6",
       "recid": "92faf372-2eee-494b-bb59-0f2249a27604",
       "name": "S.VADAMALAI PANDIAN",
       "nameTamil": "S.வடமலை பாண்டியன்",
@@ -186,6 +192,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_8.jpg"
     },
     {
+      "slno": "7",
       "recid": "9300d081-a3ad-4172-9291-4124e42ed119",
       "name": "M.JAYANTHI",
       "nameTamil": "M.ஜெயந்தி M  ",
@@ -217,6 +224,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_24.jpg"
     },
     {
+      "slno": "8",
       "recid": "9300e5ca-12b9-4bb4-91a7-974629e782af",
       "name": "S.ARUMUGAM",
       "nameTamil": "S.ஆறுமுகம்",
@@ -248,6 +256,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_41.jpg"
     },
     {
+      "slno": "9",
       "recid": "9300d9f6-1832-4615-8dfa-a4cff2391d85",
       "name": "V.ESAKIMUTHU",
       "nameTamil": "V.இசக்கிமுத்து",
@@ -266,8 +275,8 @@
       "totalAssetTamil": "3 லட்சம்",
       "liability": "7 lacs",
       "liabilityTamil": "7 லட்சம்",
-      "netAsset": "-4 lacs",
-      "netAssetTamil": "-4 லட்சம்",
+      "netAsset": " - 4 lacs",
+      "netAssetTamil": " - 4 லட்சம்",
       "criminalCase": "1",
       "caseDetailEnglish": "Soil theft. ",
       "caseDetailTamil": "",
@@ -279,6 +288,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_29.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fcd1e8-537a-4b82-9e9f-f76082ec5fe9",
       "name": "R.KALYANASUNDARAM",
       "nameTamil": "R.கல்யாணசுந்தரம்",
@@ -297,8 +307,8 @@
       "totalAssetTamil": "3 லட்சம்",
       "liability": "7 lacs",
       "liabilityTamil": "7 லட்சம்",
-      "netAsset": "-4 lacs",
-      "netAssetTamil": "-4 லட்சம்",
+      "netAsset": " - 4 lacs",
+      "netAssetTamil": " - 4 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -310,6 +320,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_14.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300de80-061d-4736-86e4-ea497a61c0df",
       "name": "S.SENTHIL KUMAR",
       "nameTamil": "S.செந்தில்குமார்",
@@ -341,6 +352,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_34.jpg"
     },
     {
+      "slno": "12",
       "recid": "9300e209-bbb1-42c8-b244-d31a4b40095b",
       "name": "PSJ.SHAIKABDULKADER",
       "nameTamil": "PSJ.ஷேக் அப்துல் காதர்",
@@ -372,6 +384,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_39.jpg"
     },
     {
+      "slno": "13",
       "recid": "9300e497-4d79-4d63-b1f3-e737ae32683c",
       "name": "C.BASKER",
       "nameTamil": "C.பாஸ்கர்",
@@ -403,6 +416,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_40.jpg"
     },
     {
+      "slno": "14",
       "recid": "9300c7a4-8767-4e78-9ac9-5185e31e9a22",
       "name": "K.PERUMAL",
       "nameTamil": "K.பெருமாள்   ",
@@ -434,6 +448,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENDUR_18.jpg"
     },
     {
+      "slno": "15",
       "recid": "9300dd29-8e90-426e-a87d-bebe3da671c3",
       "name": "S.PonrathnaSelvan",
       "nameTamil": "S.செல்வராஜ்",

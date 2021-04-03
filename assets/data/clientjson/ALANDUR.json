@@ -2,6 +2,7 @@
   "name": "ALANDUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6764d-e32c-4f59-a582-62b938d68a0e",
       "name": "T.M.ANBARASAN",
       "nameTamil": "T.M..தா மோ அன்பரசன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_11.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f66fa8-0871-4ef9-8b42-84d12206baa9",
       "name": "P.VALARMATHI",
       "nameTamil": "P.பா . வளர்மதி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_6.jpg"
     },
     {
+      "slno": "3",
       "recid": "931144df-395b-4e13-8c3c-20336ef7aed2",
       "name": "N.RAJA",
       "nameTamil": "N.N.RAJA",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/N_Raja_Alandur.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fe914d-63b4-4c74-9ccf-310f3ddbf774",
       "name": "G.Kamalakannan",
       "nameTamil": "G.கமலக்கண்ணன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_40.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fe8f53-fdfb-482a-9503-c8fed564a4a3",
       "name": "R.Dr.KARTHIKEYAN",
       "nameTamil": "R.கார்த்திகேயன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_27.jpg"
     },
     {
+      "slno": "6",
       "recid": "92feade5-25bf-41ec-ba00-ef1d7478303f",
       "name": "E.SARATHBABU",
       "nameTamil": "E.சரத்பாபு ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_38.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fea22c-02ee-4bfa-957f-9b25ce4e25d9",
       "name": "R.SUBASHREE",
       "nameTamil": "R.சுபஸ்ரீ ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_35.jpg"
     },
     {
+      "slno": "8",
       "recid": "93113919-faf3-4324-9459-fc0d9c695be3",
       "name": "Dr R.SURESH",
       "nameTamil": "Dr R.Dr R.SURESH",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Dr_R_Suresh_Alandur.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fa7cb6-30c8-4e4e-b057-c2d3944b7725",
       "name": "M.Mohammed Thameem Ansari",
       "nameTamil": "M.மொகமத் தமீன் அன்சாரி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_12.jpg"
     },
     {
+      "slno": "10",
       "recid": "9304d75b-d97b-4a69-b7d6-ae82ee7c27ab",
       "name": "C.Rajesh Chinnadurai",
       "nameTamil": "C.ராஜேஷ் சின்னதுரை ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RajeshChinnadurai_Alandur.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe9365-a01b-4199-8f07-7ed3e587efb0",
       "name": "J.Vincent",
       "nameTamil": "J.வின்சென்ட்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_31.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fc94de-dc98-4d2e-87e1-88df871a632d",
       "name": "E.Anbarasu",
       "nameTamil": "E.அன்பரசு ",
@@ -361,8 +373,8 @@
       "totalAssetTamil": "42 லட்சம்",
       "liability": "59 lacs",
       "liabilityTamil": "59 லட்சம்",
-      "netAsset": "- crore 17 lacs",
-      "netAssetTamil": "- கோடி 17 லட்சம்",
+      "netAsset": " - 18 lacs",
+      "netAssetTamil": " - 18 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_19.jpg"
     },
     {
+      "slno": "13",
       "recid": "92faada2-9a38-4916-8538-2287bf0428bf",
       "name": "S.ANBARASU",
       "nameTamil": "S.அன்பரசு ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_Anbarasu_Alandur.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fac821-bd7c-4c7e-ad59-fdfa5c4954af",
       "name": "M.Anbarasu",
       "nameTamil": "M.அன்பரசு ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_15.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fe87d5-14e9-416f-be7f-c34f50418f39",
       "name": "M.ASHOK KUMAR",
       "nameTamil": "M.அசோக் குமார்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_25.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fa94e3-89ad-4960-a441-9e39575fbcd3",
       "name": "H.Ali Mohammed",
       "nameTamil": "H.அலி முகமது",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_14.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fe962f-b730-414b-9d50-2f5f870bb4e5",
       "name": "A.ABRAHAM LINCON",
       "nameTamil": "A.ஆபிரகாம் லிங்கன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_32.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fecbae-d187-4572-be0c-40eb57043604",
       "name": "P.Sathiyaraj",
       "nameTamil": "P.சத்தியராஜ்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_47.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fea434-466f-4062-8be1-e319552daec6",
       "name": "K.SARAVANAN",
       "nameTamil": "K.சரவணன்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_36.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fe9970-a6ad-4eae-a4ae-d134cdb1a2f9",
       "name": "C.SARAVANAN",
       "nameTamil": "C.சரவணன்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_33.jpg"
     },
     {
+      "slno": "21",
       "recid": "92fea690-7141-4325-ac66-2fc04d4ba863",
       "name": "S V.SARAVANAN",
       "nameTamil": "S V.சரவணன்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_37.jpg"
     },
     {
+      "slno": "22",
       "recid": "92fea112-221d-4ca3-b0bb-fbbd0b892d0b",
       "name": "S.Nithyanandham",
       "nameTamil": "S.நித்தியானந்தம்",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_43.jpg"
     },
     {
+      "slno": "23",
       "recid": "92fac9e9-f80c-4c1c-a755-a55227d93410",
       "name": "B.Raji",
       "nameTamil": "B. ராஜீ",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_16.jpg"
     },
     {
+      "slno": "24",
       "recid": "92fec59f-6a6d-48b3-af34-b37731a2601b",
       "name": "M.Valarmathi",
       "nameTamil": "M.வளர்மதி ",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANDUR_46.jpg"
     },
     {
+      "slno": "25",
       "recid": "92ff042a-143b-4fce-9ba2-f9c90334f0e8",
       "name": "S.Sridhar",
       "nameTamil": "S.ஸ்ரீதர்",

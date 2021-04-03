@@ -2,6 +2,7 @@
   "name": "UTHANGARAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304fff2-e5d0-4914-b97f-00a98de74fa4",
       "name": "S.Arumugam",
       "nameTamil": "S.ஆறுமுகம்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_Arumugam_Uthangarai.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f873e3-5099-4b6e-9f54-79e26824cc5b",
       "name": "T.M.Tamilselvam",
       "nameTamil": "T.M.தமிழ்செல்வம்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHANGARAI_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92ff5807-64f2-45a7-b567-09ab30428327",
       "name": "K.Nagaraj",
       "nameTamil": "K.நாகராஜ்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHANGARAI_19.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fae5e3-66d1-4726-bd5b-229e3255579a",
       "name": "R.Bakiyaraj",
       "nameTamil": "R.பாக்கியராஜ்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHANGARAI_9.jpg"
     },
     {
+      "slno": "5",
       "recid": "9305015f-52e7-42c1-89b5-a1c1c74e6ff8",
       "name": "K.Elangovan",
       "nameTamil": "K.இளங்கோவன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Elangovan_Uthangarai.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff6ad8-9842-4350-b074-55ad8edab735",
       "name": "S.Perumal",
       "nameTamil": "S.பெருமாள்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHANGARAI_23.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fd1dbd-cce2-4bd6-864b-e3af72a5b110",
       "name": "K.Murugesan",
       "nameTamil": "K.முருகேசன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHANGARAI_11.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fd2150-0093-4ce7-b8cd-30b779250641",
       "name": "T.Tamilarasan",
       "nameTamil": "T.தமிழரசன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHANGARAI_13.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fade9f-6793-4b6b-b262-f7b331c41eb3",
       "name": "M.Thenmozhi",
       "nameTamil": "M.தேன்மொழி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHANGARAI_8.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff4beb-0c24-4322-abf7-9e95e784fcda",
       "name": "R.Manjunathan",
       "nameTamil": "R.மஞ்சுநாதன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHANGARAI_16.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff65ce-f232-44c7-8566-2ef83c190da0",
       "name": "R.Vivekanandhan",
       "nameTamil": "R.விவேகானந்தன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHANGARAI_21.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff50a7-b077-477d-a553-ea08ca884a81",
       "name": "C.Jayaraman",
       "nameTamil": "C.ஜெயராமன் ",

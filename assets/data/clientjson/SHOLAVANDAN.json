@@ -2,6 +2,7 @@
   "name": "SHOLAVANDAN",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93052429-61df-47e9-8fd2-0ba9764540a9",
       "name": "K.MANICKAM",
       "nameTamil": "K.மாணிக்கம் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANICKAMK_Sholavandan.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fcacb5-148a-450c-9ce6-708698231dd0",
       "name": "A.VENKATESAN",
       "nameTamil": "A.வெங்கடேசன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_15.jpg"
     },
     {
+      "slno": "3",
       "recid": "92ff6f31-60aa-457f-929d-11ce3352db91",
       "name": "M.JEYALAKSHMI",
       "nameTamil": "M.ஜெயலெட்சுமி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_23.jpg"
     },
     {
+      "slno": "4",
       "recid": "9300fbed-b520-4314-94da-43957d1b05f4",
       "name": "S.INDURANI",
       "nameTamil": "S.இந்துராணி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_33.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fc9929-ab80-4c69-bfa4-6aa06832c03c",
       "name": "T.ESWARI",
       "nameTamil": "T.ஈஸ்வரி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_14.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fcbfc3-43d5-4672-9414-db3cd66ee285",
       "name": "P.SILAMBARASAN",
       "nameTamil": "P.சிலம்பரசன் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SILAMBARASANP_Sholavandan.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fcc230-91cb-4348-998a-0556700bdb5b",
       "name": "G.SENGANNAN",
       "nameTamil": "G.செங்கண்ணன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_6.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fd0d69-20c8-4ae1-9e85-ca6d5de9c727",
       "name": "S.YOGANATHAN",
       "nameTamil": "S.யோகநாதன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_9.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304aabc-7e47-47ab-b045-ada759f6a540",
       "name": "K.RAJKUMAR",
       "nameTamil": "K.ராஜ்குமார் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_19.jpg"
     },
     {
+      "slno": "10",
       "recid": "9304a8d3-da3a-48b5-8050-60c502d327e7",
       "name": "P.KATHIRESAN",
       "nameTamil": "P.கதிரேசன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_18.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff71bf-91ca-4bb5-911d-3f6547c7f791",
       "name": "S.kandavel",
       "nameTamil": "S.கந்தவேல்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_27.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff0d74-4f2a-4f01-8e11-596df70601d7",
       "name": "P.KRISHNASAMY",
       "nameTamil": "P.கிருஷ்ணசாமி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_28.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fc9e58-a64f-4117-9194-be43d0472b47",
       "name": "N.SEKAR",
       "nameTamil": "N.சேகர்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_11.jpg"
     },
     {
+      "slno": "14",
       "recid": "9302a966-6b38-4065-a397-d70a7df4a791",
       "name": "S.DHANAGOPAL",
       "nameTamil": "S.தனகோபால்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_32.jpg"
     },
     {
+      "slno": "15",
       "recid": "9302c062-2752-47e9-9d06-33e43fe06c0a",
       "name": "A.MALAICHAMY ",
       "nameTamil": "A.மலைச்சாமி",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_26.jpg"
     },
     {
+      "slno": "16",
       "recid": "92ff0ff2-cf9f-4139-8a54-95f8afa8f8a5",
       "name": "P.MOORTHY",
       "nameTamil": "P.மூர்த்தி",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_34.jpg"
     },
     {
+      "slno": "17",
       "recid": "92ff11bd-a16a-4e57-aef7-58a0aa76e97b",
       "name": "M.MOORTHI",
       "nameTamil": "M.மூர்த்தி",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_30.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fcea2e-8ac9-4893-b83d-dce9ade7de16",
       "name": "V.Rajkumar",
       "nameTamil": "V.ராஜ்குமார்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_13.jpg"
     },
     {
+      "slno": "19",
       "recid": "9300fd95-ddca-4f82-96a6-9817b02c4926",
       "name": "C.VARATHARAJAN",
       "nameTamil": "C.வரதராஜன்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLAVANDAN_31.jpg"
     },
     {
+      "slno": "20",
       "recid": "92ff0b29-e822-4728-a5e3-00049c092172",
       "name": "J.VETRIVEL",
       "nameTamil": "J.வெற்றிவேல்",

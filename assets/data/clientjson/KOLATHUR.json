@@ -2,6 +2,7 @@
   "name": "KOLATHUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9306caf8-a969-4b70-91c6-58bfda55a957",
       "name": "AADI.RAJARAM",
       "nameTamil": "AADI.ராஜாராம்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AADIRAJARAM_Kolathur.jpg"
     },
     {
+      "slno": "2",
       "recid": "9306b471-2d36-4d24-a6c9-58fd87c52e8f",
       "name": "M.J.S.JAMAL MOHAMED MEERA",
       "nameTamil": "M.J.S.ஜமால் முகமது மீரா",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MJS_JAMALMOHAMEDMEERA_Kolathur.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f5510c-ecdd-45e9-91cd-d8bd7b4599c3",
       "name": "M.K.Stalin",
       "nameTamil": "M.K..ஸ்டாலின் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_2.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f70624-85b6-4f77-8a65-a83923cef035",
       "name": "S.Ashokkumar",
       "nameTamil": "S.அசோக் குமார் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_4.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fa9fa3-f1f1-4899-b1d3-3e3e17588698",
       "name": "J.Arumugam",
       "nameTamil": "J.ஆறுமுகம் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_13.jpg"
     },
     {
+      "slno": "6",
       "recid": "9306c720-5e2b-4e85-9489-fd15653f3505",
       "name": "K.ELUMALAI",
       "nameTamil": "K.ஏழுமலை",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ELUMALAI_K_Kolathur.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fa9cd9-4856-4239-b9e0-e183088a96dd",
       "name": "F.Camilus Selva",
       "nameTamil": "F.காமிலஸ் செல்வா ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_12.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fcb03c-55aa-4760-8495-35c607162a2e",
       "name": "A.Seetha",
       "nameTamil": "A.சீதா ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_16.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fca15a-e8dc-45d2-a441-2c445bf99230",
       "name": "M.Suresh",
       "nameTamil": "M.சுரேஷ் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_17.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ffae58-7e18-4015-ac1f-c078e58a5ccd",
       "name": "S.SURESHKUMAR",
       "nameTamil": "S.சுரேஷ் குமார் ",
@@ -299,8 +309,8 @@
       "totalAssetTamil": "95000",
       "liability": "4 lacs",
       "liabilityTamil": "4 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "2",
       "caseDetailEnglish": "Family Case, Damage of Property. ",
       "caseDetailTamil": "குடும்ப வழக்கு, சொத்தை சேதப்படுத்துதல் . ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_34.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ffb3e9-0e76-4d2a-8464-b84dad93d68d",
       "name": "D.SURESHBABU",
       "nameTamil": "D.சுரேஷ்பாபு ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_39.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fd6172-86f4-49b4-a84d-759804492f30",
       "name": "E.RAJENDRAN",
       "nameTamil": "E.ராஜேந்திரன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_24.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ffabc8-6e40-4377-93a9-0113d163e609",
       "name": "M.RAJENDRAN",
       "nameTamil": "M.ராஜேந்திரன் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_33.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fa99e2-873d-43ce-b98b-ed9bc871ccca",
       "name": "J.Vivek Raj",
       "nameTamil": "J.விவேக் ராஜ்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_11.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ffa0bc-5de8-4737-8913-e0f884db6528",
       "name": "G.VELMURUGAN",
       "nameTamil": "G.வேல்முருகன் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_26.jpg"
     },
     {
+      "slno": "16",
       "recid": "92faa77d-ab96-43c4-8bb6-d26e2673ebdc",
       "name": "A.JAGADISH KUMAR",
       "nameTamil": "A.ஜகதீஷ் குமார் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_10.jpg"
     },
     {
+      "slno": "17",
       "recid": "92f557ee-25eb-464d-a08c-95e36e4e6689",
       "name": "N.Agni SriRamachandran",
       "nameTamil": "N.அக்னி ஸ்ரீராமச்சந்திரன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_1.jpg"
     },
     {
+      "slno": "18",
       "recid": "92f708c5-0fd5-4729-8928-63497e2c74ec",
       "name": "L.Kathiresan",
       "nameTamil": "L.கதிரேசன்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_5.jpg"
     },
     {
+      "slno": "19",
       "recid": "9306ac0b-3d2d-4827-b7b4-e45f520399e9",
       "name": "S.SATHIYASEELAN",
       "nameTamil": "S.சத்தியசீலன்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATHIYASEELAN_Kolathur.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fd584b-b894-4b12-b54c-080a7d9c496e",
       "name": "V.SURESHKUMAR",
       "nameTamil": "V.சுரேஷ் குமார் ",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_18.jpg"
     },
     {
+      "slno": "21",
       "recid": "92fd5c12-a820-4c64-8331-c230b27e9106",
       "name": "J.SURIYAMUTHU",
       "nameTamil": "J.சூரியமுத்து ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_21.jpg"
     },
     {
+      "slno": "22",
       "recid": "9306b861-564a-4e11-ac39-5ee26b3a2d8c",
       "name": "M.A.S.SENTHIL KUMAR",
       "nameTamil": "M.A.S.செந்தில் குமார்",
@@ -671,8 +693,8 @@
       "totalAssetTamil": "5 லட்சம்",
       "liability": "7 lacs",
       "liabilityTamil": "7 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை . ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_A_S_SENTHILKUMAR_Kolathur.jpg"
     },
     {
+      "slno": "23",
       "recid": "92ffaa90-8c0c-447d-a70b-ae3739a38e66",
       "name": "P.SENTHILKUMAR",
       "nameTamil": "P.செந்தில் குமார் ",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_31.jpg"
     },
     {
+      "slno": "24",
       "recid": "930ec4c9-4657-47d5-8f00-27bd874726e3",
       "name": "R.Selvam",
       "nameTamil": "R.R.Selvam",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_58.JPG"
     },
     {
+      "slno": "25",
       "recid": "92fd5537-7c20-4a44-81ac-ff6fd20dd968",
       "name": "A.DIVYA",
       "nameTamil": "A.திவ்யா ",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_20.jpg"
     },
     {
+      "slno": "26",
       "recid": "9306aeba-ac9e-424b-ac6e-dbe5843a7a53",
       "name": "O.DEVIKARANI",
       "nameTamil": "O.தேவிகாராணி",
@@ -808,6 +834,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DEVIKARANI_Kolathur.jpg"
     },
     {
+      "slno": "27",
       "recid": "9306cdb6-f510-45b8-b90d-b2817b86050a",
       "name": "A.L .NARESHKUMAR",
       "nameTamil": "A.L .நரேஷ் குமார்",
@@ -839,6 +866,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AL_NARESHKUMAR_Kolathur.jpg"
     },
     {
+      "slno": "28",
       "recid": "9306b5f9-e8f2-49f6-82d5-3dae5cb27bc8",
       "name": "I.NIRMALADEVI",
       "nameTamil": "I.நிர்மலா தேவி",
@@ -870,6 +898,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NIRMALADEVI_Kolathur.jpg"
     },
     {
+      "slno": "29",
       "recid": "9306b1a6-8668-4ec3-b0c6-682bc17376cf",
       "name": "D.NEELAMANI",
       "nameTamil": "D.நீலமணி",
@@ -901,6 +930,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/D_NILAMANI_Kolathur.jpg"
     },
     {
+      "slno": "30",
       "recid": "9306c3d4-b55e-451e-8783-a2f6f533854a",
       "name": "K.PANNEERSELVAM",
       "nameTamil": "K.பன்னீர்செல்வம் ",
@@ -932,6 +962,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_PANNERSELVAM_Kolathur.jpg"
     },
     {
+      "slno": "31",
       "recid": "92fd526c-c968-4f3f-866b-ae6eeea6a2a0",
       "name": "A.MALARVIZHI",
       "nameTamil": "A.மலர்விழி ",
@@ -963,6 +994,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_15.jpg"
     },
     {
+      "slno": "32",
       "recid": "92ffb20b-da07-4795-ae3f-d900d084082c",
       "name": "MIRZA SAFDAR ALI",
       "nameTamil": "மிர்சா சப்தர் அலி  ",
@@ -994,6 +1026,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_38.jpg"
     },
     {
+      "slno": "33",
       "recid": "92fd5fc8-9c92-4509-8a98-de2434c2af38",
       "name": "S.Ramadevi",
       "nameTamil": "S.ரமாதேவி ",
@@ -1025,6 +1058,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_23.jpg"
     },
     {
+      "slno": "34",
       "recid": "92ffa5ad-9034-4439-8d51-9075f91746eb",
       "name": "B.VIJAYAKUMAR",
       "nameTamil": "B.விஜயகுமார் ",
@@ -1056,6 +1090,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_28.jpg"
     },
     {
+      "slno": "35",
       "recid": "92ffb03f-668b-4bff-b7c7-0f394c62fd22",
       "name": "C.JEEVAKUMAR",
       "nameTamil": "C.ஜீவா குமார் ",
@@ -1087,6 +1122,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOLATHUR_36.jpg"
     },
     {
+      "slno": "36",
       "recid": "92ffaf55-3303-46ea-a8d3-666666c46f54",
       "name": "P.HARISHKUMAR",
       "nameTamil": "P.ஹரிஷ் குமார் ",

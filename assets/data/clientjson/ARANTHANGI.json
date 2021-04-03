@@ -2,6 +2,7 @@
   "name": "ARANTHANGI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93015e1e-642c-4cce-a768-b32675847d23",
       "name": "T.RAMACHANDRAN",
       "nameTamil": "T.ராமச்சந்திரன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_16.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f95703-07c3-4122-829c-2f7ee1ff1d4d",
       "name": "M.RAJANAYAGAM",
       "nameTamil": "M.ராஜநாயகம்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcca7a-ed76-4a5f-ab27-bac9712c34ea",
       "name": "A.JEEVA",
       "nameTamil": "A.ஜீவா",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_10.jpg"
     },
     {
+      "slno": "4",
       "recid": "93019696-0503-41df-aa60-6ba6fe78e0d7",
       "name": "Amaladoss Sandhiyagu",
       "nameTamil": "அமலதாஸ்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_27.jpg"
     },
     {
+      "slno": "5",
       "recid": "930151e3-3088-4146-a13f-3ee3c76c2462",
       "name": "PPC.RAMALINGASWAMY ADHITHAN",
       "nameTamil": "PPC.ராமலிங்கசாமி ஆதிதன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_13.jpg"
     },
     {
+      "slno": "6",
       "recid": "93015968-fe5d-4d15-8bd4-567529321de2",
       "name": "B.KUMARAPPAN",
       "nameTamil": "B.குமரப்பன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_15.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fccf1c-e854-460f-a2a4-e0e040e9ee18",
       "name": "K.SAKTHIVEL",
       "nameTamil": "K.சக்திவேல்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_11.jpg"
     },
     {
+      "slno": "8",
       "recid": "93016710-dd61-4d05-b4de-0998b185a2f7",
       "name": "K.Sivashanmugam",
       "nameTamil": "K.சிவசண்முகம்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_19.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fcc844-1a4e-469e-b0af-fcb044518bc4",
       "name": "B.SHAIK MOHAMED",
       "nameTamil": "B.சேக்முகமது",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_7.jpg"
     },
     {
+      "slno": "10",
       "recid": "9304e17d-47ed-4fc9-8f0c-fa661ec436ca",
       "name": "M.I.Humayun Kabir",
       "nameTamil": "M.I.ஹூமாயுன் கபீர்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HUMAYUNKABIRMI_Aranthangi.jpg"
     },
     {
+      "slno": "11",
       "recid": "93016a4f-2efb-4c2f-be40-3aeea75ec1cd",
       "name": "R.Arujunan",
       "nameTamil": "R.அர்ச்சுணன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_20.jpg"
     },
     {
+      "slno": "12",
       "recid": "9301732b-3abc-4db0-bd88-87329b7988ed",
       "name": "A.Syed sulthan ibrahim",
       "nameTamil": "A.சையத் சுல்தான் இப்ராகிம்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_22.jpg"
     },
     {
+      "slno": "13",
       "recid": "93019136-a8f2-4109-98d2-0e421e2a0320",
       "name": "K.Selvakumar",
       "nameTamil": "K.செல்வக்குமார்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_34.jpg"
     },
     {
+      "slno": "14",
       "recid": "93017bd8-2867-4e3d-8ce2-a522aec94de5",
       "name": "R.Thillainathan",
       "nameTamil": "R.தில்லைநாதன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_25.jpg"
     },
     {
+      "slno": "15",
       "recid": "93018317-68a4-4f2a-9cf4-af1f6942c369",
       "name": "S.Dhetchenamoorthy",
       "nameTamil": "S.தெட்சிணாமூர்த்தி",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_28.jpg"
     },
     {
+      "slno": "16",
       "recid": "93017042-e88c-4876-8715-ea32e0ad162c",
       "name": "V.Pandiyan",
       "nameTamil": "V.பாண்டியன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_21.jpg"
     },
     {
+      "slno": "17",
       "recid": "9304b62b-d310-401c-8c7b-464664cf4edb",
       "name": "K.Mahendran",
       "nameTamil": "K.மகேந்திரன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAHENDRANK_Aranthangi.jpg"
     },
     {
+      "slno": "18",
       "recid": "93018c53-295b-4beb-bc1a-b30b7e711b5a",
       "name": "K.Muthukaruppaiah",
       "nameTamil": "K.முத்துக்கருப்பையா",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_33.jpg"
     },
     {
+      "slno": "19",
       "recid": "93014d65-9566-4d5d-80da-b7ca98a51ab1",
       "name": "V.Muthuselvam",
       "nameTamil": "V.முத்துசெல்வம்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_12.jpg"
     },
     {
+      "slno": "20",
       "recid": "9301899b-a2fc-4e3c-b58e-04041296e1ed",
       "name": "R S.Ramaswamy",
       "nameTamil": "R S.ராமசாமி",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANTHANGI_32.jpg"
     },
     {
+      "slno": "21",
       "recid": "9306904a-08f5-4c37-9140-d66df300c3f9",
       "name": "K.P.VELRAJ",
       "nameTamil": "K.P.வேல்ராஜ் ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VELRAJ_KP_Aranthangi.jpg"
     },
     {
+      "slno": "22",
       "recid": "93018664-abf0-47ed-94d6-1f09c1ddbd7a",
       "name": "R.Jegadeesan",
       "nameTamil": "R.ஜெகதீசன்",
@@ -669,8 +691,8 @@
       "occupationTamil": "விவசாயம்",
       "totalAsset": "10 lacs",
       "totalAssetTamil": "10 லட்சம்",
-      "liability": "-2",
-      "liabilityTamil": "-2",
+      "liability": " - 2",
+      "liabilityTamil": " - 2",
       "netAsset": "10 lacs",
       "netAssetTamil": "10 லட்சம்",
       "criminalCase": "0",

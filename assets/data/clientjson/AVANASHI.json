@@ -2,6 +2,7 @@
   "name": "AVANASHI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92ffce39-7d2a-4cc6-8fb0-53ab857c67e2",
       "name": "R.Athiyamaan Raju",
       "nameTamil": "R.அதியமான் ராஜு",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVANASHI_21.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f7027c-ea0a-4320-a4a0-8ef4fe8cf781",
       "name": "P.Dhanapal",
       "nameTamil": "P.தனபால்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVANASHI_5.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fda02d-a90f-4a03-8e1e-3b670677b2b5",
       "name": "P.Durai samy",
       "nameTamil": "P.துரைசாமி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVANASHI_9.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fdaad0-98e6-4894-ade1-81645564d866",
       "name": "K.Meera",
       "nameTamil": "K.மீரா",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVANASHI_11.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ffcace-8c7a-4fb0-af22-d258930bcce5",
       "name": "K.Subramani",
       "nameTamil": "K.சுப்பிரமணி ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVANASHI_19.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f99ad8-43e3-4753-8962-843fe6a5c848",
       "name": "G.Shobha",
       "nameTamil": "G.சோபா ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVANASHI_6.jpg"
     },
     {
+      "slno": "7",
       "recid": "9305cb6d-75be-447c-b284-e2adc4be88ca",
       "name": "A.VENKATESWARAN",
       "nameTamil": "A.வெங்கடேஸ்வரன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VENKATESWARAN_A_Avanashi.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ffc71b-e4de-4db1-a947-2c9a9232fefb",
       "name": "P.Annamalai",
       "nameTamil": "P.அண்ணாமலை ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVANASHI_15.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fd9c69-9f5e-4dda-a775-4dd361d4ff11",
       "name": "P.Arumugam",
       "nameTamil": "P.ஆறுமுகம்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVANASHI_8.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ffc460-1d3d-4781-85e2-0a0bdfef54c1",
       "name": "T.Sakunthala",
       "nameTamil": "T.சகுந்தலா ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVANASHI_14.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ffd0e5-3de1-4e48-8374-b92b8223e195",
       "name": "R.Murugesan",
       "nameTamil": "R.முருகேசன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVANASHI_23.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fdbe24-11dd-4725-ad31-b4aeed92f33e",
       "name": "P.Ranagsamy",
       "nameTamil": "P.ரங்கசாமி",

@@ -2,6 +2,7 @@
   "name": "THIRUVOTTIYUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f89234-66d6-4582-be2f-aad6573472de",
       "name": "K.KUPPAN",
       "nameTamil": "K.குப்பன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_4.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fcefae-e3da-491b-a814-18836ab87658",
       "name": "M.KOTTISWARAN",
       "nameTamil": "M.கோட்டிஸ்வரன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_15.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fd1173-868b-4a70-8491-6fed8ebae561",
       "name": "K.P.SHANKAR",
       "nameTamil": "K.P..சங்கர்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_13.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff0542-3017-4261-afc2-00f861a176b0",
       "name": "R.Egavalli",
       "nameTamil": "R.ஏகவள்ளி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_16.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff07ee-13ef-4c89-96dd-e4ecd6e97ff1",
       "name": "D.Sasiraj",
       "nameTamil": "D.சசிராஜ்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_17.jpg"
     },
     {
+      "slno": "6",
       "recid": "9308b9e0-9f70-4207-ac98-8b4a30e61c64",
       "name": "S.SEEMAN",
       "nameTamil": "S.சீமான் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SEEMAN_Thiruvottiyur.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fd0a48-ca96-40a0-a185-6409c039d7dc",
       "name": "M.SOUNDARA PANDIAN",
       "nameTamil": "M.சௌந்தர பாண்டியன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_10.jpg"
     },
     {
+      "slno": "8",
       "recid": "93071365-cc9f-4ee0-87d7-c8f54dceb473",
       "name": "D.MOHAN",
       "nameTamil": "D.மோகன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/D_MOHAN_Thiruvottiyur.jpg"
     },
     {
+      "slno": "9",
       "recid": "930710e8-1e22-4b89-89f4-4d754bd16320",
       "name": "K.GOPINATH",
       "nameTamil": "K.கோபிநாத் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_GOPINATH_Thiruvottiyur.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff126a-cd5a-4159-8de7-b4143b6938f3",
       "name": "V.Suresh Balaji",
       "nameTamil": "V.சுரேஷ் பாலாஜி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_23.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff0ee8-998d-4d45-b441-20c00034e011",
       "name": "M.Chellam",
       "nameTamil": "M.செல்லம்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_21.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff1035-9fec-48a1-bfd9-40ab42ce144c",
       "name": "D.Thamizhizhan",
       "nameTamil": "D.தமிழீழன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_22.jpg"
     },
     {
+      "slno": "13",
       "recid": "92f6aaf4-da03-4a03-878e-393eed23fd1b",
       "name": "B.DHANASEKARAN",
       "nameTamil": "B.தனசேகரன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_2.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff1562-a541-4e47-b89f-7acff5baa923",
       "name": "C.Dhanraj",
       "nameTamil": "C.தன்ராஜ்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_24.jpg"
     },
     {
+      "slno": "15",
       "recid": "92f88558-7784-4d2e-a9d8-4482f02bc875",
       "name": "B.PRAVEENA",
       "nameTamil": "B.பிரவீனா",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_7.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fcff25-4806-4ccc-9d73-3936081e323c",
       "name": "M.A.MICHAEL RAJ",
       "nameTamil": "M.A..மைக்கேல்ராஜ் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_8.jpg"
     },
     {
+      "slno": "17",
       "recid": "92f87dd1-6ef5-4faa-9a9e-6b33483e8564",
       "name": "N.RAMESHKUMAR",
       "nameTamil": "N.ரமேஷ்குமார்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_6.jpg"
     },
     {
+      "slno": "18",
       "recid": "92ff1932-d22d-4de4-8c01-a57a419afaa6",
       "name": "N.Rajeshkumar",
       "nameTamil": "N.ராஜேஷ்குமார் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_27.jpg"
     },
     {
+      "slno": "19",
       "recid": "92ff0aa2-c4ad-4ad8-9415-9b2575d7ed90",
       "name": "U.Venkatesh",
       "nameTamil": "U.வெங்கடேஷ்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVOTTIYUR_19.jpg"
     },
     {
+      "slno": "20",
       "recid": "92f32265-59e3-4aa8-aaf2-08ec2f99f567",
       "name": "B.ZAKIR HUSSAIN",
       "nameTamil": "B.சாகிர் ஹுசைன்",

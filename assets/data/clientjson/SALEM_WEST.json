@@ -2,6 +2,7 @@
   "name": "SALEM_WEST",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92ff8021-4b63-4e35-8837-2b3300a85af9",
       "name": "ALAGAAPURAM R. MOHANRAJ",
       "nameTamil": "மோகன்ராஜ்   ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_35.jpg"
     },
     {
+      "slno": "2",
       "recid": "92ff848c-a6e1-43eb-b0ce-cd3cd3012da5",
       "name": "S.TAMILSELVAN",
       "nameTamil": "S.தமிழ்செல்வன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_44.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f98268-3f20-4205-96fc-4d71c0b178d3",
       "name": "A.Rajendran",
       "nameTamil": "A.ராஜேந்திரன் ",
@@ -82,8 +85,8 @@
       "totalAssetTamil": "59 லட்சம்",
       "liability": "77 lacs",
       "liabilityTamil": "77 லட்சம்",
-      "netAsset": "- crore 17 lacs",
-      "netAssetTamil": "- கோடி 17 லட்சம்",
+      "netAsset": " - 18 lacs",
+      "netAssetTamil": " - 18 லட்சம்",
       "criminalCase": "1",
       "caseDetailEnglish": "Causing Disturbance . ",
       "caseDetailTamil": "இடையூறு ஏற்படுத்துதல் . ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_13.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304cb6a-0ca3-4580-9bc2-1309f15376fc",
       "name": "R.ARUL",
       "nameTamil": "R.அருள்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARUL_R_Salem(West).jpg"
     },
     {
+      "slno": "5",
       "recid": "92f8fa1c-71e1-487c-8488-98c8e2b895f4",
       "name": "A.KATHIRVEL",
       "nameTamil": "A.கதிர்வேல் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_7.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff880e-39ba-4b43-aefc-df0d4e8e5ead",
       "name": "J.KARTHIKEYAN",
       "nameTamil": "J.கார்த்திகேயன் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_42.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fb31f2-aef6-42e5-9f8e-dc4f8768290a",
       "name": "A.SENTHIL KUMAR",
       "nameTamil": "A.செந்தில்குமார்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_21.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f98884-6be1-4ee2-b3b7-df5a88237dbe",
       "name": "A.Thiyagarajan",
       "nameTamil": "A.தியாகராஜன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_14.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f89555-16d9-4c2b-be60-b38ebd8e6088",
       "name": "S.Nagammal",
       "nameTamil": "S.நாகம்மாள் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_4.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f8e84f-c516-41e6-a952-8fcbe39b279c",
       "name": "R.MUTHUSAMY",
       "nameTamil": "R. முத்துச்சாமி  ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_8.jpg"
     },
     {
+      "slno": "11",
       "recid": "93006a21-1e31-4b9f-b2b2-e6976590a25e",
       "name": "R.VIJAYAKUMAR",
       "nameTamil": "R.விஜயகுமார் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_47.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff78e2-2eab-46a2-ae8e-bc780c8a2d0c",
       "name": "A.INBARAJ",
       "nameTamil": "A.இன்பராஜ் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_34.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff7b9f-0fd6-4231-ab2a-7fc5638e1315",
       "name": "S.KATHAVARAYAN",
       "nameTamil": "S.காத்தவராயன் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_46.jpg"
     },
     {
+      "slno": "14",
       "recid": "92f6a0e6-99f8-4671-81c6-54759bb1d0a8",
       "name": "M.GOPI",
       "nameTamil": "M. கோபி ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_2.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff81f5-08dd-40cf-ae9d-e8732afec6b0",
       "name": "R.GOPINATH",
       "nameTamil": "R.கோபிநாத் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_45.jpg"
     },
     {
+      "slno": "16",
       "recid": "92ff7f26-6e6d-408c-98e1-dbfc92dfe61b",
       "name": "G.CHANDRASEKARAN ",
       "nameTamil": "G.சந்திரசேகரன் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_38.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fb382b-6147-43b3-8c21-35c4cbbfa75b",
       "name": "M.SABBAPATHI",
       "nameTamil": "M.சபாபதி ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_24.jpg"
     },
     {
+      "slno": "18",
       "recid": "92ff82a7-5004-45cf-bd43-03e8143e1bd7",
       "name": "S.SARATHKUMAR",
       "nameTamil": "S.சரத்குமார்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_36.jpg"
     },
     {
+      "slno": "19",
       "recid": "92ff8515-b7db-4215-aca3-83ed3cc45d76",
       "name": "S.SIVARAMAN",
       "nameTamil": "S. சிவராமன்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_37.jpg"
     },
     {
+      "slno": "20",
       "recid": "92ff877e-83cf-4f85-8333-69621e41a35c",
       "name": "M .THIYAGARAJAN",
       "nameTamil": "M .தியாகராஜன்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_39.jpg"
     },
     {
+      "slno": "21",
       "recid": "9300e4d5-62d0-4702-8e5e-e6f041128341",
       "name": "C.NATARAJAN",
       "nameTamil": "C. நடராஜன் ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_31.jpg"
     },
     {
+      "slno": "22",
       "recid": "92ff66c8-1bae-4c8a-b02c-a9e683d08384",
       "name": "D.BALAJI",
       "nameTamil": "D.பாலாஜி ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_29.jpg"
     },
     {
+      "slno": "23",
       "recid": "92f89de9-1859-47ca-8f6b-9b3536229392",
       "name": "M.Mayakannan",
       "nameTamil": "M.மாயக்கண்ணன் ",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_5.jpg"
     },
     {
+      "slno": "24",
       "recid": "92ff8b25-65b0-4f5f-9c0b-24baec20878b",
       "name": "M.MARIMUTHU",
       "nameTamil": "M.மாரிமுத்து ",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_41.jpg"
     },
     {
+      "slno": "25",
       "recid": "93085753-9f87-4154-a7b6-4663cd4757a5",
       "name": "A.MURUGAN",
       "nameTamil": "A.முருகன் ",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MURUGAN_A_Salem(West).jpg"
     },
     {
+      "slno": "26",
       "recid": "92ff6f1b-dbde-4c3e-93d2-18f993774095",
       "name": "R.RAMKUMAR",
       "nameTamil": "R. ராம்குமார்  ",
@@ -808,6 +834,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_30.jpg"
     },
     {
+      "slno": "27",
       "recid": "92fb33f5-901a-48fd-b729-aa5029a9abd9",
       "name": "B.RAJENDRAN",
       "nameTamil": "B.ராஜேந்திரன்  ",
@@ -839,6 +866,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_WEST_22.jpg"
     },
     {
+      "slno": "28",
       "recid": "92f8e094-96b7-4f01-9361-5316b97cd928",
       "name": "M.Jeevanantham",
       "nameTamil": "M.ஜீவானந்தம் ",

@@ -2,6 +2,7 @@
   "name": "NAMAKKAL",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f681ec-726b-497d-957e-b646ccb9d978",
       "name": "P.RAMASAMY",
       "nameTamil": "P.இராமசாமி ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAMASAMYP_Namakkal.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fef669-8484-4aad-9103-3e43935500a1",
       "name": "A.SARAVANAN",
       "nameTamil": "A.சரவணன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_22.jpg"
     },
     {
+      "slno": "3",
       "recid": "92ff2ada-6a8c-43ec-bcf3-f5119626b2a6",
       "name": "k.SELVI",
       "nameTamil": "k.செல்வி ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_39.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f74735-439b-4e3e-aabd-61cd3db773a0",
       "name": "K.P.P.BASKAR",
       "nameTamil": "K.P.P.பாஸ்கர் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_9.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff27a8-c2e4-4543-9ded-6c8345edaf7a",
       "name": "P.RAMALINGAM",
       "nameTamil": "P.ராமலிங்கம்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_38.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fcb7b2-0197-410a-9cc6-44ab3b2efa04",
       "name": "S.ADHAM FAROOK",
       "nameTamil": "S.ஆடம் பாரூக் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_19.jpg"
     },
     {
+      "slno": "7",
       "recid": "93010caf-9cde-476c-8eff-486c1aed243d",
       "name": "T.RAMESH",
       "nameTamil": "T.ரமேஷ்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_49.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f68877-8126-47db-863e-302202de7b8e",
       "name": "K.KANAKARAJ",
       "nameTamil": "K.கனகராஜ் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_3.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff0187-a75e-4728-a07e-697856b015cd",
       "name": "S.SARAVANAN",
       "nameTamil": "S.சரவணன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_25.jpg"
     },
     {
+      "slno": "10",
       "recid": "930533cd-629f-4482-9b72-0c134bff4149",
       "name": "D.SIVAKUMAR",
       "nameTamil": "D.சிவகுமார்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKUMARD_Namakkal.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff353e-65b4-408b-92e8-694edab3f0eb",
       "name": "E.SELVAKUMAR",
       "nameTamil": "E.செல்வகுமார் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_46.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fcabe2-5aa1-4f97-ae50-94af93517e9d",
       "name": "K.TAMIZHVANAN",
       "nameTamil": "K.  தமிழ்வாணன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_17.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fcbac0-90b1-444f-bc74-bc04b738133a",
       "name": "R.THIYAGARAJAN",
       "nameTamil": "R.தியாகராஜன் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_20.jpg"
     },
     {
+      "slno": "14",
       "recid": "92f7579f-9503-4d6e-b59c-e4bed58581c1",
       "name": "B.BASKAR",
       "nameTamil": "B.பாஸ்கர் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_13.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff2cf5-ca01-4571-be62-121eb983e88c",
       "name": "A.S.MATHESWARAN",
       "nameTamil": "A.S.மாதேஸ்வரன் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_40.jpg"
     },
     {
+      "slno": "16",
       "recid": "92ff2256-9ce2-41c2-85ad-dea3902e8bfd",
       "name": "S.ARULSELVAN",
       "nameTamil": "S.அருள் செல்வன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_37.jpg"
     },
     {
+      "slno": "17",
       "recid": "9302ffac-9f53-40c8-936c-bba58828952f",
       "name": "S.ANBUMANI",
       "nameTamil": "S..அன்புமணி ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_33.jpg"
     },
     {
+      "slno": "18",
       "recid": "92ff4007-1eca-4548-a487-94de372df877",
       "name": "M.KUPPUSAMY",
       "nameTamil": "M.குப்புசாமி ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_48.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fefa0b-c2f2-4169-bc68-f647cbb6be2d",
       "name": "L.SURESHKUMAR",
       "nameTamil": "L.சுரேஷ்குமார் ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_23.jpg"
     },
     {
+      "slno": "20",
       "recid": "92ff03d1-fb2f-4ee1-9552-0ec37c413a78",
       "name": "R.SELVAKUMAR",
       "nameTamil": "R.செல்வகுமார்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_26.jpg"
     },
     {
+      "slno": "21",
       "recid": "92ff2f75-6cb0-48ac-8171-0bc430a928ce",
       "name": "V.CHO",
       "nameTamil": "V.சோ ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_44.jpg"
     },
     {
+      "slno": "22",
       "recid": "92fcafa4-fcfa-4fd5-af84-c6696147b1fb",
       "name": "S.DEEPAN CHAKKRAVARTHI",
       "nameTamil": "S.தீபன் சக்கரவர்த்தி ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_18.jpg"
     },
     {
+      "slno": "23",
       "recid": "92fca7da-d2d9-42bb-9f94-97c7a822cc5b",
       "name": "S.MUTHUSAMY",
       "nameTamil": "S.முத்துசாமி ",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_16.jpg"
     },
     {
+      "slno": "24",
       "recid": "92ff3195-9913-4b7d-845b-c2f0d35953a0",
       "name": "K.RAMALINGAM",
       "nameTamil": "K.ராமலிங்கம் ",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_45.jpg"
     },
     {
+      "slno": "25",
       "recid": "92ff0cb8-f92d-47d3-8ec3-573fda34b398",
       "name": "K.JAWAHAR",
       "nameTamil": "K.ஜவகர்",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAMAKKAL_29.jpg"
     },
     {
+      "slno": "26",
       "recid": "92ff3e5c-a943-47ab-9655-58973754e240",
       "name": "P.JAYARAMACHANDRAN",
       "nameTamil": "P.ஜெயராமச்சந்திரன் ",

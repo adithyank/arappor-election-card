@@ -2,6 +2,7 @@
   "name": "THONDAMUTHUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fd1f35-0a4f-4880-be51-d315947b8e33",
       "name": "S.KARTHIKEYA",
       "nameTamil": "S.கார்த்திகேயா",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THONDAMUTHUR_23.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6d742-b45a-4cbc-ae0b-7482abdad304",
       "name": "S.P.Velumani",
       "nameTamil": "S.P.வேலுமணி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THONDAMUTHUR_5.jpg"
     },
     {
+      "slno": "3",
       "recid": "930620ce-e4e7-43eb-9fc9-fb42f14fa477",
       "name": "S.Kalaiarasi",
       "nameTamil": "S.கலையரசி ",
@@ -82,8 +85,8 @@
       "totalAssetTamil": "12 லட்சம்",
       "liability": "28 lacs",
       "liabilityTamil": "28 லட்சம்",
-      "netAsset": "- crore 16 lacs",
-      "netAssetTamil": "- கோடி 16 லட்சம்",
+      "netAsset": " - 16 lacs",
+      "netAssetTamil": " - 16 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_KALAIARASI_Thondamuthur.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fd2498-587c-4aa9-a378-46ac8c84b974",
       "name": "R.SATHISHKUMAR",
       "nameTamil": "R.சதீஸ்குமார் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THONDAMUTHUR_22.jpg"
     },
     {
+      "slno": "5",
       "recid": "930622c3-5318-4e8b-aa77-3cdac374534b",
       "name": "M.Badran",
       "nameTamil": "M.பட்ரன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_BADRAN_Thondamuthur.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff5752-7d9b-4673-8ee3-70b2bcdf9cad",
       "name": "S.SHAJAHAN",
       "nameTamil": "S.ஷாஜகான்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THONDAMUTHUR_41.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fd041f-2aa9-4d02-835d-1ebae92075a4",
       "name": "A.Abdulgafoor",
       "nameTamil": "A.அப்துல் கபூர்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THONDAMUTHUR_17.jpg"
     },
     {
+      "slno": "8",
       "recid": "9300e78e-1644-4ad9-8ab2-44761e3a4ead",
       "name": "C C.Selvamohan",
       "nameTamil": "C C.செல்வமோகன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THONDAMUTHUR_46.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fc65db-1700-4494-8034-04caeb0d059e",
       "name": "A.Mansoorali Khan",
       "nameTamil": "A.மன்சூர் அலிகான்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THONDAMUTHUR_15.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fb7b1f-f792-4398-bd40-6f903f723aeb",
       "name": "J.JOHNEDWARDVISUVASAM",
       "nameTamil": "J.ஜான் எட்வர்ட் விசுவாசம்",

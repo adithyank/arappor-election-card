@@ -2,6 +2,7 @@
   "name": "PERAMBUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f90007-625c-4d3d-adc6-d91c12bf4a95",
       "name": "C.SURESH",
       "nameTamil": "C.சுரேஷ் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_4.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fee4a4-783f-4f20-8788-0136412f6d96",
       "name": "R.D.Sekar",
       "nameTamil": "R.D.சேகர் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_31.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f94fea-1ded-46c5-ba6a-7b1d4728a4bc",
       "name": "NR.DHANAPALAN",
       "nameTamil": "NR.தனபாலன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_6.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fef255-a2a0-4ef4-80ce-81902a4eb2ba",
       "name": "M.A.Soosai",
       "nameTamil": "M.A.சூசை ",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "19 லட்சம்",
       "liability": "76 lacs",
       "liabilityTamil": "76 லட்சம்",
-      "netAsset": "- crore 57 lacs",
-      "netAssetTamil": "- கோடி 57 லட்சம்",
+      "netAsset": " - 57 lacs",
+      "netAssetTamil": " - 57 லட்சம்",
       "criminalCase": "4",
       "caseDetailEnglish": "Not mentioned. ",
       "caseDetailTamil": "தகவல் கொடுக்கவில்லை . ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_23.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f32916-ab04-4c26-a26f-0f569422d4cd",
       "name": "J.Sebastin",
       "nameTamil": "J.செபாஸ்டின்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_1.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fd2343-da08-44c2-8c0e-29dd1344d473",
       "name": "A.Ponnusami",
       "nameTamil": "A.பொன்னுசாமி ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_12.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f6b563-2c95-4a10-9a12-2970c1b6bb96",
       "name": "S.MERLIN SUGANTHI",
       "nameTamil": "S.மெர்லின் சுகந்தி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_2.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f8fcf2-910d-405d-85b6-d9bb0ea26220",
       "name": "E.LAKSHMINARAYANAN",
       "nameTamil": "E.லக்ஷ்மிநாராயணன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_3.jpg"
     },
     {
+      "slno": "9",
       "recid": "92feeb72-5e6e-4c20-9dd5-736ba89643a9",
       "name": "S.Udayakumar",
       "nameTamil": "S.உதயகுமார் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_26.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f95b11-646d-46f7-b704-673f98664969",
       "name": "M.KADHIRAVAN",
       "nameTamil": "M.கதிரவன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_7.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fee5a1-e298-428b-945e-867849269559",
       "name": "S.Sathish Kumar",
       "nameTamil": "S.சதீஷ் குமார் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_30.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fd3f08-1be1-4a6e-99de-511afc9fa964",
       "name": "J. Sathish",
       "nameTamil": "J.சதீஷ் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_21.jpg"
     },
     {
+      "slno": "13",
       "recid": "93089a48-a713-4866-9e92-d23094dd476a",
       "name": "R.Saravana Perumal",
       "nameTamil": "R.சரவண பெருமாள் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SARAVANAPERUMAL_R_Perambur.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fef00d-ccd2-4a43-a462-1025672c772f",
       "name": "R.Selvaraj",
       "nameTamil": "R.செல்வராஜ் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_24.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fee006-476e-4534-83cd-1598b48e64b4",
       "name": "P.Sekar",
       "nameTamil": "P.சேகர் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_34.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fedc04-2815-44e7-b8ae-ad4cb5e5827d",
       "name": "P.Parthipan",
       "nameTamil": "P.பார்த்திபன் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_35.jpg"
     },
     {
+      "slno": "17",
       "recid": "93071963-59aa-4ecb-bc2f-9c4f8a9a8d47",
       "name": "J.PREM ANAND",
       "nameTamil": "J.பிரேம் ஆனந்த் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PREMANAND_J_Perambur.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fd3673-1342-4e74-8089-5a95ed562549",
       "name": "K.Rajesh",
       "nameTamil": "K.ராஜேஷ் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_18.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fd3949-f80b-4c41-8f96-1c5d8a4fcdc2",
       "name": "S.Rajesh Kumar",
       "nameTamil": "S.ராஜேஷ் குமார் ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_19.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fb25c9-7467-409e-aaf2-7b5e6b0ab4a4",
       "name": "M.Vasantha Kumar",
       "nameTamil": "M.வசந்த குமார் ",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_10.jpg"
     },
     {
+      "slno": "21",
       "recid": "92fedd0b-328f-4332-98d7-21936bf6da06",
       "name": "G.Vinothkumar",
       "nameTamil": "G.வினோத் குமார் ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAMBUR_36.jpg"
     },
     {
+      "slno": "22",
       "recid": "92fad5c2-a889-4efb-894f-ed7d89b7ed1f",
       "name": "L.VENKATESH",
       "nameTamil": "L.வெங்கடேஷ் ",

@@ -2,6 +2,7 @@
   "name": "ALANGUDI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f8671f-92f4-41f5-a148-81ed90151c67",
       "name": "M.Chinnadurai",
       "nameTamil": "M.சின்னத்துரை",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGUDI_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f94bb3-e9f9-4460-a634-82b28914de82",
       "name": "DHARMA THANGAVEL",
       "nameTamil": "தங்கவேல்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGUDI_3.jpg"
     },
     {
+      "slno": "3",
       "recid": "9300a906-d5c9-4cd0-a971-9f2a8e62d5a3",
       "name": "SIVA.V.MEYYANATHAN",
       "nameTamil": "மெய்யநாதன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGUDI_16.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304e806-1c49-4b42-b0d8-6a8e800362b4",
       "name": "C.THIRUCHELVAM",
       "nameTamil": "C.திருச்செல்வம்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/C_THIRUCHELVAM_Alangudi.jpg"
     },
     {
+      "slno": "5",
       "recid": "9300a101-d0d8-4d72-8df9-ac268d3cd3fc",
       "name": "P.BALAMURUGAN",
       "nameTamil": "P.பாலமுருகன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGUDI_19.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fcc3d3-6101-4bad-8ed7-da35de456486",
       "name": "G.MANIMEGALAI",
       "nameTamil": "G.மணிமேகலை",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGUDI_7.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304ebc9-8640-43e7-b3b3-762f41ab90d2",
       "name": "D.VIDANGAR",
       "nameTamil": "D.விடங்கர்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/D_VIDANGAR_Alangudi.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fc804f-f6ec-4b38-abb5-8edf8b822a9b",
       "name": "N.VAIRAVAN",
       "nameTamil": "N.வைரவன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGUDI_5.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fc67f7-53ef-4856-a1d5-c153868218d2",
       "name": "C.JAYA",
       "nameTamil": "C.ஜெயா",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGUDI_6.jpg"
     },
     {
+      "slno": "10",
       "recid": "93009d2e-3046-4831-8bab-adc6f94825ae",
       "name": "V.KANNADASAN",
       "nameTamil": "V.கண்ணதாசன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGUDI_18.jpg"
     },
     {
+      "slno": "11",
       "recid": "930097b6-d9ea-44ee-93a8-da4569ee777d",
       "name": "T.VINAYAGAMOORTHY",
       "nameTamil": "T.வினாயகமூர்த்தி",

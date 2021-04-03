@@ -2,6 +2,7 @@
   "name": "DHARMAPURI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "930512a2-d0b2-4664-9618-08a4409f9549",
       "name": "P.SUBRAMANI",
       "nameTamil": "P.சுப்ரமணி ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUBRAMANI_P_Dharmapuri.jpg"
     },
     {
+      "slno": "2",
       "recid": "93051cbd-5867-4c9e-bdb4-a0ff489fa186",
       "name": "P.Perumal",
       "nameTamil": "P.பெருமாள்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUMAL_P_Dharmapuri.jpg"
     },
     {
+      "slno": "3",
       "recid": "9305195f-81f6-4c1e-9efc-2fe4d9fd0c27",
       "name": "P.SAKTHIVEL",
       "nameTamil": "P.சக்திவேல் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAKTHIVEL_P__Dharmapuri.jpg"
     },
     {
+      "slno": "4",
       "recid": "9305a2eb-1661-4b7f-8f9f-99af08d9f047",
       "name": "A.Senthilkumar",
       "nameTamil": "A.செந்தில்குமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHILKUMAR(A)SENTHIL_A__Dharmapuri.jpg"
     },
     {
+      "slno": "5",
       "recid": "93050cda-32f3-42d5-ba05-c9a27d26f2fe",
       "name": "M.NATARAJAN",
       "nameTamil": "M.நடராஜன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATARAJAN_M__Dharmapuri.jpg"
     },
     {
+      "slno": "6",
       "recid": "93051206-b9b3-419b-9fe2-f8e6dfb3ebb2",
       "name": "L.MANI",
       "nameTamil": "L.மணி ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANI_L__Dharmapuri.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f86ba0-ca5b-4f1e-b4d8-e971afaf5112",
       "name": "T.RAMASAMY",
       "nameTamil": "T.ராமசாமி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DHARMAPURI_4.jpg"
     },
     {
+      "slno": "8",
       "recid": "93050fe2-4d0f-4478-b2ef-44e22c3acd4c",
       "name": "D.K.RAJENDRAN",
       "nameTamil": "D.K.ராஜேந்திரன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJENDRAN_D_K__Dharmapuri.jpg"
     },
     {
+      "slno": "9",
       "recid": "930516b3-2017-488c-84a8-59662d1e959b",
       "name": "S.P.VENKATESHWARAN",
       "nameTamil": "S.P.வெங்கடேஸ்வரன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VENKATESHWARAN_S_P__Dharmapuri.jpg"
     },
     {
+      "slno": "10",
       "recid": "9305a0dd-d73c-43ed-a4b0-1a485001b69b",
       "name": "S.K.Jayavenkatesan",
       "nameTamil": "S.K.ஜெயவெங்கடேசன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYAVENKATESAN_S_K__Dharmapuri.jpg"
     },
     {
+      "slno": "11",
       "recid": "930523bf-4501-4766-91c5-004e06cdb127",
       "name": "P.SHANMUGAM",
       "nameTamil": "P.சண்முகம் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/P.SHANMUGAM.jpg"
     },
     {
+      "slno": "12",
       "recid": "9305129b-d883-4aeb-985d-2bd3d8762d0e",
       "name": "M.Sundaramoorthy",
       "nameTamil": "M.சுந்தரமூர்த்தி ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUNDARAMOORTHY_M__Dharmapuri.jpg"
     },
     {
+      "slno": "13",
       "recid": "9305a5bc-fe2e-4a8a-8036-8b30f3c85571",
       "name": "P.Subramani",
       "nameTamil": "P. சுப்பிரமணி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUBRAMANI_P__Dharmapuri.jpg"
     },
     {
+      "slno": "14",
       "recid": "93051477-ff76-4aa9-9cdc-6373e564881a",
       "name": "K.SUBRAMANI",
       "nameTamil": "K.சுப்ரமணி ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUBRAMANI_K__Dharmapuri.jpg"
     },
     {
+      "slno": "15",
       "recid": "93052bbf-0d87-4cce-8690-23d15638d3f7",
       "name": "T.SUBRAMANI",
       "nameTamil": "T.சுப்பிரமணி",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUBRAMANI_T__Dharmapuri.jpg"
     },
     {
+      "slno": "16",
       "recid": "93051cae-92cd-4a1c-8743-0e362f424960",
       "name": "S.TAMILARASAN",
       "nameTamil": "S.தமிழரசன் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DHARMAPURI_28.JPG"
     },
     {
+      "slno": "17",
       "recid": "93050a51-c403-4547-9015-2fd437e5b1d2",
       "name": "V.NATARAJAN",
       "nameTamil": "V.நடராஜன் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATARAJAN_V__Dharmapuri.jpg"
     },
     {
+      "slno": "18",
       "recid": "93052792-8fc2-4a16-a472-c639b0d3c39b",
       "name": "S.K.PALANI",
       "nameTamil": "S.K.பழனி",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALANI_S_K__Dharmapuri.jpg"
     },
     {
+      "slno": "19",
       "recid": "93050b46-a40c-4073-bea9-0972436ff20b",
       "name": "E.V.Manigandan",
       "nameTamil": "E.V.மணிகண்டன் ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANIGANDAN_E_V__Dharmapuri.jpg"
     },
     {
+      "slno": "20",
       "recid": "9305a422-6885-44c9-ae15-1257f5f438fb",
       "name": "K.Rajendran",
       "nameTamil": "K.ராஜேந்திரன்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJENDRAN_K__Dharmapuri.jpg"
     },
     {
+      "slno": "21",
       "recid": "930529c8-9a7a-4834-9021-115d6a671883",
       "name": "B.VENKATESWARAN",
       "nameTamil": "B.வெங்கடேஸ்வரன்",

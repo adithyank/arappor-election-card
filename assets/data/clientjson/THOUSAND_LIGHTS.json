@@ -2,6 +2,7 @@
   "name": "THOUSAND_LIGHTS",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f97a70-64c4-40a0-84e0-c64fe878e729",
       "name": "Dr. N.EZHILAN",
       "nameTamil": "Dr. N.எழிலன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_3.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fd7f5f-4450-4383-b4a0-03fd1635b6da",
       "name": "Kushboo Sundar",
       "nameTamil": "குஷ்பு சுந்தர்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_10.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f89ef0-87c6-46e5-91b8-520f0bc4fd74",
       "name": "S D.WILLIAMS",
       "nameTamil": "S D.வில்லியம்ஸ்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fd954a-7339-4fd5-a79b-b42b7e5e1ae8",
       "name": "KM.Shariff",
       "nameTamil": "KM.ஷரிப்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_12.jpg"
     },
     {
+      "slno": "5",
       "recid": "9301065c-14a3-49f0-b05d-b78b746ef6d9",
       "name": "A.Domnic",
       "nameTamil": "A.டோம்னிக்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_31.jpg"
     },
     {
+      "slno": "6",
       "recid": "93009dcf-630b-4da2-8d0a-10e9051538fc",
       "name": "RIAZ",
       "nameTamil": "ரியாஸ்",
@@ -175,8 +181,8 @@
       "totalAssetTamil": "32 லட்சம்",
       "liability": "72 lacs",
       "liabilityTamil": "72 லட்சம்",
-      "netAsset": "- crore 40 lacs",
-      "netAssetTamil": "- கோடி 40 லட்சம்",
+      "netAsset": " - 40 lacs",
+      "netAssetTamil": " - 40 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_18.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fa4a85-3197-43cc-8460-f210689c8df3",
       "name": "N.VAIDHYANATHAN",
       "nameTamil": "N.வைத்தியநாதன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_4.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f975d4-8fb9-435c-b97c-63a551f01e21",
       "name": "A.J.SHERINE",
       "nameTamil": "A.J..ஷெரின்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_2.jpg"
     },
     {
+      "slno": "9",
       "recid": "93010966-ccf7-4941-a9a9-3cc0f3c816c9",
       "name": "S.Sanjeevi",
       "nameTamil": "S.சஞ்சீவி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_25.jpg"
     },
     {
+      "slno": "10",
       "recid": "93009ef2-ae15-4872-bf51-129c17f27f76",
       "name": "R.SUDAKAR",
       "nameTamil": "R.சுதாகர்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_19.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300cfc7-c3b2-498e-8330-ac728f890865",
       "name": "K.SEKAR",
       "nameTamil": "K.சேகர்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_23.jpg"
     },
     {
+      "slno": "12",
       "recid": "93009b78-5258-4063-ad5e-286d1b84f244",
       "name": "M.DEEBAN",
       "nameTamil": "M.தீபன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_17.jpg"
     },
     {
+      "slno": "13",
       "recid": "93010476-587f-49cf-bd64-5fa10eae44a8",
       "name": "S.Nirmal Kumar",
       "nameTamil": "S.நிர்மல் குமார்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_29.jpg"
     },
     {
+      "slno": "14",
       "recid": "9300cee1-6000-4d67-8119-80fa9015929b",
       "name": "P.PARIMALA",
       "nameTamil": "P.பாரிமளா",
@@ -423,8 +437,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "45 lacs",
       "liabilityTamil": "45 லட்சம்",
-      "netAsset": "- crore 43 lacs",
-      "netAssetTamil": "- கோடி 43 லட்சம்",
+      "netAsset": " - 43 lacs",
+      "netAssetTamil": " - 43 லட்சம்",
       "criminalCase": "2",
       "caseDetailEnglish": "Unlawful assembly, Disobedience to order duly promulgated by public servant. . ",
       "caseDetailTamil": "சட்ட விரோதமாக கூட்டம் கூடுதல் \nஅரசு ஊழியரால் முறையாக அறிவிக்கபட்ட உத்தரவை கீழ்ப்படியாமை. . ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_22.jpg"
     },
     {
+      "slno": "15",
       "recid": "93009a82-ea74-48f3-909c-e8d04057bb1a",
       "name": "A.BABU",
       "nameTamil": "A.பாபு",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_16.jpg"
     },
     {
+      "slno": "16",
       "recid": "93010865-1383-45ac-af03-d6762867c10a",
       "name": "V.Parthiban",
       "nameTamil": "V.பார்த்திபன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_33.jpg"
     },
     {
+      "slno": "17",
       "recid": "93010381-d650-4160-9ba6-6a1467f93c53",
       "name": "N.Manivannan",
       "nameTamil": "N.மணிவண்ணன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_26.jpg"
     },
     {
+      "slno": "18",
       "recid": "93010787-e387-4e95-9201-80b4a605b18e",
       "name": "S.Radha Krishnan",
       "nameTamil": "S.ராதா கிருஷ்ணன்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_32.jpg"
     },
     {
+      "slno": "19",
       "recid": "93010553-17e8-486f-9efe-10a7cd4e7f30",
       "name": "S.Velraj",
       "nameTamil": "S.வேல்ராஜ்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOUSAND_LIGHTS_30.jpg"
     },
     {
+      "slno": "20",
       "recid": "93050c12-a82f-44e3-9d17-6b21caf76e69",
       "name": "A.GEORGE BENNY",
       "nameTamil": "A.ஜார்ஜ்  பென்னி",

@@ -2,6 +2,7 @@
   "name": "THIRUPARANKUNDRAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "930328e4-7da1-45d2-81ac-014416f200ef",
       "name": "K.PONNUTHAI",
       "nameTamil": "K.பொன்னுத்தாய்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUPARANKUNDRAM_12.jpg"
     },
     {
+      "slno": "2",
       "recid": "9308d6d1-64ae-40c4-b4c7-ef69408626e6",
       "name": "V.V.Rajanchellappa",
       "nameTamil": "V.V..ராஜன் செல்லப்பா ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJANCHELLAPPA_V_V__Thiruparankundram.jpg"
     },
     {
+      "slno": "3",
       "recid": "93069587-8630-46d7-89d1-31b5144113f4",
       "name": "R.SAVITHA",
       "nameTamil": "R.சவிதா ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAVITHA_R__Thiruparankundram.jpg"
     },
     {
+      "slno": "4",
       "recid": "930488b9-1f99-4774-b769-f717cea9864b",
       "name": "K.DAVIDANNADURAI",
       "nameTamil": "K.டேவிட் அண்ணாதுரை ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DAVIDANNADURAI_K__Thiruparankundram.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304ed5f-43d7-40af-b1ad-0e29509cfdcd",
       "name": "M.Bharanirajan",
       "nameTamil": "M.பரணிராஜன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BHARANIRAJAN_M__Thiruparankundram.jpg"
     },
     {
+      "slno": "6",
       "recid": "9308daa3-fa53-4846-abf8-8d194e475901",
       "name": "M.PALANIKUMAR",
       "nameTamil": "M.பழனிகுமார் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALANIKUMAR_M__Thiruparankundram.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304f625-c70e-48ed-a1af-770ea598965f",
       "name": "A.Murugesan",
       "nameTamil": "A.முருகேசன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MURUGESAN_A__Thiruparankundram.jpg"
     },
     {
+      "slno": "8",
       "recid": "93047bd6-68f7-4789-83cf-2c0395bbe633",
       "name": "V.RAJAMANI",
       "nameTamil": "V.ராஜாமணி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAMANI_V__Thiruparankundram.jpg"
     },
     {
+      "slno": "9",
       "recid": "9308d324-d276-4420-a0f5-27f839efab3d",
       "name": "R.REVATHY",
       "nameTamil": "R. ரேவதி ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/REVATHY_R__Thiruparankundram.jpg"
     },
     {
+      "slno": "10",
       "recid": "93069999-db29-4f6e-8954-8057c2b5fc54",
       "name": "V.ARUMUGAM",
       "nameTamil": "V.ஆறுமுகம்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARUMUGAM_V__Thiruparankundram.jpg"
     },
     {
+      "slno": "11",
       "recid": "9306dcf0-1bf8-434d-a133-3034c359199a",
       "name": "P.Elangovan",
       "nameTamil": "P.இளங்கோவன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ILANGOVAN_P__Thiruparankundram.jpg"
     },
     {
+      "slno": "12",
       "recid": "9306553f-a44a-40a2-a13c-d929157b0e1e",
       "name": "S.UKKRA PANDIYAN",
       "nameTamil": "S.உக்கர பாண்டியன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UKKRAPANDIYAN_S__Thiruparankundram.jpg"
     },
     {
+      "slno": "13",
       "recid": "9306a76a-33dc-4067-865e-1b4610f95d51",
       "name": "M.KARUNAKARAN",
       "nameTamil": "M.கருணாகரன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARUNAKARAN_M__Thiruparankundram.jpg"
     },
     {
+      "slno": "14",
       "recid": "9305a4a6-9e8e-43c7-8d5f-d0a39249da57",
       "name": "M.SANKAR THAYAL SHARMA",
       "nameTamil": "M.சங்கர் தயாள் சர்மா ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARTHAYALSHARMA_M__Thiruparankundram.jpg"
     },
     {
+      "slno": "15",
       "recid": "92faf167-b828-4293-9cbe-b0eb6c8362e6",
       "name": "S.SEKAR",
       "nameTamil": "S.S.SEKAR",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUPARANKUNDRAM_7.jpg"
     },
     {
+      "slno": "16",
       "recid": "9305686a-17ff-4886-8eb1-c8de459995a2",
       "name": "K.PACKIYASELVI",
       "nameTamil": "K.பாக்கியச்செல்வி ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PACKIYASELVI_K__Thiruparankundram.jpg"
     },
     {
+      "slno": "17",
       "recid": "93056b5d-9cfc-4fd4-879f-6a94bd8d88fb",
       "name": "R.BALAMURUGAN",
       "nameTamil": "R.பாலமுருகன் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BALAMURUGAN_R__Thiruparankundram.jpg"
     },
     {
+      "slno": "18",
       "recid": "93007549-fb43-4958-b03a-d7778bced113",
       "name": "M.M.PILLAI",
       "nameTamil": "M.M.பிள்ளை",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUPARANKUNDRAM_35.jpg"
     },
     {
+      "slno": "19",
       "recid": "9306528f-bec3-459b-af55-118afdf2d675",
       "name": "S.MANIKANDAN",
       "nameTamil": "S.மணிகண்டன் ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANIKANDAN_S__Thiruparankundram.jpg"
     },
     {
+      "slno": "20",
       "recid": "93069f5d-86dd-4945-927c-fea3118d7674",
       "name": "M.K.MOHIDEEN ABDUL KADER",
       "nameTamil": "M.K.முகைதீன் அப்துல் காதர்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MOHIDEENABDULKADAR_M_K__Thiruparankundram.jpg"
     },
     {
+      "slno": "21",
       "recid": "92fed3d8-7e45-40e8-aed9-531b2027af7d",
       "name": "R.MURUGAN",
       "nameTamil": "R.முருகன்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUPARANKUNDRAM_15.jpg"
     },
     {
+      "slno": "22",
       "recid": "9306adca-bc68-4172-a921-1ad2d40095d2",
       "name": "M.GUNASEKAR",
       "nameTamil": "M.ராதா (எ) குணசேகரன்",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHA(A)GUNASEKARAN_M__Thiruparankundram.jpg"
     },
     {
+      "slno": "23",
       "recid": "93059980-7f3a-42e3-85d5-a683b0be3b04",
       "name": "K.RAMACHANDRAN",
       "nameTamil": "K.ராமச்சந்திரன்",

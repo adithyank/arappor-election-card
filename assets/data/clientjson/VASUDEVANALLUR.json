@@ -2,6 +2,7 @@
   "name": "VASUDEVANALLUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9300a205-acbd-4dc4-aa8c-738a804fc6a9",
       "name": "T.SADHAN THIRUMALAI KUMAR",
       "nameTamil": "T.T.SADHAN THIRUMALAI KUMAR",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VASUDEVANALLUR_11.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fb182d-972d-4bc4-9683-0e911e584b77",
       "name": "A.MANOHARAN",
       "nameTamil": "A.மனோகரன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VASUDEVANALLUR_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fd4c45-c18f-4a92-a002-d0b702c7e04e",
       "name": "M.Eswaran",
       "nameTamil": "M.ஈஸ்வரன்",
@@ -82,8 +85,8 @@
       "totalAssetTamil": "3 லட்சம்",
       "liability": "5 lacs",
       "liabilityTamil": "5 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VASUDEVANALLUR_4.jpg"
     },
     {
+      "slno": "4",
       "recid": "93090ba0-7437-4f88-b870-05388186dce1",
       "name": "K.KARUPPASAMY",
       "nameTamil": "K.கருப்பசாமி  ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARUPPASAMYK_Vasudevanallur.jpg"
     },
     {
+      "slno": "5",
       "recid": "9300b252-0bf5-4be0-897f-665ca354ddae",
       "name": "M.CHINNASAMY",
       "nameTamil": "M.சின்னசாமி  ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHINNASAMYM_Vasudevanallur.jpg"
     },
     {
+      "slno": "6",
       "recid": "93009654-1139-472c-9a01-24687d1d2e5f",
       "name": "S.THANGARAJ",
       "nameTamil": "S.தங்கராஜ்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANGARAJS_Vasudevanallur.jpg"
     },
     {
+      "slno": "7",
       "recid": "9300a9b7-d600-497d-a429-d69d5a9e43b8",
       "name": "V.PECHIAMMAL",
       "nameTamil": "V.பேச்சியம்மாள்  ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PETCHIAMMALV_Vasudevanallur.jpg"
     },
     {
+      "slno": "8",
       "recid": "9300a77b-676a-4929-a73e-3a46f43ba521",
       "name": "SS.MATHIVANAN",
       "nameTamil": "SS.SS.MATHIVANAN",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VASUDEVANALLUR_13.jpg"
     },
     {
+      "slno": "9",
       "recid": "93009db6-05d2-4c87-8ec9-5b1047ad8231",
       "name": "P.L.A.Jayakumar",
       "nameTamil": "P.L.A.ஜெயக்குமார் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VASUDEVANALLUR_10.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300a3d9-7fc8-4bb8-ba6d-f1c4a9728095",
       "name": "G.MUTHUPANDI",
       "nameTamil": "G.முத்து பாண்டி ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VASUDEVANALLUR_12.jpg"
     },
     {
+      "slno": "11",
       "recid": "93009b74-9dd3-4df4-a9a8-c3749c18e6b0",
       "name": "P.RAMAMOORTHY",
       "nameTamil": "P.இராமமூர்த்தி ",

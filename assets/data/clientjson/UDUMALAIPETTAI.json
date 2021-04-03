@@ -2,6 +2,7 @@
   "name": "UDUMALAIPETTAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fc7cc3-f2f3-4b5e-977b-abed10ec57bf",
       "name": "K.Kumar",
       "nameTamil": "K.குமார்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_20.jpg"
     },
     {
+      "slno": "2",
       "recid": "93058f5f-ff0d-4203-a8ef-02ba8b43aa53",
       "name": "K.Thennarasu",
       "nameTamil": "K.தென்னரசு",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Thennarasu_K__Udumalaipettai.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f90c26-2e31-41ec-9fae-8172a84b6424",
       "name": "K.Rathakrishnan",
       "nameTamil": "K.கே.ராதாகிருஷ்ணண்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_2.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff93c6-4822-4f5e-bf98-481d28865727",
       "name": "T.Krishnan",
       "nameTamil": "T.கிருஷ்ணன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_27.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fc80de-6656-45b7-8dfa-05c6532b2dbf",
       "name": "K.Nachammal",
       "nameTamil": "K.நாச்சம்மாள் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_22.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fc8aa6-8677-4e5c-a449-d49a23f42219",
       "name": "R.Palanisami",
       "nameTamil": "R.பழனிச்சாமி ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_25.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fc856c-c6a8-461c-9c1d-198ed508c14e",
       "name": "A.Babu Rajendra Prasath",
       "nameTamil": "A.பாபு ராஜேந்திர பிரசாத்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_23.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fc87e8-c405-4f14-876f-1b1568b5cfb2",
       "name": "V.Shrinithi",
       "nameTamil": "V.ஸ்ரீநிதி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_24.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ffa441-a068-462b-b9b8-ca3b59f15158",
       "name": "S.Ashokkumar",
       "nameTamil": "S.அசோக் குமார்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_29.jpg"
     },
     {
+      "slno": "10",
       "recid": "93000897-16a2-403e-965a-e56521757514",
       "name": "P.Arumugam ",
       "nameTamil": "P.ஆறுமுகம்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_32.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fa9427-e690-4d17-a873-850e623041ea",
       "name": "D.Umarali",
       "nameTamil": "D.உமர்அலி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_14.jpg"
     },
     {
+      "slno": "12",
       "recid": "93000c96-6f97-44ec-8ef3-284fe88665b1",
       "name": "C.Elsy",
       "nameTamil": "C.எல்சி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_35.jpg"
     },
     {
+      "slno": "13",
       "recid": "930010b5-4fe0-4558-a844-93431664d85f",
       "name": "S.Karthikeyan",
       "nameTamil": "S.கார்த்திகேயன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_37.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ffa025-c037-449c-a8b3-84a8e898083a",
       "name": "D.Divya",
       "nameTamil": "D. திவ்யா",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDUMALAIPETTAI_28.jpg"
     },
     {
+      "slno": "15",
       "recid": "9314d555-c8a3-42dd-b317-1f8137cecc12",
       "name": "K.Rajini",
       "nameTamil": "K.K.Rajini",
@@ -454,8 +469,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "4 lacs",
       "liabilityTamil": "4 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",

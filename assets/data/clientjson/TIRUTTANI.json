@@ -2,6 +2,7 @@
   "name": "TIRUTTANI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6839d-9744-4991-94f5-afd6b9ceeab8",
       "name": "G.Hari",
       "nameTamil": "G.அரி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_2.jpg"
     },
     {
+      "slno": "2",
       "recid": "92ff856a-4b9e-4497-8ef6-f4df2164ff12",
       "name": "D.Krishnamurthy",
       "nameTamil": "D.கிருஷ்ணமூர்த்தி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_28.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f68df3-8aed-44f6-8e56-b80c1f746487",
       "name": "S.Chandran",
       "nameTamil": "S.சந்திரன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_3.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff3b7f-a1bf-461d-9a5f-299c998b8e25",
       "name": "N.Magendiran",
       "nameTamil": "N.நா மகேந்திரன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_14.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f86986-f2fd-4c57-bd0d-054524540de2",
       "name": "L.Akila",
       "nameTamil": "L.அகிலா",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_8.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff71bc-c5d4-4728-b235-751f7913a2e5",
       "name": "M.D.Thanigaimalai",
       "nameTamil": "M.D..MD. தணிகைமலை  ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_22.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff6d79-d833-40a7-8fac-329676d72ce3",
       "name": "S.Manickam",
       "nameTamil": "S.ச மாணிக்கம் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_21.jpg"
     },
     {
+      "slno": "8",
       "recid": "930070be-a41a-47fd-b7f2-d5701d6f672f",
       "name": "M.Hari",
       "nameTamil": "M.ம அரி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_33.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff787f-0e47-4cc5-a9ba-acd35c70e963",
       "name": "K.Chandran ",
       "nameTamil": "K.K சந்திரன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_25.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff4107-751c-4e93-9b2a-5961e6651e37",
       "name": "T.Chandran",
       "nameTamil": "T.த சந்திரன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_16.jpg"
     },
     {
+      "slno": "11",
       "recid": "92f69a53-8d4a-4a62-8432-9fb3d6eff542",
       "name": "AJ.Suresh",
       "nameTamil": "AJ.சுரேஷ்",
@@ -330,8 +341,8 @@
       "totalAssetTamil": "26 லட்சம்",
       "liability": "35 lacs",
       "liabilityTamil": "35 லட்சம்",
-      "netAsset": "-9 lacs",
-      "netAssetTamil": "-9 லட்சம்",
+      "netAsset": " - 9 lacs",
+      "netAssetTamil": " - 9 லட்சம்",
       "criminalCase": "1",
       "caseDetailEnglish": "Slavery act. ",
       "caseDetailTamil": "கொத்தடிமை வழக்கு. ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_5.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff6a20-a9a4-48ae-aa61-d33ec60e6f3e",
       "name": "S.Shettu",
       "nameTamil": "S.சு சேட்டு ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUTTANI_20.jpg"
     },
     {
+      "slno": "13",
       "recid": "9306a505-ae8d-4dec-98d5-a31c1205a87e",
       "name": "D.PAUL RAJ",
       "nameTamil": "D.பால் ராஜ் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/D_PAULRAJ_Tiruttani.jpg"
     },
     {
+      "slno": "14",
       "recid": "93006fd5-ea84-4f11-a374-61c8466f32ce",
       "name": "V.P.Vijayan",
       "nameTamil": "V.P.வ பெ விஜயன் ",
@@ -423,8 +437,8 @@
       "totalAssetTamil": "63800",
       "liability": "3 lacs",
       "liabilityTamil": "3 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",

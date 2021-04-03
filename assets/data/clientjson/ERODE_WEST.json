@@ -2,6 +2,7 @@
   "name": "ERODE_WEST",
   "candidates": [
     {
+      "slno": "1",
       "recid": "930a3b13-fb70-4ec3-a409-6f2d62eeaf77",
       "name": "K.V.Ramalingam",
       "nameTamil": "K.V.இராமலிங்கம்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RamalingamKV_Erode(West).jpg"
     },
     {
+      "slno": "2",
       "recid": "930a3671-93dc-4a3a-b71a-7950526b0c58",
       "name": "A.Dhanalakshmi",
       "nameTamil": "A.தனலட்சுமி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DhanalakshmiA_Erode(West).jpg"
     },
     {
+      "slno": "3",
       "recid": "9309edb7-f73c-4512-a0f3-9227fd19dd22",
       "name": "S.Muthusamy",
       "nameTamil": "S.முத்துசாமி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MuthusamyS_Erode(West).jpg"
     },
     {
+      "slno": "4",
       "recid": "9306aa2b-f9b0-440d-9c0d-237e7fba9f60",
       "name": "P.Chandrakumar",
       "nameTamil": "P.சந்திரகுமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ChandrakumarP_Erode(West).jpg"
     },
     {
+      "slno": "5",
       "recid": "92f6b5b8-a39c-47c5-91f1-065a9ded3465",
       "name": "M.Chandran",
       "nameTamil": "M.சந்திரன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ERODE_WEST_2.jpg"
     },
     {
+      "slno": "6",
       "recid": "9309e6f1-6b06-4748-897e-ed654a2c3611",
       "name": "S.Sivasubramaniyan",
       "nameTamil": "S.சிவசுப்பிரமணியன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SivasubramaniyanS_Erode(West).jpg"
     },
     {
+      "slno": "7",
       "recid": "9306a875-87ed-4726-bc84-011439134f08",
       "name": "G.Thangavel",
       "nameTamil": "G.தங்கவேல்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ThangavelG_Erode(West).jpg"
     },
     {
+      "slno": "8",
       "recid": "930a8407-cb38-4d25-bd6a-3e70bc4f14ee",
       "name": "Durai Sevugan",
       "nameTamil": "துரைசேவுகன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DuraiSevugan_Erode(West).jpg"
     },
     {
+      "slno": "9",
       "recid": "930237c7-1da2-465f-9ef7-dfa0affd5fc5",
       "name": "K.Balasubramaniam",
       "nameTamil": "K.பாலசுப்ரமணியன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ERODE_WEST_25.jpg"
     },
     {
+      "slno": "10",
       "recid": "930a8175-c3c8-49f0-9452-ac58b343fa76",
       "name": "K.Madhan",
       "nameTamil": "K.மதன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MadhanK_Erode(West).jpg"
     },
     {
+      "slno": "11",
       "recid": "93023402-fafd-4011-8b32-544549252883",
       "name": "R.Iyyavu",
       "nameTamil": "R.அய்யாவு",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ERODE_WEST_21.jpg"
     },
     {
+      "slno": "12",
       "recid": "9302355c-301a-4024-aa32-e6b935495025",
       "name": "R.Kalithass",
       "nameTamil": "R.காளிதாஸ்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ERODE_WEST_22.jpg"
     },
     {
+      "slno": "13",
       "recid": "9302367c-4291-4cbc-8ad9-369d48ff6a86",
       "name": "A.Muthusamy",
       "nameTamil": "A.முத்துசாமி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ERODE_WEST_24.jpg"
     },
     {
+      "slno": "14",
       "recid": "93023bb9-1e38-4efa-9a91-d5b4f2153f32",
       "name": "M.Vimala",
       "nameTamil": "M.விமலா",
@@ -423,8 +437,8 @@
       "totalAssetTamil": "1 லட்சம்",
       "liability": "28 lacs",
       "liabilityTamil": "28 லட்சம்",
-      "netAsset": "- crore 26 lacs",
-      "netAssetTamil": "- கோடி 26 லட்சம்",
+      "netAsset": " - 27 lacs",
+      "netAssetTamil": " - 27 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ERODE_WEST_27.jpg"
     },
     {
+      "slno": "15",
       "recid": "930239ec-6144-4f82-9408-2e62eef301ac",
       "name": "A.VENGATESAN",
       "nameTamil": "A.வெங்கடேசன்",

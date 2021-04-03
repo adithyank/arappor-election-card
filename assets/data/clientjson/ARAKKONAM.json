@@ -2,6 +2,7 @@
   "name": "ARAKKONAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6bf09-1eff-4554-bdf8-6f6cb96a008b",
       "name": "P.Sudhakar",
       "nameTamil": "P.சுதாகர் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARAKKONAM_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6cdbb-7ad6-42bc-af07-081494705467",
       "name": "S.Ravi",
       "nameTamil": "S.ரவி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARAKKONAM_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304e067-6c66-4c2a-a469-259d37989fc6",
       "name": "E.Abirmi",
       "nameTamil": "E.அபிராமி ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/E_ABIRAMI_Arakkonam.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304de72-4f6f-4930-b901-dc5a6bab03a4",
       "name": "J.Gowthama sannah",
       "nameTamil": "J.கௌதம சன்னா ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOWTHAMASANNAH_J_Arakkonam.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fea786-4991-4e4c-aca4-7ebfb44aaa7d",
       "name": "S.Baskaran",
       "nameTamil": "S.பாஸ்கரன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARAKKONAM_15.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fec28f-266c-49b5-ab49-82575acc2ce9",
       "name": "K.C.Manivannan",
       "nameTamil": "K.C.மணிவண்ணன் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARAKKONAM_16.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fe92e9-65df-4ce6-8f40-09b04214c54f",
       "name": "V.Ravi",
       "nameTamil": "V.ரவி  ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARAKKONAM_11.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fc92f9-7577-4c09-ab62-271f94cf9ba4",
       "name": "A.Gauthaman",
       "nameTamil": "A.கௌதமன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARAKKONAM_5.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fc8d14-c344-437c-886c-d85457aa1e3b",
       "name": "C.M.Gowthaman",
       "nameTamil": "C.M.கௌதமன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARAKKONAM_4.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fc9860-5bd8-487a-8c33-67ad64faa2cf",
       "name": "M.Manikandan",
       "nameTamil": "M.மணிகண்டன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARAKKONAM_7.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fc9b90-5998-478b-8303-06d17f039252",
       "name": "M.Madhanraj",
       "nameTamil": "M.மதன்ராஜ் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARAKKONAM_8.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fc95a6-1536-490f-b52c-9d1af683b296",
       "name": "C.Mohan",
       "nameTamil": "C.மோகன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARAKKONAM_6.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe8ce4-9725-4c2b-81cb-7bf89a31eedb",
       "name": "P.Ravi",
       "nameTamil": "P.ரவி  ",

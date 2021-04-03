@@ -2,6 +2,7 @@
   "name": "THIRUVERUMBUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fce17f-7061-4a6c-a4de-e41b39e58a77",
       "name": "A.P.ANBIL MAHESH POOYYAMOZHI",
       "nameTamil": "A.P.அன்பில் மகேஷ் பொய்யாமொழி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVERUMBUR_12.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f68d2c-3187-433c-8911-f7b007abac38",
       "name": "P.Kumar",
       "nameTamil": "P.குமார்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PKUMAR_Thiruverumbur.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fed13f-bf50-4202-a91c-ef5bb1cf7754",
       "name": "S.Senthil Kumar",
       "nameTamil": "S.செந்தில் குமார்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVERUMBUR_15.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f947d7-3a05-4876-bca0-289bfcd9da51",
       "name": "R.MALATHI",
       "nameTamil": "R.மாலதி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVERUMBUR_5.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fcd965-0e2a-4dd6-9236-a7e6e5fb8d33",
       "name": "K.M.KARTHIK",
       "nameTamil": "K.M.கார்த்திக்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVERUMBUR_11.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f686a3-8228-4738-bf16-988d112a2d4d",
       "name": "S.Sakthivel",
       "nameTamil": "S.சக்திவேல்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_SAKTHIVEL_Thiruverumbur.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fcd39a-7ae3-4663-ad8b-585fce8395f7",
       "name": "V.CHOLASOORAN",
       "nameTamil": "V.சோழசூரன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVERUMBUR_7.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fecb9a-1c27-47bb-8ce1-18ece3c33026",
       "name": "K.Palanisamy",
       "nameTamil": "K.பழனிச்சாமி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVERUMBUR_14.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f94089-0f17-4814-a79d-8f59d97a7680",
       "name": "M.MURUGANANDAM",
       "nameTamil": "M.முருகானந்தம்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVERUMBUR_4.jpg"
     },
     {
+      "slno": "10",
       "recid": "92feec6e-08f1-4225-add3-8351aa064337",
       "name": "S.Charles",
       "nameTamil": "S.சார்லஸ்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVERUMBUR_24.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fee7ec-5d3e-4ffd-838f-b85c774261fc",
       "name": "R.Priya",
       "nameTamil": "R.பிரியா",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVERUMBUR_22.jpg"
     },
     {
+      "slno": "12",
       "recid": "92feca08-0d12-405a-866f-e2accd8d743f",
       "name": "N.Muniyandi",
       "nameTamil": "N.முனியாண்டி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVERUMBUR_13.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fee956-dcad-4b6f-871d-bb7f5a03c13f",
       "name": "A.Raja Mohamed",
       "nameTamil": "A.ராஜா முகமது",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVERUMBUR_23.jpg"
     },
     {
+      "slno": "14",
       "recid": "9304d8fe-395a-4ef4-9aa7-8b722bb61d9b",
       "name": "N.RAJU",
       "nameTamil": "N.ராஜு ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/N_RAJU_Thiruverumbur.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fee641-e122-4c69-abc8-523d32dca5ad",
       "name": "R.JESTIN RAJA",
       "nameTamil": "R.ஜெஸ்டின் ராஜா ",

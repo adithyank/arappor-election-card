@@ -2,6 +2,7 @@
   "name": "PATTUKKOTTAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93050d43-e177-479d-bfa4-25c6706f3a94",
       "name": "K.ANNADURAI",
       "nameTamil": "K.அண்ணாதுரை",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNADURAI_K__Pattukkottai.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fb10f3-d361-49a6-ba5c-7dd80645039c",
       "name": "N.R.RENGARAJAN",
       "nameTamil": "N.R.ரெங்கராஜன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PATTUKKOTTAI_8.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fb1839-6f90-4d10-84fc-4ebcf825c307",
       "name": "A.KEERTHIKA",
       "nameTamil": "A.கீர்த்திகா ",
@@ -82,8 +85,8 @@
       "totalAssetTamil": "52000",
       "liability": "2 lacs",
       "liabilityTamil": "2 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PATTUKKOTTAI_9.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fd1b07-9077-4722-87e4-ba2b569f7712",
       "name": "B.SADHASIVAM",
       "nameTamil": "B.சதாசிவம் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PATTUKKOTTAI_15.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fd0a7a-6ca2-4790-bd1c-9ed9e730fca7",
       "name": "M.Sundarraj",
       "nameTamil": "M.சுந்தர்ராஜ் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PATTUKKOTTAI_13.jpg"
     },
     {
+      "slno": "6",
       "recid": "9307157a-a986-4ed6-abc3-df82cc846fd2",
       "name": "S.D.S.SELVAM",
       "nameTamil": "S.D.S.செல்வம்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SELVAM_S_D_S__Pattukkottai.jpg"
     },
     {
+      "slno": "7",
       "recid": "9300bea9-2199-4fcb-8372-365fc83edb77",
       "name": "T.MEIKKAPPAN",
       "nameTamil": "T.மெய்க்கப்பன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PATTUKKOTTAI_22.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fd118a-db0e-458c-a3eb-3be3e65ce27d",
       "name": "V.BALAKRISHNAN",
       "nameTamil": "V.பாலகிருஷ்ணன் ",

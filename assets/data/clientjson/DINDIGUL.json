@@ -2,6 +2,7 @@
   "name": "DINDIGUL",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93028520-9bc7-4276-ad28-50513593351a",
       "name": "S.Arasur Manoharan",
       "nameTamil": "S.அரசூர் மனோகரன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_26.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fee44f-71bd-4e7f-b105-127480014f63",
       "name": "C.SREENIVASAN",
       "nameTamil": "C.ஸ்ரீனிவாசன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_33.jpg"
     },
     {
+      "slno": "3",
       "recid": "93067e26-0e59-4a15-93b4-fe0bf18c1312",
       "name": "N.PANDI",
       "nameTamil": "N.பாண்டி",
@@ -82,8 +85,8 @@
       "totalAssetTamil": "71 லட்சம்",
       "liability": "1 crore 10 lacs",
       "liabilityTamil": "1 கோடி 10 லட்சம்",
-      "netAsset": "- crore 39 lacs",
-      "netAssetTamil": "- கோடி 39 லட்சம்",
+      "netAsset": " - 40 lacs",
+      "netAssetTamil": " - 40 லட்சம்",
       "criminalCase": "2",
       "caseDetailEnglish": "illegally gathered created public nuisance .. ",
       "caseDetailTamil": "கூடுதல், பொதுமக்களுக்கு தொல்லைகளை உருவாக்குதல். ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANDI_N_Dindigul.jpg"
     },
     {
+      "slno": "4",
       "recid": "93009ad9-b9ad-4531-a0c3-4bc3584636a4",
       "name": "S.AKKAMMAL",
       "nameTamil": "S.அக்கம்மாள்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_38.jpg"
     },
     {
+      "slno": "5",
       "recid": "93068176-8834-4b2b-8ac8-5a65821756ac",
       "name": "R.ALAGU PANDIAN",
       "nameTamil": "R.அழகு பாண்டியன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALAGUPANDIAN_R_Dindigul.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f9859f-bbff-4946-ac0e-7210414a8733",
       "name": "R.RAJENDRAN",
       "nameTamil": "R.ராஜேந்திரன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJENDRAN_R_Dindigul.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fe9b6a-a586-4e5a-a75f-7cbeed58f26e",
       "name": "V.KARTHIKEYAN",
       "nameTamil": "V.கார்த்திகேயன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_31.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fb12a2-1877-43fa-896c-1fd69df73012",
       "name": "A.SIVAGANAM",
       "nameTamil": "A.சிவஞானம்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_20.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fe999b-d7b9-4465-b983-e0112d81dcfe",
       "name": "A.MURUGESAN",
       "nameTamil": "A.முருகேசன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_29.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fa91a9-585c-4b4c-a2d8-a6e28c7c2821",
       "name": "P.RAMUTHEVAR",
       "nameTamil": "P.ராமுத்தேவர்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_11.jpg"
     },
     {
+      "slno": "11",
       "recid": "930515ba-3c39-4ece-9a3f-df12a72fa04f",
       "name": "R.JAYASUNDAR",
       "nameTamil": "R.ஜெயசுந்தர்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYASUNDAR_R_Dindigul.jpg"
     },
     {
+      "slno": "12",
       "recid": "92f70f68-43ea-477c-afb1-1821e2999c9b",
       "name": "D.ANBUROSE",
       "nameTamil": "D.அன்புரோஸ்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_3.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fea83e-649c-4638-9e6f-5997a025eb9d",
       "name": "A.SENTHILALAGAPPAN",
       "nameTamil": "A.செந்தில் அழகப்பன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_32.jpg"
     },
     {
+      "slno": "14",
       "recid": "93004e16-651d-4e91-a9a7-8c88ae188fb4",
       "name": "C.Dhanasekaran",
       "nameTamil": "C.தனசேகரன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_27.jpg"
     },
     {
+      "slno": "15",
       "recid": "9305149f-6d8c-44d2-8149-a373ad68aae3",
       "name": "N.NAGARAJ",
       "nameTamil": "N.நாகராஜ்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGARAJ_N_Dindigul.jpg"
     },
     {
+      "slno": "16",
       "recid": "92feaba8-14f9-4d89-be18-1e6d355bd35e",
       "name": "K.BALASUBRAMANI",
       "nameTamil": "K.பாலசுப்ரமணி",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_34.jpg"
     },
     {
+      "slno": "17",
       "recid": "930055d7-0be7-428f-8cf8-0c8c36b783fe",
       "name": "R.BALAJI",
       "nameTamil": "R.பாலாஜி",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_35.jpg"
     },
     {
+      "slno": "18",
       "recid": "92f8713d-97cf-471b-9b97-5d0f56418407",
       "name": "J.BASKARAN CHELLAPPA",
       "nameTamil": "J.பாஸ்கரன் செல்லப்பா",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_9.jpg"
     },
     {
+      "slno": "19",
       "recid": "92f8840c-14c3-4463-aa96-8d80304ec45c",
       "name": "M.Rahamathulla",
       "nameTamil": "M.ரகமதுல்லா",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_7.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fbcabc-bcbb-465e-b809-6221970d0959",
       "name": "P.Vijayapandi",
       "nameTamil": "P.விஜயபாண்டி ",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DINDIGUL_17.jpg"
     },
     {
+      "slno": "21",
       "recid": "92f8f979-92d8-440c-ad57-4005023464ed",
       "name": "M.HARIPRAKASH",
       "nameTamil": "M.ஹரிபிரகாஷ்",

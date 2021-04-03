@@ -2,6 +2,7 @@
   "name": "PANRUTI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fa7465-c212-4da7-a63e-69b2de9db038",
       "name": "R.Rajendran",
       "nameTamil": "R.ராஜேந்திரன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANRUTI_10.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fa6dfe-da64-430a-b621-9b3c50f2c7a1",
       "name": "P.Sivakolunthu",
       "nameTamil": "P.சிவக்கொழுந்து",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANRUTI_9.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6bc4f-cdc0-4a16-b758-19b9d06702c3",
       "name": "T.Velmurugan",
       "nameTamil": "T.வேல்முருகன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANRUTI_2.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fa7820-1c8f-4d33-b19c-760135cb6867",
       "name": "Subashini",
       "nameTamil": "சுபாஷினி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUBHASHINI_R_Panruti.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fc73bb-04f8-4799-bb94-0def82f3c769",
       "name": "Jayalani",
       "nameTamil": "ஜெயலானி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANRUTI_15.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff0e83-dfd6-4517-b0c3-4843e31164a9",
       "name": "R.ARULKUMAR",
       "nameTamil": "R.அருள்குமார்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANRUTI_31.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fc7835-497d-4e01-88d8-769d83d92fa1",
       "name": "S.Kamadevan",
       "nameTamil": "S.காமதேவன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANRUTI_16.jpg"
     },
     {
+      "slno": "8",
       "recid": "9304f727-7c9f-47f0-b3ee-b13ddb6a73da",
       "name": "S.KRISHNARAJ",
       "nameTamil": "S.கிருஷ்ணராஜ்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KRISHNARAJ_S_Panruti.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fef34c-960a-4c79-b796-91229d6e3bea",
       "name": "D.KUMAR",
       "nameTamil": "D.குமார்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANRUTI_22.jpg"
     },
     {
+      "slno": "10",
       "recid": "92feff5d-5bee-4866-b29d-65daa89f457b",
       "name": "S.GOVINDASAMY",
       "nameTamil": "S.கோவிந்தசாமி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANRUTI_29.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fc7d03-c5ee-4d12-934a-598f6909e806",
       "name": "V .Sumathi",
       "nameTamil": "V .சுமதி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANRUTI_17.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fefb6e-3a3f-40dd-a20c-6d472bc79e91",
       "name": "M.NAGAMANI",
       "nameTamil": "M.நாகமணி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANRUTI_26.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fc8101-2144-4c30-8788-0fa5435cdaab",
       "name": "R.Prakash",
       "nameTamil": "R.பிரகாஷ்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANRUTI_18.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fef96e-46d5-41d3-9bfd-3c04b26b1a64",
       "name": "K.VELMURUGAN",
       "nameTamil": "K.வேல்முருகன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANRUTI_24.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff0fb0-cb00-4eb3-be9a-f2765fe60613",
       "name": "R.VELMURUGAN",
       "nameTamil": "R.வேல்முருகன்",

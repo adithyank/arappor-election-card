@@ -2,6 +2,7 @@
   "name": "PERAVURANI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fac40c-d12b-414d-997f-55aaca55c4d5",
       "name": "N.Ashokkumar",
       "nameTamil": "N.அசோக்குமார் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAVURANI_8.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fed1a6-515a-48a9-9fc3-e1985a991509",
       "name": "M.Sivakumar",
       "nameTamil": "M.சிவகுமார்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAVURANI_17.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304faa6-e80b-4185-bf86-40eabb693432",
       "name": "S.V.THIRUGNANASAMBANDAM",
       "nameTamil": "S.V..திருஞானசம்பந்தம்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUGNANASAMBANDAM_S_V__Peravurani.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fec758-50f3-499b-baa2-6f740458135d",
       "name": "G.Durairajan",
       "nameTamil": "G.துரைராஜன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAVURANI_14.jpg"
     },
     {
+      "slno": "5",
       "recid": "92faef6a-e742-4cdf-a095-94b70ce3377b",
       "name": "K.Delipan",
       "nameTamil": "K.திலீபன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAVURANI_2.jpg"
     },
     {
+      "slno": "6",
       "recid": "93070d38-566b-4a48-b69a-9705b9283ec2",
       "name": "P.PACHAMUTHU",
       "nameTamil": "P.பச்சைமுத்து",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PACHAMUTHU_P__Peravurani.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fec491-e873-4fd3-b12a-9b9911117a1c",
       "name": "G.Elangovan",
       "nameTamil": "G.இளங்கோவன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERAVURANI_12.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fecd10-750b-4066-8d26-5ff517571306",
       "name": "U.Uthayakumar",
       "nameTamil": "U.உதயகுமார்",

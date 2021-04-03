@@ -2,6 +2,7 @@
   "name": "BARGUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f98507-b7ce-415f-adac-f8a6a5a61484",
       "name": "A.KRISHNAN",
       "nameTamil": "A.கிருஷ்ணன்  ",
@@ -20,8 +21,8 @@
       "totalAssetTamil": "89 லட்சம்",
       "liability": "2 crore 08 lacs",
       "liabilityTamil": "2 கோடி 08 லட்சம்",
-      "netAsset": "-1 crore 19 lacs",
-      "netAssetTamil": "-1 கோடி 19 லட்சம்",
+      "netAsset": " - 1 crore 19 lacs",
+      "netAssetTamil": " - 1 கோடி 19 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "ஏதுமில்லை . ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_11.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fea6d9-b2ac-4e93-8e5b-d5cb90f4c892",
       "name": "A.NIRMALA",
       "nameTamil": "A.நிர்மலா ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_31.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f67df1-b3f7-4c3d-983c-e6cbd6a4164a",
       "name": "D.Mathiazhagan",
       "nameTamil": "D.மதியழகன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92feb808-c230-442f-9175-56906e1e297d",
       "name": "M.Murali",
       "nameTamil": "M.முரளி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_38.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fe85d1-682f-4f46-bfb3-1c8c8358c8d4",
       "name": "R.Arungowtham",
       "nameTamil": "R.அருண்கௌதம்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_18.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fe88c6-cb4d-4f28-9c85-876dec999a65",
       "name": "Aandi",
       "nameTamil": "ஆண்டி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_20.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fce83e-6154-4f6a-86b7-50986e2c97b8",
       "name": "S.Ganesakumar",
       "nameTamil": "S.கணேசகுமார்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_23.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f98d83-751a-4f65-99e7-180571102879",
       "name": "K.KARUNAKARAN",
       "nameTamil": "K.கருணாகரன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_7.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fd1f7d-1192-4422-bc80-ba99f02c391d",
       "name": "P.Vasanthkumar",
       "nameTamil": "P.வசந்தராஜ்  ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_14.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f9977d-00b3-4774-8e57-e0eb445962d0",
       "name": "D.KALPANA",
       "nameTamil": "D.கல்பனா ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_9.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe96fa-5669-413d-abee-f731f3e814a4",
       "name": "A.Krishnan",
       "nameTamil": "A.கிருஷ்ணன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_30.jpg"
     },
     {
+      "slno": "12",
       "recid": "92feac43-95d3-486d-a089-4bbfd2f670f5",
       "name": "K.Santhamoorthi",
       "nameTamil": "K.சாந்தமூர்த்தி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_34.jpg"
     },
     {
+      "slno": "13",
       "recid": "92feae17-1ced-4355-bc41-a60a68da287b",
       "name": "M.Manjunathan",
       "nameTamil": "M.மஞ்சுநாதன்  ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BARGUR_35.jpg"
     },
     {
+      "slno": "14",
       "recid": "9304f8ee-7b51-4965-9097-6036a9131056",
       "name": "K.Mani",
       "nameTamil": "K.கே .மணி ",

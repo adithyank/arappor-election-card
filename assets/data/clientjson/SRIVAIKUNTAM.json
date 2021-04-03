@@ -2,6 +2,7 @@
   "name": "SRIVAIKUNTAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fcfdf5-4084-47fd-bf96-10c842fa18ea",
       "name": "S.Amirtharaj",
       "nameTamil": "S.அமிர்தராஜ்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_11.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6cc9b-8e1c-441e-8406-685da2d4cff0",
       "name": "S P.Shanmuganathan",
       "nameTamil": "S P.சண்முகநாதன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "9300f2cb-48c2-4048-812f-20458a7281dc",
       "name": "B.ARUN",
       "nameTamil": "B.அருண்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_23.jpg"
     },
     {
+      "slno": "4",
       "recid": "92feeb42-d7c3-4f93-8ee6-fc254495e2eb",
       "name": "K.Arulmathi Yesuvadial",
       "nameTamil": "K.K.அருள்மதி யசுவதியால் ",
@@ -124,6 +128,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_22.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fcf502-19c5-48bc-bd18-9c7c8a88b60f",
       "name": "EralS.RAMESH",
       "nameTamil": "EralS.இரமேஷ்",
@@ -155,6 +160,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_10.jpg"
     },
     {
+      "slno": "6",
       "recid": "93059c58-4f62-4f61-af75-8a83c9d52342",
       "name": "R.CHANDRASEKAR",
       "nameTamil": "R.சந்திரசேகர் R ",
@@ -173,8 +179,8 @@
       "totalAssetTamil": "38 லட்சம்",
       "liability": "73 lacs",
       "liabilityTamil": "73 லட்சம்",
-      "netAsset": "- crore 35 lacs",
-      "netAssetTamil": "- கோடி 35 லட்சம்",
+      "netAsset": " - 35 lacs",
+      "netAssetTamil": " - 35 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -186,6 +192,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_ChandraSekar_Srivaikuntam.jpg"
     },
     {
+      "slno": "7",
       "recid": "92faf40b-7275-41c9-922a-f276c92ca16e",
       "name": "P.SUBBAIH PANDIAN",
       "nameTamil": "P.சுப்பையா பாண்டியன்ஃ",
@@ -217,6 +224,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_6.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fd0f51-0b1e-46b2-92c5-f75e4b307f6e",
       "name": "S.SURESH PERUMAL",
       "nameTamil": "S.சுரேஷ் பெருமாள்",
@@ -248,6 +256,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_14.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fee4e7-12e5-4247-9e07-124395a3693a",
       "name": "P.JEGAN",
       "nameTamil": "P.ஜெகன் ",
@@ -266,8 +275,8 @@
       "totalAssetTamil": "11 லட்சம்",
       "liability": "18 lacs",
       "liabilityTamil": "18 லட்சம்",
-      "netAsset": "-7 lacs",
-      "netAssetTamil": "-7 லட்சம்",
+      "netAsset": " - 7 lacs",
+      "netAssetTamil": " - 7 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -279,6 +288,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_20.jpg"
     },
     {
+      "slno": "10",
       "recid": "93059a10-5b47-466e-b97f-6eb1ea326635",
       "name": "P.ALLWIN DURAISINGH",
       "nameTamil": "P.ஆல்வின் துரைசிங் P ",
@@ -310,6 +320,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALLWINDURAISINGHP_Srivaikuntam.jpg"
     },
     {
+      "slno": "11",
       "recid": "93010cd9-f096-4d9c-b94c-d3ea149410b0",
       "name": "K.ESAKKIRAJA",
       "nameTamil": "K.இசக்கிராஜா",
@@ -341,6 +352,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_27.jpg"
     },
     {
+      "slno": "12",
       "recid": "93010ecf-5e89-48ae-8b34-ddb2fc2acdf6",
       "name": "R.Kirushnavel",
       "nameTamil": "R.கிருஷ்ணவேல்",
@@ -372,6 +384,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_28.jpg"
     },
     {
+      "slno": "13",
       "recid": "9300f911-0f78-4662-9ecb-fd819ac1aa28",
       "name": "M.SANKARASUBRAMANIYANAN",
       "nameTamil": "M.சங்கரசுப்பிரமணியன்",
@@ -403,6 +416,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_24.jpg"
     },
     {
+      "slno": "14",
       "recid": "930118fc-9748-436e-965b-07ba6e9f5044",
       "name": "G.SARAVANAN",
       "nameTamil": "G.சரவணன் ",
@@ -434,6 +448,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_8.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fedcc5-5c9b-44e7-b1a2-14c5c6b32db6",
       "name": "P.SUDALAIMUTHU",
       "nameTamil": "P.பெ.சுடலைமுத்து ",
@@ -465,6 +480,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_17.jpg"
     },
     {
+      "slno": "16",
       "recid": "93010994-1ed5-460f-ad5c-1b71d37f57a4",
       "name": "S.SETHURAMALINGAM",
       "nameTamil": "S.சேதுராமலிங்கம்",
@@ -496,6 +512,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_26.jpg"
     },
     {
+      "slno": "17",
       "recid": "93011134-cf8d-42d2-abbc-4048357b93a1",
       "name": "J.DURAISINGH",
       "nameTamil": "J.துரைசிங்",
@@ -527,6 +544,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_29.jpg"
     },
     {
+      "slno": "18",
       "recid": "930103a2-d7f2-4e17-8461-c6c597e72643",
       "name": "I.PONNUDURAI",
       "nameTamil": "I.பொன்னுதுரை",
@@ -558,6 +576,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_25.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fee702-d298-4f3e-be02-a231edd5fda0",
       "name": "R.MALAIANDI",
       "nameTamil": "R.ரா.மலையாண்டி ",
@@ -589,6 +608,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_21.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fd194f-6c50-4ca7-ad33-9596eee06b6d",
       "name": "S.VINSTON ANTO",
       "nameTamil": "S.வின்ஸ்டன் அன்டோ",
@@ -620,6 +640,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVAIKUNTAM_16.jpg"
     },
     {
+      "slno": "21",
       "recid": "92f89a51-4fd2-4d06-9899-9a278f6e711a",
       "name": "Joseph Leon",
       "nameTamil": "ஜோசப் லியோன்",

@@ -2,6 +2,7 @@
   "name": "JOLARPET",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fc57c5-33a0-4806-9ad7-7a9162ff8022",
       "name": "V C.SIVAKUMAR",
       "nameTamil": "V C.சிவக்குமார் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JOLARPET_22.jpg"
     },
     {
+      "slno": "2",
       "recid": "92ff4653-6e29-48a7-9f98-e3186dd4d24c",
       "name": "K.DEVARAJI",
       "nameTamil": "K.தேவராஜி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JOLARPET_34.jpg"
     },
     {
+      "slno": "3",
       "recid": "930312af-e653-4029-b0f5-f714870c5bc6",
       "name": "K.C.Veeramani",
       "nameTamil": "K.C..வீரமணி ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JOLARPET_12.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff3a0a-0855-48ea-a312-27ff7ac32311",
       "name": "S.KALASTHRI",
       "nameTamil": "S.காளஸ்திரி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JOLARPET_33.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f86a5e-c5f9-4f9f-b815-019818ada314",
       "name": "A.Siva",
       "nameTamil": "A.சிவா ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVA_A__Jolarpet.jpg"
     },
     {
+      "slno": "6",
       "recid": "93050b3f-ffbd-4bde-afbb-5d125157fe24",
       "name": "S.Thennarasu",
       "nameTamil": "S.தென்னரசு",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THENNARASUSAAMRAJ_Jolarpet.jpg"
     },
     {
+      "slno": "7",
       "recid": "9306fcae-7448-4603-9212-3bb24303998a",
       "name": "R.Karunanidhi",
       "nameTamil": "R.கருணாநிதி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARUNANIDHI_R__Jolarpet.jpg"
     },
     {
+      "slno": "8",
       "recid": "93050d93-fe77-4bf9-8851-948e6fbc4c22",
       "name": "R.Devaraji",
       "nameTamil": "R.தேவராஜி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DEVARAJI_R__Jolarpet.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fa9d57-c84b-48d1-8c40-428f0c164591",
       "name": "V.K.Devaraj",
       "nameTamil": "V.K.தேவராஜ்  ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JOLARPET_17.jpg"
     },
     {
+      "slno": "10",
       "recid": "9309b2f5-e717-4488-96af-88b240f8266c",
       "name": "A.Manithan",
       "nameTamil": "A.மனிதன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANITHAN_Jolarpet.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fcdeb8-d992-40d1-acc0-e5e50dd87b16",
       "name": "A.Veeramani",
       "nameTamil": "A.வீரமணி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JOLARPET_23.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff325a-c43c-4f8d-9c79-074a394d158d",
       "name": "H.VEERAMANI",
       "nameTamil": "H.வீரமணி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JOLARPET_27.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff34d3-b1da-427c-8c5b-dcb8228b7961",
       "name": "S.VEERAMANI",
       "nameTamil": "S.வீரமணி ",

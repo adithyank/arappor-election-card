@@ -2,6 +2,7 @@
   "name": "NAGAPATTINAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304b94a-7362-472d-9cdc-2a7e657b1f14",
       "name": "T.KATHIRAVAN",
       "nameTamil": "T.கதிரவன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Thanka_kathiravan_Nagapattinam.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f8cefe-8900-41f5-8df3-1cc1588a1564",
       "name": "S.AUGUSTINE ARPUTHARAJ",
       "nameTamil": "S.அகஸ்டின் அற்புதராஜ் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGAPATTINAM_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fea0e0-7843-41ac-bc8a-8f4da24cd5d0",
       "name": "T.SINGARAVADIVELAN",
       "nameTamil": "T.சிங்காரவடிவேலன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGAPATTINAM_11.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fb0ef7-daae-4a80-87ea-c95addb4d08a",
       "name": "SyedAnasMohideenSahip",
       "nameTamil": "செய்யது அனஸ் முஹைதீன் சாஹிப்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGAPATTINAM_3.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fe99c9-1157-439f-bfc7-af7b1eccb257",
       "name": "J.V.DURAI",
       "nameTamil": "J.V.துரை",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGAPATTINAM_8.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304b596-258e-4283-bbc7-84f228d1f947",
       "name": "C.MANJULA",
       "nameTamil": "C.மஞ்சுளா",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/C_Manjula_Nagapattinam.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fea698-297a-4509-97a4-9b7d3704d058",
       "name": "K.MAYILARASI",
       "nameTamil": "K.மயிலரசி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGAPATTINAM_13.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fe97a8-9495-46c4-a958-a3741486d816",
       "name": "J.MOHAMED SHANAWAS",
       "nameTamil": "J.முகமது ஷாநவாஸ்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGAPATTINAM_7.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fea307-4e00-4197-bc3f-177e2076f118",
       "name": "V.CANAGARAJI",
       "nameTamil": "V.கனகராஜி ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGAPATTINAM_12.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fcc1b6-abf3-4b11-b1a3-edaa1bfb4bc9",
       "name": "DURAI.SELVAKUMAR",
       "nameTamil": "DURAI.செல்வகுமார்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGAPATTINAM_5.jpg"
     },
     {
+      "slno": "11",
       "recid": "9304d014-f054-4eb4-81e9-abfb1e16cd0b",
       "name": "N.P.BASKARAN",
       "nameTamil": "N.P.பாஸ்கரன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NPBhashgaran_Nagapattinam.jpg"
     },
     {
+      "slno": "12",
       "recid": "9304b8b7-553b-4ad3-910d-e624b03f44d3",
       "name": "S.PREM",
       "nameTamil": "S.பிரேம்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_Prem_Nagapattinam.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe9da3-a0d2-49b2-8d32-b4b4f95ca563",
       "name": "V.MANIKANDAN",
       "nameTamil": "V.மணிகண்டன்",

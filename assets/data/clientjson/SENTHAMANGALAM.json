@@ -2,6 +2,7 @@
   "name": "SENTHAMANGALAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9306c784-70a2-4cab-b6b4-4327120ad9f7",
       "name": "S.Chandran",
       "nameTamil": "S.சந்திரன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHANDRANS_Senthamangalam.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fac956-d553-4906-8927-ba67208eb148",
       "name": "K.PONNUSAMY",
       "nameTamil": "K.பொன்னுசாமி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHAMANGALAM_7.jpg"
     },
     {
+      "slno": "3",
       "recid": "930536a0-4c4c-428d-83e8-d39c65507faa",
       "name": "P.CHANDRAN",
       "nameTamil": "P.சந்திரன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHANDRANP_Senthamangalam.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff43c3-6898-4c17-9f1e-d2c618ab60ab",
       "name": "V.SELVARAJ",
       "nameTamil": "V.செல்வராஜ் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHAMANGALAM_15.jpg"
     },
     {
+      "slno": "5",
       "recid": "93053912-2060-448f-9755-b3366f1ab0e4",
       "name": "T.ROHINI",
       "nameTamil": "T.ரோகிணி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ROHINIT_Senthamangalam.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff4597-35df-48d5-ac45-e8ed215709ec",
       "name": "P.SANKAR",
       "nameTamil": "P.சங்கர் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHAMANGALAM_16.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fb0d5b-e48d-4151-a142-8907b5d688d2",
       "name": "C.CHANDRASEKARAN",
       "nameTamil": "C.சந்திரசேகரன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHANDRASEKARANC_Senthamangalam.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff4997-3230-4dc4-9427-25c0397d7f34",
       "name": "C.THIYAGARAJAN",
       "nameTamil": "C.தியாகராஜன்   ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHAMANGALAM_19.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff4ba2-a525-48a6-8be7-c2acb6c92cb3",
       "name": "C.DINESH",
       "nameTamil": "C.தினேஷ் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHAMANGALAM_20.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff6bb6-efa6-4e49-a039-a5a093b36744",
       "name": "S.DURAIRAJ",
       "nameTamil": "S.துரைராஜ் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHAMANGALAM_22.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff475b-668a-41b1-9c14-43233feda8ed",
       "name": "S.PRASATH",
       "nameTamil": "S.பிரசாத்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHAMANGALAM_17.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fab9ab-e852-4e1d-937d-226ad3f100c2",
       "name": "C.MUTHUSAMY",
       "nameTamil": "C.முத்துசாமி ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHAMANGALAM_6.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fca21d-e425-4563-894e-33d560389010",
       "name": "C.RANCHITH",
       "nameTamil": "C.ரஞ்சித்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHAMANGALAM_14.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff4dba-1729-4893-a3a8-eb46d82d2e06",
       "name": "R.RAMESH",
       "nameTamil": "R.ரமேஷ் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHAMANGALAM_21.jpg"
     },
     {
+      "slno": "15",
       "recid": "93053b0f-79c0-4821-8225-4c4442f18f9a",
       "name": "K.V.RAMASAMY",
       "nameTamil": "K.V.ராமசாமி",

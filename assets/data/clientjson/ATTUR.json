@@ -2,6 +2,7 @@
   "name": "ATTUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9300c182-8e0b-4c65-976e-654625cd2599",
       "name": "K.Chinnadurai",
       "nameTamil": "K.சின்னதுரை",
@@ -23,7 +24,7 @@
       "netAsset": "1 crore 12 lacs",
       "netAssetTamil": "1 கோடி 12 லட்சம்",
       "criminalCase": "1",
-      "caseDetailEnglish": "Created public nuisance . ",
+      "caseDetailEnglish": "Unlawful assembly, Disobedience to order duly promulgated by public servant, Wrongful restraint. ",
       "caseDetailTamil": "பொது  அமைதிக்கு குந்தகம் விளைவித்ததாக.. ",
       "symbolName": "RISING_SUN",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATTUR_24.jpg"
     },
     {
+      "slno": "2",
       "recid": "9300b123-d6fd-43bc-9844-0b2756da7b24",
       "name": "M.Periyannan",
       "nameTamil": "M.பெரியண்ணன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATTUR_18.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6e925-478b-4bfa-80bc-66fad6c0a03b",
       "name": "A.P.JAYASANKARAN",
       "nameTamil": "A.P. ஜெயசங்கரன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATTUR_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fa837f-868d-4d12-bd80-44ff5bac0a6e",
       "name": "S.KRISHNAVENI",
       "nameTamil": "S. கிருஷ்ணவேணி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATTUR_7.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fd468c-93e3-4f45-bc94-8fd2ee42c6c6",
       "name": "R.SADHASIVAM",
       "nameTamil": "R.சதாசிவம்",
@@ -144,8 +149,8 @@
       "totalAssetTamil": "1 லட்சம்",
       "liability": "3 lacs",
       "liabilityTamil": "3 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATTUR_13.jpg"
     },
     {
+      "slno": "6",
       "recid": "9300ada4-8daa-48b2-8665-c2b0e3a1a1c0",
       "name": "P .Sivakumar",
       "nameTamil": "P .சிவக்குமார்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATTUR_16.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f6cc4a-be6d-496f-84bf-6946654c00ff",
       "name": "S.MADHESWARAN",
       "nameTamil": "S.மாதேஸ்வரன்  ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATTUR_4.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fd4db7-06f6-4aa9-a830-ff5b51e67f81",
       "name": "K.K.MATHESWARI",
       "nameTamil": "K.K.மாதேஸ்வரி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATTUR_15.jpg"
     },
     {
+      "slno": "9",
       "recid": "9300c3ce-a3b7-4f4c-8b2b-a63372e3680c",
       "name": "A.Janarthanam",
       "nameTamil": "A.ஜனார்த்தனம்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATTUR_25.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300bf19-4d36-494f-aefe-de95d8e1592b",
       "name": "D.Arumugam",
       "nameTamil": "D.ஆறுமுகம்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATTUR_22.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fd4442-c9a4-4755-ae7f-ced21b99095a",
       "name": "J.SILAMBARASAN",
       "nameTamil": "J.சிலம்பரசன்",

@@ -2,6 +2,7 @@
   "name": "AMBASAMUDRAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f8e25e-5b81-4622-a4ee-aded63d06c0d",
       "name": "R.Avudaiappan",
       "nameTamil": "R.ஆவுடையப்பன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBASAMUDRAM_2.jpg"
     },
     {
+      "slno": "2",
       "recid": "9305906e-e9a6-4902-846d-104689476050",
       "name": "E.SUBAYA",
       "nameTamil": "E.சுப்பையா ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/E_SUBAYA_Ambasamudram.jpg"
     },
     {
+      "slno": "3",
       "recid": "9300795c-2016-4718-a4c5-f4289a0fd45e",
       "name": "M.MANIMARAN",
       "nameTamil": "M.மணிமாறன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBASAMUDRAM_30.jpg"
     },
     {
+      "slno": "4",
       "recid": "93003073-f81e-4f5a-a49f-8a4ca0061c23",
       "name": "C.G.GANESAN",
       "nameTamil": "C.G.கணேசன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBASAMUDRAM_25.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff5a69-62d4-41bd-a01d-e215f1391e47",
       "name": "M.SENBAGAVALLI",
       "nameTamil": "M.செண்பகவல்லி",
@@ -144,8 +149,8 @@
       "totalAssetTamil": "41 லட்சம்",
       "liability": "60 lacs",
       "liabilityTamil": "60 லட்சம்",
-      "netAsset": "- crore 18 lacs",
-      "netAssetTamil": "- கோடி 18 லட்சம்",
+      "netAsset": " - 19 lacs",
+      "netAssetTamil": " - 19 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBASAMUDRAM_7.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff1dc0-af68-40e0-973c-c7f259d5e8f6",
       "name": "C.RANIRANJITHAM",
       "nameTamil": "C..இராணி ரஞ்சிதம்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBASAMUDRAM_15.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff215a-be86-4797-817b-060ce0fed794",
       "name": "S.LAKSHMANAN",
       "nameTamil": "S.இலட்சுமணன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBASAMUDRAM_17.jpg"
     },
     {
+      "slno": "8",
       "recid": "9300766c-8c62-48fd-a4b0-8353b3a1cb56",
       "name": "J.ABDULMAJEET",
       "nameTamil": "J.அப்துல்மஜீத்",
@@ -237,8 +245,8 @@
       "totalAssetTamil": "10935",
       "liability": "49700",
       "liabilityTamil": "49700",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 38765",
+      "netAssetTamil": " - 38765",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBASAMUDRAM_26.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff5c95-e5b1-4d4f-a0be-13d7f21d0db4",
       "name": "G.ARUNACHALAM",
       "nameTamil": "G.அருணாச்சலம்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBASAMUDRAM_18.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff7a72-e747-4773-b18a-96609b8621b2",
       "name": "S.GANESAN",
       "nameTamil": "S.கணேசன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBASAMUDRAM_23.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff16ab-f761-4cbf-b1bc-ebdfc3eb0d43",
       "name": "M.GAVASKAR",
       "nameTamil": "M.கவாஸ்கர்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBASAMUDRAM_14.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff6f01-bb9f-4505-bb03-f71b85a01f57",
       "name": "J.RAJESH DHARMASINGH PANDIAN",
       "nameTamil": "J.இராஜேஷ் தர்மசிங் பாண்டியன்",

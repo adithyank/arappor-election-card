@@ -2,6 +2,7 @@
   "name": "SIVAGANGA",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9305063a-a906-473b-91d3-93c4f96fd3b2",
       "name": "S.GUNASEKARAN",
       "nameTamil": "S.குணசேகரன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_Gunasekaran_Sivaganga.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6c2e4-c4e1-4195-b2d5-40a8e57c4b09",
       "name": "PR.Senthilnathan",
       "nameTamil": "PR.செந்தில் நாதன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAGANGA_4.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f665b4-38de-45e1-a8b1-55abd85901b4",
       "name": "K.Anbarasan",
       "nameTamil": "K.அன்பரசன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAGANGA_2.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff8c03-9b7c-4ca8-aee0-e5f47ba0f73b",
       "name": "N.Pandimuthu",
       "nameTamil": "N.பாண்டிமுத்து",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAGANGA_14.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fda83b-2166-4da9-b575-3ac5eb600982",
       "name": "R.Mallika",
       "nameTamil": "R.மல்லிகா",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAGANGA_11.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f86c62-532b-4dff-8745-d2cb6a72011e",
       "name": "C.Vadivel",
       "nameTamil": "C.வடிவேல்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAGANGA_6.jpg"
     },
     {
+      "slno": "7",
       "recid": "9300d1af-b12e-46c5-8479-d340a17c44fd",
       "name": "C.Joseph",
       "nameTamil": "C.ஜோசப்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAGANGA_20.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fd9705-f146-4869-8534-dc2609d9b88c",
       "name": "K.Kalaiselvam",
       "nameTamil": "K.கலைச்செல்வம்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAGANGA_9.jpg"
     },
     {
+      "slno": "9",
       "recid": "9300dfc9-a686-4e0b-88b3-2895c9df32f9",
       "name": "C.Kaningprabhu",
       "nameTamil": "C.கானிங்பிரபு",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAGANGA_22.jpg"
     },
     {
+      "slno": "10",
       "recid": "9302746d-3c0f-4717-8385-41cf404df0aa",
       "name": "R.GUNASEKARAN",
       "nameTamil": "R.குணசேகரன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAGANGA_12.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300cb6d-808c-41f3-acdb-f8105f0a4926",
       "name": "M.Thirukumaran",
       "nameTamil": "M.திருக்குமரன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAGANGA_18.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fd8676-e91b-4c6b-853c-21d3265a62ce",
       "name": "A.Parthasarathy",
       "nameTamil": "A.பார்ததசாரதி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAGANGA_8.jpg"
     },
     {
+      "slno": "13",
       "recid": "9305339c-38cf-4f8b-adda-65c46affa580",
       "name": "M.RAVI",
       "nameTamil": "M.ரவி",
@@ -392,8 +405,8 @@
       "totalAssetTamil": "6 லட்சம்",
       "liability": "8 lacs",
       "liabilityTamil": "8 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_Ravi_Sivaganga.jpg"
     },
     {
+      "slno": "14",
       "recid": "9304f744-af5c-49f8-a808-d1cb5b1bf2bf",
       "name": "S.Vimalraj",
       "nameTamil": "S.விமல்ராஜ்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Vimalraj_Sivaganga.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fd9fd9-b122-4c9f-9334-db287843ee31",
       "name": "P.Viswanathan",
       "nameTamil": "P.விஸ்வநாதன்",

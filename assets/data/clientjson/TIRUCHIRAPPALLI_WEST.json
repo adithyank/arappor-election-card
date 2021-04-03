@@ -2,6 +2,7 @@
   "name": "TIRUCHIRAPPALLI_WEST",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fcb43e-e661-4010-b696-b6871aaf7414",
       "name": "K.N.NEHRU",
       "nameTamil": "K.N.நேரு",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_WEST_10.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f8a260-dd8b-46ab-8d42-d20a5794a654",
       "name": "V.PATHMANATHAN",
       "nameTamil": "V.பத்மநாதன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_WEST_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "9303030e-f437-415d-80aa-4334cd97a404",
       "name": "M.ABUBACKER SIDDIQ",
       "nameTamil": "M.அபுபக்கர் சித்திக்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AbubackerSiddiq_M__Tiruchirappalli(West).jpg"
     },
     {
+      "slno": "4",
       "recid": "93030075-2bc4-463f-91d6-e4090c8a1c17",
       "name": "R.ABDULLAH HASSAN",
       "nameTamil": "R.அப்துல்லா ஹாசன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AbdullahHassanFaizy_R__Tiruchirappalli(West).jpg"
     },
     {
+      "slno": "5",
       "recid": "93034151-b20f-408c-996a-6b9ec4ec57d5",
       "name": "V.VINODH",
       "nameTamil": "V.வினோத்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Vinodh_V__Tiruchirappalli(West).jpg"
     },
     {
+      "slno": "6",
       "recid": "9302b270-14b3-4e27-b7d5-561e7da6bbb5",
       "name": "T.KALPANA",
       "nameTamil": "T.கல்பனா",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Kalpana_T__Tiruchirappalli(West).jpg"
     },
     {
+      "slno": "7",
       "recid": "9302a4bf-8400-4a29-8d40-45b6e46dfb4b",
       "name": "A.J.SAHABUDHEEN",
       "nameTamil": "A.J..சகாப்தீன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Sahabudheen_A_J__Tiruchirappalli(West).jpg"
     },
     {
+      "slno": "8",
       "recid": "9302a2b1-1f0a-478b-b82f-475a074fa6ec",
       "name": "R.SUDHA",
       "nameTamil": "R.சுதா",
@@ -237,8 +245,8 @@
       "totalAssetTamil": "85000",
       "liability": "2 lacs",
       "liabilityTamil": "2 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 95000",
+      "netAssetTamil": " - 95000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Sudha_R__Tiruchirappalli(West).jpg"
     },
     {
+      "slno": "9",
       "recid": "93029e2f-5cac-4441-af04-1cbc40b8646d",
       "name": "G.SUNDAR RAJULU",
       "nameTamil": "G.சுந்தர் ராஜுலு",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SundarRajulu_G__Tiruchirappalli(West).jpg"
     },
     {
+      "slno": "10",
       "recid": "93030461-e8c7-4de4-9742-09a463b45165",
       "name": "D.SELVARAJ",
       "nameTamil": "D.செல்வராஜ் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Selvaraj_D__Tiruchirappalli(West).jpg"
     },
     {
+      "slno": "11",
       "recid": "9302a77b-6e98-4501-bb97-63cf8866c1e6",
       "name": "M.DHEEPAN",
       "nameTamil": "M.தீபன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Dheepan_M__Tiruchirappalli(West).jpg"
     },
     {
+      "slno": "12",
       "recid": "9302e0f7-aa7f-4574-89a1-2f905d5008ee",
       "name": "A.VASUDEVAN",
       "nameTamil": "A.வாசுதேவன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Vasudevan_A__Tiruchirappalli(West).jpg"
     },
     {
+      "slno": "13",
       "recid": "92fabf15-bb0c-4759-923a-cf2bee0f784d",
       "name": "R.SHAJAHAN",
       "nameTamil": "R.ஷாஜகான்",

@@ -2,6 +2,7 @@
   "name": "VALPARAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fc6e2a-d7c0-4e6a-971f-678140483f82",
       "name": "T.K.AMULKANDASAMI",
       "nameTamil": "T.K.அமுல்கந்தசாமி ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VALPARAI_9.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fa0f2e-fac8-41f5-95f9-4540b0e4877f",
       "name": "M.Arumugam",
       "nameTamil": "M.ஆறுமுகம் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VALPARAI_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fc92f0-f3ad-437a-b8b1-5e671b990fd0",
       "name": "M.S.Murugaraj",
       "nameTamil": "M.S..முருகராஜ்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VALPARAI_16.jpg"
     },
     {
+      "slno": "4",
       "recid": "93058647-5441-456b-aef1-577cc43bf6eb",
       "name": "C.KOKILA",
       "nameTamil": "C.கோகிலா",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KOHILAC_Valparai.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fc7d7e-14b2-44f8-a10b-3443abcf6012",
       "name": "D.SENTHILRAJ",
       "nameTamil": "D.செந்தில்ராஜ்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VALPARAI_11.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff11fa-5ee0-4006-9f9d-342fe7e6692b",
       "name": "T.M.Rangasamy",
       "nameTamil": "T.M..ரங்கசாமி",

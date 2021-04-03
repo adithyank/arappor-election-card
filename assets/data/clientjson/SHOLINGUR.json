@@ -2,6 +2,7 @@
   "name": "SHOLINGUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fae54c-a5ba-4997-86ab-fa2e4e357032",
       "name": "M.GIRIDHARAN",
       "nameTamil": "M.கிரிதரன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_7.jpg"
     },
     {
+      "slno": "2",
       "recid": "92faeb53-0a01-4010-ada4-0126e007f58c",
       "name": "A.M.MUNIRATHINAM",
       "nameTamil": "A.M.முனிரத்தினம்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_8.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304e32e-1085-411d-a7ea-466637e913eb",
       "name": "A.M.Krishnan",
       "nameTamil": "A.M.கிருஷ்ணன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_M_KRISHNAN_Sholinghur.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f6eb70-4667-457a-a3dd-f487f95a0ebb",
       "name": "N.G.Parthiban",
       "nameTamil": "N.G.பார்த்திபன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_3.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304ec85-5289-4850-b429-3c14519e98f7",
       "name": "Y.R.Pavendhan",
       "nameTamil": "Y.R.பாவேந்தன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Y_R_PAVENDHAN_Sholinghur.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fae338-fc53-4a6e-9afc-6a9a89980737",
       "name": "R.VINOTH",
       "nameTamil": "R.வினோத்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_6.jpg"
     },
     {
+      "slno": "7",
       "recid": "93068aef-426e-43a9-8c59-08a19642a22f",
       "name": "G.Vijayakumar",
       "nameTamil": "G.விஜயகுமார் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/G_VIJAYAKUMAR_Sholinghur.jpg"
     },
     {
+      "slno": "8",
       "recid": "9300f9b2-d3f0-4b11-9743-f0b32c0b9937",
       "name": "R.JAWAHAR",
       "nameTamil": "R.ஜவஹர்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_16.jpg"
     },
     {
+      "slno": "9",
       "recid": "93010fe0-0024-4de2-8cbc-7d7c61d9c9c2",
       "name": "T.RAJENDRAN",
       "nameTamil": "T.ராஜேந்திரன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_26.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300f161-fca9-4960-919a-e460ed5226be",
       "name": "R.ELUMALAI",
       "nameTamil": "R.ஏழுமலை",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_14.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fc8182-28ec-4869-9596-8d3678a93692",
       "name": "K.Sekar",
       "nameTamil": "K.சேகர்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_9.jpg"
     },
     {
+      "slno": "12",
       "recid": "93010dea-b82c-4729-ae6c-fd848da48e5e",
       "name": "A.Palani",
       "nameTamil": "A.பழனி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_23.jpg"
     },
     {
+      "slno": "13",
       "recid": "9301235b-f546-4c66-a3cc-cf58952516e9",
       "name": "P.PARTHIBAN",
       "nameTamil": "P.பார்த்திபன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_30.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fc9e7d-6150-4c86-89f6-12ba868dabcc",
       "name": "J.Balaji",
       "nameTamil": "J.பாலாஜி",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_11.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fc8779-6db6-4100-9fd0-1a5765a5dfa9",
       "name": "K.Mani",
       "nameTamil": "K.மணி",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_10.jpg"
     },
     {
+      "slno": "16",
       "recid": "9300fc17-0a34-49ad-b766-6d250629022a",
       "name": "N.MANI",
       "nameTamil": "N.மணி",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_17.jpg"
     },
     {
+      "slno": "17",
       "recid": "9300f3eb-abf4-4c31-b0ca-d6e4eedad63d",
       "name": "C.MUNIRATHINAM ",
       "nameTamil": "C.முனிரத்தினம்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHOLINGUR_15.jpg"
     },
     {
+      "slno": "18",
       "recid": "9301135f-9dd4-4f2d-9180-9738c7c8db73",
       "name": "M.MUNIRATHINAM",
       "nameTamil": "M.முனிரத்தினம்",

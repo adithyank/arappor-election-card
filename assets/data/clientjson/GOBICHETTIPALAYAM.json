@@ -2,6 +2,7 @@
   "name": "GOBICHETTIPALAYAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93052fe2-66d7-4799-9783-d168f83a9052",
       "name": "K.A.SENGOTTAIYAN",
       "nameTamil": "K.A.செங்கோட்டையன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENGOTTAIYANK_A_Gobichettipalayam.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fdc001-ed13-438f-b4a1-c9982ce8ac45",
       "name": "P.Palanisamy",
       "nameTamil": "P.பழனிச்சாமி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_12.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fbbaf9-4bc7-460d-8c9c-b684274c0165",
       "name": "G V.MANIMARAN",
       "nameTamil": "G V.மணிமாறன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_8.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fff7e3-da75-48ea-922d-6212cdb4e24c",
       "name": "G.Sakthivel",
       "nameTamil": "G.சக்திவேல் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_21.jpg"
     },
     {
+      "slno": "5",
       "recid": "9301eafe-453c-44d1-a090-4f67dd086f7e",
       "name": "M K.Seethalakshmi",
       "nameTamil": "M K.சீதலட்சுமி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_5.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fc0c7d-a508-488e-901b-47519a0e5d87",
       "name": "N K .Thulasimani",
       "nameTamil": "N K .துளசிமணி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_11.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fba92d-2507-4583-8b5d-1fd3cc879335",
       "name": "N.K.PRAKASH",
       "nameTamil": "N.K.பிரகாஷ்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_6.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f8a70f-6330-48f9-90d4-a2c4513f28dd",
       "name": "D.Kumar",
       "nameTamil": "D.குமார்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_2.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f97379-ed30-4bf7-9fb0-e51547ae99ee",
       "name": "K A.SANKAR KUMAR",
       "nameTamil": "K A.சங்கர் குமார்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_3.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300397e-0902-4cb0-abb3-7f3ff96c9d6a",
       "name": "S.Selvakumar",
       "nameTamil": "S.செல்வகுமார் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_16.jpg"
     },
     {
+      "slno": "11",
       "recid": "9305206c-c376-4cdb-a258-f0277a76e9da",
       "name": "K.DHANAPAL",
       "nameTamil": "K.தனபால்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DHANABALK_Gobichettipalayam.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff2456-53d6-456b-b8d8-799a4c3d02d0",
       "name": "N.Devaraj",
       "nameTamil": "N.தேவராஜ் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_17.jpg"
     },
     {
+      "slno": "13",
       "recid": "92f6eaf4-ecab-495c-b613-ab0c68bbbee0",
       "name": "M.Palanisamyraaj",
       "nameTamil": "M.பழனிசாமிராஜ்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_1.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fc0942-e23e-4e45-b9ba-403eb4c56a98",
       "name": "A N.Boopathy Raja",
       "nameTamil": "A N.பூபதி ராஜா ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_10.jpg"
     },
     {
+      "slno": "15",
       "recid": "93052562-e446-4e1f-899e-810384890a48",
       "name": "P.MUTHUMANI",
       "nameTamil": "P.முத்துமணி",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUTHUMANIP_Gobichettipalayam.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fe9954-deab-4ebf-88a7-d63fffb77876",
       "name": "K.Mohanraj",
       "nameTamil": "K.மோகன்ராஜ் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_13.jpg"
     },
     {
+      "slno": "17",
       "recid": "93000003-b726-49e3-b135-28d421c0d013",
       "name": "R.Rakkimuthu RangaNadar",
       "nameTamil": "R.ராக்கிமுத்து ரங்கநாடார் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_26.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fff98c-81f8-4ddb-b45f-e6c6382ad01d",
       "name": "M.Junayath",
       "nameTamil": "M.ஜுனாயத் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOBICHETTIPALAYAM_22.jpg"
     },
     {
+      "slno": "19",
       "recid": "9301e7b5-eeac-43d7-a25e-7313d3f66a26",
       "name": "R.Sridevi",
       "nameTamil": "R.R.Sridevi",

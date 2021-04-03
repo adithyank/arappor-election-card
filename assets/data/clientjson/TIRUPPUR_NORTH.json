@@ -2,6 +2,7 @@
   "name": "TIRUPPUR_NORTH",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fe622a-36dc-475e-bf37-51c7abbda46a",
       "name": "R.CHANDRASEKARAN",
       "nameTamil": "R.சந்திரசேகரன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_NORTH_38.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fb821c-5546-4f94-a21e-9770e0074a38",
       "name": "M.Ravi (Alias) Subramanian",
       "nameTamil": "M.ரவி (எ) எம்.சுப்பிரமணியன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_NORTH_3.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fe69ab-24ca-4972-9e75-834c3788c54c",
       "name": "M.SELVAKUMAR",
       "nameTamil": "M.செல்வக்குமார்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_NORTH_41.jpg"
     },
     {
+      "slno": "4",
       "recid": "93071c1c-9e08-48a5-bb62-625796253f24",
       "name": "K.N.VIJEYAKUMAR",
       "nameTamil": "K.N.K.N.VIJEYAKUMAR",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIJEYAKUMAR_K_N_Tiruppur(North).jpg"
     },
     {
+      "slno": "5",
       "recid": "92fe5fa1-4e96-4b5b-a71d-e768cb10bb01",
       "name": "B.ALAGHUSUNDARAM",
       "nameTamil": "B.அழகுசுந்தரம்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_NORTH_37.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fb9053-a19d-46e0-9460-38fd848bab20",
       "name": "S.Easwaran",
       "nameTamil": "S.ஈஸ்வரன் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_NORTH_5.jpg"
     },
     {
+      "slno": "7",
       "recid": "930719d2-061d-4ca5-b015-583ddfc781a7",
       "name": "S.Sivabalan",
       "nameTamil": "S.சிவபாலன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVABALAN_S_Tiruppur(North).jpg"
     },
     {
+      "slno": "8",
       "recid": "92f30a22-49ac-4977-b48b-bfc7d1ece487",
       "name": "V.Senthilkumar",
       "nameTamil": "V.செந்தில்குமார்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_NORTH_1.jpg"
     },
     {
+      "slno": "9",
       "recid": "93089c19-3da9-4d0d-8a39-22978fb75681",
       "name": "K.Deivasigamani",
       "nameTamil": "K.தெய்வசிகாமணி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DEIVASIGAMANI_K_Tiruppur(North).jpg"
     },
     {
+      "slno": "10",
       "recid": "92fe573c-e7d0-4c57-9959-ac008050ddad",
       "name": "S.UDHAYAKUMAR",
       "nameTamil": "S.உதயகுமார்",
@@ -299,8 +309,8 @@
       "totalAssetTamil": "8 லட்சம்",
       "liability": "12 lacs",
       "liabilityTamil": "12 லட்சம்",
-      "netAsset": "-4 lacs",
-      "netAssetTamil": "-4 லட்சம்",
+      "netAsset": " - 4 lacs",
+      "netAssetTamil": " - 4 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_NORTH_33.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff9e29-d8e7-4b4d-84c3-46e671f71112",
       "name": "T.N.SENTHILKUMAR",
       "nameTamil": "T.N.செந்தில்குமார்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_NORTH_48.jpg"
     },
     {
+      "slno": "12",
       "recid": "92f616a8-3b01-4139-9116-48404fda037a",
       "name": "R.SENTHILKUMAR",
       "nameTamil": "R.செந்தில்குமார் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_NORTH_2.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe64d3-3ed2-4005-ba87-fd7aaacfeb6f",
       "name": "A.SENTHILVEL",
       "nameTamil": "A.செந்தில்வேல்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_NORTH_39.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ffa682-19e9-4807-8b23-9c5d980c0ecc",
       "name": "S.MURUGAPANDI",
       "nameTamil": "S.முருகபாண்டி",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_NORTH_50.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fb899b-07c6-4955-a295-af616f0aa879",
       "name": "M.Rangasamy",
       "nameTamil": "M.ரங்கசாமி",

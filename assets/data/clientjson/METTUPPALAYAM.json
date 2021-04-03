@@ -2,6 +2,7 @@
   "name": "METTUPPALAYAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93055c5e-861c-4bc2-90ec-54eb833b3fb1",
       "name": "R.SHANMUGASUNDARAM",
       "nameTamil": "R.சண்முகசுந்தரம் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHANMUGASUNDARAMTR_Mettuppalayam.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6645e-14a1-4aac-81e4-bc8e02fcc6db",
       "name": "A.K.Selvaraj",
       "nameTamil": "A.K..ஆதிமதையனூர் காரய கவுடர் செல்வராஜ்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUPPALAYAM_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fafed7-3ced-41fb-b8b8-fcb3c0a44b6c",
       "name": "P.Saravanan",
       "nameTamil": "P.சரவணன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUPPALAYAM_6.jpg"
     },
     {
+      "slno": "4",
       "recid": "93055fc6-a4a9-453b-b40e-5ff094aedb83",
       "name": "K.MAHESHWARAN",
       "nameTamil": "K.மகேஸ்வரன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAHESHWARANK_Mettuppalayam.jpg"
     },
     {
+      "slno": "5",
       "recid": "930562c9-e34b-493a-a64b-fedce65eb525",
       "name": "K.YASMIN",
       "nameTamil": "K.K.YASMIN",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/YASMINK_Mettuppalayam.jpg"
     },
     {
+      "slno": "6",
       "recid": "93007907-7812-4ba6-9e80-90e3154da113",
       "name": "K.Sunmugasundaram",
       "nameTamil": "K.சண்முகசுந்தரம்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUPPALAYAM_42.jpg"
     },
     {
+      "slno": "7",
       "recid": "93007ae7-254a-4768-83ad-50a88f91c1e9",
       "name": "P .Shanmugasundaram",
       "nameTamil": "P .சண்முகசுந்தரம்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUPPALAYAM_45.jpg"
     },
     {
+      "slno": "8",
       "recid": "93007181-0cb8-4d65-bd53-af2b5c467be1",
       "name": "T.Mariappan",
       "nameTamil": "T.மாரியப்பன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUPPALAYAM_38.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f56863-1455-4807-8645-e957c69b3f0a",
       "name": "O.Liaquat Ali",
       "nameTamil": "O.லியாகத் அலி",
@@ -268,8 +277,8 @@
       "totalAssetTamil": "1 லட்சம்",
       "liability": "3 lacs",
       "liabilityTamil": "3 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/METTUPPALAYAM_1.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fb05a8-febf-404e-a260-72d3e9a03aea",
       "name": "S.Srinivasan",
       "nameTamil": "S.சீனிவாசன்",

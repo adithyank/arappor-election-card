@@ -2,6 +2,7 @@
   "name": "VIRUGAMPAKKAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fd5f8d-173a-4e1c-8a04-9c1bb3a6a39d",
       "name": "B .PARTHASARATHY",
       "nameTamil": "B .பார்த்தசாரதி ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_12.jpg"
     },
     {
+      "slno": "2",
       "recid": "93006373-2c24-4631-a6f5-0325211165bc",
       "name": "AMV.PRABHAKARARAJA",
       "nameTamil": "AMV.பிரபாகரராஜா ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_24.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f8c1b2-d869-4afe-86e3-a169f7aa92f8",
       "name": "VN.Ravi",
       "nameTamil": "VN.ரவி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_3.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ffa0bc-4e3e-4b2f-967c-3dbe4a24eedf",
       "name": "M.S.ISMAILKHAN",
       "nameTamil": "M.S..இஸ்மாயில் கான் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_37.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fd58e7-5f81-4aa0-b12b-a4b46a80bd52",
       "name": "S.SNEKAN",
       "nameTamil": "S.சினேகன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_11.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff8301-76e5-4cbc-af67-861d04c1113b",
       "name": "G.THANIGACHALAM",
       "nameTamil": "G.தணிகாசலம்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_29.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f8c3f0-cd45-4e2b-84b2-60a04e22822d",
       "name": "S.R.Dineshkumar",
       "nameTamil": "S.R.தினேஷ் குமார்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_7.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fe292f-5d71-4dda-a582-98fe482f08c6",
       "name": "R.PRABAHARAN",
       "nameTamil": "R.பிரபாகரன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_17.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fe2384-024a-415b-9e07-a5418f050564",
       "name": "C.MANJU",
       "nameTamil": "C.மஞ்சு ",
@@ -268,8 +277,8 @@
       "totalAssetTamil": "4 லட்சம்",
       "liability": "6 lacs",
       "liabilityTamil": "6 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "ஏதுமில்லை. ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_15.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff9504-2433-4a81-a8e4-fe494b37572a",
       "name": "G.RAVI",
       "nameTamil": "G.ரவி ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_39.jpg"
     },
     {
+      "slno": "11",
       "recid": "92f8beae-1781-4ed3-812f-baabf3743d15",
       "name": "TS.Rajendran",
       "nameTamil": "TS.ராஜேந்திரன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_2.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff6db0-01f5-42ac-a5dd-00317e6551e2",
       "name": "M.ELANGOVAN",
       "nameTamil": "M.இளங்கோவன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_20.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff743a-c5e3-4a10-813c-4d99fa66a388",
       "name": "VK.KATHIR",
       "nameTamil": "VK.கதிர் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_23.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff970b-35fa-4fac-89ea-a886c0258352",
       "name": "S.GUNAASEKAR",
       "nameTamil": "S.குணசேகர் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_38.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fa8167-6edc-4f36-be4f-45d60fb64252",
       "name": "M.GUNASEKARAN (ALIAS) STAR M.GUNASEKARAN",
       "nameTamil": "M.குணசேகரன் (எ) ஸ்டார் M.குணசேகரன்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_8.jpg"
     },
     {
+      "slno": "16",
       "recid": "92ff8a93-0a24-4095-a965-16c26f4ad5d9",
       "name": "V.GUNASEKARAN",
       "nameTamil": "V.குணசேகரன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_33.jpg"
     },
     {
+      "slno": "17",
       "recid": "92ff889f-50f7-4487-964c-6b5050ddfe0a",
       "name": "E.SANKAR",
       "nameTamil": "E.சங்கர்  ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_32.jpg"
     },
     {
+      "slno": "18",
       "recid": "92ffffae-efe0-47f3-9df5-cc795e66e13b",
       "name": "A.SATHASIVAM",
       "nameTamil": "A.சதாசிவம் ",
@@ -547,8 +565,8 @@
       "totalAssetTamil": "4 லட்சம்",
       "liability": "6 lacs",
       "liabilityTamil": "6 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "ஏதுமில்லை . ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_35.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fa859a-759d-4435-952e-2fa146c25885",
       "name": "M.SIVAKUMAR",
       "nameTamil": "M.மா.சிவகுமார்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_9.jpg"
     },
     {
+      "slno": "20",
       "recid": "92ff7b25-2939-4aa8-9f72-fbf0f7917898",
       "name": "M .SRINIVASAN",
       "nameTamil": "M .சீனிவாசன்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_26.jpg"
     },
     {
+      "slno": "21",
       "recid": "92ff6821-5cfc-44d1-a967-f88bb39e0b4a",
       "name": "D.SUNDARSINGH",
       "nameTamil": "D.சுந்தர்சிங்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_18.jpg"
     },
     {
+      "slno": "22",
       "recid": "92ff718f-cbd9-448f-98b7-ac14e7466698",
       "name": "VK.SENTHILKUMAR",
       "nameTamil": "VK.செந்தில் குமார் ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_22.jpg"
     },
     {
+      "slno": "23",
       "recid": "9300659c-7dcb-48d3-9018-2daa9280597e",
       "name": "v.THALAPATHI",
       "nameTamil": "v.தளபதி",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_27.jpg"
     },
     {
+      "slno": "24",
       "recid": "930000f0-b67c-4b60-a9fe-aab2c1cba3ab",
       "name": "D.PRABAKARAN",
       "nameTamil": "D.பிரபாகரன் ",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_36.jpg"
     },
     {
+      "slno": "25",
       "recid": "92ff702a-0259-42d3-98b1-5c83ef17cdad",
       "name": "K.BOOBATHY",
       "nameTamil": "K.பூபதி",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_21.jpg"
     },
     {
+      "slno": "26",
       "recid": "92fa8ac0-d47a-4550-8b79-7eae917ef3d3",
       "name": "M.MANNU",
       "nameTamil": "M.மண்ணு",
@@ -808,6 +834,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUGAMPAKKAM_10.jpg"
     },
     {
+      "slno": "27",
       "recid": "92f754e9-9142-4649-9b73-9e98c69274a1",
       "name": "R.MAYILSAMY",
       "nameTamil": "R.மயில்சாமி ",

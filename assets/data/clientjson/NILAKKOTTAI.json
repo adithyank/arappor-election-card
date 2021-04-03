@@ -2,6 +2,7 @@
   "name": "NILAKKOTTAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304b04b-207a-4dc7-a808-e8268bd49562",
       "name": "K.Ramasamy",
       "nameTamil": "K.ராமசாமி ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_21.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304a2fe-d930-49e8-8492-ac972c986666",
       "name": "S.THENMOZHI",
       "nameTamil": "S.தேன்மொழி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_Thenmozhi_Nilakkottai.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fef55c-781a-46d1-9c70-98891e0cac78",
       "name": "P.NAGENDRAN",
       "nameTamil": "P.நாகேந்திரன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_39.jpg"
     },
     {
+      "slno": "4",
       "recid": "930526a6-263a-4e9c-89af-4d54ade1b9af",
       "name": "K.MURUGAVELRAJAN",
       "nameTamil": "K.முருகவேல்ராஜா ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_Murugavelrajan_Nilakkottai.jpg"
     },
     {
+      "slno": "5",
       "recid": "9300798e-088f-4c27-8af4-48c9efde695f",
       "name": "V.K.Aiyyar",
       "nameTamil": "V.K.அய்யர்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_35.jpg"
     },
     {
+      "slno": "6",
       "recid": "9300742c-1110-4edf-bca7-64de9d395018",
       "name": "A.M.Ananth",
       "nameTamil": "A.M.ஆனந்த்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_31.jpg"
     },
     {
+      "slno": "7",
       "recid": "92feb07e-86d5-4e2a-bc3d-456132d74873",
       "name": "V.Revadhi",
       "nameTamil": "V.ரேவதி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_27.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f67a56-6b86-45e7-9f06-8471d1a3cf36",
       "name": "G.Vasantha devi",
       "nameTamil": "G.வசந்தா தேவி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_2.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f92975-b647-4d39-93bb-4710228dd924",
       "name": "A.Aalappan",
       "nameTamil": "A.ஆலப்பன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_11.jpg"
     },
     {
+      "slno": "10",
       "recid": "9302fae8-a19a-45e5-91fd-919f0e0bc304",
       "name": "M.KALIMUTHU",
       "nameTamil": "M.காளிமுத்து ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_29.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fcf44f-e0e3-44ef-9063-9fb72f211dd5",
       "name": "P.Sivakami",
       "nameTamil": "P.சிவகாமி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_18.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff36d0-4218-4b0d-b5c8-e32dfc45e62d",
       "name": "P.Nagajothi",
       "nameTamil": "P.நாகஜோதி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_30.jpg"
     },
     {
+      "slno": "13",
       "recid": "9304a58b-0751-4741-8d52-2bf653266fbc",
       "name": "S.NITHYA",
       "nameTamil": "S.நித்யா ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_Nithya_Nilakkottai.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff60d6-31fe-4556-920a-1dad36eff1da",
       "name": "M.Pandi",
       "nameTamil": "M.பாண்டி ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_36.jpg"
     },
     {
+      "slno": "15",
       "recid": "9304a7e1-1864-46e7-bfd4-7b835a721bf3",
       "name": "V.BALASUBRAMANI",
       "nameTamil": "V.பாலசுப்பிரமணி",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_17.jpg"
     },
     {
+      "slno": "16",
       "recid": "9304a9c9-a507-424b-8d9d-195f64c51c66",
       "name": "N.PERUMAL",
       "nameTamil": "N.பெருமாள்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_20.jpg"
     },
     {
+      "slno": "17",
       "recid": "93007b6c-379a-418d-b755-e734d37f6784",
       "name": "P.Pothumanickam",
       "nameTamil": "P.போதுமாணிக்கம்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NILAKKOTTAI_38.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fea27c-33c0-4983-b94d-6b192ed0ff38",
       "name": "V.VINOTH",
       "nameTamil": "V.வினோத்",

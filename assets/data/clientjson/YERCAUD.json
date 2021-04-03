@@ -2,6 +2,7 @@
   "name": "YERCAUD",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fd684a-4fa8-4133-bec3-be6a4d782df8",
       "name": "C.Kumar",
       "nameTamil": "C. குமார்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/YERCAUD_12.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304d10d-dc1c-41db-b70e-13a09a7dc315",
       "name": "G.CHITRA",
       "nameTamil": "G.சித்ரா ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/G_Chitra_Yercaud.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fd6b40-798c-4ea3-8141-69e7b7795d2f",
       "name": "C.Tamilselvan",
       "nameTamil": "C. தமிழ்செல்வன்   ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/YERCAUD_14.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fa855e-c82c-4406-aa09-f4c0c676bbfd",
       "name": "P.RAMASAMY",
       "nameTamil": "P.ராமசாமி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/YERCAUD_10.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff6405-99a1-4f56-a2ee-1666b6a561f7",
       "name": "T.Duraisami",
       "nameTamil": "T.துரைசாமி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/YERCAUD_25.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f88ffa-5a28-4924-a95a-c4dfdda71878",
       "name": "S.JOTHI",
       "nameTamil": "S.ஜோதி ",
@@ -175,8 +181,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "4 lacs",
       "liabilityTamil": "4 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/YERCAUD_9.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fa89a7-d39b-4b20-a8bc-fcad185df309",
       "name": "S.T.RAJENDHIRAN",
       "nameTamil": "S.T. இராஜேந்திரன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/YERCAUD_11.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fd6051-f880-410e-9449-c8576206f7b2",
       "name": "K.UNNAMALAI",
       "nameTamil": "K.உண்ணாமலை ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/YERCAUD_16.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fd632b-6503-4d84-90c5-267fa75b3466",
       "name": "P.SATHISHKUMAR",
       "nameTamil": "P.சதீஷ்குமார் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/YERCAUD_18.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff62b0-1d1d-4265-bf90-75a8728b707c",
       "name": "R.Santhosam",
       "nameTamil": "R.சந்தோசம் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/YERCAUD_23.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff5f46-cd30-4f6d-8cbd-89cde973cde7",
       "name": "T.Priya",
       "nameTamil": "T.பிரியா ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/YERCAUD_21.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff614c-423b-46d8-a4cb-2b8cc1a544c5",
       "name": "K.Manikandan",
       "nameTamil": "K.மணிகண்டன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/YERCAUD_22.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fd6418-2494-471e-9bef-9a1eab86963b",
       "name": "D.Madesh",
       "nameTamil": "D.மாதேஸ் ",

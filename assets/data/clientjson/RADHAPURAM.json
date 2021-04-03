@@ -2,6 +2,7 @@
   "name": "RADHAPURAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9305331d-ab26-462f-9871-a0b87d9dcfb4",
       "name": "M.APPAVU",
       "nameTamil": "M.அப்பாவு",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_Appavu_Radhapuram.jpg"
     },
     {
+      "slno": "2",
       "recid": "9300f9ea-b7f4-4e6f-a61f-b958fcdb7622",
       "name": "E.ESAKKIAMMAL",
       "nameTamil": "E.இசக்கியம்மாள்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_37.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6aa52-d5ff-49aa-8461-2e6e3e88dfc6",
       "name": "IS.INBADURAI",
       "nameTamil": "IS.இன்பதுரை",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_3.jpg"
     },
     {
+      "slno": "4",
       "recid": "92feb241-5be1-40bb-8fe0-287da2972606",
       "name": "K.JEYABALAN",
       "nameTamil": "K.ஜெயபாலன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_18.jpg"
     },
     {
+      "slno": "5",
       "recid": "9300f4f9-0684-44a2-b395-0e04009dbe4d",
       "name": "N.Godfrey Washington Noble",
       "nameTamil": "N.காட்பிரே வாஷிங்டன் நோபிள்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_26.jpg"
     },
     {
+      "slno": "6",
       "recid": "93052ab1-7d59-4cbc-b2d7-ba6a1aac8f9b",
       "name": "M.CHANDRAN",
       "nameTamil": "M.M.CHANDRAN",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_Chandran_Radhapuram.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fced10-a8ba-4da3-b979-24dcbc524e1d",
       "name": "J.JESURAJENDRAN",
       "nameTamil": "J.ஜேசு இராஜேந்திரன்  ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_9.jpg"
     },
     {
+      "slno": "8",
       "recid": "93053d8c-edf8-40f1-b200-43624e0a9a90",
       "name": "R.JESUDHASAN",
       "nameTamil": "R.ஜேசுதாசன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_JesuDhasan_Radhapuram.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f10fd0-b746-4a69-a00f-6bd4393bc7bb",
       "name": "M.ANTHONY ROSSARY",
       "nameTamil": "M..அந்தோனி ரொசாரி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_1.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300e81e-f156-4e9f-a15c-f6c2a3d831bc",
       "name": "S.Abhinathram",
       "nameTamil": "S.அபினந்த்ராம்   ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_29.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300eeee-d8da-467b-bced-1d6d071fd5ec",
       "name": "D.Arunraj",
       "nameTamil": "D.அருண்ராஜ்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_34.jpg"
     },
     {
+      "slno": "12",
       "recid": "9300e6b8-ace0-46da-82c8-a4e91090a977",
       "name": "S.Katteri Perumal",
       "nameTamil": "S.கட்டேரி பெருமாள்  ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_31.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fd03e0-f4ea-4706-b985-e8e59fae06e5",
       "name": "N.KANNAN",
       "nameTamil": "N.கண்ணன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_14.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fea21d-0c75-45f2-a471-284096f5efa3",
       "name": "A.KUMAR",
       "nameTamil": "A.குமார்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_16.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fcfe9a-fb1f-47ce-a495-a0d4182d5b4f",
       "name": "M.SASWATHAN",
       "nameTamil": "M.சாஸ்வதன்  ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_12.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fd0182-0ecb-402c-bd69-bf634d1903f8",
       "name": "R.SUDALAIMANI",
       "nameTamil": "R.சுடலைமணி",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_13.jpg"
     },
     {
+      "slno": "17",
       "recid": "9300c481-0e42-4737-a436-8b5ca3fe22a3",
       "name": "K.Subburaj",
       "nameTamil": "K.சுப்புராஜ்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_25.jpg"
     },
     {
+      "slno": "18",
       "recid": "9300bc89-e97d-401b-bcef-7999836fbe8a",
       "name": "D.Sheik Syed Ali",
       "nameTamil": "D.சேக் செய்யது அலி",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_22.jpg"
     },
     {
+      "slno": "19",
       "recid": "9305260b-d414-4280-9ce4-48c13f603759",
       "name": "T.SERMA DURAI",
       "nameTamil": "T.சேர்மத்துரை  ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/T_Sermadurai_Radhapuram.jpg"
     },
     {
+      "slno": "20",
       "recid": "9300fd08-3a2a-49cf-85b3-396651424dae",
       "name": "G.DEVAPERAN",
       "nameTamil": "G.தேவபிரான்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_38.jpg"
     },
     {
+      "slno": "21",
       "recid": "9300f68d-edd9-4b46-9b87-99309699070e",
       "name": "S.MANIKANDAN",
       "nameTamil": "S.மணிகண்டன்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_35.jpg"
     },
     {
+      "slno": "22",
       "recid": "9300c080-74c9-4546-8aeb-b55df3a1a82e",
       "name": "T.Muthu Selvi",
       "nameTamil": "T.முத்துச்செல்வி",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_24.jpg"
     },
     {
+      "slno": "23",
       "recid": "9300ec64-c22c-4e0a-93f5-b402e6ee385f",
       "name": "T.Rethina Pandi",
       "nameTamil": "T.இரத்தினப்பாண்டி",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_33.jpg"
     },
     {
+      "slno": "24",
       "recid": "92feacc3-b8a2-4a5f-971f-652d656a19be",
       "name": "M.VIJAYAKUMAR",
       "nameTamil": "M.விஜயக்குமார்",
@@ -731,8 +755,8 @@
       "occupationTamil": "சித்த மருந்துக்கடை",
       "totalAsset": "33 lacs",
       "totalAssetTamil": "33 லட்சம்",
-      "liability": "-2",
-      "liabilityTamil": "-2",
+      "liability": " - 2",
+      "liabilityTamil": " - 2",
       "netAsset": "33 lacs",
       "netAssetTamil": "33 லட்சம்",
       "criminalCase": "0",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAPURAM_17.jpg"
     },
     {
+      "slno": "25",
       "recid": "930538cf-2fb4-42c4-ad6d-a492b7d94756",
       "name": "T.  venus veera arasu",
       "nameTamil": "T.வீனஸ் வீர அரசு",

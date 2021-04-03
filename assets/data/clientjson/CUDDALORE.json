@@ -2,6 +2,7 @@
   "name": "CUDDALORE",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6c392-2c44-4ab8-98a5-05b683ec660c",
       "name": "G.Iyyapan",
       "nameTamil": "G.ஐயப்பன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUDDALORE_6.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f2faa9-ba94-4f5a-834f-84e7775f11c1",
       "name": "M.C.Sampath",
       "nameTamil": "M.C..சம்பத்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUDDALORE_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fe9dc0-f92e-4008-bfe3-98df9ed000a7",
       "name": "A.GNANAPANDITHAN",
       "nameTamil": "A.ஞானபண்டிதன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUDDALORE_32.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fa8fc7-0b47-4066-a6e5-3bfbb707ec5e",
       "name": "R.Vallalkumar",
       "nameTamil": "R.வள்ளல்குமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUDDALORE_17.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304f4d6-a8b2-4125-849a-974f36343428",
       "name": "K.ANANDRAJ",
       "nameTamil": "K.ஆனந்தராஜ்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_ANANDRAJ_Cuddalore.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fe98e5-fe9c-41ec-b93b-a4fd7ca19ee8",
       "name": "S.PUSHBARAJ",
       "nameTamil": "S.புஷ்பராஜ்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUDDALORE_30.jpg"
     },
     {
+      "slno": "7",
       "recid": "93067df1-bf4e-41c1-bd05-4104860cbc5f",
       "name": "A.Mohamed Usman",
       "nameTamil": "A.முஹம்மது உஸ்மான் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_MohamedUsman_Cuddalore.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fa8b57-5c24-469c-9c32-b1c42acdf5d1",
       "name": "S.V.Rajarajan",
       "nameTamil": "S.V.ராஜராஜன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUDDALORE_16.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304fabd-1231-429c-9918-1d810f530cd6",
       "name": "V.JALADEEPAN",
       "nameTamil": "V.ஜலதீபன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JALADEEPAN_V_Cuddalore.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fe8c6b-52da-4396-b363-ea2d18cf7655",
       "name": "G.Krishnan",
       "nameTamil": "G.கிருஷ்ணன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUDDALORE_27.jpg"
     },
     {
+      "slno": "11",
       "recid": "92feab26-7c53-44c3-9775-3fac16643888",
       "name": "S.SAMPATH",
       "nameTamil": "S.சம்பத்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUDDALORE_36.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fa7fbd-6ec3-469d-84f0-0b83e546fe7a",
       "name": "K.Thangarasu",
       "nameTamil": "K.தங்கராசு",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUDDALORE_14.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe9506-6e9d-4d21-9304-422802103da5",
       "name": "V.DAKSHANAMOORTHY",
       "nameTamil": "V.தக்ஷிணாமூர்த்தி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUDDALORE_29.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fa93f0-d86a-4489-9345-14c7938ac81f",
       "name": "S.Deenadhayalan",
       "nameTamil": "S.தீனதயாளன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUDDALORE_18.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fea7cc-7548-4ea7-84b6-625a688d7785",
       "name": "J.JACOB",
       "nameTamil": "J.ஜேக்கப்",

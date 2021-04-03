@@ -2,6 +2,7 @@
   "name": "TIRUCHIRAPPALLI_EAST",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fca6d1-0c28-4d74-a128-f357f19a8e97",
       "name": "S.INIGO IRUDAYARAJ",
       "nameTamil": "S.இனிகோ இருதயராஜ்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_14.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f68155-bea7-4855-856e-4de30c43b8f4",
       "name": " N.Vellamandi Natarajan",
       "nameTamil": " N.வெல்லமண்டி நடராஜன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304be69-9be2-42ab-882b-d3d256dc7633",
       "name": "R.PRABU",
       "nameTamil": "R.பிரபு ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PRABU_R__Tiruchirappalli(East).jpg"
     },
     {
+      "slno": "4",
       "recid": "9304d29a-51be-4742-9600-ba1ee74ef398",
       "name": "R.MANOHARAN",
       "nameTamil": "R.மனோஹரன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANOHARAN_R__Tiruchirappalli(East).jpg"
     },
     {
+      "slno": "5",
       "recid": "92f899f9-f698-43ec-838b-5e37cd6aa8b5",
       "name": "M.VIJAIA MOHANAAJI",
       "nameTamil": "M.விஜய மோகனாஜி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_7.jpg"
     },
     {
+      "slno": "6",
       "recid": "93012079-4dc5-46d2-add0-bca491767e59",
       "name": "D.VEERASAKTHI",
       "nameTamil": "D.வீரசக்தி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_11.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fc86d0-c15d-43da-a0d8-e1b55be92c32",
       "name": "P.ARAVINDAN",
       "nameTamil": "P.அரவிந்தன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_8.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fc9e15-5b35-43e8-aff6-196ac791b8ac",
       "name": "A.AROKIA SATHEESH",
       "nameTamil": "A.ஆரோக்கிய சதீஷ்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_13.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fee12f-527b-4197-9e83-e0ab1abfeb7e",
       "name": "S.IRUDHAYARAJ",
       "nameTamil": "S.இருதயராஜ் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_20.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fc98f4-5b28-4f95-9162-cb423047a0bb",
       "name": "S.KASPAR REGAN",
       "nameTamil": "S.கஸ்பர் ரீகன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_12.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fc9533-8331-489a-a229-833697d23090",
       "name": "P.CHARLESSAGAYARAJ",
       "nameTamil": "P.சார்லஸ் சகாயராஜ்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_10.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff0201-2205-4749-b7ee-be08f3e45bda",
       "name": "T.DEVAKUMAR",
       "nameTamil": "T.தேவக்குமார் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_26.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fee7a2-1b6f-4cd1-a05f-a2061c79aace",
       "name": "A.BALAMURUGAN",
       "nameTamil": "A.பாலமுருகன் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_21.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fed805-a816-47a7-9431-c13904badd1c",
       "name": "N.MARUTHAMUTHU",
       "nameTamil": "N.மருதமுத்து ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_18.jpg"
     },
     {
+      "slno": "15",
       "recid": "92feeb1d-53f3-45cf-a90e-62b602a6c373",
       "name": "M.MANOHARAN",
       "nameTamil": "M.மனோகரன் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_22.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fef914-8e6f-4a01-a04b-dbf197f33abc",
       "name": "S.RAJA",
       "nameTamil": "S.ராஜா ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_25.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fca987-0fb7-49e8-a5c1-141fe55618d3",
       "name": "M.JAHIR HUSSAIN",
       "nameTamil": "M.ஜாகிர் உசைன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHIRAPPALLI_EAST_16.jpg"
     },
     {
+      "slno": "18",
       "recid": "92f6792e-5880-4b92-bf32-e747bbd093d5",
       "name": "R.SHEIK ADBULLAH",
       "nameTamil": "R.ஷேக் அப்துல்லாஹ்",

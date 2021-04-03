@@ -2,6 +2,7 @@
   "name": "CHENGAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93010cbd-5d85-4f73-9b67-3a7638b810f9",
       "name": "S.Anbu",
       "nameTamil": "S.அன்பு ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGAM_32.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fb1c76-ea0d-4db8-a32b-ed5d77ce89b2",
       "name": "M. P.Giri",
       "nameTamil": "M. P..கிரி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGAM_6.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcf3e3-3db0-4ad6-86d0-33543f7529ce",
       "name": "G.Shanmugam",
       "nameTamil": "G.சண்முகம் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGAM_14.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fb1823-f7bd-4b98-a0c7-2fbd53ed209c",
       "name": "M. S.Nainakannu",
       "nameTamil": "M. S..நைனாகண்ணு",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGAM_4.jpg"
     },
     {
+      "slno": "5",
       "recid": "93010564-04c2-4243-84ed-7e41749ad524",
       "name": "S.Suganraj",
       "nameTamil": "S.சுகன்ராஜ் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGAM_30.jpg"
     },
     {
+      "slno": "6",
       "recid": "93010fec-8cb5-42e7-ac02-46d8fda3253f",
       "name": "S.Baskar",
       "nameTamil": "S.பாஸ்கர் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGAM_33.jpg"
     },
     {
+      "slno": "7",
       "recid": "93051ed2-f1ef-44e0-b896-e854b99321c0",
       "name": "S.Vennila",
       "nameTamil": "S.வெண்ணிலா",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VENNILA_S_Chengam.jpg"
     },
     {
+      "slno": "8",
       "recid": "93011d94-a2b9-40d7-a041-37bed45476d6",
       "name": "M.Arunkumar",
       "nameTamil": "M.அருண்குமார் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGAM_36.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fcd794-fb2d-434e-aed2-4684db283643",
       "name": "P.G.ANBAZHAGAN",
       "nameTamil": "P.G..அன்பழகன் ",
@@ -268,8 +277,8 @@
       "totalAssetTamil": "20000",
       "liability": "2 lacs",
       "liabilityTamil": "2 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGAM_19.jpg"
     },
     {
+      "slno": "10",
       "recid": "9301178a-f6fd-4f27-8ec4-50727516f31f",
       "name": "S.Sharma",
       "nameTamil": "S.சர்மா ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGAM_35.jpg"
     },
     {
+      "slno": "11",
       "recid": "93051c9f-55fe-4aaa-9937-f0d99f481a7e",
       "name": "J.Sivakumar",
       "nameTamil": "J.சிவக்குமார் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKUMAR_J_Chengam.jpg"
     },
     {
+      "slno": "12",
       "recid": "9300f41c-2e89-4ff9-96f9-7691bc5f7bd1",
       "name": "K.Sivaprakash",
       "nameTamil": "K.சிவப்பிரகாஷ்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGAM_26.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fcef5f-67ce-4af2-983e-a6e22f644291",
       "name": "V.Selvaraji",
       "nameTamil": "V.செல்வராஜி ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGAM_25.jpg"
     },
     {
+      "slno": "14",
       "recid": "9300fab4-ee4f-4c3e-8b5e-0ea85653c7f4",
       "name": "H.Dhinakaran",
       "nameTamil": "H.தினகரன் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGAM_28.jpg"
     },
     {
+      "slno": "15",
       "recid": "93051a93-d3ad-4c35-acb2-b2b6cc906b0a",
       "name": "G.Vijayachandran ",
       "nameTamil": "G.விஜயச்சந்திரன்",

@@ -2,6 +2,7 @@
   "name": "CHENGALPATTU",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fa9f38-7389-498b-81c5-9a3898ee679b",
       "name": "M.Gajendran",
       "nameTamil": "M.கஜேந்திரன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGALPATTU_3.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fcc329-e57e-47e2-9f14-53fc95b4c0d6",
       "name": "M.Varalakshmi",
       "nameTamil": "M.வரலட்சுமி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGALPATTU_10.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa9848-7a18-4d83-9a82-8adf9aa16fd9",
       "name": "S.Eraniappan",
       "nameTamil": "S.இரணியப்பன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGALPATTU_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fce300-7d97-4a17-87ab-4f1a414a4ffb",
       "name": "K.SANJEEVINATHAN",
       "nameTamil": "K.சஞ்சீவிநாதன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGALPATTU_16.jpg"
     },
     {
+      "slno": "5",
       "recid": "92faa6a9-5419-4d30-9db7-464b87a1afb0",
       "name": "A.Sathishkumar",
       "nameTamil": "A.சதீஷ்குமார் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGALPATTU_6.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fcda73-854a-4fd9-a982-778b47fb28c2",
       "name": "D.SARAVANAN",
       "nameTamil": "D.சரவணன் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGALPATTU_15.jpg"
     },
     {
+      "slno": "7",
       "recid": "9306a11b-e4b5-4415-89f9-ddd4e29c7031",
       "name": "S.Dillibabu",
       "nameTamil": "S.S.Dillibabu",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DILLIBABU_S_Chengalpattu.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fcea00-327e-484e-a1f7-d0726a23e97e",
       "name": "S.MUTHAMILSELVAN",
       "nameTamil": "S.முத்தமிழ்செல்வன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGALPATTU_17.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fee97e-8d24-40c2-8bf3-e5930c9928a4",
       "name": "G.Vasumathi",
       "nameTamil": "G.வசுமதி ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGALPATTU_28.jpg"
     },
     {
+      "slno": "10",
       "recid": "9306ada1-bfb5-44dd-8fec-b8c920ce7c35",
       "name": "N.Gopalakrishnan",
       "nameTamil": "N.N.Gopalakrishnan",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOPALAKRISHNAN_N_Chengalpattu.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fef2fd-ca4b-469a-9bd2-846ecb124286",
       "name": "I.Seethalakshmi",
       "nameTamil": "I.சீதாலட்சமி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGALPATTU_27.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fb43e4-eeb2-4a98-828e-8f7e23eca439",
       "name": "G.Rajagopal",
       "nameTamil": "G.ராஜகோபால் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHENGALPATTU_7.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fef1e9-265a-48dd-bf87-d836c016fe5f",
       "name": "E.Veeradoss",
       "nameTamil": "E.வீரதாஸ் ",

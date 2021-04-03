@@ -2,6 +2,7 @@
   "name": "SANKARI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6eba3-d77f-4f5f-a27a-7de434f3738a",
       "name": "S.Sundararajan",
       "nameTamil": "S.சுந்தரராஜன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "92faae8d-deed-4405-9d0d-7a3279f82ccb",
       "name": "K.M.RAJESH",
       "nameTamil": "K.M.ராஜேஷ் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_10.jpg"
     },
     {
+      "slno": "3",
       "recid": "93009f2b-ed16-416c-826e-5e6b743b144d",
       "name": "C.Sivalingam",
       "nameTamil": "C.சிவலிங்கம்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_30.jpg"
     },
     {
+      "slno": "4",
       "recid": "9308f62d-32cb-4a67-b481-a9de035c6998",
       "name": "K.SENGODAN",
       "nameTamil": "K.க.செங்கோடன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENGODAN_K__Sankari.jpg"
     },
     {
+      "slno": "5",
       "recid": "92faa70e-8f84-4a5a-9507-ce907bd77555",
       "name": "A.CHELLAMUTHU",
       "nameTamil": "A.செல்லமுத்து",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_7.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff00e7-7268-4a7d-81d4-8b114be35a5d",
       "name": "K.SETTU",
       "nameTamil": "K.சேட்டு ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_19.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fcc5ad-f569-4047-89da-714e9fb05b40",
       "name": "S.SHOBANA",
       "nameTamil": "S.ஷோபனா",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_17.jpg"
     },
     {
+      "slno": "8",
       "recid": "93008294-c99c-4684-a240-5f6cce7ae376",
       "name": "P.Ravikumar",
       "nameTamil": "P.ரவிக்குமார்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_24.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f8e82a-a1c9-4be8-a0a7-32349a830d7d",
       "name": "A.AROKIASAMI",
       "nameTamil": "A.அரோக்கியசாமி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_4.jpg"
     },
     {
+      "slno": "10",
       "recid": "9309011e-7890-46db-8c2d-3e6c8a913faf",
       "name": "M.GUNASEKARAN",
       "nameTamil": "M.குணசேகரன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUNASEKARAN_M__Sankari.jpg"
     },
     {
+      "slno": "11",
       "recid": "930921c7-edc6-49f6-b15e-6df3731caf29",
       "name": "S.GOPALAKRISHNAN",
       "nameTamil": "S.கோபாலகிருஷ்ணன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOPALAKRISHNAN_S__Sankari.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fca7e1-fee1-4388-a94a-c5118198b09a",
       "name": "V.SATHISKUMAR",
       "nameTamil": "V.சதீஸ்குமார்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_13.jpg"
     },
     {
+      "slno": "13",
       "recid": "93091cdb-adf1-48b2-a25a-c2bc8b050547",
       "name": "R.SENGOTEN",
       "nameTamil": "R.ரா.செங்கோடன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENGOTEN_R__Sankari.jpg"
     },
     {
+      "slno": "14",
       "recid": "9302ca5e-766f-4d0b-b6c5-15cf95e921aa",
       "name": "S.DURAIRAJ",
       "nameTamil": "S.துரைராஜ்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_6.jpg"
     },
     {
+      "slno": "15",
       "recid": "93091410-7d80-4395-b711-29a014ef451a",
       "name": "M.PALANIAPPAN",
       "nameTamil": "M.பழனியப்பன்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALANIYAPPAN_M__Sankari.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fb40ab-1c34-4fd2-bb02-87f60ae9e6a8",
       "name": "M.BAKKIYAMANI",
       "nameTamil": "M.பாக்கியமணி",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_12.jpg"
     },
     {
+      "slno": "17",
       "recid": "92ff0578-0975-4cba-a0ef-31b83358c5f1",
       "name": "K.PRABHU",
       "nameTamil": "K.பிரபு",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_21.jpg"
     },
     {
+      "slno": "18",
       "recid": "92faa99d-3ce1-40fc-8f90-14d9f3d9cdce",
       "name": "P.MANIVEL",
       "nameTamil": "P.மணிவேல் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_8.jpg"
     },
     {
+      "slno": "19",
       "recid": "9308fc2f-35d1-4fb2-96cc-4a15117ffc1e",
       "name": "P.VIJAYAKUMAR",
       "nameTamil": "P.விஜயகுமார்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIJAYAKUMAR_P__Sankari.jpg"
     },
     {
+      "slno": "20",
       "recid": "9300706a-da48-40c6-9b99-1f95d8b64bb0",
       "name": "K.VIJI@VIJAYAN",
       "nameTamil": "K.விஜி (ஏ) விஜயன் ",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_28.jpg"
     },
     {
+      "slno": "21",
       "recid": "9309281e-03a3-4962-8b11-9d841f849cab",
       "name": "T.VENGATACHALAM",
       "nameTamil": "T.வெங்கடாசலம்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VENGADACHALAM_T__Sankari.jpg"
     },
     {
+      "slno": "22",
       "recid": "930074a8-8bc8-457b-8280-c017666a077a",
       "name": "I.JAGANATHAN",
       "nameTamil": "I.ஜெகநாதன் ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARI_34.jpg"
     },
     {
+      "slno": "23",
       "recid": "930077a6-77b9-4b96-ae5c-62752546913e",
       "name": "M.JAGANNATHAN",
       "nameTamil": "M.ஜெகநாதன் ",
@@ -702,8 +725,8 @@
       "totalAssetTamil": "24 லட்சம்",
       "liability": "27 lacs",
       "liabilityTamil": "27 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",

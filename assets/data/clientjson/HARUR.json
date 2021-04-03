@@ -2,6 +2,7 @@
   "name": "HARUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fc9ae8-8650-4f3c-8ae5-bc15464b3af1",
       "name": "A.KUMAR",
       "nameTamil": "A.குமார் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HARUR_15.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6831c-bcdd-4a07-9c9d-f9f6d2656d38",
       "name": "V.SAMPATHKUMAR",
       "nameTamil": "V.சம்பத்குமார் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HARUR_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fb639b-8bfe-4d87-93e5-7084534969ae",
       "name": "A.SIVAKUMAR",
       "nameTamil": "A.சிவக்குமார்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKUMAR_A_Harur.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff7506-f8b0-4dce-bf1d-4635d5367771",
       "name": "P.Karuthoviyam",
       "nameTamil": "P.கருத்தோவியம்",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "20000",
       "liability": "1 lacs",
       "liabilityTamil": "1 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 90000",
+      "netAssetTamil": " - 90000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HARUR_27.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f89871-45a5-4993-95b2-d68c7712d0d2",
       "name": "K.KEERTHANA",
       "nameTamil": "K.கீர்த்தனா ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HARUR_11.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fc9668-ea15-4424-b3d6-d0a4043de5eb",
       "name": "S.SATHISHKUMAR",
       "nameTamil": "S.சதீஸ்குமார்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HARUR_21.jpg"
     },
     {
+      "slno": "7",
       "recid": "9302815e-1b0a-41b3-b9cc-a75fa085e10b",
       "name": "K.CHINNASAMY",
       "nameTamil": "K.சின்னசாமி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HARUR_29.jpg"
     },
     {
+      "slno": "8",
       "recid": "9304cc0b-8109-4d6f-aa41-716d587b6e68",
       "name": "R.MURUGAN",
       "nameTamil": "R.முருகன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MURUGAN_R_Harur.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff730a-7c3e-4453-b316-4623a0c5a157",
       "name": "P.Kumar",
       "nameTamil": "P.குமார்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HARUR_26.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff70c6-92cb-4d08-af52-ceab74018c40",
       "name": "M.Sarathkumar",
       "nameTamil": "M.சரத்குமார்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HARUR_24.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff71d4-3c4e-4ec0-9187-4fc745a7c6d2",
       "name": "C.Palani",
       "nameTamil": "C.பழனி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HARUR_25.jpg"
     },
     {
+      "slno": "12",
       "recid": "92f68d2a-0cf0-435f-8df9-87a5a621a566",
       "name": "P.PARTHIPAN",
       "nameTamil": "P.பார்தீபன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HARUR_4.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff6f71-8fda-49fc-95dd-9a15dbd0b283",
       "name": "R.Murughan",
       "nameTamil": "R.முருகன்",

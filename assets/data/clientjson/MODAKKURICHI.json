@@ -2,6 +2,7 @@
   "name": "MODAKKURICHI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fe02e0-98f6-46ca-b3a8-1029adeec076",
       "name": "C.Saraswathi",
       "nameTamil": "C.சரஸ்வதி ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MODAKKURICHI_22.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304f38f-bb1d-4d9b-b95e-d8a2ec21b81a",
       "name": "J.SUBBULAKSHMI JEGADEESAN",
       "nameTamil": "J.சுப்புலட்சுமி ஜெகதீசன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUBBULAKSHMIJEGADEESAN_Modakkurichi.jpg"
     },
     {
+      "slno": "3",
       "recid": "930528e6-9b51-4e99-9c00-613ed28debef",
       "name": "R .BOOPATHI",
       "nameTamil": "R .பூபதி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BOOPATHI_R_Modakkurichi.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fdfcae-f2e9-46f4-a1d1-a0936e58e317",
       "name": "D.Thangaraj",
       "nameTamil": "D.தங்கராஜ் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MODAKKURICHI_21.jpg"
     },
     {
+      "slno": "5",
       "recid": "93051fd0-65b8-4540-ae80-478615ba6f11",
       "name": "G.PRAKASH",
       "nameTamil": "G.பிரகாஷ்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PRAKASH_G_Modakkurichi.jpg"
     },
     {
+      "slno": "6",
       "recid": "93005dd0-dc3f-4a70-9e73-0768401d1e63",
       "name": "A.Maheswaran",
       "nameTamil": "A.மகேஸ்வரன் ",
@@ -175,8 +181,8 @@
       "totalAssetTamil": "4 லட்சம்",
       "liability": "7 lacs",
       "liabilityTamil": "7 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": " \n.  \n",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MODAKKURICHI_30.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fdf27f-6264-49e9-bb40-ab90c034a4e7",
       "name": "P.Mani",
       "nameTamil": "P.மணி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANI_P_Modakkurichi.jpg"
     },
     {
+      "slno": "8",
       "recid": "93005aac-f937-4bec-aaaa-ed38b12ef854",
       "name": "R.Manickam",
       "nameTamil": "R.மாணிக்கம் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MODAKKURICHI_28.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304e2a7-583d-4bce-ad35-e63cc3959b6a",
       "name": "M.RAMESH",
       "nameTamil": "M.ரமேஷ்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAMESH_M_Modakkurichi.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fdf5b2-80d3-4445-9f41-6b204bd964f8",
       "name": "M.Rajeshkumar",
       "nameTamil": "M.ராஜேஷ்குமார் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MODAKKURICHI_20.jpg"
     },
     {
+      "slno": "11",
       "recid": "92f59b6a-4442-4d21-afb2-69381d548166",
       "name": "K.S.GovanamThangavel",
       "nameTamil": "K.S.கோவணம் தங்கவேல் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MODAKKURICHI_3.jpg"
     },
     {
+      "slno": "12",
       "recid": "93005817-b42a-4b95-af29-81b77a41f8c7",
       "name": "Sami Kandasamy",
       "nameTamil": "சாமி கந்தசாமி ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MODAKKURICHI_25.jpg"
     },
     {
+      "slno": "13",
       "recid": "9304d57c-1d2f-47f1-82df-1a1113d3b379",
       "name": "L.BHARATHI",
       "nameTamil": "L.பாரதி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BHARATHI_L_Modakkurichi.jpg"
     },
     {
+      "slno": "14",
       "recid": "92f4dd8f-6983-4b5b-b9bc-3d57aa702f15",
       "name": "P.Mayilsamy",
       "nameTamil": "P.மயில்சாமி ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MODAKKURICHI_2.jpg"
     },
     {
+      "slno": "15",
       "recid": "92f8847f-fd5a-4e9f-b329-c926e886d3c6",
       "name": "M.Vijayakumar",
       "nameTamil": "M.விஜயகுமார்",

@@ -2,6 +2,7 @@
   "name": "ANDIPATTI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "930379a3-0869-4dc1-ad0e-45ecd75fa284",
       "name": "S.KAMATCHI",
       "nameTamil": "S.காமாட்சி ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_KAMATCHI_Andipatti.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fb6751-d738-4713-8caa-dbc309b4c45a",
       "name": "A.MAHARAJAN",
       "nameTamil": "A.மஹாராஜன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANDIPATTI_10.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304925d-3a2a-49b1-9d9f-ab5e55a1048e",
       "name": "A.LOGIRAJAN",
       "nameTamil": "A.லோகிராஜன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_LOGIRAJAN_Andipatti.jpg"
     },
     {
+      "slno": "4",
       "recid": "93035fff-37f9-4102-8381-52e48021387f",
       "name": "C.KANIVEL",
       "nameTamil": "C.கணிவேல் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/C_KANIVEL_Andipatti.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fcbe8a-b7f8-449f-86e3-34a167fdb607",
       "name": "S.GUNASEKARAN",
       "nameTamil": "S.குணசேகரன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANDIPATTI_15.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fcd3ee-fb56-4ad2-9871-12423b684942",
       "name": "M.KUMARAN",
       "nameTamil": "M.குமரன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANDIPATTI_16.jpg"
     },
     {
+      "slno": "7",
       "recid": "930359a3-10d8-4274-ac8d-66ffe1bf0f3f",
       "name": "S.GOVINDHARAJ",
       "nameTamil": "S.கோவிந்தராஜ் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_GOVINDHARAJ_Andipatti.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fcc6b9-62cd-47e2-b08c-d7a118f47c3b",
       "name": "R.BALAMURUGAN",
       "nameTamil": "R.பாலமுருகன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANDIPATTI_14.jpg"
     },
     {
+      "slno": "9",
       "recid": "930351d4-9561-4a55-88e8-2273849b99a3",
       "name": "A.VELUCHAMY",
       "nameTamil": "A.வேலுச்சாமி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_VELUCHAMY_Andipatti.jpg"
     },
     {
+      "slno": "10",
       "recid": "930713f2-7e81-4ac9-84fd-fb906dc58912",
       "name": "A.JEYAKUMAR",
       "nameTamil": "A.ஜெயக்குமார் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JEYAKUMAR_Andipatti.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fa720e-3a87-47a2-a8bc-df09cb2a26f7",
       "name": "R.JEYAKUMAR",
       "nameTamil": "R.ஜெயகுமார்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANDIPATTI_8.jpg"
     },
     {
+      "slno": "12",
       "recid": "93048b20-d740-4ff5-91f9-0cee83ea8da1",
       "name": "M.EASWARAN",
       "nameTamil": "M.ஈஸ்வரன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_EASWARAN_Andipatti.jpg"
     },
     {
+      "slno": "13",
       "recid": "92f8786f-41f6-4e1d-8ae4-41e60913f82e",
       "name": "K.K.KASENDRAN @ GAJENDRAN",
       "nameTamil": "K.கசேந்திரன் \u0026 கஜேந்திரன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANDIPATTI_5.jpg"
     },
     {
+      "slno": "14",
       "recid": "92f8778f-8b52-447e-84d1-88f24c2fb80d",
       "name": "M.DIVAKAR",
       "nameTamil": "M.திவாகர்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANDIPATTI_4.jpg"
     },
     {
+      "slno": "15",
       "recid": "92f887c2-ded9-47ca-920d-c1219ed28a09",
       "name": "P.Panivuraja",
       "nameTamil": "P.பணிவுராஜா",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANDIPATTI_6.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fea59a-5ca1-4f70-95f2-7cdad17ae88d",
       "name": "P.PANDIDURAI",
       "nameTamil": "P.பாண்டித்துரை",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANDIPATTI_20.jpg"
     },
     {
+      "slno": "17",
       "recid": "9303755f-366e-4e78-a728-c2d8bba9a7a1",
       "name": "MARIYAMMAL",
       "nameTamil": "மரியம்மாள் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MARIYAMMAL_Andipatti.jpg"
     },
     {
+      "slno": "18",
       "recid": "92f90e9a-23df-4aeb-ab47-3e65466b082e",
       "name": "M.RAGHUNATHAN",
       "nameTamil": "M.ரகுநாதன்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_RAGHUNATHAN_Andipatti.jpg"
     },
     {
+      "slno": "19",
       "recid": "93037487-e122-4a31-b2a6-79b1969680dd",
       "name": "VELMANI",
       "nameTamil": "வேல்மணி       ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VELMANI_Andipatti.jpg"
     },
     {
+      "slno": "20",
       "recid": "93036f7a-fcb3-4b2c-88e1-5201752291e0",
       "name": "V.JEYAKODI",
       "nameTamil": "V.ஜெயக்கொடி ",

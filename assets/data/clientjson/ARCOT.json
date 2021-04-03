@@ -2,6 +2,7 @@
   "name": "ARCOT",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fa8d26-fa89-4bf2-8ffd-9ad476143724",
       "name": "J.L.Eswarappan",
       "nameTamil": "J.L.ஈஸ்வரப்பன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARCOT_5.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fcc7c7-9efe-45cd-b307-8d7256ea5582",
       "name": "A.C.Kesavan",
       "nameTamil": "A.C.கேசவன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARCOT_10.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f682f8-be9b-4df7-9455-9844b7440515",
       "name": "K.L.ELAVAZAGAN",
       "nameTamil": "K.L.இளவழகன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Elavazagan_K_L_Arcot.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fa8320-6480-41fb-90e2-dfb7a27bdbd7",
       "name": "R.KATHIRAVAN",
       "nameTamil": "R.கதிரவன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARCOT_4.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fcd115-75bd-4b6e-8367-0e6104d8f60d",
       "name": "H.Mohamed Ghouse",
       "nameTamil": "H.முகமது கௌஸ்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARCOT_11.jpg"
     },
     {
+      "slno": "6",
       "recid": "930071e6-20f2-4cdf-b560-4fe1c9159d2f",
       "name": "A.R.Mohammed Rafi",
       "nameTamil": "A.R.முகமது ரபி",
@@ -175,8 +181,8 @@
       "totalAssetTamil": "4 லட்சம்",
       "liability": "36 lacs",
       "liabilityTamil": "36 லட்சம்",
-      "netAsset": "- crore 31 lacs",
-      "netAssetTamil": "- கோடி 31 லட்சம்",
+      "netAsset": " - 32 lacs",
+      "netAssetTamil": " - 32 லட்சம்",
       "criminalCase": "1",
       "caseDetailEnglish": "Compoundable offences. ",
       "caseDetailTamil": "இ .பி .கோ .147,148,149,323,324,506(ii ). சட்ட  விரோதமாக  கூடுதல் ,பயங்கர ஆயுதங்களில்  தாக்குதல் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARCOT_18.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fcacf5-8890-4c13-91f8-0b804cea7a14",
       "name": "S.Munivel",
       "nameTamil": "S.முனிவேல்",
@@ -206,8 +213,8 @@
       "totalAssetTamil": "6 லட்சம்",
       "liability": "61 lacs",
       "liabilityTamil": "61 லட்சம்",
-      "netAsset": "- crore 54 lacs",
-      "netAssetTamil": "- கோடி 54 லட்சம்",
+      "netAsset": " - 55 lacs",
+      "netAssetTamil": " - 55 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARCOT_7.jpg"
     },
     {
+      "slno": "8",
       "recid": "93006055-f69a-4148-bf06-7a9e9c7ad134",
       "name": "N.Janardhanan",
       "nameTamil": "N.ஜனார்த்தனன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARCOT_12.jpg"
     },
     {
+      "slno": "9",
       "recid": "93006c76-0e98-4c40-8543-fb84117b2d14",
       "name": "P.Eswaran",
       "nameTamil": "P.ஈஸ்வரன்",
@@ -268,8 +277,8 @@
       "totalAssetTamil": "3 லட்சம்",
       "liability": "3 lacs",
       "liabilityTamil": "3 லட்சம்",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 11000",
+      "netAssetTamil": " - 11000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARCOT_15.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f6895d-ee1c-4344-94b3-d68e9904583c",
       "name": "T.D.SANMUGAM",
       "nameTamil": "T.D.சண்முகம்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARCOT_3.jpg"
     },
     {
+      "slno": "11",
       "recid": "9304b146-79fb-44e8-a312-9792e125499b",
       "name": "K.Manigandan",
       "nameTamil": "K.மணிகண்டன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARCOT_20.jpg"
     },
     {
+      "slno": "12",
       "recid": "93006637-746c-4462-b113-e6774e1a820c",
       "name": "G.Vasanthakumar",
       "nameTamil": "G.வசந்தகுமார் ",

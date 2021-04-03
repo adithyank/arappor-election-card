@@ -2,6 +2,7 @@
   "name": "VIRALIMALAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304aedf-b4df-4c4b-b4a5-1468380c5a29",
       "name": "V.ALAGURAJA",
       "nameTamil": "V.அழகுராஜா",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALAGURAJA_V_Viralimalai.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304b36a-0203-4920-9c48-11ec07f7cc3a",
       "name": "M.PALANIAPPAN",
       "nameTamil": "M.பழனியப்பன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALANIAPPAN_Viralimalai.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa6c08-de09-4a03-8e06-a6c714b04725",
       "name": "C.VIJAYA BASKER",
       "nameTamil": "C.விஜயபாஸ்கர்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_3.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304acfc-e7d8-4f1f-a3ff-af4ea7e8c8d8",
       "name": "P.AZHAGU MEENA",
       "nameTamil": "P.அழகுமீனா",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AZHAGUMEENAP_Viralimalai.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff5d92-f5b8-4d18-b94f-6c45c2a4188c",
       "name": "P.Arumugam",
       "nameTamil": "P.ஆறுமுகம்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_10.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff6a48-f04c-4c4b-9768-95af6ed7fe54",
       "name": "O.KARTHI PRABHAKARAN",
       "nameTamil": "O.கார்த்தி பிரபாகரன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_12.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff6f40-cf32-45fc-a660-02c343526326",
       "name": "R.SARAVANAN",
       "nameTamil": "R.சரவணன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_13.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff7e70-e1ff-49f1-af76-dbf7172032e4",
       "name": "P.SENTHILKUMAR",
       "nameTamil": "P.செந்தில்குமார்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_20.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff51d2-6186-4ebf-b526-b82381515308",
       "name": "A.VIJAY",
       "nameTamil": "A.விஜய்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_8.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff7d1c-a725-420a-82d2-5ba6e6d5151e",
       "name": "K.ABDUL NAZAR",
       "nameTamil": "K.அப்துல்நாசர்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_27.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff58a3-1086-4bad-8b5d-f9c753f2303f",
       "name": "R.ELAYARAJA",
       "nameTamil": "R.இளையராஜா",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_9.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff803f-2c3b-4fa1-b257-1c7dd5be5bda",
       "name": "J.Syeed Mohamed",
       "nameTamil": "J.சையது முகமது",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_28.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff7bc4-f225-4cd5-a285-5a26defec669",
       "name": "M.DHANALAKSHMI",
       "nameTamil": "M.தனலெட்சமி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_19.jpg"
     },
     {
+      "slno": "14",
       "recid": "93009619-1b66-403e-8ab3-a87147f5ddbd",
       "name": "V.THIRUVENTHIRAN",
       "nameTamil": "V.திருவேந்திரன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_24.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff7936-6173-4b63-a4d0-d7e4858a9ffe",
       "name": "A.PALANISAMY",
       "nameTamil": "A.பழனிச்சாமி",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_26.jpg"
     },
     {
+      "slno": "16",
       "recid": "92ff6900-6414-47ca-bc68-93514c293697",
       "name": "M.BALASUBRAMANIAN",
       "nameTamil": "M.பாலசுப்பிரமணியன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_21.jpg"
     },
     {
+      "slno": "17",
       "recid": "9304ab07-78ec-4f53-8bcb-dc268c7bc3f2",
       "name": "K.MANIKANDAN",
       "nameTamil": "K.மணிகண்டன் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANIKANDANK_Viralimalai.jpg"
     },
     {
+      "slno": "18",
       "recid": "92ff758f-5bff-4e02-9449-747e9bbb24a6",
       "name": "C.MANIKANDAN",
       "nameTamil": "C.மணிகண்டன்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_18.jpg"
     },
     {
+      "slno": "19",
       "recid": "92ff61d2-60fa-4cc7-bca0-24070c6b8c1f",
       "name": "M.RAMESH",
       "nameTamil": "M.ரமேஷ்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_11.jpg"
     },
     {
+      "slno": "20",
       "recid": "92ff72a2-ff83-4eb9-aceb-6f9236476018",
       "name": "P.RAMESHKUMAR",
       "nameTamil": "P.ரமேஷ்குமார்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_17.jpg"
     },
     {
+      "slno": "21",
       "recid": "92ff7053-b08a-4c72-b3bd-6bdfb964aee7",
       "name": "R.RAJAVARMAN",
       "nameTamil": "R.ராஜவர்மன்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRALIMALAI_23.jpg"
     },
     {
+      "slno": "22",
       "recid": "92ff7712-3160-403b-9746-368a6c38654e",
       "name": "A.JOTHIVEL",
       "nameTamil": "A.ஜோதிவேல்",

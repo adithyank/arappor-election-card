@@ -2,6 +2,7 @@
   "name": "PONNERI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fea7b9-3946-48af-b268-aa4da4b69113",
       "name": "D.Chandrasekar",
       "nameTamil": "D.சந்திரசேகர்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PONNERI_30.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6e8e7-3bd7-4345-b42c-9c7f38d61e59",
       "name": "P.Balaraman",
       "nameTamil": "P.பலராமன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PONNERI_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6e5ae-5e83-427a-b713-af41ad5a4415",
       "name": "J.Bhavani",
       "nameTamil": "J.பவானி",
@@ -82,8 +85,8 @@
       "totalAssetTamil": "3 லட்சம்",
       "liability": "15 lacs",
       "liabilityTamil": "15 லட்சம்",
-      "netAsset": "- crore 11 lacs",
-      "netAssetTamil": "- கோடி 11 லட்சம்",
+      "netAsset": " - 12 lacs",
+      "netAssetTamil": " - 12 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை . ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PONNERI_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fea541-90bc-4004-b26e-4d34bd74aa43",
       "name": "D.Desingurajan",
       "nameTamil": "D.தேசிங்குராஜன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PONNERI_29.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fd1f66-9ec0-4bb4-bd66-4db7763b9ece",
       "name": "A.MAGESHWARI",
       "nameTamil": "A.மகேஸ்வரி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PONNERI_21.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fafcf0-ec99-471f-9a07-884a45811444",
       "name": "Pon.Raja",
       "nameTamil": "Pon.ராஜா",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PONNERI_17.jpg"
     },
     {
+      "slno": "7",
       "recid": "92faad6d-9270-4010-896c-bd3ede8de181",
       "name": "V.VIJAYAKUMAR",
       "nameTamil": "V.விஜயகுமார்",
@@ -206,8 +213,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "3 lacs",
       "liabilityTamil": "3 லட்சம்",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 43360",
+      "netAssetTamil": " - 43360",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PONNERI_10.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f6e1a2-9ecd-45c1-a063-2a5fd85aab7c",
       "name": "S.Ashok Priyadarshan",
       "nameTamil": "S.அசோக் பிரியதர்சன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PONNERI_5.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fea435-c829-4be6-ae58-a5e2a0f1a9e5",
       "name": "C.H.Sambathkumar",
       "nameTamil": "C.H.சம்பத்குமார்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PONNERI_28.jpg"
     },
     {
+      "slno": "10",
       "recid": "93034fe0-7b09-4284-a208-2c3dc2d8bd2e",
       "name": "K.Sugumar",
       "nameTamil": "K.சுகுமார்",

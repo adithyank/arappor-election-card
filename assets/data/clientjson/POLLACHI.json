@@ -2,6 +2,7 @@
   "name": "POLLACHI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fcbc0a-acf1-4139-bd21-eef8ad1d282a",
       "name": "C.M.Aruchamy",
       "nameTamil": "C.M.ஆறுச்சாமி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLLACHI_11.jpg"
     },
     {
+      "slno": "2",
       "recid": "93057c82-a5ae-4c97-89c8-257b92ceae77",
       "name": "V.Pollachi Jayaraman",
       "nameTamil": "V.பொள்ளாச்சி  ஜெயராமன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PollachiV_Jayaraman_Pollachi.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcc61e-4871-492d-8b60-ef22d7c6ed6d",
       "name": "K.Varadharajan",
       "nameTamil": "K.வரதராஜன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLLACHI_12.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fd1a1c-7024-4cfa-a9d4-a8fd4267ddf1",
       "name": "T.Sathiesh Kumar",
       "nameTamil": "T.சதீஸ் குமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLLACHI_8.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f64ddf-64de-414f-84e8-ef96d7787cd0",
       "name": "K.Sugumar",
       "nameTamil": "K.சுகுமார் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLLACHI_1.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fc9a16-3f9c-458f-bb98-f1fb970a382e",
       "name": "N.Logeswari",
       "nameTamil": "N.லோகேஸ்வரி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLLACHI_3.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fe940f-4a04-4c4e-a1ef-2cb51a3ef5fb",
       "name": "A.Shanthu Mohamed",
       "nameTamil": "A.சாந்துமுகமது",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLLACHI_30.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fe881f-b686-42ce-8b67-2055a5d3d4e8",
       "name": "R.Muthukumarasamy",
       "nameTamil": "R.முத்துக்குமாரசாமி",

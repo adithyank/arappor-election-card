@@ -2,6 +2,7 @@
   "name": "POLUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fefbfc-ea68-42ef-819c-b9a9230b822b",
       "name": "M.Ezhilarasu",
       "nameTamil": "M.எழில்அரசு ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLUR_26.jpg"
     },
     {
+      "slno": "2",
       "recid": "9305853f-b7b0-4372-ab76-41e08e1e1e5b",
       "name": "S.S.Agri KRISHNAMOORTHY",
       "nameTamil": "S.S.அக்ரி கிருஷ்ணமூர்த்தி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AgriKRISHNAMURTHY_SS_Polur.jpg"
     },
     {
+      "slno": "3",
       "recid": "93057ee3-7acb-4a3f-8a40-f19856226baa",
       "name": "K.V.SEKARAN",
       "nameTamil": "K.V.சேகரன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SEKARAN_K_V_Polur.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fed247-311c-41c5-8797-ba8624a124f3",
       "name": "G.KALAVATHI",
       "nameTamil": "G.கலாவதி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLUR_21.jpg"
     },
     {
+      "slno": "5",
       "recid": "93057b22-4286-4f20-88c7-4fb009879009",
       "name": "L.LAVANYA",
       "nameTamil": "L.லாவண்யா ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LAVANYA_L_Polur.jpg"
     },
     {
+      "slno": "6",
       "recid": "930574f6-736d-480b-b7ea-0aaf3ed88105",
       "name": "C.VIJAYAKUMAR",
       "nameTamil": "C.விஜயகுமார் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIJAYAKUMAR_C_Polur.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fce8cf-c9db-494e-815d-91bba5c61a28",
       "name": "C.Ganesan",
       "nameTamil": "C.கணேசன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLUR_12.jpg"
     },
     {
+      "slno": "8",
       "recid": "93057861-02aa-402a-8ec8-cd9083944c01",
       "name": "S.KALAIMANI",
       "nameTamil": "S.கலைமணி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALAIMANI_S_Polur.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fec94b-5466-449f-b3a9-9e811752ed4a",
       "name": "K.KRISHNAMURTHI",
       "nameTamil": "K.கிருஷ்ணமூர்த்தி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLUR_15.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fa5f62-4d1a-4678-bf2e-6ede9b734f43",
       "name": "E.Shanmugasundaram",
       "nameTamil": "E.சண்முகசுந்தரம்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLUR_8.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fee8d7-7b70-4ae7-87c6-c2ee893adf95",
       "name": "P.SATHIYARAJ",
       "nameTamil": "P.சத்தியராஜ் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLUR_23.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fca926-9c18-46f6-9cf5-2c898a7f175e",
       "name": "V.CHIDAMBARAM",
       "nameTamil": "V.சிதம்பரம்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLUR_11.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fef1c8-ed25-426c-96f0-c31f230a8d9c",
       "name": "A.SIVA",
       "nameTamil": "A.சிவா",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLUR_25.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fecd16-075a-4ed3-9b49-c2de5a26d7f3",
       "name": "R.DAKSNAMOORTHY",
       "nameTamil": "R.தட்சணாமூர்த்தி ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POLUR_18.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fed48d-d7b4-4176-976d-ce0b8f73d369",
       "name": "D.MURUGESAN",
       "nameTamil": "D.முருகேசன் ",

@@ -2,6 +2,7 @@
   "name": "VILAVANCODE",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92ff0602-f95d-4cdf-8ae1-1dd53437cca4",
       "name": "L.IDEN SONI",
       "nameTamil": "L.ஐடன் சோனி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_7.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fedefe-1465-41f2-9cc0-c4389bc19ae6",
       "name": "S.VIJAYADHARANI",
       "nameTamil": "S.விஜயதாரணி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92feee10-ae94-4adf-a096-fa9301455fa5",
       "name": "R.JAYASEELAN",
       "nameTamil": "R.ஜெயசீலன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_4.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304d403-f30c-4ced-a61f-a0697c0bca68",
       "name": "L.MARY ADLIN",
       "nameTamil": "L.மேரி ஆட்லின்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MARYADLIN_Vilavancode.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff1dee-1122-413d-a7f2-153a4d37c4ef",
       "name": "R.Rajakumar",
       "nameTamil": "R.இராஜ்குமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_12.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff0cea-1ddb-454a-991d-e211c46dd911",
       "name": "S.RAJESHKUMAR",
       "nameTamil": "S.இராஜேஷ் குமார்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_8.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fad418-0beb-43f4-95a6-80481faab113",
       "name": "E.Vasantheeswaran",
       "nameTamil": "E.வசந்தீஸ்வரன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_1.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff1abe-7b28-46f3-88fd-64baa9d9fc37",
       "name": "G.Wilson",
       "nameTamil": "G.வில்சன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_11.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff17e3-e044-4d51-b634-4b4087ad142a",
       "name": "S .Amose",
       "nameTamil": "S .அமோசஸ்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_10.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff1420-ff14-4e7a-88eb-9f79e126d9dd",
       "name": "S.Shateesh Sathya Nesan",
       "nameTamil": "S.சதீஷ் சத்திய நேசன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_9.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff2801-bf69-4e45-ae91-8e361417a0c0",
       "name": "G.Samuel George Kalai Arasar",
       "nameTamil": "G.சாமுவேல் ஜார்ஜ் கலையரசன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_15.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fee352-59c0-418f-ad8e-b78c0658e843",
       "name": "Y.MARIASELVAN",
       "nameTamil": "Y.மரியசெல்வன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_3.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff2afc-bbaa-4faa-8692-eb66d7111378",
       "name": "M.Mohan Kumar",
       "nameTamil": "M.மோகன் குமார்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_16.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff2012-bb66-418e-b3b1-4386cee1061e",
       "name": "K H.Raja Murugan",
       "nameTamil": "K H.இராஜா முருகன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILAVANCODE_13.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fefe6b-4c53-40a9-9919-84ff8bf69e1c",
       "name": "P.VIJAYKUMAR",
       "nameTamil": "P.விஜய்குமார்",

@@ -2,6 +2,7 @@
   "name": "UTHIRAMERUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6bd8a-d509-4472-914f-015ff398a28d",
       "name": "K.SUNDAR",
       "nameTamil": "K.க.சுந்தர் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_7.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f694b6-7a64-43d0-8ffe-4b3edc4d06ea",
       "name": "D.SURESH",
       "nameTamil": "D.D.சுரேஷ் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6a8f7-5a23-451f-ac7b-48f1da6e1273",
       "name": "V.SOMASUNDARAM",
       "nameTamil": "V.சோமசுந்தரம் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_2.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fadcbd-af65-436d-a71d-2cd9ea0f146c",
       "name": "S.Kamatchi",
       "nameTamil": "S.காமாட்சி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_10.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fd0d3d-66b4-4ce7-a651-70cdc6acf31c",
       "name": "A.Sivakumar",
       "nameTamil": "A.சிவக்குமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_21.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fb872e-dc56-46d3-b556-ef103c0bd646",
       "name": "A.SUSAIAPPAR",
       "nameTamil": "A.சூசையப்பர் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_17.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fb8aa0-cefe-42b9-919c-eafc5b51f08e",
       "name": "R.V.RANJITHKUMAR",
       "nameTamil": "R.V..ரஞ்சித்குமார் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_18.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fb853f-4e94-4a7a-b454-794aa210c046",
       "name": "V.JAYISUDHA",
       "nameTamil": "V.ஜெயசுதா ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_16.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff4b17-a5a9-4cda-8bdd-734467ede33b",
       "name": "J.Arogiyasami",
       "nameTamil": "J.ஆரோக்கியசாமி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_33.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fad539-44b8-4cd7-94a8-b5ca78db7632",
       "name": "V.Gunasekar",
       "nameTamil": "V.குணசேகர் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_12.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff41f5-d0de-4dfa-ab07-5e8604b9a7b9",
       "name": "A.SARAVANAN",
       "nameTamil": "A.சரவணன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_31.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff3cf7-dd44-4d06-ae09-65d0f5346ae4",
       "name": "M.Sivalingam",
       "nameTamil": "M.சிவலிங்கம்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_28.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff48af-4972-4708-863a-5b82ae9f66a4",
       "name": "T.Chinnaswamy",
       "nameTamil": "T.சின்னசாமி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_32.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fd1006-4778-4fb4-92d4-d318aec00d1b",
       "name": "K.Thangaraj",
       "nameTamil": "K.தங்கராஜ் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_23.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fad96e-0c1c-4bc7-ad96-bb1add6d2318",
       "name": "C.DEVARAJAN",
       "nameTamil": "C.தேவராஜன் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_13.jpg"
     },
     {
+      "slno": "16",
       "recid": "92ff3fb1-19a6-4cec-b8dd-e0533524362c",
       "name": "R.Ponambalam",
       "nameTamil": "R.பொன்னம்பலம் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_30.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fb8db8-f819-4c19-8226-5ea30d1194e5",
       "name": "K.V.MADHAVARAJ",
       "nameTamil": "K.V.மாதவராஜ் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_19.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fadcbf-0442-4f30-9f2b-03332bde26dd",
       "name": "D.Jeevanandham",
       "nameTamil": "D.ஜீவானந்தம் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_15.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fadb16-3e64-4fb0-a61d-51b6833f31fa",
       "name": "E.Jayabalan",
       "nameTamil": "E.ஜெயபாலன் ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHIRAMERUR_14.jpg"
     },
     {
+      "slno": "20",
       "recid": "92ff4ee7-c7da-4bcf-9873-50dfe174eccc",
       "name": "C.A.Jayaraman",
       "nameTamil": "C.A.ஜெயராமன்",

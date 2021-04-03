@@ -2,6 +2,7 @@
   "name": "KANNIYAKUMARI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fb086e-91a3-4fda-af13-409b6bb6fd0d",
       "name": "S.Austin",
       "nameTamil": "S.ஆஸ்டின்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNIYAKUMARI_6.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fed552-1b41-4b9e-9dda-2ee8845230fc",
       "name": "C.J.SUTHARMAN",
       "nameTamil": "C.J.சுதர்மன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNIYAKUMARI_11.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6dad4-8ca2-4408-b767-0d3497cd1df8",
       "name": "N.THALAVAI SUNDARAM",
       "nameTamil": "N.தளவாய் சுந்தரம் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNIYAKUMARI_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92feae62-8c9a-479b-9507-0751c1c07c35",
       "name": "R.SASIKALA",
       "nameTamil": "R.R.SASIKALA",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "31000",
       "liability": "1 lacs",
       "liabilityTamil": "1 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNIYAKUMARI_17.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fae7b7-1f7e-4692-8317-5ddd396ca4e5",
       "name": "P.SENTHIL MURUGAN",
       "nameTamil": "P.பி செந்தில்முருகன்  ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNIYAKUMARI_5.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fadeea-636f-4336-96ff-e7cafbf45e3f",
       "name": "P.T.SELVAKUMAR",
       "nameTamil": "P.T.பி டி செல்வகுமார் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNIYAKUMARI_4.jpg"
     },
     {
+      "slno": "7",
       "recid": "92feb121-c44a-464b-ba3c-dbe494f5c126",
       "name": "A.AUGUSTIN",
       "nameTamil": "A.அகஸ்டின்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNIYAKUMARI_9.jpg"
     },
     {
+      "slno": "8",
       "recid": "92feb138-13bc-4d69-92ba-d2e39cbfb7f2",
       "name": "Y.SUNDARANATHAN",
       "nameTamil": "Y.சுந்தரநாதன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNIYAKUMARI_18.jpg"
     },
     {
+      "slno": "9",
       "recid": "92feb562-4ea4-4141-82e8-a8be7051ccd6",
       "name": "S.SUBASH",
       "nameTamil": "S.சுபாஷ்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNIYAKUMARI_20.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fe9a53-85dc-4fc3-a58d-681a582f7085",
       "name": "I.CHELLAIAHPILLAI",
       "nameTamil": "I.I.CHELLAIAHPILLAI",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNIYAKUMARI_14.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe93a8-70c6-4de7-b5d1-abdb12198de5",
       "name": "S.THANUNEELAN",
       "nameTamil": "S.தனுநீலன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNIYAKUMARI_13.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fec0c7-c2e6-4a42-b0e9-bbcb2880abbd",
       "name": "N.MAKESH",
       "nameTamil": "N.மகேஷ்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNIYAKUMARI_10.jpg"
     },
     {
+      "slno": "13",
       "recid": "92feb931-bd7b-4b83-832d-7e7f4f6f825a",
       "name": "N.ManikkaVasagam Pillai",
       "nameTamil": "N.மாணிக்கவாசகம் பிள்ளை",

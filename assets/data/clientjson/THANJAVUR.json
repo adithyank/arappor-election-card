@@ -2,6 +2,7 @@
   "name": "THANJAVUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f69c1f-7473-4360-8be6-f797a1305fe4",
       "name": "V.ARIVUDAINAMBI",
       "nameTamil": "V.அறிவுடைநம்பி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANJAVUR_7.jpg"
     },
     {
+      "slno": "2",
       "recid": "93071e01-760e-4cab-9a88-fd7072ea4d57",
       "name": "P.RAMANATHAN",
       "nameTamil": "P.ராமநாதன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DR_RAMANATHAN_P__Thanjavur.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fec562-b584-4fe8-92c3-0d9b1cebb988",
       "name": "S.KARIKALACHOLAN",
       "nameTamil": "S.கரிகாலசோழன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANJAVUR_38.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f8d995-06ee-4ccd-9c35-3b682ced1890",
       "name": "T.K.G.NEELAMEGAM",
       "nameTamil": "T.K.G.நீலமேகம்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANJAVUR_9.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fb61ff-938d-423c-a086-d8e43bf1595b",
       "name": "G.SUNDARAMOHAN",
       "nameTamil": "G.சுந்திரமோகன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANJAVUR_17.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff9e54-7f6f-4675-b2a0-c07ec645f34a",
       "name": "R.SUBHADEVI",
       "nameTamil": "R.சுபாதேவி ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANJAVUR_42.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ffa38f-b2a8-405a-b2a3-39110639c9f0",
       "name": "A.XAVIER",
       "nameTamil": "A.சேவியர்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANJAVUR_44.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f88753-8478-41f3-9e12-07443aaa275d",
       "name": "M.SANTHOSH",
       "nameTamil": "M.சந்தோஷ்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANJAVUR_6.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fce326-5c39-4d0b-bf56-47f128a80911",
       "name": "R.SABTHAGIRI",
       "nameTamil": "R.சப்தகிரி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANJAVUR_30.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fcd402-63fa-41c2-90d3-f6cd5fc7519b",
       "name": "D.DINESHBABU",
       "nameTamil": "D.தினேஷ் பாபு",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANJAVUR_26.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fcda07-9a58-47d3-80cb-c87dbbefefc1",
       "name": "B.BHARATH",
       "nameTamil": "B.பாரத்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANJAVUR_28.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fec6fd-4eaa-4670-bbd6-90331a13be04",
       "name": "N.Vasuki",
       "nameTamil": "N.வாசுகி ",

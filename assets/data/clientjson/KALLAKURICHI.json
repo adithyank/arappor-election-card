@@ -2,6 +2,7 @@
   "name": "KALLAKURICHI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93051ad8-3dc6-4613-baef-79c322827926",
       "name": "M.Suriyaprakash",
       "nameTamil": "M.சூர்யபிரகாஷ்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Suriyaprakash_M_Kallakurichi.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6e0c1-d3f6-41b1-9e97-36356318c133",
       "name": "Dhravida Muthamizh selvi",
       "nameTamil": "திராவிட முத்தமிழ் செல்வி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_3.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa9bfc-baa0-4310-a689-bf48f01fa28a",
       "name": "K.I.Manirathinam",
       "nameTamil": "K.I.மணிரத்தினம்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_5.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fa9e2f-25ed-4303-bf50-99581d9b534b",
       "name": "N.Vijaya kumar",
       "nameTamil": "N.விஜயக்குமார் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_6.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fc9dc0-bcd2-4be7-9b1b-86b30dd309d8",
       "name": "M.Senthilkumar",
       "nameTamil": "M.செந்தில்குமார் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_16.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fca66e-072d-4468-b821-4cab4928b090",
       "name": "M.Dinesh",
       "nameTamil": "M.தினேஷ் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_17.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fca027-eec1-43d8-bcb0-fea1e71ffb0a",
       "name": "M.Ayyasamy",
       "nameTamil": "M.அய்யாசாமி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_20.jpg"
     },
     {
+      "slno": "8",
       "recid": "9305193d-e940-499d-aa4a-1aacd93f8741",
       "name": "K.Devi Mangayarkarasi",
       "nameTamil": "K.தேவி மங்கையர்கராசி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Devimangayarkarasi_K_Kallakurichi.jpg"
     },
     {
+      "slno": "9",
       "recid": "92feb24f-ac03-4de6-bc9f-7edaa9bd65bf",
       "name": "C.Prabu",
       "nameTamil": "C.பிரபு",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_23.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fec132-41f3-4628-9456-9c9bc6089e07",
       "name": "M.Gurusamy",
       "nameTamil": "M.குருசாமி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_24.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fec5a1-3183-4d12-b106-822aa47a3334",
       "name": "M.Selvaraj",
       "nameTamil": "M.செல்வராஜ்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_27.jpg"
     },
     {
+      "slno": "12",
       "recid": "92feca54-7fc5-4531-bfc2-5b470db4891f",
       "name": "A.Palanisamy",
       "nameTamil": "A.பழனிசாமி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_29.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fec838-ac95-4659-bed2-caf054d63ebf",
       "name": "K.Kuppusamy",
       "nameTamil": "K.குப்புசாமி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_28.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fece93-f9f8-4745-b43a-d5801c81ace5",
       "name": "C.Oviyar Ananth",
       "nameTamil": "C.ஓவியர் ஆனந்த்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_30.jpg"
     },
     {
+      "slno": "15",
       "recid": "93053e87-6bb1-402f-9808-8d0e76f9d47f",
       "name": "K.Elaiyaperumal",
       "nameTamil": "K.இளையபெருமாள்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Elaiyaperumal_K_Kallakurichi.jpg"
     },
     {
+      "slno": "16",
       "recid": "92feaf73-2c75-43fb-a524-d949ebb6aa05",
       "name": "S.Sivakumar",
       "nameTamil": "S.சிவகுமார்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALLAKURICHI_22.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fed380-f445-4c4b-a608-bbb7e4b7beb7",
       "name": "P.Subramaniyan",
       "nameTamil": "P.சுப்பிரமணியன்",

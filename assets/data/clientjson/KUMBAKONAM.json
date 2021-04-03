@@ -2,6 +2,7 @@
   "name": "KUMBAKONAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6ca65-6434-4f88-8dcd-038a6e06924b",
       "name": "G.ANBALAGAN",
       "nameTamil": "G.அன்பழகன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUMBAKONAM_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "92faca52-cf64-4708-bbf9-a573531dfa02",
       "name": "G.M.SRITHAR VANDAYAR",
       "nameTamil": "G.M.ஸ்ரீதர் வாண்டையர்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUMBAKONAM_7.jpg"
     },
     {
+      "slno": "3",
       "recid": "93052e3a-99b7-468f-99e5-16d7790d275b",
       "name": "M.ANAND",
       "nameTamil": "M.ஆனந்த்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANANDH_M__Kumbakonam.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fcc82a-3ff4-4cd7-8533-91cc4c77aff9",
       "name": "G.GOPALAKRISHNAN",
       "nameTamil": "G.கோபாலகிருஷ்ணன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUMBAKONAM_12.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff32c7-4f78-48e3-ad27-ca6d88659b06",
       "name": "S.BALAMURUGAN",
       "nameTamil": "S.பாலமுருகன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUMBAKONAM_17.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff39d1-b82b-4d2f-a1e3-c9ba0b01ff1b",
       "name": "M.AYYAPPAN",
       "nameTamil": "M.அய்யப்பன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUMBAKONAM_19.jpg"
     },
     {
+      "slno": "7",
       "recid": "92feb2c7-6e63-4146-b3b1-3d6a5cd5add0",
       "name": "D.GURUMOORTHI",
       "nameTamil": "D.குருமூர்த்தி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUMBAKONAM_16.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff35ef-9358-426a-ac1d-5b42426dd167",
       "name": "P.SUBRAMANIYAN",
       "nameTamil": "P.சுப்ரமணியன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUMBAKONAM_18.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff3ef6-c5fb-4855-84a4-37da80785d98",
       "name": "P.PRAKASH",
       "nameTamil": "P.பிரகாஷ்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUMBAKONAM_20.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f8c562-2600-4d9e-912a-016794bcf31c",
       "name": "C.VIJAYAKUMAR",
       "nameTamil": "C.விஜயகுமார்",

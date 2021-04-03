@@ -2,6 +2,7 @@
   "name": "MAYILADUTHURAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fa9036-8bbf-4b07-9197-cc18b23ddd99",
       "name": "N.SHAMSUDEEN",
       "nameTamil": "N.சம்சுதீன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAYILADUTHURAI_21.jpg"
     },
     {
+      "slno": "2",
       "recid": "92feacaa-91fc-4f70-9be0-ef6e9f751fa5",
       "name": "S.RAJAKUMAR",
       "nameTamil": "S.ராஜகுமார்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAYILADUTHURAI_39.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fea643-5230-442a-833c-340df5dd722c",
       "name": "R.K.Anbarasan Komal",
       "nameTamil": "R.K.அன்பரசன் கோமல்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAYILADUTHURAI_27.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f54e6e-3ccb-4ee9-8636-af301559bedc",
       "name": "K.Kasiraman",
       "nameTamil": "K.காசிராமன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAYILADUTHURAI_2.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fa95cd-105f-4bf0-ac58-2d2369f1129b",
       "name": "A.PALANISAMY",
       "nameTamil": "A.பழனிசாமி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAYILADUTHURAI_22.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fb10df-3e76-4361-a86d-2a31285b739c",
       "name": "N.RAVICHANDRAN",
       "nameTamil": "N.ரவிச்சந்திரன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAYILADUTHURAI_23.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304b19d-6f70-4ee1-a667-3ca954bfc555",
       "name": "S.RAJKUMAR",
       "nameTamil": "S.ராஜ்குமார்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Rajkumar_S_Mayiladuthurai.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fa96ed-09a6-4c5e-b02e-ac2eb36245ec",
       "name": "S.GANESAN",
       "nameTamil": "S.கணேசன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAYILADUTHURAI_17.jpg"
     },
     {
+      "slno": "9",
       "recid": "93087c29-ca32-4d97-9fde-bacb58ec4c76",
       "name": "L.SAMPATH",
       "nameTamil": "L.சம்பத்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Loga_Sampath_Mayiladuthurai.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300a58d-76ea-472f-b519-680a784cc41f",
       "name": "T.THIMOTHY",
       "nameTamil": "T.தீமோத்தேயு",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAYILADUTHURAI_28.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe9c73-c0b2-40a5-a597-c8667b1461ac",
       "name": "R.NIRANJAN",
       "nameTamil": "R.நிரஞ்சன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAYILADUTHURAI_33.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fe9f5c-6245-4fd9-9885-0592d25ad519",
       "name": "R.BABUSANKAR",
       "nameTamil": "R.பாபுசங்கர் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAYILADUTHURAI_34.jpg"
     },
     {
+      "slno": "13",
       "recid": "92feaaca-c195-4f6b-a929-47cb1496f1f2",
       "name": "T.MANIMARAN",
       "nameTamil": "T.மணிமாறன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAYILADUTHURAI_30.jpg"
     },
     {
+      "slno": "14",
       "recid": "92f0dbd5-e3d3-4acd-83a0-2363fb0c43fe",
       "name": "M.Rajendran",
       "nameTamil": "M.ராஜேந்திரன்",

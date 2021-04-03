@@ -2,6 +2,7 @@
   "name": "OMALUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9305c3c4-22ee-4bef-a1b8-5a6f6949a59f",
       "name": "N.V.Thomas",
       "nameTamil": "N.V.தாமஸ் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/N_V_THOMAS_Omalur.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fa88a1-22d5-410d-8c98-903aa3b6ccca",
       "name": "R.MANI",
       "nameTamil": "R.மணி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_MANI_Omalur.jpg"
     },
     {
+      "slno": "3",
       "recid": "93047f26-b2c8-4456-8605-327cec1edd12",
       "name": "R.RANGARAJAN MOHAN KUMARAMANGALAM",
       "nameTamil": "R.ரங்கராஜன் மோகன் குமாரமங்கலம் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANGARAJANMOHANKUMARAMANGALAM_Omalur.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff65f4-5c7b-4a49-98b8-875c4387cff9",
       "name": "M.KARUNAKARAN",
       "nameTamil": "M.கருணாகரன் ",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "12 lacs",
       "liabilityTamil": "12 லட்சம்",
-      "netAsset": "-10 lacs",
-      "netAssetTamil": "-10 லட்சம்",
+      "netAsset": " - 10 lacs",
+      "netAssetTamil": " - 10 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/OMALUR_38.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fb39b7-905b-49d3-bf83-75afc476e994",
       "name": "V.Srinivasan",
       "nameTamil": "V.சீனிவாசன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/OMALUR_12.jpg"
     },
     {
+      "slno": "6",
       "recid": "9306d07d-ff38-4e78-b80a-2a0cb96e4dcf",
       "name": "S.Divya ",
       "nameTamil": "S.திவ்யா ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_DHIVYA_Omalur.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f6bbec-4e25-4c1a-a948-92b9d72743cf",
       "name": "K.K.MADHESHWARAN",
       "nameTamil": "K.K.மாதேஸ்வரன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/OMALUR_1.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fea8e1-5875-497d-bbd1-cd0ab28da509",
       "name": "A.RAJA",
       "nameTamil": "A.ராஜா ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/OMALUR_20.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff6123-826c-42a9-8458-197e12f648ac",
       "name": "K.GOVINDARAJU",
       "nameTamil": "K. கோவிந்தராஜூ ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/OMALUR_36.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fc87d9-09c9-4f3b-9ad0-fa1c279cc83d",
       "name": "T.SURESH",
       "nameTamil": "T.சுரேஷ் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/OMALUR_22.jpg"
     },
     {
+      "slno": "11",
       "recid": "92feca01-f74c-4d5a-a6b8-1285db1b59e7",
       "name": "E.MANI",
       "nameTamil": "E.மணி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/OMALUR_29.jpg"
     },
     {
+      "slno": "12",
       "recid": "930065c9-3571-4b83-96d8-67f04fb25293",
       "name": "S.MANI",
       "nameTamil": "S.மணி ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/OMALUR_7.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fb2665-8250-49e3-8753-f5d35aca0c79",
       "name": "R.Mani",
       "nameTamil": "R.மணி ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/OMALUR_11.jpg"
     },
     {
+      "slno": "14",
       "recid": "9304818a-88b4-4640-853e-e9437fe1be68",
       "name": "R.MURUGAN",
       "nameTamil": "R.முருகன் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_MURUGAN_Omalur.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff6279-4de1-4558-81f8-a5e38f025ab0",
       "name": "P.RAJA",
       "nameTamil": "P. ராஜா ",

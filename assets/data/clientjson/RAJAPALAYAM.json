@@ -2,6 +2,7 @@
   "name": "RAJAPALAYAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92ff11bb-5b4a-4abd-b9a3-fd3159f72ef3",
       "name": "S.Thangapandian",
       "nameTamil": "S.தங்கபாண்டியன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAPALAYAM_20.jpg"
     },
     {
+      "slno": "2",
       "recid": "93052dd7-84ff-4a35-bdaa-4ca4b699d542",
       "name": "K.T.Rajenthrabhalaji",
       "nameTamil": "K.T.ராஜேந்திரபாலாஜி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJENTHRABHALAJIK_T_Rajapalayam.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fef0ce-8e93-4f23-a650-2fe1867e9422",
       "name": "V.K.AYYAR",
       "nameTamil": "V.K.அய்யர்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAPALAYAM_13.jpg"
     },
     {
+      "slno": "4",
       "recid": "9300e2a9-05f9-4c1d-984f-3d01660de4ed",
       "name": "K.Kalimuthu",
       "nameTamil": "K.காளிமுத்து",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "1 கோடி 54 லட்சம்",
       "liability": "2 crore 02 lacs",
       "liabilityTamil": "2 கோடி 02 லட்சம்",
-      "netAsset": "- crore 48 lacs",
-      "netAssetTamil": "- கோடி 48 லட்சம்",
+      "netAsset": " - 48 lacs",
+      "netAssetTamil": " - 48 லட்சம்",
       "criminalCase": "3",
       "caseDetailEnglish": "Damaging public property, violating public peace  ,violation of rules. ",
       "caseDetailTamil": "பொது சொத்துக்கு சேதம் விளைவித்தல், பொது அமைதிக்கு பஙகம் விளைவித்தல், விதிமீறல். ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAPALAYAM_6.jpg"
     },
     {
+      "slno": "5",
       "recid": "93052b54-79fd-45bd-9de7-af0252a61c44",
       "name": "K.Dharmalingam",
       "nameTamil": "K.தர்மலிங்கம்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DHARMALINGAMK__Rajapalayam.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fefc06-2801-440c-91bd-39a4389820f3",
       "name": "S.VIVEKANANDHAN",
       "nameTamil": "S.விவேகானந்தன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAPALAYAM_16.jpg"
     },
     {
+      "slno": "7",
       "recid": "9300d183-3bb6-4dcc-91b8-391eb534cc9b",
       "name": "V.Jayaraj",
       "nameTamil": "V.ஜெயராஜ்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAPALAYAM_5.jpg"
     },
     {
+      "slno": "8",
       "recid": "9300f6f8-2b5c-4239-80ee-d0d8c936b283",
       "name": "K.KALIMUTHU",
       "nameTamil": "K.காளிமுத்து",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAPALAYAM_10.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff1b08-c18b-430a-a933-7ab13ecb0153",
       "name": "G.SELVARAJ",
       "nameTamil": "G.செல்வராஜ்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAPALAYAM_25.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff161a-a27d-4de4-a748-1b0e7eb77345",
       "name": "B.Thangapandi",
       "nameTamil": "B.தங்கபாண்டி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAPALAYAM_22.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300ca9b-77f2-4051-8045-271b709a7c27",
       "name": "S.Thangapandi",
       "nameTamil": "S.தங்கப்பாண்டி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAPALAYAM_4.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff1502-571f-4a74-8f8e-eaeaeea5dea8",
       "name": "M.MANIKUMAR",
       "nameTamil": "M.மணிகுமார்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAPALAYAM_21.jpg"
     },
     {
+      "slno": "13",
       "recid": "9300dc35-2b2b-4f91-833c-218e899bbd0b",
       "name": "E.VIJAYAKUMAR",
       "nameTamil": "E.விஜயகுமார்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJAPALAYAM_19.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fee544-6add-41e8-bb7a-13c1dfbf461c",
       "name": "I.JEYAPRAKASH",
       "nameTamil": "I.ஜெயப்பிரகாஷ்",

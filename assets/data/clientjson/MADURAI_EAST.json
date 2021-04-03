@@ -2,6 +2,7 @@
   "name": "MADURAI_EAST",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304aa65-d2d8-473f-98fa-84f500963be0",
       "name": "R.GOPALAKRISHNAN",
       "nameTamil": "R.கோபாலகிருஷ்ணன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOPALAKRISHNANR_MaduraiEast.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fc9f71-b9be-41a5-9ef1-71b0040520ab",
       "name": "P.MOORTHY",
       "nameTamil": "P.மூர்த்தி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MOORTHYP_MaduraiEast.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcc7a1-6391-4fd2-ad05-2e79ef72c561",
       "name": "T.Saravanan",
       "nameTamil": "T.சரவணன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_EAST_7.jpg"
     },
     {
+      "slno": "4",
       "recid": "9300e312-4681-4451-8146-3af48aece5dc",
       "name": "A.Balamurugan",
       "nameTamil": "A.பாலமுருகன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_EAST_21.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fd1ff5-7861-4760-a5ce-f17f19767c3a",
       "name": "M.PRABAHARAN",
       "nameTamil": "M.பிரபாகரன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_EAST_4.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304ae8c-dd77-423f-bec6-87c7b3d02745",
       "name": "I.Muthukrishnan",
       "nameTamil": "I.முத்து கிருஷ்ணன் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUTHUKRISHNANI_MaduraiEast.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff06a2-9ee9-475e-afa4-84381db478b8",
       "name": "M.MUTHUKRISHNAN",
       "nameTamil": "M.முத்துகிருஷ்ணன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_EAST_9.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f885cb-77ab-4de1-a7ec-6342c0f5d009",
       "name": "A.K.Mustak Mohamed",
       "nameTamil": "A.K.முஸ்தாக் முகமது",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_EAST_3.jpg"
     },
     {
+      "slno": "9",
       "recid": "9300cea8-cc53-40b0-bc5e-de16adff9a97",
       "name": "P.Raja",
       "nameTamil": "P.ராஜா",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_EAST_17.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f8f319-6a56-4934-96dd-9e7aaf84e485",
       "name": "J.LATHA",
       "nameTamil": "J.லதா",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_EAST_1.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300ff24-6aae-4477-8a0a-18728e7e279a",
       "name": "K.GANDHI",
       "nameTamil": "K.காந்தி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_EAST_15.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff0603-d1cf-43a5-9bce-c597b56daed4",
       "name": "V.CHANDRASEKARAN",
       "nameTamil": "V.சந்திரசேகரன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_EAST_11.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff08e8-1429-4571-9dbe-959084009743",
       "name": "G.DINESH",
       "nameTamil": "G.தினேஷ்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_EAST_13.jpg"
     },
     {
+      "slno": "14",
       "recid": "930112c1-d813-42e5-a3dc-b24a6b964caf",
       "name": "P.PALANIYAMMAL",
       "nameTamil": "P.பழனியம்மாள்",
@@ -423,8 +437,8 @@
       "totalAssetTamil": "22049",
       "liability": "60000",
       "liabilityTamil": "60000",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 37951",
+      "netAssetTamil": " - 37951",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_EAST_20.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff2142-da8b-4cf6-b7e5-1f1ad45a0c3a",
       "name": "B.JEYAKUMAR",
       "nameTamil": "B.ஜெயக்குமார் ",

@@ -2,6 +2,7 @@
   "name": "ANTHIYUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93050adc-0120-4e53-9d72-a5e888f0e345",
       "name": "K.S.Shanmugavel",
       "nameTamil": "K.S.சண்முகவேல்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHANMUGAVEL_K_S_Anthiyur.jpg"
     },
     {
+      "slno": "2",
       "recid": "93050c8c-ffbb-4f6d-92a2-78a2a5482443",
       "name": "G.Pattan",
       "nameTamil": "G.பாட்டன்",
@@ -51,8 +53,8 @@
       "totalAssetTamil": "5 லட்சம்",
       "liability": "6 lacs",
       "liabilityTamil": "6 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 74638",
+      "netAssetTamil": " - 74638",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PATTAN_G_Anthiyur.jpg"
     },
     {
+      "slno": "3",
       "recid": "930705ed-4e52-46fe-a8be-68edf822bbc2",
       "name": "A G.Venkatachalam",
       "nameTamil": "A G.வெங்கடச்சலம்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VENKATACHALAM_A_G_Anthiyur.jpg"
     },
     {
+      "slno": "4",
       "recid": "9300382d-6b7a-427f-a5e5-46e8d7869130",
       "name": "M.Gurunathan",
       "nameTamil": "M.குருநாதன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANTHIYUR_40.jpg"
     },
     {
+      "slno": "5",
       "recid": "9306fa3c-42f3-40b4-aefb-c827fd7cfdd8",
       "name": "M.Saravanan",
       "nameTamil": "M.சரவணன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SARAVANAN_M_Anthiyur.jpg"
     },
     {
+      "slno": "6",
       "recid": "9306f735-09ad-4348-bdf4-3a4d37007c0b",
       "name": "S R.Selvam",
       "nameTamil": "S R.செல்வம்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SELVAM_S_R_Anthiyur.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fdf6fc-0c26-4cf8-9a1b-c97e3ca12a6c",
       "name": "M. BAKKIYAMM",
       "nameTamil": "M.பாக்கியம் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANTHIYUR_26.jpg"
     },
     {
+      "slno": "8",
       "recid": "93000223-05eb-4abe-a36e-7377d243c6b2",
       "name": "A.Prathaban",
       "nameTamil": "A.பிரதாபன்  ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANTHIYUR_34.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ffe7bd-b1eb-4c01-aeae-e494c9b2bb56",
       "name": "K.Rajendran",
       "nameTamil": "K.ராஜேந்திரன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANTHIYUR_32.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ffe34a-27dd-47c1-b2f7-37a2ffe4d51f",
       "name": "K.Anbazhagan",
       "nameTamil": "K.அன்பழகன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANTHIYUR_31.jpg"
     },
     {
+      "slno": "11",
       "recid": "9306fe72-5174-45e6-b3fc-6f4beb42987f",
       "name": "R.Karthikeyan",
       "nameTamil": "R.கார்த்திகேயன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARTHIKEYAN_R_Anthiyur.jpg"
     },
     {
+      "slno": "12",
       "recid": "92f8ddee-0e89-4f7b-8f6e-47d54896e364",
       "name": "M.GEETHA",
       "nameTamil": "M.கீதா",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANTHIYUR_4.jpg"
     },
     {
+      "slno": "13",
       "recid": "93070105-468e-4e0a-8988-7c10cff81829",
       "name": "R.Kumarasamy",
       "nameTamil": "R.குமாரசாமி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUMARASAMY_R_Anthiyur.jpg"
     },
     {
+      "slno": "14",
       "recid": "9300369d-bc49-4fd3-bdcb-6483ac85cb35",
       "name": "K.Shanmugam",
       "nameTamil": "K.சண்முகம் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANTHIYUR_39.jpg"
     },
     {
+      "slno": "15",
       "recid": "92f631e7-9f1a-4986-a5a0-e42511e2b744",
       "name": "MR  .Senguttuvan",
       "nameTamil": "MR  .செங்குட்டுவன்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANTHIYUR_2.jpg"
     },
     {
+      "slno": "16",
       "recid": "930702eb-88b2-4871-8cac-8d9c4c61ebde",
       "name": "M.Thangavel",
       "nameTamil": "M.தங்கவேல்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANGAVEL_M_Anthiyur.jpg"
     },
     {
+      "slno": "17",
       "recid": "92ffffe8-9617-45c8-8071-6c7939284c85",
       "name": "S.Poornachandran",
       "nameTamil": "S.பூர்ணசந்திரன் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANTHIYUR_33.jpg"
     },
     {
+      "slno": "18",
       "recid": "9300102f-f712-4e8e-9a93-6e1d0b0295a9",
       "name": "T.Periyasamy",
       "nameTamil": "T.பெரியசாமி ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANTHIYUR_37.jpg"
     },
     {
+      "slno": "19",
       "recid": "93000de0-6e59-4d45-9d14-c2c6f427bf1b",
       "name": "M.Muthusamy",
       "nameTamil": "M.முத்துச்சாமி ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANTHIYUR_36.jpg"
     },
     {
+      "slno": "20",
       "recid": "92f62aa4-f6ba-4735-b267-c3c9a1d02065",
       "name": "AM.Sheik Dawood",
       "nameTamil": "AM.ஷேக் தாவூத்",
@@ -609,8 +629,8 @@
       "totalAssetTamil": "இல்லை",
       "liability": "50000",
       "liabilityTamil": "50000",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 50000",
+      "netAssetTamil": " - 50000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",

@@ -2,6 +2,7 @@
   "name": "TIRUCHENGODU",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f68d0b-f9d2-4613-bcdd-76319864374d",
       "name": "E.R.ESWARAN",
       "nameTamil": "E.R.ஈஸ்வரன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_5.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f69bb7-f265-45ee-b54f-b1e1af60b498",
       "name": "Pon.Saraswathi",
       "nameTamil": "Pon.சரஸ்வதி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fefcb7-4fbf-4631-b792-b2767f3b8b50",
       "name": "A.Kalaivanan",
       "nameTamil": "A.கலைவாணன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_28.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff011a-5568-455a-87f3-96b62b88b8fc",
       "name": "K.Sivakumar",
       "nameTamil": "K.சிவக்குமார் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_35.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fefddd-4a5d-49b4-aca9-9df3b445a57d",
       "name": "K.Chinnathambi",
       "nameTamil": "K.சின்னதம்பி ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_31.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff02c6-fbdf-4571-9c99-53a753cdba47",
       "name": "N.SengottuVellu",
       "nameTamil": "N.செங்கோட்டுவேலு ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_39.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f86b2e-d60f-4f3f-b5e4-8f84bd47e35b",
       "name": "P.NATARAJAN",
       "nameTamil": "P.நடராஜன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATARAJANP_Tiruchengodu.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f960d6-c2f7-4727-8c18-6fec4d77755f",
       "name": "K.Yuvaraj kumar",
       "nameTamil": "K.யுவராஜ்குமார் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_20.jpg"
     },
     {
+      "slno": "9",
       "recid": "92feff8d-f0b0-4c3c-a095-806fd82e779f",
       "name": "R.JANAGARAJ",
       "nameTamil": "R.ஜனகராஜ் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_33.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f69fbf-801b-4c49-b84d-6165cf68349d",
       "name": "R.HEMALATHA",
       "nameTamil": "R.ஹேமலதா ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_2.jpg"
     },
     {
+      "slno": "11",
       "recid": "9309cc43-3541-43b4-9684-f3f6051112dc",
       "name": "A.ESWARAN",
       "nameTamil": "A.ஈஸ்வரன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ESWARANA_Tiruchengodu.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fef6ac-8091-4654-8072-aaf2f16dd9e8",
       "name": "K.Eswaran",
       "nameTamil": "K.ஈஸ்வரன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_43.jpg"
     },
     {
+      "slno": "13",
       "recid": "92feed27-40bb-4c70-92aa-0874f6713ade",
       "name": "G.Eswaran",
       "nameTamil": "G.ஈஸ்வரன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_34.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fef573-9bf9-496a-acf7-62826b38c9c1",
       "name": "M.Eswaran",
       "nameTamil": "M.ஈஸ்வரன்  ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_42.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fef0e3-ea2a-4511-bcf2-e95a2c09970d",
       "name": "S.Karthikeyan",
       "nameTamil": "S.கார்த்திகேயன் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_38.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fefa8f-a022-47e7-9ee7-4cf4178719f9",
       "name": "T.Shanmugasundaram",
       "nameTamil": "T.சண்முகசுந்தரம்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_46.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fef978-adc2-45f7-afcb-2a9e1a6e8f4f",
       "name": "C.SATHIESHKUMAR",
       "nameTamil": "C.சதீஸ்குமார் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_45.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fef816-73cf-4964-80a0-21b26d30ab65",
       "name": "R.CHANDRA",
       "nameTamil": "R.சந்திரா ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_44.jpg"
     },
     {
+      "slno": "19",
       "recid": "92feec13-29ad-4400-b46a-e00c51b8418b",
       "name": "K.Saravanan",
       "nameTamil": "K.சரவணன் ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_32.jpg"
     },
     {
+      "slno": "20",
       "recid": "92feef76-6b10-4e0b-84b5-8098d9ace706",
       "name": "M.Saraswathi",
       "nameTamil": "M.சரஸ்வதி ",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_37.jpg"
     },
     {
+      "slno": "21",
       "recid": "92fef44c-b4fd-4e0c-a3ec-5d90d3ea66a6",
       "name": "C.SenthilKumar",
       "nameTamil": "C.செந்தில்குமார் ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_41.jpg"
     },
     {
+      "slno": "22",
       "recid": "92fc94ec-c6a0-471f-83f4-9ab3d07836a3",
       "name": "R.Selvaramalingam",
       "nameTamil": "R.செல்வராமலிங்கம் ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_27.jpg"
     },
     {
+      "slno": "23",
       "recid": "92f96584-3f42-4b77-a48a-8fe9fd741613",
       "name": "K.R.Selvaraj",
       "nameTamil": "K.R.K .R .செல்வராஜ் ",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_22.jpg"
     },
     {
+      "slno": "24",
       "recid": "92fc9039-9dc2-45d1-9691-1e0313904014",
       "name": "C.BALAMURUGAN",
       "nameTamil": "C.பாலமுருகன் ",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_25.jpg"
     },
     {
+      "slno": "25",
       "recid": "9309d2d1-dbef-4042-9b53-1b7f06139631",
       "name": "S.BALAMURUGAN ",
       "nameTamil": "S.பாலமுருகன் ",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BALAMURUGANS_Tiruchengodu.jpg"
     },
     {
+      "slno": "26",
       "recid": "92fc919c-5efd-4048-b876-b717a4240395",
       "name": "P.BALAJICHEZHIAN",
       "nameTamil": "P.பாலாஜி செழியன் ",
@@ -808,6 +834,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_26.jpg"
     },
     {
+      "slno": "27",
       "recid": "92fef2a6-7f25-426a-860b-d73951a97945",
       "name": "R.Ranjit",
       "nameTamil": "R.ரஞ்சித் ",
@@ -839,6 +866,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUCHENGODU_40.jpg"
     },
     {
+      "slno": "28",
       "recid": "92feee61-7057-42b4-b3a6-0954a9d2db48",
       "name": "K.Velu",
       "nameTamil": "K.வேலு ",

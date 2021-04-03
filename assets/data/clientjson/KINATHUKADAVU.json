@@ -2,6 +2,7 @@
   "name": "KINATHUKADAVU",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fb21b1-9006-4614-9a49-ee2af2ee7dfb",
       "name": "N.Kurichi Prabhakaran",
       "nameTamil": "N.குறிச்சி பிரபாகரன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KINATHUKADAVU_11.jpg"
     },
     {
+      "slno": "2",
       "recid": "93065098-db1b-43e4-b27e-30e7f2e18691",
       "name": "S.Damodaran",
       "nameTamil": "S.தாமோதரன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Damodaran_S_Kinathukadavu.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fca08c-4fb6-4faf-9db8-219a0378df55",
       "name": "G.Anbazhagan",
       "nameTamil": "G.அன்பழகன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KINATHUKADAVU_15.jpg"
     },
     {
+      "slno": "4",
       "recid": "93064d2d-d5e9-48b3-a91a-246bd19985a5",
       "name": "M.Umajagadesh",
       "nameTamil": "M.உமாஐெகதீஸ்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Umajagadesh_M_Kinathukadavu.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fa92e9-941d-45f5-b411-749677e0f840",
       "name": "A.siva",
       "nameTamil": "A.சிவா",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KINATHUKADAVU_4.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fe8b97-b59f-489d-9849-9b9b721274cf",
       "name": "R.Mariappan",
       "nameTamil": "R.மாரியப்பன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KINATHUKADAVU_21.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fadc25-c670-4389-a8ed-98e4b14395d3",
       "name": "MA PA.Rohini",
       "nameTamil": "MA PA.ரோகினி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KINATHUKADAVU_7.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fec5bb-c03d-4e6a-a326-7ee38e00cb2e",
       "name": "S.James",
       "nameTamil": "S.ஜேம்ஸ்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KINATHUKADAVU_29.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fecaa5-cbed-4c48-bb94-684b3c3e5e75",
       "name": "S.Atheeswaran",
       "nameTamil": "S.தர்மலிங்கம்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KINATHUKADAVU_31.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fe914c-69d3-437e-9493-5674e52c8639",
       "name": "K.Dharmalingam",
       "nameTamil": "K.தர்மலிங்கம்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KINATHUKADAVU_24.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe8f1a-3a23-4f19-bd4f-c2c44826bac6",
       "name": "S.Nazir Babu",
       "nameTamil": "S.நசீர் பாபு",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KINATHUKADAVU_23.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fece4b-156b-4925-9ef7-799e08791b18",
       "name": "P.Nagendran",
       "nameTamil": "P.நாகேந்தரன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KINATHUKADAVU_32.jpg"
     },
     {
+      "slno": "13",
       "recid": "93064b19-af99-4a1a-b175-57d01d6c5001",
       "name": "A.Noor Muhamad",
       "nameTamil": "A.நூர் முகமது",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NoorMuhamad_A_Kinathukadavu.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fca1ed-f463-482e-8d31-a19789fc1eff",
       "name": "V.Velusamy",
       "nameTamil": "V.வேலுசாமி",

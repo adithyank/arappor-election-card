@@ -2,6 +2,7 @@
   "name": "SIVAKASI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304a559-f626-4e64-82cc-b0f83b5a4188",
       "name": "G.ASHOKAN",
       "nameTamil": "G.அசோகன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Ashokan_G_Sivakasi.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304f2b8-af9e-46ed-b236-b1f04f40bec1",
       "name": "A.ANANTHALAKSHMI",
       "nameTamil": "A.ஆனந்தலட்சுமி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Ananthalakshmi_Sivakasi.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6daca-ba3d-4db9-9046-ff5546d555de",
       "name": "Lakshmi Ganesan",
       "nameTamil": " லக்ஷ்மிகனேசன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fedc9a-dc4c-4017-9807-443929be1a6d",
       "name": "K.KANNAN",
       "nameTamil": "K.கண்ணன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_17.jpg"
     },
     {
+      "slno": "5",
       "recid": "930296ae-97e9-4220-9f32-b6b928e097a1",
       "name": "S.KARUPPASAMY",
       "nameTamil": "S.கருப்பசாமி ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_32.jpg"
     },
     {
+      "slno": "6",
       "recid": "9302938d-9527-4898-87bd-52d0b1bc2ef6",
       "name": "M.Kalyanasundari",
       "nameTamil": "M.கல்யாணசுந்தரி ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_31.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f68ce8-b103-4e90-9c8f-e35bbbf4e84a",
       "name": "R.Kanagapriya",
       "nameTamil": "R. கனகபிரியா",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_4.jpg"
     },
     {
+      "slno": "8",
       "recid": "9302a297-d5ed-4bb5-8872-0bebdf203abf",
       "name": "G.SAMIKKALAI",
       "nameTamil": "G.சாமிக்காளை",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_40.jpg"
     },
     {
+      "slno": "9",
       "recid": "93028fc1-6102-4434-99d1-5eb9d5f1c126",
       "name": "MGR.NAMBBI",
       "nameTamil": "MGR.நம்பி ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_28.jpg"
     },
     {
+      "slno": "10",
       "recid": "930282d1-cb7d-45fd-b5b9-4273af244aed",
       "name": "P.PALANICHAMY",
       "nameTamil": "P.பழனிச்சாமி ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_19.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fda085-9156-41e9-9cb4-3a9fab4b1df7",
       "name": "S.MUGUNTHAN",
       "nameTamil": "S.முகுந்தன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_12.jpg"
     },
     {
+      "slno": "12",
       "recid": "93028a24-68aa-45a2-a517-3820d4a2dfa2",
       "name": "G.JEEVANANTHAM",
       "nameTamil": "G.ஜீவானந்தம் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_24.jpg"
     },
     {
+      "slno": "13",
       "recid": "930288af-c153-48ea-953b-d0ca1d6471ce",
       "name": "C.ASHOKKUMAR",
       "nameTamil": "C.அசோக்குமார் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_23.jpg"
     },
     {
+      "slno": "14",
       "recid": "9304a0be-5fe7-42ab-adf7-02a8eeb2345f",
       "name": "P.ANBALAGAN",
       "nameTamil": "P.அன்பழகன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Anbalagan_P_Sivakasi.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fed77f-ae05-44c8-8788-7b3d3c59fa4a",
       "name": "R.GANESAN",
       "nameTamil": "R.கணேசன் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_16.jpg"
     },
     {
+      "slno": "16",
       "recid": "93028745-20ce-42ee-9762-a1c7abdbb3a2",
       "name": "N.KARTHIK",
       "nameTamil": "N.கார்த்திக் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_22.jpg"
     },
     {
+      "slno": "17",
       "recid": "93029d6c-7d8d-4c9a-a78b-e499926dc027",
       "name": "D.KESAVAKUMAR",
       "nameTamil": "D.கேசவகுமார் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_37.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fd8f08-9ded-424e-b9e2-9c41aace7b87",
       "name": "S.THANGARAJ",
       "nameTamil": "S.தங்கராஜ் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_10.jpg"
     },
     {
+      "slno": "19",
       "recid": "93029c1c-cfe5-4c8c-b127-9bf88a4d8413",
       "name": "M.DHARMALINGAM",
       "nameTamil": "M.தர்மலிங்கம்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_35.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fd935c-1480-4368-aa03-fbd19bd9ad41",
       "name": "S.PANDIARAJAN",
       "nameTamil": "S.பாண்டியராஜன் ",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_11.jpg"
     },
     {
+      "slno": "21",
       "recid": "9304a75c-ae18-4f0a-880b-49be321834f5",
       "name": "N.Balakrishnan",
       "nameTamil": "N.பாலகிருஷ்ணன் ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Balakrishnan_N_Sivakasi.jpg"
     },
     {
+      "slno": "22",
       "recid": "93028bef-b288-4ff0-b9d9-b3fa6bbb1441",
       "name": "G.MAYILVAGANAN",
       "nameTamil": "G.மயில்வாகனன் ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_25.jpg"
     },
     {
+      "slno": "23",
       "recid": "93028484-fb94-4829-9069-61c03a58af2b",
       "name": "M.MARIMUTHU",
       "nameTamil": "M.மாரிமுத்து",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_20.jpg"
     },
     {
+      "slno": "24",
       "recid": "93028d42-18b7-481d-8567-6e9a37e13dae",
       "name": "E.LAKSHMANAN",
       "nameTamil": "E.லட்சுமணன் ",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_26.jpg"
     },
     {
+      "slno": "25",
       "recid": "93029e9f-5e97-4691-87b3-ddbbcd93a8a7",
       "name": "M.VINOTHKUMAR",
       "nameTamil": "M.வினோத்குமார் ",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKASI_39.jpg"
     },
     {
+      "slno": "26",
       "recid": "93028635-2348-4ba5-afd4-93a4ff40c0d0",
       "name": "T.JOYSMARY",
       "nameTamil": "T.ஜாய்ஸ் மேரி ",
@@ -795,8 +821,8 @@
       "totalAssetTamil": "14 லட்சம்",
       "liability": "20 lacs",
       "liabilityTamil": "20 லட்சம்",
-      "netAsset": "-5 lacs",
-      "netAssetTamil": "-5 லட்சம்",
+      "netAsset": " - 5 lacs",
+      "netAssetTamil": " - 5 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",

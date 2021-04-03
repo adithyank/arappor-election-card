@@ -2,6 +2,7 @@
   "name": "MAILAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "930519f9-87bb-41d9-84d1-b2d06030fd5a",
       "name": "A.SUNDARESAN",
       "nameTamil": "A.சுந்தரேசன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUNDARESANA_Mailam.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fa8267-1bee-491f-bd85-30289daf632d",
       "name": "M.Durai",
       "nameTamil": "M.துரை",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAILAM_6.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa8d6a-0de3-4870-9e04-318861044449",
       "name": "R.Masilamani",
       "nameTamil": "R.மாசிலாமணி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAILAM_7.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fa9265-e228-494b-8b1f-5af407ffda64",
       "name": "Umamaheswari",
       "nameTamil": "உமாமகேஸ்வரி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAILAM_8.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f68aed-dbde-4a2b-a559-b90fcc96d1d6",
       "name": "C.sivakumar",
       "nameTamil": "C.சிவக்குமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAILAM_1.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304c9c5-12fd-4b62-a692-99c27795a7e7",
       "name": "A.MANAVALAN",
       "nameTamil": "A.மனவலன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAVALANA_Mailam.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff8cc0-2876-4ec2-a5b6-fa0cf3684525",
       "name": "G.KANANAN",
       "nameTamil": "G.கண்ணன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAILAM_20.jpg"
     },
     {
+      "slno": "8",
       "recid": "9304b939-487f-478a-aefa-a4d046710d51",
       "name": "S.SATHIYARAJ",
       "nameTamil": "S.சத்யராஜ் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATHIYARAJS_Mailam.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff8a57-2fc7-4ec2-9875-5faa14e695b9",
       "name": "R.CHANDRA PRAKASH",
       "nameTamil": "R.சந்திரபிரகாஷ் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAILAM_19.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff890a-2714-4182-89c5-f569a7f26da6",
       "name": "M.SEKAR NAYAKAR",
       "nameTamil": "M.சேகர் நாயக்கர் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAILAM_18.jpg"
     },
     {
+      "slno": "11",
       "recid": "9304b644-a731-45d1-b75c-712f4fdd5838",
       "name": "V.MASILAMANI",
       "nameTamil": "V.மாசிலாமணி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAILAM_16.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff8e11-ac16-4d67-a407-3e037365e552",
       "name": "V.MASILAMANI",
       "nameTamil": "V.மாசிலாமணி ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAILAM_21.jpg"
     },
     {
+      "slno": "13",
       "recid": "93051650-24b9-4640-9a2a-5b88968926a5",
       "name": "M.RAJASEKAR",
       "nameTamil": "M.ராஜசேகர் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJASEKARM_Mailam.jpg"
     },
     {
+      "slno": "14",
       "recid": "9304c6f7-cfc2-4604-a0be-f38f7c447b92",
       "name": "D.SRIDHAR",
       "nameTamil": "D.ஸ்ரீதர் ",

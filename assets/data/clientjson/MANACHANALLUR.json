@@ -2,6 +2,7 @@
   "name": "MANACHANALLUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fcde49-e14b-4ed5-926f-fc4c9e1169d4",
       "name": "V.Indhirani",
       "nameTamil": "V.இந்திராணி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_22.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fd43bb-9d95-45f6-8e97-6af7c097eb69",
       "name": "S.Kathiravan",
       "nameTamil": "S.கதிரவன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_24.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f68c06-5421-40b1-b9db-ceda659ac044",
       "name": "M.PARANJOTHI ",
       "nameTamil": "M.பரஞ்ஜோதி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fea91f-be3a-4662-b3e5-c0e5d6c22f13",
       "name": "C.ARULMANI",
       "nameTamil": "C.அருள்மணி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_37.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fb15be-36d6-4def-b934-627b2fe71cba",
       "name": "M.Rajasekharan",
       "nameTamil": "M.ராஜசேகரன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_12.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f6919b-85bd-4673-b645-c62d588c2aed",
       "name": "V.DR.KRISHNASAMY",
       "nameTamil": "V.கிருஷ்ணசாமி",
@@ -175,8 +181,8 @@
       "totalAssetTamil": "64 லட்சம்",
       "liability": "1 crore 72 lacs",
       "liabilityTamil": "1 கோடி 72 லட்சம்",
-      "netAsset": "-1 crore 08 lacs",
-      "netAssetTamil": "-1 கோடி 08 லட்சம்",
+      "netAsset": " - 1 crore 08 lacs",
+      "netAssetTamil": " - 1 கோடி 08 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_4.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fcd435-b9fe-4338-b1e5-6b0c4f210a63",
       "name": "K.Gurunathan",
       "nameTamil": "K.குருநாதன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_20.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fa839f-7ef6-4f5d-ad96-45bfbe762e03",
       "name": "R.Samson",
       "nameTamil": "R.சாம்சன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_7.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fcdc10-f5dc-4962-bae8-9ee73741f964",
       "name": "M.Dhinakaran",
       "nameTamil": "M.தினகரன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_21.jpg"
     },
     {
+      "slno": "10",
       "recid": "92feb901-8dc8-46b2-ac05-6fe040b49a56",
       "name": "T.RENGARAJ",
       "nameTamil": "T.ரெங்கராஜ் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_41.jpg"
     },
     {
+      "slno": "11",
       "recid": "92feccdb-8678-454a-b944-94218d3a46a9",
       "name": "S.ROHINI",
       "nameTamil": "S.ரோகிணி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_45.jpg"
     },
     {
+      "slno": "12",
       "recid": "92feb526-fcb0-4671-b101-12c84af45c14",
       "name": "P.JAGADEESAN",
       "nameTamil": "P.ஜெகதீசன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/P_JAGADEESAN_Manachanallur.jpg"
     },
     {
+      "slno": "13",
       "recid": "92feac7d-b4bd-410c-b905-3add208cb63e",
       "name": "P.RAMALINGAM",
       "nameTamil": "P.ராமலிங்கம்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_38.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fec4bd-96ad-441c-86f6-a70713a2e686",
       "name": "R.RAJASEHAR",
       "nameTamil": "R.ராஜசேகர் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_43.jpg"
     },
     {
+      "slno": "15",
       "recid": "92febcfe-c2bb-46ea-885d-ab25e4a85416",
       "name": "R.ELAIYARAJA",
       "nameTamil": "R.இளையராஜா ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_42.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fec8d2-6ac2-4e71-90a2-29c79d019503",
       "name": "V.GOPALAKRISHNAN",
       "nameTamil": "V.கோபாலகிருஷ்ணன் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_44.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fa7399-6ad6-43ee-b099-2eedeaa1592b",
       "name": "R.Sudha",
       "nameTamil": "R.சுதா",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_6.jpg"
     },
     {
+      "slno": "18",
       "recid": "92f89560-7774-477c-b65d-091d20f75e74",
       "name": "V.M.Selvaraj",
       "nameTamil": "V.M.செல்வராஜ்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_5.jpg"
     },
     {
+      "slno": "19",
       "recid": "9304dd0e-aceb-4a55-a4b3-810c1e4a1385",
       "name": "P.NEELAMEGAM",
       "nameTamil": "P.நீலமேகம்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/P_NEELAMEGAM_Manachanallur.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fe94e3-8192-4240-bffb-21535705ab33",
       "name": "S.PUGALENTHI",
       "nameTamil": "S.புகழேந்தி ",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_29.jpg"
     },
     {
+      "slno": "21",
       "recid": "92fea07b-09bb-418e-95f5-7b53b1ad47bc",
       "name": "P.MACHAVALLAVAN",
       "nameTamil": "P.மச்சவல்லவன் ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_36.jpg"
     },
     {
+      "slno": "22",
       "recid": "92faa1b5-2860-4415-b1ff-36b167669f44",
       "name": "K.MANIMARA BHOOPATHI",
       "nameTamil": "K.மணிமாற பூபதி",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_11.jpg"
     },
     {
+      "slno": "23",
       "recid": "92feaf6a-175b-4cec-ba24-76b9541df3c6",
       "name": "AC.MANOHARAN",
       "nameTamil": "AC.மனோகரன் ",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_39.jpg"
     },
     {
+      "slno": "24",
       "recid": "92fe98cf-0557-4a89-8115-38b017274447",
       "name": "S.MANOJ KUMAR",
       "nameTamil": "S.மனோஜ் குமார் ",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_31.jpg"
     },
     {
+      "slno": "25",
       "recid": "92fb1975-8428-40b7-a7b8-286ed1e5775d",
       "name": "V.MUTHUSAMY",
       "nameTamil": "V.முத்துசாமி",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/V_MUTHUSAMY_Manachanallur.jpg"
     },
     {
+      "slno": "26",
       "recid": "92fccc5e-7cdd-427d-a8e2-0eff6f006322",
       "name": "N.MOHAN",
       "nameTamil": "N.மோகன்",
@@ -808,6 +834,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_18.jpg"
     },
     {
+      "slno": "27",
       "recid": "92fd7133-44e7-4a30-815f-30cb9ac1bee7",
       "name": "K.Rajinikanth",
       "nameTamil": "K.ரஜினிகாந்த்",
@@ -839,6 +866,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_28.jpg"
     },
     {
+      "slno": "28",
       "recid": "92fa9d99-9f58-4d77-b2b8-e949bfffa1f9",
       "name": "P.RAJARAM",
       "nameTamil": "P.ராஜாராம்",
@@ -870,6 +898,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANACHANALLUR_10.jpg"
     },
     {
+      "slno": "29",
       "recid": "92fed1ab-89c8-4e89-a21b-e8673dd1be25",
       "name": "V.RAJU",
       "nameTamil": "V.ராஜு ",

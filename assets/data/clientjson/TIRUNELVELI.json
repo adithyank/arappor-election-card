@@ -2,6 +2,7 @@
   "name": "TIRUNELVELI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92ff9ac2-0783-4ee0-8f82-75ea433ca3e4",
       "name": "K.Kalanithy",
       "nameTamil": "K.கலாநிதி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUNELVELI_23.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f10ed1-ef5e-4038-a3a6-d46d24473b82",
       "name": "N.Nainar Nagenthran",
       "nameTamil": "N.நயினார் நாகேந்திரன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUNELVELI_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "93068352-a19c-4855-9d6b-344e77d524fb",
       "name": "A.L.S.LAKSHMANAN",
       "nameTamil": "A.L.S.லட்சுமணன்  ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Lakshmanan_A_L_S__Tirunelveli.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff9eb5-bde9-47f5-b017-132788cea1cb",
       "name": "B.Sathya",
       "nameTamil": "B.B.Sathya",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUNELVELI_24.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fd7907-5d15-4556-b0ef-aafb0a27d90c",
       "name": "M.SUNDARRAJ",
       "nameTamil": "M.சுந்தர்ராஜ்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUNELVELI_10.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff7b75-457a-4da8-859d-1b85e6c3b635",
       "name": "P.Mahesh Kannan",
       "nameTamil": "P.மகேஷ் கண்ணன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUNELVELI_16.jpg"
     },
     {
+      "slno": "7",
       "recid": "9306858c-244a-4d69-b885-f29767ebc308",
       "name": "P.ESAKKIMUTHU",
       "nameTamil": "P.இசக்கி முத்து  ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Esakkimuthu_P__Tirunelveli.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fd899c-2642-44e7-bec0-1441ca5aa719",
       "name": "M.Sankara Subramanian",
       "nameTamil": "M.சங்கர் சுப்பிரமணியன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUNELVELI_13.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f8a399-9fa2-4ad5-81fd-41139ffedc12",
       "name": "R.SANKAR NARAYANAN",
       "nameTamil": "R.சங்கர் நாராயணன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUNELVELI_5.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff9280-6e86-40d7-8d5b-654e4a9877c6",
       "name": "M.Sivakumar",
       "nameTamil": "M.சிவக்குமார்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUNELVELI_20.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff94d5-aaf3-40e0-b472-49556e26a94b",
       "name": "R.Murugan",
       "nameTamil": "R.முருகன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUNELVELI_21.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ffa387-3ca3-47ab-965b-be6040ca550b",
       "name": "V.Murugan",
       "nameTamil": "V.முருகன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUNELVELI_27.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fae8c4-2db6-4ed5-8ad2-1ebd70d0e0c0",
       "name": "C.M.RAGHAVAN",
       "nameTamil": "C.M.இராகவன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUNELVELI_7.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff86bb-08cb-4531-aac9-ffc544f4a3da",
       "name": "H.Srithar Rajan",
       "nameTamil": "H.ஶ்ரீதர் ராஜன்",

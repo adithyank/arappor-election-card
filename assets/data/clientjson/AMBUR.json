@@ -2,6 +2,7 @@
   "name": "AMBUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f86ddd-7e83-42ca-aa45-da2e914dbe2f",
       "name": "K.Nazarmohamed",
       "nameTamil": "K.நஜர் முஹமத்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBUR_3.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fae4e1-ba66-4eb5-a9b1-51db0d2b0683",
       "name": "J.Wazeerahmed",
       "nameTamil": "J.வஜீர் அஹமத்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBUR_8.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f8d610-f4b8-404e-9416-b7abdc3fa68a",
       "name": "A.C.Vilwanathan",
       "nameTamil": "A.C.வில்வனாதன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBUR_4.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff0d6e-e124-40a7-80c9-5ab83c5aa627",
       "name": "C.ASHOKKUMAR",
       "nameTamil": "C.அசோக்குமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ASHOKKUMAR_C_Ambur.jpg"
     },
     {
+      "slno": "5",
       "recid": "930514c3-2341-49d0-aaaa-11cd11ed864f",
       "name": "A.MA.Umarfarook",
       "nameTamil": "A.MA.உமர் பரூக் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UMARFAROOK_ASA_Ambur.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff294d-1f91-4ae8-a8e8-57791ecdb03c",
       "name": "A.KAREEM BASHA",
       "nameTamil": "A.கரீம் பாஷா ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KAREEMBASHA_A_Ambur.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff20c8-fe7e-46d1-b802-f3bc1aa523cc",
       "name": "V.PARTHIBAN",
       "nameTamil": "V.பார்திபன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBUR_20.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff06d5-d6dd-46d4-b78f-35b22649dea4",
       "name": "S.P.MANI",
       "nameTamil": "S.P.மணி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBUR_14.jpg"
     },
     {
+      "slno": "9",
       "recid": "93067beb-c2fb-4fdb-8d60-b5ce34e3ceb6",
       "name": "M.Maharunnisha",
       "nameTamil": "M.மெஹருன்னிசா",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MAHARUNNISHA_Ambur.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fcd686-1576-4a5a-8ef5-8652a14e500f",
       "name": "S.Raja",
       "nameTamil": "S.ராஜா",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBUR_9.jpg"
     },
     {
+      "slno": "11",
       "recid": "930511f9-a7e2-4042-b321-311efc97f4cc",
       "name": "L.Murugan",
       "nameTamil": "L.முருகன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MURUGAN_L_Ambur.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff1056-e091-48b8-b9df-d5e31a996bb5",
       "name": "P.RAJINIKANTH",
       "nameTamil": "P.ரஜினிகாந்த்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AMBUR_17.jpg"
     },
     {
+      "slno": "13",
       "recid": "93051736-04cd-477b-98da-59e9a4d6d993",
       "name": "V.A.George",
       "nameTamil": "V.A.ஜார்ஜ் ",

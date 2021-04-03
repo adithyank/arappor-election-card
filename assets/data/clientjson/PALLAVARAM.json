@@ -2,6 +2,7 @@
   "name": "PALLAVARAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f4e43b-870e-47e5-abf4-3cfae98b561d",
       "name": "C.RAJENDRAN",
       "nameTamil": "C. ராஜேந்திரன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJENDRAN_Pallavaram.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6c118-9668-457a-abb2-dd840ea0c3b3",
       "name": "E.KARUNANITHI",
       "nameTamil": "E.கருணாநிதி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_6.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fb20a1-4f92-4c68-8dcd-074d8c79e65d",
       "name": "A.Karthick",
       "nameTamil": "A.கார்த்திக்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_23.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fed3c8-86cf-45a1-8ae8-8952abaf4845",
       "name": "D.MURUGESAN",
       "nameTamil": "D.D.MURUGESAN",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_38.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fed757-426c-4f1c-a9e6-cf882d653d59",
       "name": "R.AJITHKUMAR",
       "nameTamil": "R.அஜித்குமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_39.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f917a1-6252-44f3-a11f-4505ce2519e1",
       "name": "V.Kumar",
       "nameTamil": "V.குமார்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUMAR_Pallavaram.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fe8b5d-f503-423c-b81a-3261a2fd6046",
       "name": "S.GOKUL KRISHNAN ",
       "nameTamil": "S.S.GOKUL KRISHNAN ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_34.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fb09bb-4207-4262-a001-af2c580cf1af",
       "name": "L.Sasikumar lakshmipathy",
       "nameTamil": "L.சசிகுமார் லட்சுமிபதி",
@@ -237,8 +245,8 @@
       "totalAssetTamil": "11 லட்சம்",
       "liability": "15 lacs",
       "liabilityTamil": "15 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_25.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff90e0-6aa9-4810-a0a8-c2dac09a44ff",
       "name": "M.SATHIYASEELAN",
       "nameTamil": "M.சத்தியசீலன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_50.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f57f79-ee89-43b9-bc88-777a389c73d6",
       "name": "A.SENTHILKUMAR",
       "nameTamil": "A.செந்தில்குமார்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHILKUMAR_Pallavaram.jpg"
     },
     {
+      "slno": "11",
       "recid": "92f1138c-b27c-428d-839c-e05684baf2c8",
       "name": "R.SERMA SELVARAJ",
       "nameTamil": "R.சேர்ம செல்வராஜ்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_1.jpg"
     },
     {
+      "slno": "12",
       "recid": "92f94729-306f-4a3d-afad-3cd1d8cad7df",
       "name": "K.Minisri kanagaraj",
       "nameTamil": "K.மினிஸ்ரீ கனகராஜ்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_17.jpg"
     },
     {
+      "slno": "13",
       "recid": "92f95fa8-675f-41f1-be5a-7b687a590aac",
       "name": "C.Veeralakshmi",
       "nameTamil": "C.வீரலட்சுமி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_16.jpg"
     },
     {
+      "slno": "14",
       "recid": "92f917b0-aa82-4ced-816a-d600797e552c",
       "name": "A.Sridharan",
       "nameTamil": "A.ஸ்ரீதரன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_14.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fea6eb-8178-40c3-b5e6-c4a42256efd5",
       "name": "A.KANAGARAJ",
       "nameTamil": "A.கனகராஜ்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_45.jpg"
     },
     {
+      "slno": "16",
       "recid": "92f990e7-1b33-45e0-99be-6822d2f2e358",
       "name": "S.Kumaradoss",
       "nameTamil": "S.குமாரதாஸ்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_18.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fe8c25-a365-4028-9a10-eec7125cbb60",
       "name": "R.SADAM HUSSAIN",
       "nameTamil": "R.சதாம் உசேன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_41.jpg"
     },
     {
+      "slno": "18",
       "recid": "930980be-ae0d-4753-9f8b-bc8ce030e5e4",
       "name": "S.BALAJI",
       "nameTamil": "S.S.BALAJI",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BALAJI_Pallavaram.jpg"
     },
     {
+      "slno": "19",
       "recid": "92feaa49-7c6e-408f-acf0-38065eb09d8a",
       "name": "P.BASKARAN",
       "nameTamil": "P.பாஸ்கரன்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_46.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fea9d6-98a1-4290-9093-1fdc033a276a",
       "name": "R.PERUMAL",
       "nameTamil": "R. பெருமாள்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_35.jpg"
     },
     {
+      "slno": "21",
       "recid": "92ff9623-8614-4db8-9d16-d74eaacb8fed",
       "name": "J.M.MICHEAL",
       "nameTamil": "J.M.மைக்கேல்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALLAVARAM_49.jpg"
     },
     {
+      "slno": "22",
       "recid": "92fe98a2-7456-4ead-bf5c-18abe5da4ed0",
       "name": "R.RAMACHANDRAN",
       "nameTamil": "R.ராமசந்திரன்",

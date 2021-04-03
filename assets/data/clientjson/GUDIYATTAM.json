@@ -2,6 +2,7 @@
   "name": "GUDIYATTAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92ff3267-57a4-4edb-b1da-5cdd4fe33f2c",
       "name": "V.Amalu",
       "nameTamil": "V.அமலு ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDIYATTAM_16.jpg"
     },
     {
+      "slno": "2",
       "recid": "9305180f-31ca-46d3-91f8-10b0ee2aff77",
       "name": "G.Paritha",
       "nameTamil": "G.பரிதா",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Paritha_G_Gudiyattam.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa88f1-fc4c-4a39-b5b3-13e1b2b01c36",
       "name": "S.Raja",
       "nameTamil": "S.ராஜா",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDIYATTAM_5.jpg"
     },
     {
+      "slno": "4",
       "recid": "9305da36-90c3-4ac2-9c06-5df6ff7a48f5",
       "name": "R.Kalaiyenthiri",
       "nameTamil": "R.கலையேனதிரி",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "3 லட்சம்",
       "liability": "5 lacs",
       "liabilityTamil": "5 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Kalaiyenthiri_R_Gudiyattam.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fa9203-eb34-419a-814a-8b2b8c5f88fd",
       "name": "D.Selvavinayagam",
       "nameTamil": "D.செல்வவிநாயகம் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDIYATTAM_6.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff278f-0efa-40b5-8128-5ffe0332e5c9",
       "name": "C.Rajan",
       "nameTamil": "C.ராஜன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDIYATTAM_12.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff3512-e57e-4b40-90a0-9ea5ce107afc",
       "name": "R.VENNILA",
       "nameTamil": "R.வெண்ணிலா ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDIYATTAM_22.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fee4f0-b784-4585-ab42-066ab66c38b4",
       "name": "C.Jayanthi Padmanaban",
       "nameTamil": "C.ஜெயந்தி பத்மநாபன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDIYATTAM_9.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff1c55-bbdc-4d10-9aa9-d509447e10f4",
       "name": "M.Elumalai",
       "nameTamil": "M.ஏழுமலை ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDIYATTAM_10.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff2fe1-65ce-4eb3-95c8-ac853171200f",
       "name": "P.Gunaseelan",
       "nameTamil": "P.குணசீலன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDIYATTAM_15.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff22dc-fc37-4340-903f-6b09cd14687f",
       "name": "M.Priya",
       "nameTamil": "M.பிரியா ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDIYATTAM_11.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff540c-2bd7-42c7-b091-6483495e1906",
       "name": "G.MANOJKUMAR",
       "nameTamil": "G.மனோஜ்குமார் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDIYATTAM_25.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff3130-0353-4c8e-8958-ddc5fbd57a3c",
       "name": "U.Radha",
       "nameTamil": "U.ராதா ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDIYATTAM_21.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff4c45-bd93-44da-8ccf-8201c22a68db",
       "name": "N.LAKSHMPATHY",
       "nameTamil": "N.லட்சுமிபதி ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDIYATTAM_23.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff2cb4-38f8-42ba-b2e4-27c6ce7a97fa",
       "name": "K.Jaikarthikeyan",
       "nameTamil": "K.ஜெய்கார்த்திகேயன் ",

@@ -2,6 +2,7 @@
   "name": "SIRKAZHI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fa9aad-3b26-4c22-8751-2db4db177e1f",
       "name": "M.PANNEERSELVAM",
       "nameTamil": "M.பன்னீர்செல்வம்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIRKAZHI_7.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304b1db-47f9-49f2-9db6-27c604eb4471",
       "name": "P.V.BHARATHI",
       "nameTamil": "P.V..பாரதி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/P_V_BHARATHI_Sirkazhi.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa9e7c-92de-42b3-9f2f-2fb071078fb9",
       "name": "G.SRIDHAR",
       "nameTamil": "G.ஸ்ரீதர்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIRKAZHI_8.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fef2ff-e56a-469b-9fc9-e9703e3a2249",
       "name": "S.Kamban",
       "nameTamil": "S.கம்பன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIRKAZHI_16.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f69eec-3261-4b3e-b390-79bd3d97e93b",
       "name": "KAVITHA",
       "nameTamil": "கவிதா ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIRKAZHI_1.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304ae97-9d65-4f7d-93e1-826948684f2f",
       "name": "P.BALU",
       "nameTamil": "P.பாலு",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BALU_Sirkazhi.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fecf02-8d91-42e4-8256-89271e64d4f1",
       "name": "R.Prabhu",
       "nameTamil": "R.பிரபு",
@@ -206,8 +213,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "13 lacs",
       "liabilityTamil": "13 லட்சம்",
-      "netAsset": "- crore 11 lacs",
-      "netAssetTamil": "- கோடி 11 லட்சம்",
+      "netAsset": " - 11 lacs",
+      "netAssetTamil": " - 11 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "ஏதுமில்லை . ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIRKAZHI_10.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fef6c0-0c1e-41e6-ad08-72622b50626c",
       "name": "R.Anusuya",
       "nameTamil": "R. அனுசுயா ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIRKAZHI_17.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fee7e9-0d27-4fbf-b428-8a13e8924713",
       "name": "C.Silambarasan",
       "nameTamil": "C. சிலம்பரசன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIRKAZHI_13.jpg"
     },
     {
+      "slno": "10",
       "recid": "92feeeaf-c6e4-43e6-b3a6-d60c32fa46f5",
       "name": "A.BHARATHI",
       "nameTamil": "A.பாரதி ",

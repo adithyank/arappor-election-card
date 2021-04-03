@@ -2,6 +2,7 @@
   "name": "VEPPANAHALLI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9306a33e-9c9c-4c7f-b584-2e332eb62f99",
       "name": "P.Murugan",
       "nameTamil": "P.முருகன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/P_Murugan_Veppanahalli.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fce992-4622-47f0-9d3b-e751216fe585",
       "name": "S.M.Murugesan",
       "nameTamil": "S.M.முருகேசன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEPPANAHALLI_15.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304ef28-7269-49e4-856e-8ae0096e7d5c",
       "name": "K. P.Munusamy",
       "nameTamil": "K. P.முனுசாமி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_P_Munusamy_Veppanahalli.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304eb4f-d3b1-4a4c-9a2d-6b798780e8d2",
       "name": "M.Sakthivel",
       "nameTamil": "M.சக்திவேல்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_Sakthivel_Veppanahalli.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304de33-2063-43fe-9a88-37bad9c2fe27",
       "name": "S.Thangapandiyan",
       "nameTamil": "S.தங்கபாண்டியன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_Thangapandiyan_Veppanahalli.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff85b1-ad82-42d4-a829-bf987ff517c0",
       "name": "M.MARIYAPPAN",
       "nameTamil": "M.மாரியப்பன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEPPANAHALLI_23.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff7f5f-0f91-4fb2-b3e4-26e1210336ef",
       "name": "M.VALLI",
       "nameTamil": "M.வள்ளி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEPPANAHALLI_21.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff94cb-caef-42eb-aaf0-e3c258f6d454",
       "name": "P.JAYAPAL",
       "nameTamil": "P.ஜெயபால்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEPPANAHALLI_34.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f954f5-74d1-48b8-ba9b-ea99c687519b",
       "name": "Abdul Azeez Amanullah",
       "nameTamil": "அப்துல் அசீஸ் அமானுல்லாஹ்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEPPANAHALLI_14.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff9205-2736-43f0-b142-aff868bae113",
       "name": "J.USHA",
       "nameTamil": "J.உஷா ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEPPANAHALLI_32.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff7c83-5471-41b8-a12b-9676f53cdc12",
       "name": "P.KRISHNAMOORTHY",
       "nameTamil": "P.கிருஷ்ணமூர்த்தி",
@@ -330,8 +341,8 @@
       "totalAssetTamil": "7 லட்சம்",
       "liability": "7 lacs",
       "liabilityTamil": "7 லட்சம்",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 12978",
+      "netAssetTamil": " - 12978",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEPPANAHALLI_20.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fcee31-57c9-4616-9fdb-05262e29a858",
       "name": "C.Chakkarlappa Gundugurikki",
       "nameTamil": "C.சக்கரலப்பா",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEPPANAHALLI_18.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff904b-0c54-484c-ae7c-d52e5c446d1e",
       "name": "K.P.U.UVARAJ",
       "nameTamil": "K.P.U.யுவராஜ்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEPPANAHALLI_31.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff8b52-a3ec-4e07-99ac-0030adbd8a7f",
       "name": "G.C.RAMASWAMY",
       "nameTamil": "G.C.ராமசாமி",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEPPANAHALLI_27.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff8314-4b26-4bff-a5af-daaf729c471d",
       "name": "L.SHANMUGAM",
       "nameTamil": "L.லக்ஷ்மணன் சண்முகம்",

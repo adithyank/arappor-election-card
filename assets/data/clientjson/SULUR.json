@@ -2,6 +2,7 @@
   "name": "SULUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f62d54-0033-4628-89e5-5bb5e17cba46",
       "name": "P.KANDASAMY",
       "nameTamil": "P.P. கந்தசாமி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULUR_2.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fe22d3-7e0a-4657-8396-3f13ecc90b20",
       "name": "M.Kalichamy (a) Premier Selvam",
       "nameTamil": "M.காளிச்சாமி  (எ) பிரீமியர் செல்வம்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULUR_16.jpg"
     },
     {
+      "slno": "3",
       "recid": "93056e32-404b-4f3c-8ed1-00788acaa658",
       "name": "G.ELANGOVAN",
       "nameTamil": "G.கோ. இளங்கோவன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ELANGOVAN_G_Sulur.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f8bc43-f920-4fee-8fa6-2c39016bee3c",
       "name": "S A.Senthil Kumar",
       "nameTamil": "S A.செந்தில் குமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULUR_7.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ffb5f5-2848-4df7-b9dc-b06c19181c3a",
       "name": "K.Nagaraj",
       "nameTamil": "K.நாகராஜ்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULUR_23.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fbf9d5-3530-4576-86b1-0236c085b46c",
       "name": "A.Ranganathan",
       "nameTamil": "A.ரங்கநாதன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULUR_10.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ffce10-a66d-4312-ae28-8240a9a5d543",
       "name": "S. JAGADHEESH",
       "nameTamil": "S.ஜெகதீஷ்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULUR_30.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ffb7f4-5365-4b35-9d2a-eed049e90c1a",
       "name": "T. KANDASAMY",
       "nameTamil": "T.கந்தசாமி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULUR_24.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f15030-4096-479e-aba0-106a97db044f",
       "name": "P.Karthikeyan",
       "nameTamil": "P.பொன். கார்த்திகேயன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULUR_1.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ffc4d5-03d7-4939-a3f6-0335998a02d4",
       "name": " SHANKARGURU",
       "nameTamil": "சங்கர்குரு",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULUR_28.jpg"
     },
     {
+      "slno": "11",
       "recid": "93070fe2-6c15-4811-88c2-bff8ca537551",
       "name": "R.Shanmugam",
       "nameTamil": "R.சண்முகம்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SHANMUGAMR_Sulur.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fe24f3-48f0-411c-b3d4-9414c0eedf9e",
       "name": "P.Senthil Kumar",
       "nameTamil": "P.செந்தில் குமார்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULUR_18.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fd2546-f4a2-4f66-8ad8-285c52c0f7e4",
       "name": "D.Selva Kumar",
       "nameTamil": "D.செல்வகுமார்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULUR_12.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fe1e71-ee64-490c-a25c-35dd855a4a4d",
       "name": "S.Selvan",
       "nameTamil": "S.செல்வன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULUR_14.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ffb2f4-93ae-47c8-9f50-987c4f436ee1",
       "name": "P.Premkumar",
       "nameTamil": "P.பிரேம்குமார்",
@@ -454,8 +469,8 @@
       "totalAssetTamil": "63000",
       "liability": "1 lacs",
       "liabilityTamil": "1 லட்சம்",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 42000",
+      "netAssetTamil": " - 42000",
       "criminalCase": "2",
       "caseDetailEnglish": "Cheating, Involving in riot and violence. Cases filed in 2017.. ",
       "caseDetailTamil": "மோசடி, கலவரம் மற்றும் வன்முறையில் ஈடுபடுவது. ",

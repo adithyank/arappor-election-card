@@ -2,6 +2,7 @@
   "name": "NAGERCOIL",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92ff1608-e413-42a6-9070-e94877ed894f",
       "name": "M.R.GANTHI",
       "nameTamil": "M.R.காந்தி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGERCOIL_12.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fef349-7d57-4123-92f9-7e471776749c",
       "name": "N.SURESHRAJAN",
       "nameTamil": "N.N.SURESHRAJAN",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGERCOIL_6.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fef56f-8d1c-46bf-9ff3-284a9cbebc5f",
       "name": "I.AMMU ANTO",
       "nameTamil": "I.I.AMMU ANTO",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGERCOIL_17.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ffae8a-a35d-43c4-a54f-81bc8a369922",
       "name": "D .SATHEESH KUMAR",
       "nameTamil": "D .சதீஷ்குமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGERCOIL_22.jpg"
     },
     {
+      "slno": "5",
       "recid": "9300c30c-f423-40f5-bcac-7a5e67b0e6ef",
       "name": "S.SUNIL KUMAR",
       "nameTamil": "S.சுனில்குமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGERCOIL_27.jpg"
     },
     {
+      "slno": "6",
       "recid": "930935c8-3423-43f4-af7a-29fc1a432fbf",
       "name": "S.MARIA JACOB STANI RAJA",
       "nameTamil": "S.மரிய ஜேக்கப் ஸ்டனி ராஜா ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MARIAJACOBSTANIRAJAS_Nagercoil.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff06a7-7d34-45ee-b5e8-084e568ab724",
       "name": "TR.VIJAYARAGAVAN",
       "nameTamil": "TR.விஜயராகவன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGERCOIL_15.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff0072-7d89-476e-ba2d-417fc0589057",
       "name": "P.USHA",
       "nameTamil": "P.உஷா",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/USHAP_Nagercoil.jpg"
     },
     {
+      "slno": "9",
       "recid": "9300b08a-8cab-4f6d-b9df-a916d789987c",
       "name": "M.KANNAN",
       "nameTamil": "M.கண்ணன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGERCOIL_24.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fabf0a-dee2-4524-8c40-94fc4689cb89",
       "name": "L.GANDHI",
       "nameTamil": "L.காந்தி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGERCOIL_2.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fac8c5-061c-45fd-b5e9-a93f39427506",
       "name": "C.Gandhiraj",
       "nameTamil": "C.காந்திராஜ்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGERCOIL_3.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff0b1f-69bb-4430-b4dc-b8068e2cd44e",
       "name": "J.BALASIVANESAN",
       "nameTamil": "J.பாலசிவநேசன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGERCOIL_14.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fefe07-08ae-48fd-a02b-a9031bf89dd9",
       "name": "P.PRAVINRAJ",
       "nameTamil": "P.பிரவீன் ராஜ்",
@@ -392,8 +405,8 @@
       "totalAssetTamil": "இல்லை",
       "liability": "3 lacs",
       "liabilityTamil": "3 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGERCOIL_9.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff97db-a507-47c0-98ac-d9732bf6477d",
       "name": "P.MAHIZHCHI",
       "nameTamil": "P.P.MAHIZHCHI",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NAGERCOIL_19.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fee4d7-a2a9-46de-b73e-28b80ca96d52",
       "name": "A.T.RATHINAM",
       "nameTamil": "A.T.இரத்தினம்",

@@ -2,6 +2,7 @@
   "name": "POONMALLAE",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6d3b8-d882-42a7-8b20-fa8199d7704c",
       "name": "A.Krishnaswamy",
       "nameTamil": "A.ஆ கிருஷ்ணசாமி ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POONMALLAE_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "93048cae-2d84-4421-90db-73ddf366eacd",
       "name": "A.C.Sathyamurthy",
       "nameTamil": "A.C.சத்தியமூர்த்தி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SathyamurthyAC_Poonamallee.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fd0c45-7aee-4224-8741-0e31a16cb274",
       "name": "S.X.Rajamannar",
       "nameTamil": "SX. இராஜமன்னார் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POONMALLAE_7.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fd060c-a1a4-46cc-ac5a-56d28f781d2a",
       "name": "T.A.Elumalai",
       "nameTamil": "T.A.ஏழுமலை",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POONMALLAE_5.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f86f62-bcb2-4ecc-bfae-5412b4ccbedf",
       "name": "M.Boshya Gayathri",
       "nameTamil": "M.போஷியா காயத்ரி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POONMALLAE_2.jpg"
     },
     {
+      "slno": "6",
       "recid": "92feae4e-18a8-4db8-b67f-7615b6f3b03f",
       "name": "A.Manimekalai",
       "nameTamil": "A.அ. மணிமேகலை ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POONMALLAE_14.jpg"
     },
     {
+      "slno": "7",
       "recid": "92feb2aa-49c2-4017-8433-494d1e360ae7",
       "name": "N.Revathi Manimegalai",
       "nameTamil": "N.ரேவதி மணிமேகலை",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POONMALLAE_17.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fcf39d-59f9-487c-b92e-c3c20e3f8ecc",
       "name": "Sivakumar S",
       "nameTamil": "சிவகுமார்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POONMALLAE_4.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fd0e81-f25c-4f95-999f-76f1b01852cd",
       "name": "R.Dhasaradhan",
       "nameTamil": "R.தசரதன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POONMALLAE_8.jpg"
     },
     {
+      "slno": "10",
       "recid": "92feac84-1112-473b-8491-f130a544c9f7",
       "name": "B.Purushothaman",
       "nameTamil": "B.புருஷோத்தமன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POONMALLAE_13.jpg"
     },
     {
+      "slno": "11",
       "recid": "93048b5a-5fb0-45f6-a5c9-34ffe06dac3c",
       "name": "M.Ravikumar",
       "nameTamil": "M.ரவிக்குமார் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RavikumarM_Poonamallee.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fd186d-17dc-44a7-ad03-c0891a7fd3aa",
       "name": "P.Rajesh",
       "nameTamil": "P.ராஜேஷ்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POONMALLAE_11.jpg"
     },
     {
+      "slno": "13",
       "recid": "92feb09c-5304-43b7-a6f9-822b9aec0f3b",
       "name": "J.Venkatesan",
       "nameTamil": "J.வெங்கடேசன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POONMALLAE_16.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fd108f-4480-47c1-9671-ec24a3c12864",
       "name": "S.Velu",
       "nameTamil": "S.வேலு",

@@ -2,6 +2,7 @@
   "name": "JAYANKONDAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92ff7a97-b1d2-4273-9f94-54f1d04833b7",
       "name": "KA.SO.KANNAN",
       "nameTamil": "KA.SO.கண்ணன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYANKONDAM_18.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304f272-921f-408f-8d98-1b431ce87b3d",
       "name": "K.NEELAMEGAM",
       "nameTamil": "K.நீலமேகம்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NEELAMEGAMK_Jayankondam.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa917a-621b-46bf-a3b2-9e27d957b982",
       "name": "J.K.SIVA",
       "nameTamil": "J.K.சிவா",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYANKONDAM_7.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fcaa44-5dd1-4ef4-bf84-9cf15776e870",
       "name": "G.Latha(sornalatha)",
       "nameTamil": "G.லதா என்கிற சொர்ணலதா",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYANKONDAM_9.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304f0bf-ebf9-44c7-83ec-a4e367f292bd",
       "name": "A.NATARAJAN",
       "nameTamil": "A.நடராஜன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATARAJANA_Jayankondam.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f6f1e3-d197-4058-8e68-575bcb245f05",
       "name": "K.Balu",
       "nameTamil": "K.பாலு ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BALUK_Jayankondam.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f6eac2-ecdf-4a13-8f53-cbc39ca328ce",
       "name": "N.Mahalingam",
       "nameTamil": "N.மகாலிங்கம்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYANKONDAM_1.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fa8c34-5882-4cd9-bb8d-ce73265654ce",
       "name": "V.K.KESAVARAJAN",
       "nameTamil": "V.K..கேசவராஜன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYANKONDAM_6.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff597c-5662-4609-af4f-48f29f01c47d",
       "name": "R.SATHISH KUMAR",
       "nameTamil": "R.சதீஷ்குமார்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYANKONDAM_15.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fc9ed0-17ad-40e2-953b-92d94ef21c53",
       "name": "A.SAMUVEL MARTIN",
       "nameTamil": "A.சாமுவேல் மார்ட்டின்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYANKONDAM_8.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff7060-d3d9-424d-8a07-543a252e8a79",
       "name": "K.SUDARVIZHI",
       "nameTamil": "K.சுடர்விழி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYANKONDAM_17.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff4999-2241-4390-9e9f-d563ddddc270",
       "name": "R.SEDHURAMAN",
       "nameTamil": "R.சேதுராமன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYANKONDAM_11.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff4689-2906-401b-ba82-686737a3681b",
       "name": "S.RAJKUMAR",
       "nameTamil": "S.ராஜ்குமார் ",

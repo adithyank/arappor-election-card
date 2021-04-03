@@ -2,6 +2,7 @@
   "name": "THIRUVAIYARU",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92ff1270-f262-4a1c-81c0-e5ad9db8492b",
       "name": "B.Ashwin",
       "nameTamil": "B.அஸ்வின்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVAIYARU_42.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f86b04-4703-4a69-93bf-0d9230dcd54a",
       "name": "DURAI.CHANDRASEKARAN",
       "nameTamil": "DURAI.சந்திரசேகரன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVAIYARU_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcd37d-5452-4bf0-9246-25cd30c6b96d",
       "name": "S.VENKATESAN",
       "nameTamil": "S.வெங்கடேசன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVAIYARU_23.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff0816-1575-43f8-84da-ac05fad1fbfa",
       "name": "G.UTHIRAAPATHI",
       "nameTamil": "G.உத்திராபதி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVAIYARU_36.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f872fd-e6e0-46dc-9a6f-aa887f8f9498",
       "name": "V.KARTHIKEYAN",
       "nameTamil": "V.கார்த்திகேயன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVAIYARU_1.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304e4bf-014d-46d8-9d96-4e76864fc9a3",
       "name": "T.SIVARAMAN",
       "nameTamil": "T.சிவராமன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVARAMAN_T__Thiruvaiyaru.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f9417d-1d97-41a9-bee2-75960d273dd5",
       "name": "D.SENTHILNATHAN",
       "nameTamil": "D.செந்தில்நாதன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVAIYARU_8.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff1058-d2d0-4169-a382-09cf01b52984",
       "name": "V.Backiyaraj",
       "nameTamil": "V.பாக்கியராஜ் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVAIYARU_40.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fce037-1ef3-4e8c-9055-b08201876069",
       "name": "S.VIJAYAKUMAR",
       "nameTamil": "S.விஜயகுமார்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVAIYARU_29.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fcdc63-b397-43d3-8eea-f5aeb7075c85",
       "name": "S.SINGARAVADIVEL",
       "nameTamil": "S.சிங்காரவடிவேல்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVAIYARU_27.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fcde52-e10f-493d-b05d-64fdf56300f4",
       "name": "P.S.THIRUMARAN",
       "nameTamil": "P.S..திருமாறன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVAIYARU_28.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fccd0c-bfa2-4225-a7ca-af1207e15b5b",
       "name": "R.RAJKUMAR",
       "nameTamil": "R.ராஜ்குமார்",

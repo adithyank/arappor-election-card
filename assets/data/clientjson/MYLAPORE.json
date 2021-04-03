@@ -2,6 +2,7 @@
   "name": "MYLAPORE",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fa8ce0-3e56-4bd5-89be-1741039be53b",
       "name": "R.NATARAJ",
       "nameTamil": "R.நடராஜ்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_6.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304dc55-56ed-427b-bb69-fcc08c3cf5ef",
       "name": "V.BALAJI",
       "nameTamil": "V.பாலாஜி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BALAJI_Mylapore.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa9da8-f455-4bf5-a5a0-46f70efd6a1f",
       "name": "D.VELU",
       "nameTamil": "D.வேலு",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_11.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fa8f75-2308-451a-a1d7-1d7fad3d0e20",
       "name": "D.KARTHICK",
       "nameTamil": "D.கார்த்திக்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_7.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff4807-f6ab-4112-8c4d-d3eb9bed6801",
       "name": "D.SENTHILKUMAR",
       "nameTamil": "D.செந்தில் குமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_26.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fa9262-5a90-4ec0-8670-f31d8d744515",
       "name": "K.MAHALAKSHMI",
       "nameTamil": "K.மஹாலஷ்மி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_9.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f8c01c-6d80-4825-bb58-16a8b6c5574c",
       "name": "J.MOHANRAJ",
       "nameTamil": "J.மோகன் ராஜ்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_5.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fa96cc-ee80-41e0-9598-37670ec8195c",
       "name": "S.SRIPRIYA",
       "nameTamil": "S.ஸ்ரீப்ரியா",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_10.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304da7a-b307-47d7-ad5b-7f755b945564",
       "name": "ARUN RAJ BALAN",
       "nameTamil": "அருன் ராஜ் பாலன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARUNRAJBALAN_Mylapore.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff345a-6ca8-476d-86ee-9f59fec01980",
       "name": "M.KAJENDRAN",
       "nameTamil": "M.கஜேந்திரன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_21.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff2bcf-32a4-4b74-8e4d-f8572816b171",
       "name": "TM.KUPUSWAMY",
       "nameTamil": "TM.குப்புசாமி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_17.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff394b-a54b-4b50-bcd3-066bd954747e",
       "name": "B.SHANMUGARAJAN",
       "nameTamil": "B.சன்முகராஜன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_24.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fd2633-ecac-4b7e-97e1-dadaf44e5698",
       "name": "S.SELVAKUMAR",
       "nameTamil": "S.செல்வகுமார்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_12.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff4933-2254-4b8a-8b4a-6c009425fbae",
       "name": "P.NATARAJAN",
       "nameTamil": "P.நடராஜன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_27.jpg"
     },
     {
+      "slno": "15",
       "recid": "92faa314-5b6b-4f24-a944-2ab302ed1488",
       "name": "G.NANDAGOPAL",
       "nameTamil": "G.நந்தகோபால்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_8.jpg"
     },
     {
+      "slno": "16",
       "recid": "92ff4b3c-90d5-4c23-b8f9-920302b005c7",
       "name": "G.NALLAPPAN",
       "nameTamil": "G.நல்லப்பன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_28.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fd509d-c10a-4d8e-a77d-710d2bd6f432",
       "name": "K.Pasupathi Pragalathan ",
       "nameTamil": "K.பசுபதி பிரகலாதன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_16.jpg"
     },
     {
+      "slno": "18",
       "recid": "92ff3057-a6c2-4e29-a658-42744917caa8",
       "name": "R.MALARKANNAN",
       "nameTamil": "R.மலர்கண்ணன்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_19.jpg"
     },
     {
+      "slno": "19",
       "recid": "92ff3637-0022-40e1-ba33-11879eeec694",
       "name": "R.RANGARAJAN",
       "nameTamil": "R.ரங்கராஜன்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_22.jpg"
     },
     {
+      "slno": "20",
       "recid": "92ff37d4-628e-4be9-bc24-e9163a16a3cc",
       "name": "M.RADHA",
       "nameTamil": "M.ராதா",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_23.jpg"
     },
     {
+      "slno": "21",
       "recid": "92fd30f4-330c-4704-858c-c916ba8cab40",
       "name": "V.S.Varadharajan ",
       "nameTamil": "V.S..வரதராஜன்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_13.jpg"
     },
     {
+      "slno": "22",
       "recid": "92f57b4f-412d-467f-8400-8c34bd83dc30",
       "name": "V.VIJAYAKRISHNA",
       "nameTamil": "V.விஜயகிருஷ்ணா",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MYLAPORE_1.jpg"
     },
     {
+      "slno": "23",
       "recid": "92fd4c3b-6f37-45a0-86e3-2ada35e08a0f",
       "name": "E.Venkatesh ",
       "nameTamil": "E.வெங்கடேஷ்",

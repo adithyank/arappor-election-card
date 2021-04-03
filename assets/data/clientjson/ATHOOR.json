@@ -2,6 +2,7 @@
   "name": "ATHOOR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93006dfe-c97e-4b96-a275-a2c6d2f716bf",
       "name": "k.KARTHIGAISELVAN",
       "nameTamil": "k.கார்த்திகைசெல்வன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_36.jpg"
     },
     {
+      "slno": "2",
       "recid": "93051255-2799-4a07-91bb-cfe6e618a1cf",
       "name": "I.PERIYASAMY",
       "nameTamil": "I.பெரியசாமி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERIYASAMYI_Athoor.jpg"
     },
     {
+      "slno": "3",
       "recid": "92ff578f-b3c5-4e7c-b01f-2b4b91014e77",
       "name": "M.Silambarasan",
       "nameTamil": "M.சிலம்பரசன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_29.jpg"
     },
     {
+      "slno": "4",
       "recid": "9300d643-99fc-4012-b6c7-f3437c345f19",
       "name": "P.SIVASAKTHIVEL",
       "nameTamil": "P.சிவசக்திவேல்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_26.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fc8e46-7aef-4d65-a401-b13123f4496e",
       "name": "P.SELVAKUMAR",
       "nameTamil": "P.செல்வக்குமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_25.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f66a29-37a7-42fa-b179-b7a3e7f4ec4b",
       "name": "A.SIMON JUSTIN",
       "nameTamil": "A.சைமன் ஜஸ்டின் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_2.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f91804-411d-4b72-b2c5-91909d2ceda7",
       "name": "M.THILAGABAMA",
       "nameTamil": "M.திலகபாமா",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_11.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fa88f5-ca7f-4980-9050-1d60a5952446",
       "name": "R.MUTHULAKSHMI",
       "nameTamil": "R.முத்துலட்சுமி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_12.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fd1460-b0cc-494d-b7c3-0a45ea77c117",
       "name": "P.RAGUPATHI",
       "nameTamil": "P.ரகுபதி",
@@ -268,8 +277,8 @@
       "totalAssetTamil": "50000",
       "liability": "75000",
       "liabilityTamil": "75000",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 25000",
+      "netAssetTamil": " - 25000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_23.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fe9c89-68ad-482f-9111-968aec38c848",
       "name": "R.JEYASEKARAN",
       "nameTamil": "R.ஜெயசேகரன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_30.jpg"
     },
     {
+      "slno": "11",
       "recid": "92f91462-3ba8-4ae2-9a3c-a8fe75201628",
       "name": "A.S.Anbu",
       "nameTamil": "A.S.அன்பு ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_9.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fe9dd8-1946-43b7-ad52-8dabc9465912",
       "name": "M.KARTHI",
       "nameTamil": "M.கார்த்தி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_35.jpg"
     },
     {
+      "slno": "13",
       "recid": "93083bf5-f747-43c9-8e1d-c81c76099338",
       "name": "D.SANKAR ",
       "nameTamil": "D.சங்கர்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARD_Athoor.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fe9e68-a900-43a6-a340-f34161fb55b9",
       "name": "A.SAVADAMUTHU",
       "nameTamil": "A.சவடமுத்து",
@@ -423,8 +437,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "5 lacs",
       "liabilityTamil": "5 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_37.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fe9a31-343b-4ab7-9771-462158c1c4c2",
       "name": "P.SILAMBARASAN",
       "nameTamil": "P.சிலம்பரசன்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_28.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fe924f-41fd-4e2e-8bee-7a06c2cfbcac",
       "name": "S.THILAGAVATHY",
       "nameTamil": "S.திலகவதி ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_27.jpg"
     },
     {
+      "slno": "17",
       "recid": "92ff5b41-97b2-4b19-b72a-f169844d559d",
       "name": "A.Balamurugan",
       "nameTamil": "A.பாலமுருகன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_33.jpg"
     },
     {
+      "slno": "18",
       "recid": "930097b5-59f1-465f-98b6-9e7d25446263",
       "name": "R.PALRAJ",
       "nameTamil": "R.பால்ராஜ் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_32.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fe9ca4-36d6-4c95-ac03-57f503ec5a3a",
       "name": "C.MURUGANANTHAM",
       "nameTamil": "C.முருகானந்தம்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ATHOOR_34.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fe9533-5cda-425a-9349-42c9af7e10f9",
       "name": "S.VEERAMALAI",
       "nameTamil": "S.வீரமலை ",

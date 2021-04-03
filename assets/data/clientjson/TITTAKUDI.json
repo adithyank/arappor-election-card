@@ -2,6 +2,7 @@
   "name": "TITTAKUDI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9300cc6d-92ea-4823-b810-cddcdaacc946",
       "name": "R.Umanath",
       "nameTamil": "R.உமாநாத்",
@@ -20,8 +21,8 @@
       "totalAssetTamil": "18 லட்சம்",
       "liability": "41 lacs",
       "liabilityTamil": "41 லட்சம்",
-      "netAsset": "- crore 23 lacs",
-      "netAssetTamil": "- கோடி 23 லட்சம்",
+      "netAsset": " - 23 lacs",
+      "netAssetTamil": " - 23 லட்சம்",
       "criminalCase": "2",
       "caseDetailEnglish": "unlawful assembly,\nDisobedience to order duly promulgated by public servant,\nArrest to Prevent of the Commission of Cognizable Offence. . ",
       "caseDetailTamil": "அனுமதியின்றி கூட்டம் கூடுதல் ,அரசு அதிகாரியின் ஆணைக்கு கீழ்ப்படியாமை,\nமுன் எச்சரிக்கை நடவடிக்கையாக கைது செய்யப்பட்டது.. ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TITTAKUDI_6.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304dbca-669d-47fd-b274-e08c9e0ca75d",
       "name": "C.V.Ganesan",
       "nameTamil": "C.V.கணேசன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANESAN_C_V__Tittakudi.jpg"
     },
     {
+      "slno": "3",
       "recid": "92faa3e7-ce33-4af8-903b-b04b12b1359f",
       "name": "D.Periyasamy",
       "nameTamil": "D.பெரியசாமி ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TITTAKUDI_2.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fca443-34cb-4832-82ce-6f42d57ff190",
       "name": "P.Ravichandran",
       "nameTamil": "P.ரவிச்சந்திரன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TITTAKUDI_5.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304de6c-9b08-49de-9c64-9923e56c8f9d",
       "name": "E.Aruldoss",
       "nameTamil": "E.அருள்தாஸ்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARULDOSS_E__Tittakudi.jpg"
     },
     {
+      "slno": "6",
       "recid": "92faa0c5-645c-419a-9b57-1c80ffc0a8a3",
       "name": "kamachi",
       "nameTamil": "காமாட்சி ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TITTAKUDI_1.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fca2f0-fcb5-4e96-9a81-4e85aa361efc",
       "name": "R.Prabhakaran",
       "nameTamil": "R.பிரபாகரன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TITTAKUDI_4.jpg"
     },
     {
+      "slno": "8",
       "recid": "9300dcbd-8319-4e0b-af26-1e5195ba2f83",
       "name": "S.Ayyasamy",
       "nameTamil": "S.அய்யாசாமி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TITTAKUDI_24.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304d503-1cb7-407a-8969-4281ec479e80",
       "name": "M.Karuppan",
       "nameTamil": "M.கருப்பன்",
@@ -268,8 +277,8 @@
       "totalAssetTamil": "35 லட்சம்",
       "liability": "35 lacs",
       "liabilityTamil": "35 லட்சம்",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 13000",
+      "netAssetTamil": " - 13000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARUPPAN_M__Tittakudi.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff83ab-eac1-4cac-a3c3-5153cfdfc0bf",
       "name": "K.KAMARAJ",
       "nameTamil": "K.காமராஜ்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TITTAKUDI_14.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300db7c-0b53-42ef-9c86-52361e59e20f",
       "name": "V.Kolanjinathan",
       "nameTamil": "V.கொலஞ்சினாதன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TITTAKUDI_23.jpg"
     },
     {
+      "slno": "12",
       "recid": "92faa5ea-e2b1-47f3-b355-1c0b8201448f",
       "name": "C.Seenuvasan",
       "nameTamil": "C.சீனுவாசன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TITTAKUDI_3.jpg"
     },
     {
+      "slno": "13",
       "recid": "9300a6da-e70b-42bd-a666-17a76cfce065",
       "name": "S.Sumathi",
       "nameTamil": "S.சுமதி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TITTAKUDI_10.jpg"
     },
     {
+      "slno": "14",
       "recid": "9300d902-e246-4b67-a450-710a19c75f10",
       "name": "M.Natarajan",
       "nameTamil": "M.நடராஜன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TITTAKUDI_18.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff7d13-6990-4d19-81b0-3982c3b02581",
       "name": "P.PALANIAMMAL",
       "nameTamil": "P.பழனியம்மாள்",

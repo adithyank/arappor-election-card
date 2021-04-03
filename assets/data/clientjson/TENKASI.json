@@ -2,6 +2,7 @@
   "name": "TENKASI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93011a32-66f8-44b9-a69b-55718bf4d585",
       "name": "S.SELVA MOHANDASPANDIAN",
       "nameTamil": "S.செல்வா மோகன்தாஸ் பாண்டியன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TENKASI_28.jpg"
     },
     {
+      "slno": "2",
       "recid": "93028049-2780-4368-9624-c4b8a2ec18dd",
       "name": "S.PALANINADAR",
       "nameTamil": "S.பழனிநாடார்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TENKASI_11.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304d108-e9c8-41e7-9721-ceb280d9cce0",
       "name": "K.MURUGAN (a) UDAYAKUMAR",
       "nameTamil": "K.முருகன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDHAYAKUMAR_K_M_Tenkasi.jpg"
     },
     {
+      "slno": "4",
       "recid": "93008535-35e2-4cbf-ae78-5de081769f0c",
       "name": "S.CHANDRASEKAR",
       "nameTamil": "S.சந்திரசேகர்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TENKASI_19.jpg"
     },
     {
+      "slno": "5",
       "recid": "9300f0e4-7e97-4bef-b391-3e274631872e",
       "name": "S.SURESHKUMAR",
       "nameTamil": "S.சுரேஷ்குமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TENKASI_24.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304b7a3-ca9c-460e-b9a2-117991c77dac",
       "name": "R.SELVAKUMAR",
       "nameTamil": "R.செல்வக்குமார்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SELVAKUMAR_R_Tenkasi.jpg"
     },
     {
+      "slno": "7",
       "recid": "93007301-70d3-49a0-8be8-1422d76a641e",
       "name": "R.THIRUMALAIMUTHU",
       "nameTamil": "R.திருமலைமுத்து",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TENKASI_16.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fb6f28-8daf-4ffb-b0eb-a6e5247f8968",
       "name": "S.MOHAMED",
       "nameTamil": "S.முகம்மது",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TENKASI_10.jpg"
     },
     {
+      "slno": "9",
       "recid": "930580b5-68ee-484d-bcb5-de13ce448246",
       "name": "K.MUGUNDHAN",
       "nameTamil": "K.முகுந்தன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUGUNDHAN_K_Tenkasi.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300a21e-1944-4c51-b81b-41ae2d2a2517",
       "name": "R.VINCENTRAJ",
       "nameTamil": "R.வின்சென்ட்ராஜ்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TENKASI_21.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300f9e6-29d4-46bf-b96c-c4a3bccc12f2",
       "name": "M.JEGANATHAN",
       "nameTamil": "M.ஜெகந்நாதன்",
@@ -330,8 +341,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "6 lacs",
       "liabilityTamil": "6 லட்சம்",
-      "netAsset": "-4 lacs",
-      "netAssetTamil": "-4 லட்சம்",
+      "netAsset": " - 4 lacs",
+      "netAssetTamil": " - 4 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TENKASI_25.jpg"
     },
     {
+      "slno": "12",
       "recid": "93009678-d250-433a-8b47-1109c99c48ba",
       "name": "J.AROKKIYAPRABHU",
       "nameTamil": "J.ஆரோக்கிய பிரபு",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TENKASI_20.jpg"
     },
     {
+      "slno": "13",
       "recid": "9304a1a9-a4c8-4399-a198-917693feac5e",
       "name": "S.KARUPPASAMY",
       "nameTamil": "S.கருப்பசாமி ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DOCTOR_KARUPPASAMY_S_Tenkasi.jpg"
     },
     {
+      "slno": "14",
       "recid": "93024f42-7c0b-4267-9ac8-b27cd9797fee",
       "name": "A.PALANIKUMAR",
       "nameTamil": "A.பழனிக்குமார்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TENKASI_13.jpg"
     },
     {
+      "slno": "15",
       "recid": "930250d6-a003-42e8-9690-53e374cb9f0b",
       "name": "P.PALANI MURUGAN",
       "nameTamil": "P.பழனி முருகன்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TENKASI_15.jpg"
     },
     {
+      "slno": "16",
       "recid": "93023f1b-9970-4ca0-bec5-871019dc1b96",
       "name": "A.MADASAMY",
       "nameTamil": "A.மாடசாமி",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TENKASI_12.jpg"
     },
     {
+      "slno": "17",
       "recid": "9304bd4a-e94f-4119-bbac-726c63ecac23",
       "name": "R.RAMESH",
       "nameTamil": "R.இரமேஷ்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAMESH_R_Tenkasi.jpg"
     },
     {
+      "slno": "18",
       "recid": "9304aac5-6bd4-4db8-9d11-6f17d0a8ee39",
       "name": "M.REEGANKUMAR",
       "nameTamil": "M.ரீகன்குமார்",

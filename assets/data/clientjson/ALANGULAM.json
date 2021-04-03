@@ -2,6 +2,7 @@
   "name": "ALANGULAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304ab42-19ae-45f9-a172-c0c088b7f95e",
       "name": "P.H.PAUL MANOJ PANDIAN",
       "nameTamil": "P.H..பவுல் மனோஜ் பாண்டியன் .P.H ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAULMANOJPANDIAN_Alangulam.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fa95cb-e9a0-40eb-81dc-7b3a7ca59e2e",
       "name": "Poongothai Aladi Aruna",
       "nameTamil": "பூங்கோதை ஆலடி அருணா",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGULAM_7.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fe55e7-541b-43a8-8206-c3ab59599371",
       "name": "S.RAJENDRANATHAN",
       "nameTamil": "S.இராஜேந்திரநாதன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGULAM_10.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff20f6-4ed4-4d20-b8d2-7096647f1d7a",
       "name": "A.UDHAYAKUMAR",
       "nameTamil": "A.உதயக்குமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGULAM_15.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f89f86-c239-4b7a-af8b-295740b303c0",
       "name": "M.SANGEETHA ESAK",
       "nameTamil": "M.சங்கீதா",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGULAM_6.jpg"
     },
     {
+      "slno": "6",
       "recid": "93008da3-4480-41f4-9e4f-fc99ccd9f953",
       "name": "S.SELVAKUMAR",
       "nameTamil": "S.செல்வக்குமார்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGULAM_25.jpg"
     },
     {
+      "slno": "7",
       "recid": "92feaacf-9539-48e7-b210-7cb70baad1c9",
       "name": "K.ARUNKUMAR",
       "nameTamil": "K.அருண்குமார்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGULAM_14.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fe7268-88e1-4f56-ab8d-3c364992a60d",
       "name": "S.SANKARGANESH",
       "nameTamil": "S.சங்கர்கணேஷ்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGULAM_12.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff237f-46cd-41c2-ab64-4815595e534d",
       "name": "K.SIVARAM",
       "nameTamil": "K.சிவராம்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ALANGULAM_16.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fc9413-f1a5-4daa-8fe7-e668ee9b358c",
       "name": "A.HARINADAR",
       "nameTamil": "A.ஹரிநாடார்",

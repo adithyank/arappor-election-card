@@ -2,6 +2,7 @@
   "name": "VANUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92faf223-b8b1-49b9-880d-222cab292f9b",
       "name": "P M.Ganapathy",
       "nameTamil": "P M.கணபதி",
@@ -20,8 +21,8 @@
       "totalAssetTamil": "62 லட்சம்",
       "liability": "72 lacs",
       "liabilityTamil": "72 லட்சம்",
-      "netAsset": "- crore 10 lacs",
-      "netAssetTamil": "- கோடி 10 லட்சம்",
+      "netAsset": " - 10 lacs",
+      "netAssetTamil": " - 10 லட்சம்",
       "criminalCase": "1",
       "caseDetailEnglish": "Road roko,\nDisobedience to order duly promulgated by public servant\nPunishment for wrongful restraint. ",
       "caseDetailTamil": "சாலை மறியல். ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANUR_3.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6789b-4b82-4c9c-8eda-66fa5ea94e75",
       "name": "M.Chakrapani",
       "nameTamil": "M.சக்ரபாணி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANUR_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304d294-b091-4b73-929f-83bbcd3a1f05",
       "name": "M.VINAYAGAMURTHY",
       "nameTamil": "M.விநாயகமூர்த்தி ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VINAYAGAMURTHYM_Vanur.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fd8275-85c5-47e0-a140-26d565d5f504",
       "name": "M.SANDOSH KUMAR",
       "nameTamil": "M.சந்தோஷ்குமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANUR_6.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fae959-dbae-4eca-98aa-0ded674dd835",
       "name": "M.Latchoumy",
       "nameTamil": "M.லட்சுமி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANUR_2.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fafe4a-a03c-434e-8cd2-b95b5b6e0fc2",
       "name": "Vanni Arasu",
       "nameTamil": "வன்னி அரசு",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANUR_4.jpg"
     },
     {
+      "slno": "7",
       "recid": "93087edd-cccf-445f-b944-2d5c966810d1",
       "name": "S.Sakthivel",
       "nameTamil": "S.சக்திவேல்",

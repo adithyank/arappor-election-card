@@ -2,6 +2,7 @@
   "name": "ORATHANADU",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f4da83-1aac-416b-afb8-de509cab053f",
       "name": "M.RAMACHANDRAN",
       "nameTamil": "M.M.RAMACHANDRAN",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ORATHANADU_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fb1a1b-272b-4fd2-96ec-174e88bc1905",
       "name": "R.VAITHILINGAM",
       "nameTamil": "R.வைத்திலிங்கம் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ORATHANADU_14.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fed17c-7013-4ab4-a8a4-6f67c660af0e",
       "name": "R.STALIN",
       "nameTamil": "R.ஸ்டாலின் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ORATHANADU_30.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fcd912-fd46-4855-9c6b-30ba89f5ff75",
       "name": "M.Kandasamy",
       "nameTamil": "M.கந்தசாமி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ORATHANADU_20.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fb37d9-db77-4598-ad9a-c55c05a4a2b4",
       "name": "M.SEKAR",
       "nameTamil": "M.சேகர் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ORATHANADU_13.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fcd08f-28c4-4c88-b774-3bf473532513",
       "name": "R.Thanraj",
       "nameTamil": "R.தன்ராஜ் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ORATHANADU_16.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fede5e-59b9-41f3-9a68-da0795a2b688",
       "name": "U.PRABAKARAN",
       "nameTamil": "U.பிரபாகரன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ORATHANADU_37.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff1fbb-d52b-4709-8e4a-106cb0a1ee44",
       "name": "G.RENGASAMY",
       "nameTamil": "G.ரெங்கசாமி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ORATHANADU_38.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304f325-e7ce-4128-af99-78e0b2c14c62",
       "name": "K.ARUNKUMAR",
       "nameTamil": "K.அருண்குமார்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARUNKUMAR_K__Orathanadu.jpg"
     },
     {
+      "slno": "10",
       "recid": "9304ef86-1ebc-4a72-b73e-155d17e829bc",
       "name": "V.MOOKKAIYAN",
       "nameTamil": "V.மூக்கையன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MOOKKAIYAN_V__Orathanadu.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fed420-a03b-4984-82e4-efc5c62d101d",
       "name": "S.RENGARAJ",
       "nameTamil": "S.ரெங்கராஜ்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ORATHANADU_33.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fecd5a-26b4-4270-90da-6d12a0c624a8",
       "name": "T.JAYASOORIYAN",
       "nameTamil": "T.ஜெயசூரியன்",

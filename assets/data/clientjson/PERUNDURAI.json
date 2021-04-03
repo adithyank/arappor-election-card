@@ -2,6 +2,7 @@
   "name": "PERUNDURAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9301805a-d2c9-4f73-b4d2-c60e868e7919",
       "name": "P.R.Kozhandaivel",
       "nameTamil": "P.R.குழந்தைவேல்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_26.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304b013-39e6-4563-aee5-3879059c5f7a",
       "name": "K K C.Balu",
       "nameTamil": "K K C.பாலு",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KKCBALU_Perundurai.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fe0c6a-24dd-4bd0-9177-57069600e055",
       "name": "M.Thambi",
       "nameTamil": "M.தம்பி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_6.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304ab76-8fab-4a5b-bd42-8ab3f0fc9dbc",
       "name": "S.Jayakumar",
       "nameTamil": "S.ஜெயக்குமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYAKUMAR_S__Perundurai.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304aefc-2c21-4780-bde3-651696112329",
       "name": "K.S.Dhakshinamurthi",
       "nameTamil": "K.S.தட்சிணாமூர்த்தி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DHAKSHINAMURTHI_K_S__Perundurai.jpg"
     },
     {
+      "slno": "6",
       "recid": "93016b78-9317-4e52-8f73-21613104e3be",
       "name": "C.K.Nandhakumar",
       "nameTamil": "C.K.நந்தகுமார்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_15.jpg"
     },
     {
+      "slno": "7",
       "recid": "9301778c-521f-4987-ba3d-199ddc7d6ff5",
       "name": "D.PRABHAKARAN",
       "nameTamil": "D.பிரபாகரன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_22.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fe0436-485f-4244-9abd-546a4745c244",
       "name": "M.Ramesh",
       "nameTamil": "M.ரமேஷ்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_5.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f6faf2-eecc-48cb-a07b-aef7d78223ab",
       "name": "C.Loganathan",
       "nameTamil": "C.லோகநாதன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_1.jpg"
     },
     {
+      "slno": "10",
       "recid": "9304a861-0f93-421b-af88-a7227aac6f3f",
       "name": "P.Velusamy",
       "nameTamil": "P.வேலுச்சாமி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VELUSAMY_P__Perundurai.jpg"
     },
     {
+      "slno": "11",
       "recid": "93017504-2780-4f14-b8eb-a76faa007e68",
       "name": "KARTHI",
       "nameTamil": "கார்த்தி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_20.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fe2ea7-8fb6-40f8-a8b1-2588edf4dd7f",
       "name": "S.Krishnan",
       "nameTamil": "S.கிருஷ்ணன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_7.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe3380-9129-4f58-a56a-4f491b83effc",
       "name": "J.Gopalakrishnan",
       "nameTamil": "J.கோபாலகிருஷ்ணன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_8.jpg"
     },
     {
+      "slno": "14",
       "recid": "93017ba5-e4b1-48a4-9c11-f773cea7bef4",
       "name": "A.P.Sankersamy",
       "nameTamil": "A.P.சங்கர்சாமி ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_23.jpg"
     },
     {
+      "slno": "15",
       "recid": "9304a546-ee4b-491a-b073-fc1129dcc05d",
       "name": "N.SATHISHKUMAR",
       "nameTamil": "N.சதீஷ்குமார்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SATHISHKUMAR_N__Perundurai.jpg"
     },
     {
+      "slno": "16",
       "recid": "92f8d075-ba04-436e-8b7c-5ef2bfe84c2a",
       "name": "K.SAMPATHKUMAR",
       "nameTamil": "K.சம்பத்குமார்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_2.jpg"
     },
     {
+      "slno": "17",
       "recid": "9304a5cf-9318-4bd8-b056-ae6505acee27",
       "name": "S R.Devendaramanickam",
       "nameTamil": "S R.தேவேந்திரமாணிக்கம்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_10.jpg"
     },
     {
+      "slno": "18",
       "recid": "9306e4b3-6eac-48ac-9a27-3875ca99b97c",
       "name": " N.D.Thoppu (a) Venkatachalam",
       "nameTamil": " N.D.தோப்பு (அ) வெங்கடச்சலம்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOPPUVENKATACHALAM(A)N_D_VENKATACHALAM_Perundurai.jpg"
     },
     {
+      "slno": "19",
       "recid": "93016e78-0d1c-4704-bd50-cc686ba88cb9",
       "name": "V.M.Balasubramani",
       "nameTamil": "V.M.பாலசுப்ரமணி",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_17.jpg"
     },
     {
+      "slno": "20",
       "recid": "93015a1b-12fb-415b-bd86-5e1dddd040b3",
       "name": "M.Balamurugan",
       "nameTamil": "M.பாலமுருகன்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_11.jpg"
     },
     {
+      "slno": "21",
       "recid": "93017d77-d563-4da0-ba5b-531444ee1b07",
       "name": "MYILSAMY",
       "nameTamil": "மயில்சாமி ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_25.jpg"
     },
     {
+      "slno": "22",
       "recid": "930170a1-73bd-41dc-ae79-c964153ba78d",
       "name": "K.Venkatachalam",
       "nameTamil": "K.வெங்கடாசலம் ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_18.jpg"
     },
     {
+      "slno": "23",
       "recid": "93018255-b4dc-41f1-bf73-7db4928e47e9",
       "name": "P.R.Venkatachalam",
       "nameTamil": "P.R.வெங்கடாசலம்",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_27.jpg"
     },
     {
+      "slno": "24",
       "recid": "93017285-8a9e-40ad-8491-009dd205eb36",
       "name": "N.JEEVA",
       "nameTamil": "N.ஜீவா",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUNDURAI_19.jpg"
     },
     {
+      "slno": "25",
       "recid": "93015c04-ead1-4ef8-b718-3172567e1385",
       "name": "P.JothiMurugan",
       "nameTamil": "P.ஜோதிமுருகன்",

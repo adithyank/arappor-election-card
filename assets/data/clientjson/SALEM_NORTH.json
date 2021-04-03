@@ -2,6 +2,7 @@
   "name": "SALEM_NORTH",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f72d45-d32a-409a-af8f-bbd31bb8c262",
       "name": "R.RAJENDRAN",
       "nameTamil": "R.ராஜேந்திரன் ",
@@ -23,7 +24,7 @@
       "netAsset": "2 crore 52 lacs",
       "netAssetTamil": "2 கோடி 52 லட்சம்",
       "criminalCase": "16",
-      "caseDetailEnglish": "Unlawful Assembly , Rioting, armed with deadly weapon, Disobedience to order duly promulgated by public servant, Negligent act likely to spread infection of disease dangerous to life, Attempt to murder, Voluntarily causing hurt by dangerous weapons, Punishment for wrongful restraint, Punishment for criminal intimidation,  Arrest to prevent the commission of cognizable offences. ",
+      "caseDetailEnglish": "Unlawful Assembly , Rioting, armed with deadly weapon, Disobedience to order duly promulgated by public servant, Negligent act likely to spread infection of disease dangerous to life, Attempt to murder, Voluntarily causing hurt by dangerous weapons, Wrongful restraint, Criminal intimidation,  Arrest to prevent the commission of cognizable offence. ",
       "caseDetailTamil": "கொலை முயற்சி, கலகம், பயங்கர ஆயுதங்களுடன் கலகம் செய்ததாக, அரசு அனுமதியின்றி கூடியது, மிரட்டல் விட்டதற்கு,  அரசு ஊழியரால் முறையாக அறிவிக்கக் கீழ்ப்படியாமை, உயிருக்கு ஆபத்தான நோய்த்தொற்று பரவ வாய்ப்புள்ள அலட்சியம்,  தன்னிச்சையாக ஆபத்தான ஆயுதங்கள் காயப்படுத்துதல்,  தண்டனை கிரிமினல் மிரட்டலுக்காக.. ",
       "symbolName": "RISING_SUN",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/RISING_SUN.JPG",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_RAJENDRAN_Salem(North).jpg"
     },
     {
+      "slno": "2",
       "recid": "92fcf121-0cc8-40e0-b170-53492b2f1490",
       "name": "M.P.PANNEERSELVAM",
       "nameTamil": "M.P.பன்னிர்செல்வம் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_25.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6a9ff-8482-4da4-bf2f-8507e77ddd10",
       "name": "G.VENKATACHALAM",
       "nameTamil": "G.வெங்கடாசலம் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_3.jpg"
     },
     {
+      "slno": "4",
       "recid": "9302fe03-676f-4784-9064-6efada19754f",
       "name": "S.VELAN",
       "nameTamil": "S.வேலன் ",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "11600",
       "liability": "10 lacs",
       "liabilityTamil": "10 லட்சம்",
-      "netAsset": "-10 lacs",
-      "netAssetTamil": "-10 லட்சம்",
+      "netAsset": " - 10 lacs",
+      "netAssetTamil": " - 10 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_29.jpg"
     },
     {
+      "slno": "5",
       "recid": "9300a8bf-17ee-4247-aae8-79715205b0b3",
       "name": "M.AHAMED SHAHJAHAN",
       "nameTamil": "M.அஹமது ஷாஜஹான் ",
@@ -147,8 +152,8 @@
       "netAsset": "33 lacs",
       "netAssetTamil": "33 லட்சம்",
       "criminalCase": "1",
-      "caseDetailEnglish": "false case. ",
-      "caseDetailTamil": "குற்றங்கருதி மிரட்டல் விட்டதாக . ",
+      "caseDetailEnglish": "Disobedience to order duly promulgated by public servant, Criminal intimidation. ",
+      "caseDetailTamil": "பொதுப் பணியாளரால், முறைப்படி பிரகடனப்படுத்தப்பட்ட உத்தரவிற்கு கீழ்ப்படியாமை, குற்றம் கருதி மிரட்டல். ",
       "symbolName": "AUTO-RICKSHAW",
       "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/AUTO-RICKSHAW.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/SALEM_NORTH_37.jpg",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_37.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fcb944-f89b-49b5-9293-24aa6a0e0651",
       "name": "N.IMAYAESWARAN",
       "nameTamil": "N.இமயஈஸ்வரன் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_17.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fca8a2-d096-499f-a61b-61839cd08450",
       "name": "R.S.GURUCHAKRAVARTHY",
       "nameTamil": "R.S.குருசக்கரவர்த்தி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_22.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f757ad-6ec0-4ed5-a0a2-32c076f365fa",
       "name": "C.NATARAJAN",
       "nameTamil": "C.நடராஜன் ",
@@ -237,8 +245,8 @@
       "totalAssetTamil": "3 கோடி 20 லட்சம்",
       "liability": "8 crore 63 lacs",
       "liabilityTamil": "8 கோடி 63 லட்சம்",
-      "netAsset": "-5 crore 42 lacs",
-      "netAssetTamil": "-5 கோடி 42 லட்சம்",
+      "netAsset": " - 5 crore 42 lacs",
+      "netAssetTamil": " - 5 கோடி 42 லட்சம்",
       "criminalCase": "1",
       "caseDetailEnglish": "Cheque fraud ( காசோலை மோசடி ). ",
       "caseDetailTamil": "காசோலை மோசடி. ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CNATARAJAN_Salem(North).jpg"
     },
     {
+      "slno": "9",
       "recid": "92fcbefd-01f3-43c2-b4cc-f59b13d4a30c",
       "name": "S.BABU",
       "nameTamil": "S.பாபு",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_18.jpg"
     },
     {
+      "slno": "10",
       "recid": "9308e3dc-7fb5-4152-b8b6-9b31fb5c3e56",
       "name": "D.MURALI",
       "nameTamil": "D.முரளி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/D_MURALI_Salem(North).jpg"
     },
     {
+      "slno": "11",
       "recid": "92f1000e-b011-4d34-b214-7cee1830c419",
       "name": "VAATHIAR C MURUGAN",
       "nameTamil": "முருகன் ",
@@ -330,8 +341,8 @@
       "totalAssetTamil": "7 லட்சம்",
       "liability": "9 lacs",
       "liabilityTamil": "9 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_2.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fccf73-322a-4a11-9fe8-400f57a84a62",
       "name": "M.SHANMUGASUNDARAM",
       "nameTamil": "M.சண்முகசுந்தரம் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_21.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fcf312-3291-4a7d-859f-cecf0151bb13",
       "name": "R.SENTHILKUMAR",
       "nameTamil": "R.செந்தில்குமார் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_26.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fcad0b-3323-4710-8309-b156ab9c09ea",
       "name": "N.DEVARAJ",
       "nameTamil": "N.தேவராஜ்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_14.jpg"
     },
     {
+      "slno": "15",
       "recid": "9300a1bb-c9be-4699-8708-3b066d01690f",
       "name": "M.R.NAWAZUDIEEN",
       "nameTamil": "M.R.நவாசுதீன் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_27.jpg"
     },
     {
+      "slno": "16",
       "recid": "9304ce4b-078a-4b40-b06d-6fcc72a2ce75",
       "name": "R.Palanisamy",
       "nameTamil": "R.பழனிசாமி",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RPALANISAMY_Salem(North).jpg"
     },
     {
+      "slno": "17",
       "recid": "9304cfa9-ced1-42bf-9701-edb625aee195",
       "name": "A.RAMESHKUMAR",
       "nameTamil": "A.ராமேஷ்குமார்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARAMESHKUMAR_Salem(North).jpg"
     },
     {
+      "slno": "18",
       "recid": "9304cd5e-378c-4b71-a3fc-06cbd0675b30",
       "name": "P.RAMACHANDRAN",
       "nameTamil": "P.ராமச்சந்திரன்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/P_RAMACHANDRAN_Salem(North).jpg"
     },
     {
+      "slno": "19",
       "recid": "92fccaf7-7426-4262-a0c2-2f796a8c2721",
       "name": "S.RAJASEKAR",
       "nameTamil": "S.இராஜசேகர் ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SALEM_NORTH_24.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fcc921-f9fc-4d26-8e91-f5439305266e",
       "name": "T.VIJAYARAJ",
       "nameTamil": "T.விஜயராஜ் ",

@@ -2,6 +2,7 @@
   "name": "THIRUMAYAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9301c4d0-5d2a-400b-a490-de8558c3332e",
       "name": "S.REGUPATHY",
       "nameTamil": "S.ரகுபதி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_24.jpg"
     },
     {
+      "slno": "2",
       "recid": "93032796-0fa4-4fc9-9c0e-ca9d1f88afe2",
       "name": "P.K.VAIRAMUTHU",
       "nameTamil": "P.K.வைரமுத்து",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcc008-7e93-4c0f-92b1-04f928a218dc",
       "name": "S.GANDIPAN",
       "nameTamil": "S.காண்டிபன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_12.jpg"
     },
     {
+      "slno": "4",
       "recid": "930f3863-61bc-4bb5-899d-1c85cad5794c",
       "name": "R.SIVAKUMAR",
       "nameTamil": "R.R.SIVAKUMAR",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_SIVAKUMAR_Thirumayam.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fa929c-b023-47b0-8cc6-253045c2f545",
       "name": "U.SIVARAMAN",
       "nameTamil": "U.சிவராமன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_6.jpg"
     },
     {
+      "slno": "6",
       "recid": "93059cb8-d52b-4fe1-9a90-2ac3fa1d5a65",
       "name": "R.THIRUMENI",
       "nameTamil": "R.திருமேனி ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_THIRUMENI_Thirumayam.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fcc623-af22-422a-a34e-a26c432b7b3b",
       "name": "S.PURACHIBALAN",
       "nameTamil": "S.புரட்சிபாலன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_11.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f682d4-d52c-4217-9287-ed4a2b14bee9",
       "name": "S.Muniyaraju",
       "nameTamil": "S.முனியராஜு",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_3.jpg"
     },
     {
+      "slno": "9",
       "recid": "930523a7-c0f2-498c-8355-5a26644302ff",
       "name": "C.ALAGU SUBBIAH",
       "nameTamil": "C.அழகுசுப்பையா",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/C_ALAGUSUBBIAH_Thirumayam.jpg"
     },
     {
+      "slno": "10",
       "recid": "9301a548-25c2-4b9c-aa57-7254c70d5551",
       "name": "M.KARTHICK",
       "nameTamil": "M.கார்த்திக்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_18.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300ae83-5d01-46e6-bd84-96a20943ac71",
       "name": "R.Sundaram",
       "nameTamil": "R.சுந்தரம்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_13.jpg"
     },
     {
+      "slno": "12",
       "recid": "9301aa6c-3770-49dd-9628-1dd3052c4b49",
       "name": "K.SELVAKUMAR",
       "nameTamil": "K.செல்வகுமார்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_19.jpg"
     },
     {
+      "slno": "13",
       "recid": "9301ae4c-2c96-415e-be73-a927f9184e60",
       "name": "M.SELVAKUMAR",
       "nameTamil": "M.செல்வகுமார்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_20.jpg"
     },
     {
+      "slno": "14",
       "recid": "9301b234-2af9-404c-910a-5c93a1056d42",
       "name": "S.SELVAKUMAR",
       "nameTamil": "S.செல்வகுமார்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_21.jpg"
     },
     {
+      "slno": "15",
       "recid": "93051001-0f99-44a5-9936-093b7d7a86dd",
       "name": "M.Selvakumar",
       "nameTamil": "M.செல்வகுமார்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_SELVAKUMAR_Thirumayam.jpg"
     },
     {
+      "slno": "16",
       "recid": "9304d0a5-4548-46f6-a6a6-3f5812b26796",
       "name": "K.Selvakumar",
       "nameTamil": "K.செல்வகுமார்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_SELVAKUMAR_Thirumayam.jpg"
     },
     {
+      "slno": "17",
       "recid": "93051175-ebed-4444-b36e-7f8564063bdd",
       "name": "M.Selvakumar",
       "nameTamil": "M.செல்வகுமார்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_SELVAKUMAR_Thirumayam.JPG"
     },
     {
+      "slno": "18",
       "recid": "9301d6cb-2236-48c8-a0ba-3d82b1e59d31",
       "name": "M.DURAIRAJAN",
       "nameTamil": "M.துரைராஜன்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_27.jpg"
     },
     {
+      "slno": "19",
       "recid": "9304bd7c-6f7a-4a83-843f-59ad27a8bd67",
       "name": "R.PALANIYAPPAN",
       "nameTamil": "R.பழனியப்பன்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_PALANIYAPPAN_Thirumayam.jpg"
     },
     {
+      "slno": "20",
       "recid": "9300cca5-1eb9-499c-a543-b3705d5fbb62",
       "name": "S.MANIKANDAN",
       "nameTamil": "S.மணிகண்டன்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_15.jpg"
     },
     {
+      "slno": "21",
       "recid": "9300e3f4-e42f-4615-8365-3ec615f80489",
       "name": "AL.MATHIALAGAN",
       "nameTamil": "AL.மதியழகன்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUMAYAM_17.jpg"
     },
     {
+      "slno": "22",
       "recid": "9300de0b-e54b-45e3-9e88-2e709c603ade",
       "name": "C.MUTHUADAIKKAN @ ADAIKKALAM",
       "nameTamil": "C.முத்துஅடைக்கன் (என்ற) அடைகலம்",

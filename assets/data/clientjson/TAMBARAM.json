@@ -2,6 +2,7 @@
   "name": "TAMBARAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304e906-4cf6-4a70-8027-dad30bbfb779",
       "name": "S. R.Raja",
       "nameTamil": "S. R..ராஜா ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Raja_S_R_Tambaram.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304ec3c-91d1-4a4c-9ae3-0c57d78d6166",
       "name": "T.K.M.Chinnayah",
       "nameTamil": "T.K.M.சின்னையா",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Chinnaiyah_T_K_M_Tambaram.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fd187e-cac5-4e8c-ba89-a7540021dc16",
       "name": "R.Harikrishnan",
       "nameTamil": "R.ஹரிகிருஷ்ணன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_5.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fee35e-eb1d-40c8-a3e9-3dbf0b38dce5",
       "name": "P.A.Abdul Nazar (Alias) A Nazar",
       "nameTamil": "P.A.அப்துல் நாசர்  (எ)  அ. நாசர்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_11.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304e58f-0a80-4375-9e8b-b094a46cf5c8",
       "name": "S.Elango",
       "nameTamil": "S.இளங்கோ ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Elango_Siva_Tambaram.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304f16f-e749-42d8-9f8c-260515fad0a2",
       "name": "M.Karikalan",
       "nameTamil": "M.கரிகாலன் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Karikalan_M_Tambaram.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fee565-1f28-46de-8202-ce30d6ce7c67",
       "name": "U.KAMATCHI",
       "nameTamil": "U.காமாட்சி",
@@ -206,8 +213,8 @@
       "totalAssetTamil": "30500",
       "liability": "1 lacs",
       "liabilityTamil": "1 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 89500",
+      "netAssetTamil": " - 89500",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_12.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f71a76-5dae-4400-bbca-944364483d8d",
       "name": "T.SURESHKUMAR",
       "nameTamil": "T.த . சுரேஷ்குமார் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_1.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fef69e-53df-4539-bd2b-5742ac8f2386",
       "name": "A.Manojkumar",
       "nameTamil": "A.மனோஜ்குமார்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_19.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fedec5-0a74-4085-aa5f-8e4d6b3abca7",
       "name": "A.Ramu",
       "nameTamil": "A.ராமு",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_10.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fb7e24-1944-4f44-b8ac-83acefdebc73",
       "name": "C.Venkatesan",
       "nameTamil": "C.C. வெங்கடேசன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_3.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fd1694-f54e-46bb-a6e2-1673cafa2d8b",
       "name": "P.Justin charles",
       "nameTamil": "P.ஜெஸ்டின் சார்லஸ்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_4.jpg"
     },
     {
+      "slno": "13",
       "recid": "92feed66-7337-43c7-95ad-2b3d748e9935",
       "name": "B.Anand Prabhu",
       "nameTamil": "B.ஆனந்த் பிரபு",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_16.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fef3e3-616a-4827-8038-2695c562ddea",
       "name": "N.Lakshmanan",
       "nameTamil": "N.லக்ஷ்மணன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_18.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fd1ad8-9837-4121-9ed0-c608b565131e",
       "name": "B.Kannairam",
       "nameTamil": "B.கண்ணாயிரம் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_6.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fed9cb-c8a9-4fdb-9982-8c8a194b8338",
       "name": "T.V.N.H.S.R. KRISHNA",
       "nameTamil": "கிருஷ்ணா",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_9.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fee809-21e5-4350-8466-9f3ecda18bbf",
       "name": "S.Sigamani",
       "nameTamil": "S.சிகாமணி",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_13.jpg"
     },
     {
+      "slno": "18",
       "recid": "92face02-fe4f-4ea9-ac50-25bf35b7ecb3",
       "name": "S.Sivaraman",
       "nameTamil": "S.S. சிவராமன் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_2.jpg"
     },
     {
+      "slno": "19",
       "recid": "92feef3a-2679-439c-a979-d4c36504d203",
       "name": "V.Thangaraj",
       "nameTamil": "V.தங்கராஜ்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_17.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fed163-347c-46bd-bedd-0fc962875bf6",
       "name": "G.Balakrishnan",
       "nameTamil": "G.பாலகிருஷ்ணன்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_7.jpg"
     },
     {
+      "slno": "21",
       "recid": "92feec07-d5a1-419a-aa42-68dbf83151ec",
       "name": "R.Rathinakumar",
       "nameTamil": "R.ரத்தினகுமார்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TAMBARAM_15.jpg"
     },
     {
+      "slno": "22",
       "recid": "92fed3bc-a905-415e-92fc-e35fba8027d6",
       "name": "B.Venkatesan Balaji",
       "nameTamil": "B.வெங்கடேசன் பாலாஜி",

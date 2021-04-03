@@ -2,6 +2,7 @@
   "name": "KATPADI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304fe1b-e1d3-432d-bf23-dae0adea54dd",
       "name": "Duraimurugan",
       "nameTamil": "துரைமுருகன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DURAIMURUGAN_Katpadi.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f67d96-4891-401b-b418-2281f608ce08",
       "name": "V.Ramu",
       "nameTamil": "V.ராமு",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KATPADI_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fec8bb-0267-4a46-961c-1d48c3d67b09",
       "name": "K.Raja",
       "nameTamil": "K.ராஜா ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KATPADI_17.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fb1c5a-e0cd-4c83-af2e-992c6225ffe9",
       "name": "K.P.Arumugam",
       "nameTamil": "K.P.ஆறுமுகம்  ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KATPADI_12.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fee71c-3324-410b-9832-fc283f37632f",
       "name": "M.Sudharsan",
       "nameTamil": "M.சுதர்சன் ",
@@ -144,8 +149,8 @@
       "totalAssetTamil": "9 லட்சம்",
       "liability": "10 lacs",
       "liabilityTamil": "10 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 70529",
+      "netAssetTamil": " - 70529",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை . ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KATPADI_22.jpg"
     },
     {
+      "slno": "6",
       "recid": "93050047-c894-443a-b40a-62ac6763926f",
       "name": "S.Thirukumaran",
       "nameTamil": "S.திருக்குமரன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/STHIRUKKUMARAN_Katpadi.jpg"
     },
     {
+      "slno": "7",
       "recid": "92faef21-bbf0-4805-84f5-c710abc5024f",
       "name": "A.S.RAJA",
       "nameTamil": "A.S.ராஜா",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KATPADI_4.jpg"
     },
     {
+      "slno": "8",
       "recid": "92faf49e-819e-4da1-af0d-d5a3afea9f5b",
       "name": "R.S.SRIDHAR",
       "nameTamil": "R.S.ஸ்ரீதர்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KATPADI_5.jpg"
     },
     {
+      "slno": "9",
       "recid": "92feed78-64a3-46ec-bc04-0a69bdd56c88",
       "name": "J.Anandhi",
       "nameTamil": "J.ஆனந்தி ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KATPADI_25.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fc685f-ed86-4c2d-81cb-63a24b9e08c7",
       "name": "P.Dhananjayan",
       "nameTamil": "P.தனஞ்செயன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KATPADI_7.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fec50b-8e85-4447-91a6-2b3f8789acb1",
       "name": "R.Baskaran",
       "nameTamil": "R.பாஸ்கரன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KATPADI_15.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fee909-145f-435f-96d5-a0cce03a6d6b",
       "name": "R.Raman",
       "nameTamil": "R.ராமன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KATPADI_23.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fec734-8092-424c-9e0b-883efa9705d4",
       "name": "K.Ramu",
       "nameTamil": "K.ராமு ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KATPADI_16.jpg"
     },
     {
+      "slno": "14",
       "recid": "92feeb4c-0ea3-429a-a9d4-90c743b6878c",
       "name": "D.Ramu",
       "nameTamil": "D.ராமு ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KATPADI_24.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fb123d-f892-4996-825a-8f53f73a7e5b",
       "name": "V.Vinayagam",
       "nameTamil": "V.வினாயகம் ",

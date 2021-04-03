@@ -2,6 +2,7 @@
   "name": "ODDANCHATRAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92ff6410-d1de-47bf-8255-4e921b2db51b",
       "name": "R.Sakkarapani",
       "nameTamil": "R.சக்கரபாணி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ODDANCHATRAM_28.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fe8cbd-42c3-4716-a962-d74da3d04845",
       "name": "M.SIVAKUMAR",
       "nameTamil": "M.சிவக்குமார் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ODDANCHATRAM_24.jpg"
     },
     {
+      "slno": "3",
       "recid": "930510cb-159f-4f0e-bfdc-82ff3ea37dc3",
       "name": "P.NATARAJ",
       "nameTamil": "P.நடராஜ் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATARAJN_P_Oddanchatram.jpg"
     },
     {
+      "slno": "4",
       "recid": "93012934-4e93-47e5-8d16-945d2b018ad5",
       "name": "P.MURUGARAJ",
       "nameTamil": "P.முருகராஜ்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ODDANCHATRAM_18.jpg"
     },
     {
+      "slno": "5",
       "recid": "93067f79-9c18-40f7-bca8-149ecfd97d4d",
       "name": "A.ABDULHADI",
       "nameTamil": "A.அப்துல்ஹாதி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ABDULHADIA_Oddanchatram.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f6758a-df71-49f0-a777-e3be811c291f",
       "name": "T.SAKTHIDEVI",
       "nameTamil": "T.சக்தி தேவி ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ODDANCHATRAM_2.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fc87cf-086e-4002-933f-68dc55de6fe6",
       "name": "M.RAVI",
       "nameTamil": "M.ரவி",
@@ -206,8 +213,8 @@
       "totalAssetTamil": "55000",
       "liability": "2 lacs",
       "liabilityTamil": "2 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ODDANCHATRAM_16.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fe8e71-1cd8-4b1b-8047-ea46d4f17abe",
       "name": "K.RAVICHANDRAN",
       "nameTamil": "K.ரவிச்சந்திரன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ODDANCHATRAM_27.jpg"
     },
     {
+      "slno": "9",
       "recid": "93006c05-cde2-450b-82d6-7b4e8e9a5578",
       "name": "P.SHANMUGAVEL",
       "nameTamil": "P.SHANMUGAVEL",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ODDANCHATRAM_25.jpg"
     },
     {
+      "slno": "10",
       "recid": "93006887-1ae4-490a-8641-a063da639902",
       "name": "S.SIVAPRAKASH",
       "nameTamil": "S.S.SIVAPRAKASH",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ODDANCHATRAM_33.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe9019-5d48-4d30-953f-b45384f59bdb",
       "name": "K.SIVANESAN",
       "nameTamil": "K.சிவனேசன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ODDANCHATRAM_32.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fedd39-9328-4b1b-9947-6745e2a5b551",
       "name": "K.CHELLAMUTHU",
       "nameTamil": "K.செல்லமுத்து",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ODDANCHATRAM_23.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fef3f8-8aae-474e-ae87-3831039f5de7",
       "name": "S.BALASUBRAMANI",
       "nameTamil": "S.S.BALASUBRAMANI",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ODDANCHATRAM_34.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fc8cd6-1023-4dba-b106-6414116838ab",
       "name": "S.MARIMUTHU",
       "nameTamil": "S.மாரிமுத்து",

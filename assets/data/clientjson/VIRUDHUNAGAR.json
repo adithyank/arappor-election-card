@@ -2,6 +2,7 @@
   "name": "VIRUDHUNAGAR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fe9cc9-c5b1-4d48-b30d-6277d43e1f5c",
       "name": "A.R.R.SEENIVASAN",
       "nameTamil": "A.R.R.சீனிவாசன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUDHUNAGAR_5.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304ba3e-c32e-4020-addf-112ecab381ef",
       "name": "G.PANDURANGAN",
       "nameTamil": "G.பாண்டுரங்கன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PANDURANGANG_Virudhunagar.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fafefa-2394-4a8b-870d-87ef445e8369",
       "name": "L.SUYAMBULINGAM",
       "nameTamil": "L.சுயம்புலிங்கம்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUDHUNAGAR_3.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304b710-b215-4d91-acee-616a79543162",
       "name": "V.R.SELVAKUMAR",
       "nameTamil": "V.R.செல்வகுமார் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SELVAKUMARV_R_Virudhunagar.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304d88f-d92c-42ef-ab00-54b2c36188e4",
       "name": "M.THANGARAJ",
       "nameTamil": "M.தங்கராஜ் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANGARAJM_Virudhunagar.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fea9f2-2bfc-41cb-8b34-f615cc50f8c5",
       "name": "N.MANIMARAN",
       "nameTamil": "N.மணிமாறன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUDHUNAGAR_7.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f872d3-b452-42ae-991c-849a59f1a424",
       "name": "N.VIKRAMAN",
       "nameTamil": "N.விக்ரமன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUDHUNAGAR_2.jpg"
     },
     {
+      "slno": "8",
       "recid": "9304b260-835d-4bb3-b942-b1c52784fe8c",
       "name": "P.KARUPPIAH",
       "nameTamil": "P.கருப்பையா",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARUPPIAHP_Virudhunagar.jpg"
     },
     {
+      "slno": "9",
       "recid": "930286ca-39cf-4db1-af3f-cb040e5cc989",
       "name": "G.GUNASEKARAN",
       "nameTamil": "G.குணசேகரன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUDHUNAGAR_14.jpg"
     },
     {
+      "slno": "10",
       "recid": "93029181-6063-4490-8ca6-71e52dbe4974",
       "name": "G.GURUNATHAN",
       "nameTamil": "G.குருநாதன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUDHUNAGAR_19.jpg"
     },
     {
+      "slno": "11",
       "recid": "93028ed7-8cb0-451c-8f70-1ed3fb7b09b9",
       "name": "B.SHIBI",
       "nameTamil": "B.சிபி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUDHUNAGAR_18.jpg"
     },
     {
+      "slno": "12",
       "recid": "930282d2-b6ea-4443-aae7-9990cbf831b8",
       "name": "N .THANGAPANDI",
       "nameTamil": "N .தங்கப்பாண்டி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUDHUNAGAR_13.jpg"
     },
     {
+      "slno": "13",
       "recid": "9304b048-b57e-47d4-a1ed-b095bf92f0d2",
       "name": "R.THANGARAJ",
       "nameTamil": "R.தங்கராஜ்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANGARAJR_Virudhunagar.jpg"
     },
     {
+      "slno": "14",
       "recid": "9304b4a8-3213-4b57-bcb1-7ad02a586645",
       "name": "R.DHAMOTHARAN",
       "nameTamil": "R.தாமோதரன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DHAMOTHARANR_Virudhunagar.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fe87e6-dadc-494a-a142-4a525e19570b",
       "name": "T.PANDURENGAN",
       "nameTamil": "T.பாண்டுரெங்கன்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUDHUNAGAR_4.jpg"
     },
     {
+      "slno": "16",
       "recid": "92feb550-cf04-4bf6-9bba-9190c6d86e71",
       "name": "K.PUNGAN",
       "nameTamil": "K.புங்கன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUDHUNAGAR_10.jpg"
     },
     {
+      "slno": "17",
       "recid": "93028ac9-5eb5-4463-83b2-dbc92c61e200",
       "name": "C.RAMRAJ",
       "nameTamil": "C.ராம்ராஜ்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VIRUDHUNAGAR_16.jpg"
     },
     {
+      "slno": "18",
       "recid": "92f87116-e657-4c25-9db8-e2d55c5b8eb2",
       "name": "S.Veluchamy",
       "nameTamil": "S.வேலுச்சாமி",

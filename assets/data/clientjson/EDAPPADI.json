@@ -2,6 +2,7 @@
   "name": "EDAPPADI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fa95e3-cd68-4de9-a154-dbff5bc4cb03",
       "name": "T.SAMBATHKUMAR",
       "nameTamil": "T.சம்பத்குமார் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_20.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f53d1a-24aa-4f7a-b61e-7f8e39eb2ce6",
       "name": "K.Palanisamy",
       "nameTamil": "K.பழனிசாமி   ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_7.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304abf3-87c4-4dfd-96f7-6baa5e536daf",
       "name": "A.JAMUNA",
       "nameTamil": "A.ஜமுனா ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAMUNA_A_Edappadi.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fd5c4f-0e36-4e41-9a6a-af53bda1b627",
       "name": "P.SOCIAL WORKER ESWARI",
       "nameTamil": "P.ஈஸ்வரி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_33.jpg"
     },
     {
+      "slno": "5",
       "recid": "9300e150-85b5-43f9-be9c-1dde434aede5",
       "name": "K.N.Gunasekaran",
       "nameTamil": "K.N.குணசேகரன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_53.jpg"
     },
     {
+      "slno": "6",
       "recid": "930303db-a856-4605-96da-623e56bc32c1",
       "name": "S.SURIYA MOORTHY",
       "nameTamil": "S. சூரியமூர்த்தி ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_38.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fd56c4-4fd2-4d10-9d3c-a23f75ddfe0e",
       "name": "D.Thasapparaj",
       "nameTamil": "D.தாசப்பராஜ் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_30.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fd5e5c-d5a0-4efe-9e9d-f6fdf4b24d1c",
       "name": "N. POOKADAI SEKAR",
       "nameTamil": "N.பூக்கடை சேகர் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_36.jpg"
     },
     {
+      "slno": "9",
       "recid": "9300e455-9b55-4278-aa2f-6c2926314b93",
       "name": "C.Mani",
       "nameTamil": "C.மணி ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_54.jpg"
     },
     {
+      "slno": "10",
       "recid": "93030747-e847-4bf0-ac2c-f0e295981636",
       "name": "R.MANIKANDAN",
       "nameTamil": "R. மணிகண்டன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_40.jpg"
     },
     {
+      "slno": "11",
       "recid": "92f4d5aa-7d7d-480a-8939-5dbf38b1ee95",
       "name": "I.SHRIRATHNA",
       "nameTamil": "I.ஸ்ரீரத்னா ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_5.jpg"
     },
     {
+      "slno": "12",
       "recid": "92f16063-063e-4a69-bdfa-32e352ae7207",
       "name": "N.AGNI SRIRAMACHANDRAN",
       "nameTamil": "N.அக்னி ஸ்ரீராமச்சந்திரன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_2.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fa928a-74ea-429f-9241-83aba864a620",
       "name": "N.ESWARAMURTHY",
       "nameTamil": "N.ஈஸ்வரமூர்த்தி ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_18.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff959f-2677-431f-a29b-1543b5356636",
       "name": "P.Eswaramoorthy",
       "nameTamil": "P.ஈஸ்வரமூர்த்தி ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_44.jpg"
     },
     {
+      "slno": "15",
       "recid": "93087b3b-f323-4f92-a71b-b488175fb166",
       "name": "P.IYYAPPAN",
       "nameTamil": "P.ஐயப்பன் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/IYYAPPAN_P_Edappadi.jpg"
     },
     {
+      "slno": "16",
       "recid": "92ffa14e-2f9f-4502-bd9e-d649e6b5781e",
       "name": "V.Kadhiravan",
       "nameTamil": "V.கதிரவன் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_46.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fd5b3b-2adc-4678-83b7-dd60a0fe8123",
       "name": "L.KATHIRESAN",
       "nameTamil": "L.கதிரேசன் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_35.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fd5987-9b62-4d74-815f-1abf1f57cb02",
       "name": "M.GUHESHKUMAR",
       "nameTamil": "M.குகேஸ்குமார் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_32.jpg"
     },
     {
+      "slno": "19",
       "recid": "92ff5455-0312-444b-9026-f99d8b72036a",
       "name": "G.SHANMUGAM",
       "nameTamil": "G.சண்முகம் ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_42.jpg"
     },
     {
+      "slno": "20",
       "recid": "9300e756-8b93-4d90-886d-a72816a6eb03",
       "name": "G.SOWNTHARARAJAN",
       "nameTamil": "G.சௌந்தரராஜன்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_55.jpg"
     },
     {
+      "slno": "21",
       "recid": "92f0fb4d-5aba-405a-a0a7-6ae0c40441e7",
       "name": "K.PADMARAJAN",
       "nameTamil": "K.பத்மராஜன் ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_1.jpg"
     },
     {
+      "slno": "22",
       "recid": "93007742-6aae-4339-b47f-acee5decf494",
       "name": "A.PALANISAMY",
       "nameTamil": "A.பழனிசாமி ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_48.jpg"
     },
     {
+      "slno": "23",
       "recid": "92f89f68-c8fd-4503-8a16-4abaaf2d8fb0",
       "name": "J.BALASUBRAMANIAM",
       "nameTamil": "J.பாலசுப்ரமணியம் ",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_16.jpg"
     },
     {
+      "slno": "24",
       "recid": "930072ce-2b6f-4c4e-a7df-65c281b066b3",
       "name": "M.BALAMURUGAN",
       "nameTamil": "M.பாலமுருகன் ",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_47.jpg"
     },
     {
+      "slno": "25",
       "recid": "92fa5816-1ea0-48cb-9b4d-b8cd10d04f6d",
       "name": "M.Murugan",
       "nameTamil": "M.முருகன் ",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_17.jpg"
     },
     {
+      "slno": "26",
       "recid": "930304fd-d216-4455-891a-75d9f9690529",
       "name": "G.LAKSHMI",
       "nameTamil": "G. லட்சுமி ",
@@ -808,6 +834,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_39.jpg"
     },
     {
+      "slno": "27",
       "recid": "92ff9c28-afb8-4430-b3bf-be646b8fce26",
       "name": "S.Loganathan",
       "nameTamil": "S.லோகநாதன் ",
@@ -839,6 +866,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/EDAPPADI_45.jpg"
     },
     {
+      "slno": "28",
       "recid": "92fd5814-6457-4acc-8982-c0f07b4d698e",
       "name": "A.Stalin",
       "nameTamil": "A.ஸ்டாலின் ",

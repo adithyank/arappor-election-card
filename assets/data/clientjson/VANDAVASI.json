@@ -2,6 +2,7 @@
   "name": "VANDAVASI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "930d84c4-be78-424b-a35b-c0b2b7ef9302",
       "name": "S.Ambethkumar",
       "nameTamil": "S.அம்பேத்குமார்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AmbethkumarS_Vandavasi.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fc98b6-5076-405e-b92b-5b68bfa29ded",
       "name": "M. Archunan",
       "nameTamil": "M.அர்ச்சுனன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANDAVASI_7.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fee075-2965-4a19-9f40-83721092c83d",
       "name": "S.Suresh",
       "nameTamil": "S.சுரேஷ்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANDAVASI_18.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fca29a-85d9-459f-9039-c6ebd31ce85b",
       "name": "B.Durai",
       "nameTamil": "B.துரை",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANDAVASI_10.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fbbda0-28eb-4b3c-a8f7-e1dbc7dcc2d9",
       "name": "G.PRABAVATHI",
       "nameTamil": "G.பிரபாவதி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANDAVASI_6.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fcaa13-f07a-430e-8aa8-bb53c55c4382",
       "name": "S.Murali",
       "nameTamil": "S.முரளி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANDAVASI_13.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fca027-8d58-4915-a885-eac625dbd0bc",
       "name": "P.Venkatesan",
       "nameTamil": "P.வெங்கடேசன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANDAVASI_8.jpg"
     },
     {
+      "slno": "8",
       "recid": "92feded3-036b-4142-be31-eeb50143fb72",
       "name": "K.Manikandan",
       "nameTamil": "K.மணிகண்டன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANDAVASI_16.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fcc2b5-54e4-47d6-ba49-7316c54d5cac",
       "name": "K.MuthuPerumal",
       "nameTamil": "K.முத்து பெருமாள்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VANDAVASI_15.jpg"
     },
     {
+      "slno": "10",
       "recid": "93078a87-c0cd-4500-8fcf-7848ad42e435",
       "name": "C.Murali",
       "nameTamil": "C.முரளி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MuraliC_Vandavasi.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fcbcf8-6f58-4fdc-924c-568d63dd54e8",
       "name": "S.Vignesh",
       "nameTamil": "S.விக்னேஷ்",

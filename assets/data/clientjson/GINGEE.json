@@ -2,6 +2,7 @@
   "name": "GINGEE",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9300340c-a43a-48dc-97b9-e5eefc082a4a",
       "name": "K.S.Masthan",
       "nameTamil": "K.S.மஸ்தான் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GINGEE_21.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fe5e10-342c-4b14-96fa-81b6562db348",
       "name": "R.Jagajanantham",
       "nameTamil": "R.ஜெகஜானந்தம் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GINGEE_8.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fccb69-178a-4743-bad1-82a4fd35d1bf",
       "name": "N.A.Elumalai",
       "nameTamil": "N.A..ஏழுமலை",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GINGEE_6.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fa5b68-f5f2-4c9b-be50-f07a32870058",
       "name": "A.Gowtham Sagar",
       "nameTamil": "A.கெளதம் சாகர்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GINGEE_5.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f68182-4ed4-427c-a450-3f29b465de30",
       "name": "A.P.Sugumar",
       "nameTamil": "A.P.சுகுமார் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GINGEE_3.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fed66b-3db5-4fbd-a6c8-002b35d41185",
       "name": "P.Rajendiran",
       "nameTamil": "P.ராஜேந்திரன் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GINGEE_15.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff7bb6-19b6-4434-b5fd-963d971c1f42",
       "name": "P.SRIPATHI",
       "nameTamil": "P.ஸ்ரீபதி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GINGEE_26.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fed05b-91e6-4948-b786-0bfb020e1066",
       "name": "T.Kirubakaran",
       "nameTamil": "T.கிருபாகரன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GINGEE_14.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fee1bf-d7fd-45f9-9760-f67bee2cf615",
       "name": "S.Gopi",
       "nameTamil": "S.கோபி ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GINGEE_18.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fd0508-9dbf-422f-b745-5c21574fb515",
       "name": "A.Saheera",
       "nameTamil": "A.சாஹீரா",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GINGEE_12.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fedf13-41c5-446c-91af-3137a9bb509b",
       "name": "KNK.Senjeraja",
       "nameTamil": "KNK.செஞ்சிராஜா ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GINGEE_17.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff728d-9e4e-4f90-8ab9-68dc0ad297dc",
       "name": "S.MARIYAPPAN",
       "nameTamil": "S.மாரியப்பன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GINGEE_23.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff7864-c06b-4481-8674-fb8c90a62c4d",
       "name": "B.VARTHAMANAN",
       "nameTamil": "B.வர்த்தமாணன் ",

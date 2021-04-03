@@ -2,6 +2,7 @@
   "name": "KALASAPAKKAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f68027-3de8-473a-8a21-1c0db32880a6",
       "name": "T.Saravanan",
       "nameTamil": "T.சரவணன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALASAPAKKAM_2.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f9576e-7e3d-4fb5-ad7c-fb43f9637fce",
       "name": "M.Nehru",
       "nameTamil": "M.நேரு",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALASAPAKKAM_7.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f68c94-cedf-4b7e-aa2c-78b5a6a1c14a",
       "name": "V.Paneerselvam",
       "nameTamil": "V.பன்னீர்செல்வம்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Panneerselvam_V_Kalasapakkam.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f89634-5308-4780-8832-081114426e28",
       "name": "E.Rajkumar",
       "nameTamil": "E.ராஜ்குமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALASAPAKKAM_6.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f96433-9e98-423a-9d8e-41bca579d7b1",
       "name": "A.Kalyana Sundaram",
       "nameTamil": "A.கல்யாண சுந்தரம்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALASAPAKKAM_8.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fb17f6-58d6-499f-8059-40efdb91a79a",
       "name": "R.V.SAMPATH",
       "nameTamil": "R.V.சம்பத்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALASAPAKKAM_12.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fd297c-b335-4ada-8ff5-0cf8c8d6a302",
       "name": "E.Balaji",
       "nameTamil": "E.பாலாஜி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALASAPAKKAM_16.jpg"
     },
     {
+      "slno": "8",
       "recid": "92feafd7-641a-46de-9e1b-2d8b620e5d12",
       "name": "M.S.Rajendran",
       "nameTamil": "M.S.ராஜேந்திரன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALASAPAKKAM_17.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f67496-bfdf-4059-a090-84727020aac8",
       "name": "G.Amutha",
       "nameTamil": "G.அமுதா",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALASAPAKKAM_1.jpg"
     },
     {
+      "slno": "10",
       "recid": "93052c06-3ed3-4971-bcd8-929a9400fdef",
       "name": "K.Saravanan",
       "nameTamil": "K.சரவணன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Saravanan_K_Kalasapakkam.jpg"
     },
     {
+      "slno": "11",
       "recid": "92febec5-e558-4bcb-87e9-2a52725c9119",
       "name": "M.TIRUNAVUKARASU",
       "nameTamil": "M. திருநாவுக்கரசு",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALASAPAKKAM_23.jpg"
     },
     {
+      "slno": "12",
       "recid": "92feb67a-a583-4d20-8718-fed0df9d0c65",
       "name": "S.PANEERSELVAM",
       "nameTamil": "S.பன்னீர்செல்வம்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALASAPAKKAM_20.jpg"
     },
     {
+      "slno": "13",
       "recid": "92febc1e-58fa-402f-8b4d-2082699e356a",
       "name": "V.Paneerselvam",
       "nameTamil": "V.பன்னீர்செல்வம்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KALASAPAKKAM_22.jpg"
     },
     {
+      "slno": "14",
       "recid": "930525af-92cb-455a-bdb2-3a48b5390b90",
       "name": "K.Rajamani",
       "nameTamil": "K.ராஜாமணி",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Rajamani_K_Kalasapakkam.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fec049-6690-4ad0-995d-6b542f3246a4",
       "name": "R.Jaganathan",
       "nameTamil": "R.ஜெகந்நாதன் ",

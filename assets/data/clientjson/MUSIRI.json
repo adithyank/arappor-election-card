@@ -2,6 +2,7 @@
   "name": "MUSIRI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92feb3e4-7017-4a74-9b32-9812ebe868dd",
       "name": "K.S.KUMAR",
       "nameTamil": "K.S..குமார் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_19.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fb26e0-6fd8-41cf-a4bb-492041e3b39d",
       "name": "M.SELVARASU",
       "nameTamil": "M.செல்வராசு",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_4.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fce27b-b36c-4a18-9054-e43e15209eef",
       "name": "N.THIYAGARAJAN",
       "nameTamil": "N.தியாகராஜன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_15.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fcce3f-4d16-4934-8ff2-c0ae0ab9c89b",
       "name": "V.BERNARD SHAW",
       "nameTamil": "V.பெர்நாட்ஷா",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_11.jpg"
     },
     {
+      "slno": "5",
       "recid": "93050006-8afa-4d29-b2a7-45077913adae",
       "name": "S.GOKUL",
       "nameTamil": "S.கோகுல் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_Gokul_Musiri.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f8903b-f7e6-48f3-829b-85fa1314540f",
       "name": "U.GAUTHAM SENGUTTUVAN",
       "nameTamil": "U.கெளதம் செங்குட்டுவன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_1.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fed941-3c5c-4dc3-a6a0-9bb524ac7458",
       "name": "D.DHARMALINGAM",
       "nameTamil": "D.தர்மலிங்கம்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_23.jpg"
     },
     {
+      "slno": "8",
       "recid": "93050698-c605-4616-a080-54795c850440",
       "name": "I.SRIDEVI",
       "nameTamil": "I.ஸ்ரீதேவி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SrideviIlangovan_Musiri.jpg"
     },
     {
+      "slno": "9",
       "recid": "92feb8bb-c246-4d97-8aa3-4eab5b4e9eb6",
       "name": "N.ARAVAN",
       "nameTamil": "N.அரவன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_20.jpg"
     },
     {
+      "slno": "10",
       "recid": "92feb0aa-96bf-4193-b208-bc971a6367c7",
       "name": "R.ANANDHAN",
       "nameTamil": "R.ஆனந்தன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_18.jpg"
     },
     {
+      "slno": "11",
       "recid": "9305030e-5e74-4d48-8434-dab3bc68fd52",
       "name": "M.KARTHICK",
       "nameTamil": "M.கார்த்திக் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DevanurKarthick_Musiri.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fa8eb1-2e86-483b-820d-86d128fe38e2",
       "name": "K.Shanmugam",
       "nameTamil": "K.சண்முகம்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Shanmugam_Musiri.jpg"
     },
     {
+      "slno": "13",
       "recid": "93050173-5b7d-4b28-8757-e65b37bf21c0",
       "name": "A.CHANDRAN",
       "nameTamil": "A.சந்திரன் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_Chandran_M_Sc___Musiri.jpg"
     },
     {
+      "slno": "14",
       "recid": "92febaea-704a-4f9f-a260-f593119114be",
       "name": "N.SAMINATHAN",
       "nameTamil": "N.சாமிநாதன் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_21.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fef724-8c80-4c0f-b16b-38343ef6a134",
       "name": "N.SIVAKUMAR",
       "nameTamil": "N.சிவக்குமார் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_25.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fa8ce2-a80f-44fa-b804-884b46a52a07",
       "name": "T.Senthilkumar",
       "nameTamil": "T.செந்தில்குமார்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/T_SenthilKumar_Musiri.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fcd27f-5e6f-49cb-a4f0-80a9f73c833a",
       "name": "V.NATARAJAN",
       "nameTamil": "V.நடராஜன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_12.jpg"
     },
     {
+      "slno": "18",
       "recid": "92feaa3e-d0db-4992-86be-bec699469a92",
       "name": "T.PERIYATHAMBI",
       "nameTamil": "T.பெரியதம்பி ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_16.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fcd798-3a9e-4623-b798-ee31d2249bc7",
       "name": "R.MICHAEL",
       "nameTamil": "R.மைக்கேல்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUSIRI_13.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fcdad5-4269-4d8e-8b19-8a71edc847de",
       "name": "P.LOGANATHAN",
       "nameTamil": "P.லோகநாதன்",

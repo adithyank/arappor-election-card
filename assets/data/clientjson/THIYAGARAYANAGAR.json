@@ -2,6 +2,7 @@
   "name": "THIYAGARAYANAGAR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fab9ab-54ad-4e69-86c9-237a02494df4",
       "name": "J.KARUNANIDHI",
       "nameTamil": "J.கருணாநிதி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIYAGARAYANAGAR_6.jpg"
     },
     {
+      "slno": "2",
       "recid": "92faa044-8f5b-4a65-8e5c-e006f1394efb",
       "name": "B.SATHIYANAARAYANAN",
       "nameTamil": "B.சத்தியநாராயணன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIYAGARAYANAGAR_3.jpg"
     },
     {
+      "slno": "3",
       "recid": "930ed42a-73f0-4238-ad71-cb61bfff01b5",
       "name": "R.JOHNSON",
       "nameTamil": "R.R.JOHNSON",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JOHNSONR_Thiyagarayanagar.jpg"
     },
     {
+      "slno": "4",
       "recid": "93072f22-1576-4d58-af1d-1edaaf45b7ef",
       "name": "A.K.D.ELLAPPAN",
       "nameTamil": "A.K.D.எல்லப்பன் ",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "இல்லை",
       "liability": "3 lacs",
       "liabilityTamil": "3 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை . ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ELLAPPANA_K_D_Thiyagarayanagar.jpg"
     },
     {
+      "slno": "5",
       "recid": "92faa80b-c35c-4c2c-9346-19e1aa43df1a",
       "name": "P.KARUPAIAH",
       "nameTamil": "P.கருப்பையா",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIYAGARAYANAGAR_5.jpg"
     },
     {
+      "slno": "6",
       "recid": "92faa5ea-e9eb-4734-84b9-1cce15b6f24c",
       "name": "S.SIVASANKARI",
       "nameTamil": "S.சிவசங்கரி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIYAGARAYANAGAR_8.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f8b2b9-162b-4478-89d3-6f51e9e1c4c1",
       "name": "R.DHANASEKARAN",
       "nameTamil": "R.தனசேகரன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIYAGARAYANAGAR_2.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fb1052-2e12-41f6-9174-81a1e53eabd4",
       "name": "M.DHANUSH",
       "nameTamil": "M.தனுஷ்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIYAGARAYANAGAR_13.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f6d9d8-2a6a-4088-9bfa-4e686e11f4eb",
       "name": "V.THIRUNAVUKKARASU",
       "nameTamil": "V.திருநாவுக்கரசு",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIYAGARAYANAGAR_1.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fd6ff3-3916-4827-bf0e-3c6a76f0e989",
       "name": "R.Bharaneeswaran",
       "nameTamil": "R.பரணீஸ்வரன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIYAGARAYANAGAR_15.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fd7401-5cc4-487c-b4ea-b8054a3b88fb",
       "name": "Vetriselvi",
       "nameTamil": "வெற்றிச்செல்வி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIYAGARAYANAGAR_16.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff1bab-8d45-43ce-b854-71d09cf54217",
       "name": "S.KANNAN",
       "nameTamil": "S.கண்ணன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIYAGARAYANAGAR_32.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff1812-e022-47e2-8f41-ca751f23fce5",
       "name": "R.PALAYAN",
       "nameTamil": "R.பாலயன் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIYAGARAYANAGAR_30.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff1d26-632d-4d18-8920-377536e811b5",
       "name": "D.RAJASEKARAN",
       "nameTamil": "D.ராஜசேகரன் ",

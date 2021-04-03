@@ -2,6 +2,7 @@
   "name": "GUDALUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93004254-b5cd-4ee7-b7c6-dbe3e35c1780",
       "name": "S.KASILINGAM",
       "nameTamil": "S.காசிலிங்கம்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDALUR_10.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fe24c4-733c-4b8f-8b7e-734af0691a15",
       "name": "PON. JAYASEELAN",
       "nameTamil": "பொன்.ஜெயசீலன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDALUR_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92ffb1a1-c5ec-464f-b247-3a596070a3a6",
       "name": "A.YOGESWARAN",
       "nameTamil": "A.யோகேஸ்வரன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDALUR_11.jpg"
     },
     {
+      "slno": "4",
       "recid": "9305bc43-6763-441f-9cd9-77f9164747dc",
       "name": "R.KETHEESWARAN",
       "nameTamil": "R.கேதீஸ்வரன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KETHEESWARAN_R__Gudalur.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fe5208-a17f-4c14-bef8-685a7ddb78d7",
       "name": "J.BABU",
       "nameTamil": "J.பாபு",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDALUR_4.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fe62ab-2cf6-493f-9542-56dd57aee132",
       "name": "P.JAYAPRAKASH",
       "nameTamil": "P.ஜெயபிரகாஷ்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GUDALUR_7.jpg"
     },
     {
+      "slno": "7",
       "recid": "930047f0-5091-4e00-a3d8-ef234ebf7898",
       "name": "M.SARAVANAN",
       "nameTamil": "M.சரவணன்",

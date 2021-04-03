@@ -2,6 +2,7 @@
   "name": "SINGANALLUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9306370d-d268-43b0-848b-08e07d8c9fed",
       "name": "N.Karthik",
       "nameTamil": "N.கார்த்திக்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KarthikN_Singanallur.jpg"
     },
     {
+      "slno": "2",
       "recid": "93057650-88a0-4db8-9646-072c98b73eb7",
       "name": "K.R.JAYARAM",
       "nameTamil": "K.R.ஜெயராம் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JayaramK_R_Singanallur.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcdf95-bf64-4f09-a808-c3701fa6e669",
       "name": "M.Sasikumar",
       "nameTamil": "M.சசிகுமார் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_18.jpg"
     },
     {
+      "slno": "4",
       "recid": "93058018-4cf2-4012-9ef9-e3e99a615b6f",
       "name": "S.SENTHILKUMAR",
       "nameTamil": "S.செந்தில்குமார் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_SenthilKumar_Singanallur.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fcadb3-8d5b-4bce-979b-30f83ccba592",
       "name": "S.R.Selva",
       "nameTamil": "S.R..செல்வா ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_14.jpg"
     },
     {
+      "slno": "6",
       "recid": "93057b3a-4f9c-4272-adde-f891f9eeb13c",
       "name": "R.NARMADHA",
       "nameTamil": "R.நர்மதா ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NarmadhaR_Singanallur.jpg"
     },
     {
+      "slno": "7",
       "recid": "9301c2bd-a2cd-44ca-b674-2bd62133be2d",
       "name": "N.Palanisamy",
       "nameTamil": "N.பழனிசாமி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_20.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f60283-a399-4ece-b2ef-2130eb3383e8",
       "name": "R.Mahendran",
       "nameTamil": "R.மகேந்திரன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_2.jpg"
     },
     {
+      "slno": "9",
       "recid": "93034cd7-446a-4125-8bae-392b0de31e03",
       "name": "A.AKBAR ALI",
       "nameTamil": "A.அக்பர் அலி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_30.jpg"
     },
     {
+      "slno": "10",
       "recid": "93035583-5f85-4500-91a7-1d72b17f58fd",
       "name": "N.KARTHICK",
       "nameTamil": "N.கார்த்திக்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_32.jpg"
     },
     {
+      "slno": "11",
       "recid": "93034062-e26f-4eee-9234-c7ca80a7a857",
       "name": "N.KARTHIK",
       "nameTamil": "N.கார்த்திக்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_28.jpg"
     },
     {
+      "slno": "12",
       "recid": "93069b10-2e1a-4274-abca-b4202ac1e4a3",
       "name": " V.Krishnan",
       "nameTamil": " V.கிருஷ்ணன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KrishnanV_Singanallur.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fcd81b-6c82-497d-8e32-c762c9263f0e",
       "name": "P.Gowtham",
       "nameTamil": "P.கெளதம் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_16.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fce196-81ab-47ed-8b71-c218bc918dcf",
       "name": "R.Chandrika",
       "nameTamil": "R.சந்திரிகா ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_19.jpg"
     },
     {
+      "slno": "15",
       "recid": "93034871-d5f2-4e8d-92ab-5df4d079aa9d",
       "name": "M.NABAS SHERRIF",
       "nameTamil": "M.நபாஸ் ஷெரிப்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_29.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fca927-56ec-4907-9db6-a35bed176620",
       "name": "J.Nagarajan",
       "nameTamil": "J.நாகராஜன் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_12.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fc04cc-9bee-4290-bc96-1893f99a0e83",
       "name": "V.Praveen",
       "nameTamil": "V.பிரவீன் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_10.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fca72a-0861-46ca-b2a6-e57f2a6bd5bb",
       "name": "K.Maniraj",
       "nameTamil": "K.மணிராஜ் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SINGANALLUR_7.jpg"
     },
     {
+      "slno": "19",
       "recid": "93062ea8-98ae-4f3a-8ba7-49d44edbef4e",
       "name": "V.Viju Alban Prakash",
       "nameTamil": "V.விஜீ ஆல்பன் பிரகாஷ் ",
@@ -578,8 +597,8 @@
       "totalAssetTamil": "9 லட்சம்",
       "liability": "12 lacs",
       "liabilityTamil": "12 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",

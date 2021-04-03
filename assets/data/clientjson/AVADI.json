@@ -2,6 +2,7 @@
   "name": "AVADI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fec37f-9f0c-4f69-ab98-43e4190ed7df",
       "name": "N.M.Sankar",
       "nameTamil": "N.M.சங்கர்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_19.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f671fb-a35a-4be5-b4d2-3c8f13bb1602",
       "name": "S.Charles",
       "nameTamil": "S.சார்லஸ் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_3.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304975a-d395-4a3a-bd1d-80427d782f83",
       "name": "S.M.Nasar",
       "nameTamil": "S.M.சமு. நாசர் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NasarSM_Avadi.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fd412c-6ce4-4468-8421-ae945aae07ed",
       "name": "K.PANDIARAJAN",
       "nameTamil": "K.பாண்டியராஜன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_13.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fd4427-9749-489f-907f-d87d91b803a7",
       "name": "V.Udhayakumar",
       "nameTamil": "V.உதயகுமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_15.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fed24e-208e-4412-908a-7ca3a105200f",
       "name": "M.Balasubramanian",
       "nameTamil": "M.பாலசுப்ரமணியன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_27.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fec89d-dc42-4729-ad84-30a4ffce0f2a",
       "name": "S.Banumathi",
       "nameTamil": "S.பானுமதி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_22.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f6de56-2ec6-4ca2-94ca-a3a82e5c9c1c",
       "name": "N.Raman",
       "nameTamil": "N.ராமன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_6.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f6daf9-52ef-45f0-a582-59a6f5c94aa4",
       "name": "G.Vijayalakshmi",
       "nameTamil": "G.விஜயலட்சுமி",
@@ -268,8 +277,8 @@
       "totalAssetTamil": "6 லட்சம்",
       "liability": "11 lacs",
       "liabilityTamil": "11 லட்சம்",
-      "netAsset": "-5 lacs",
-      "netAssetTamil": "-5 லட்சம்",
+      "netAsset": " - 5 lacs",
+      "netAssetTamil": " - 5 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_5.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fa8f60-1150-420d-bf3b-29ee41c17773",
       "name": "R.Viswanathan",
       "nameTamil": "R.விஸ்வநாதன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_9.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fd42a4-947d-4ca0-9e23-f9a705cc71c9",
       "name": "TM.Akilan",
       "nameTamil": "TM.அகிலன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_14.jpg"
     },
     {
+      "slno": "12",
       "recid": "92f102fd-8548-4591-9987-227c64355be3",
       "name": "A.CHANDRASEKAR",
       "nameTamil": "A.சந்திரசேகர்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_1.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fb0330-45b3-4b73-9a61-7e2a5154c9c1",
       "name": "M.Sugumar",
       "nameTamil": "M.சுகுமார்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_10.jpg"
     },
     {
+      "slno": "14",
       "recid": "930492e7-495d-4ff3-94be-3c68c957ad2e",
       "name": "K.Dharani",
       "nameTamil": "K.கி தாரணி ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DharaniK_Avadi.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fd4653-e6d4-4426-a4dc-3cf7bf10abfc",
       "name": "G.Durgaprasad",
       "nameTamil": "G.துர்காபிரசாத்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_16.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fec9bf-6c5c-4225-a41c-08dbc5a17ceb",
       "name": "M.Nagaraj",
       "nameTamil": "M.நாகராஜ்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_23.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fed4af-f273-4b6d-9b64-3adfd14fab21",
       "name": "G.Pandiarajan",
       "nameTamil": "G.பாண்டியராஜன் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_29.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fecfab-0ac6-4565-8cb4-3509b78b6fb7",
       "name": "M.Venkatesan",
       "nameTamil": "M.வெங்கடேசன்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_26.jpg"
     },
     {
+      "slno": "19",
       "recid": "92f92487-9fa0-41b0-b2ac-3170e7f638df",
       "name": "P.JAYAKUMAR",
       "nameTamil": "P.ஜெயகுமார்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/AVADI_7.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fec145-d3d1-4e4c-8202-b27001368595",
       "name": "J.Shanavas Khan",
       "nameTamil": "J.ஷாநவாஸ் கான்",

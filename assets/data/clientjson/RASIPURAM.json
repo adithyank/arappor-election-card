@@ -2,6 +2,7 @@
   "name": "RASIPURAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93069869-b518-4405-8751-7dc96e72d331",
       "name": "V.SAROJA",
       "nameTamil": "V.சரோஜா ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAROJAV_Dr_Rasipuram.jpg"
     },
     {
+      "slno": "2",
       "recid": "92feca55-f07b-4e35-8f46-b57074548dc2",
       "name": "M.MATHIVENTHAN",
       "nameTamil": "M.மதிவேந்தன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RASIPURAM_24.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fc8fc5-d206-4b00-b1e0-d77eced75227",
       "name": "K.VIJAYA",
       "nameTamil": "K.விஜயா ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RASIPURAM_13.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fed406-7b96-44f7-a646-29e4d631379c",
       "name": "P.ARULMOZHIDEVAN",
       "nameTamil": "P.அருள்மொழித்தேவன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RASIPURAM_16.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f92b20-3f5c-4669-9ddf-2cb37c7e0cf3",
       "name": "S.ANBALAGAN",
       "nameTamil": "S.அன்பழகன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RASIPURAM_7.jpg"
     },
     {
+      "slno": "6",
       "recid": "93053ec0-34f9-4919-8400-b981ac9454a3",
       "name": "R.RAMKUMAR",
       "nameTamil": "R.ராம்குமார்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAMKUMARR_Rasipuram.jpg"
     },
     {
+      "slno": "7",
       "recid": "93053c8e-268b-4970-a3b9-712c1cea2457",
       "name": "K.SILAMBARASI",
       "nameTamil": "K.சிலம்பராசி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SILAMBARASIK_Rasipuram.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fb590c-1283-4516-8cb8-e1c356867e72",
       "name": "P.CHINNUSAMY",
       "nameTamil": "P.சின்னுசாமி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RASIPURAM_12.jpg"
     },
     {
+      "slno": "9",
       "recid": "92f75b4e-384b-41f3-a969-a7deca6a05b4",
       "name": "M.JAYANTHI",
       "nameTamil": "M.ஜெயந்தி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAYANTHIM_Rasipuram.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f68d70-e038-4706-96ac-e64ab3616e1f",
       "name": "P.SEERANGAN",
       "nameTamil": "P.சீரங்கன் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SEERANGANP_Rasipuram.jpg"
     },
     {
+      "slno": "11",
       "recid": "92f586c1-8add-493f-b560-d9791de0266d",
       "name": "S.PALANIVEL",
       "nameTamil": "S.பழனிவேல் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RASIPURAM_1.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fed65d-d119-47e7-9fbd-e50023dfbf34",
       "name": "S.POONGODI",
       "nameTamil": "S.பூங்கொடி ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RASIPURAM_15.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe9f89-2726-4ed7-8244-d79aa2f1f732",
       "name": "A.MANIVANNAN",
       "nameTamil": "A.மணிவண்ணன் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RASIPURAM_22.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fe9ae3-fd39-4ad0-bf51-f60d9df284f8",
       "name": "D.MADHIYAZHAGAN",
       "nameTamil": "D.மதியழகன் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RASIPURAM_23.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fea2bc-de2f-4980-afd4-c0038a2bb142",
       "name": "M.MUNIYAPPAN",
       "nameTamil": "M.முனியப்பன் ",

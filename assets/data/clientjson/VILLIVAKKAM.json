@@ -2,6 +2,7 @@
   "name": "VILLIVAKKAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9300a59f-9857-4363-ac72-857529d026a4",
       "name": "D.Subamangalam",
       "nameTamil": "D.சுபமங்களம் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_25.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f845f5-48e2-453b-892d-d7e29f6b25de",
       "name": "A.PALANIVEL",
       "nameTamil": "A.பழனிவேல் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_4.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f890b8-da26-4d85-90e6-96fcdd2b3b71",
       "name": "J.C.D.Prabhakar",
       "nameTamil": "J.C.D.பிரபாகர் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_7.jpg"
     },
     {
+      "slno": "4",
       "recid": "93050790-faf6-47a4-bdbb-520ec02a06d1",
       "name": "A.Vetriazhagan",
       "nameTamil": "A.வெற்றியழகன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_Vetriazhagan_Villivakkam.jpg"
     },
     {
+      "slno": "5",
       "recid": "9300a99d-9a1e-4c55-bee2-21190a83e8b3",
       "name": "L.Govindaraj",
       "nameTamil": "L.கோவிந்தராஜ் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_29.jpg"
     },
     {
+      "slno": "6",
       "recid": "9300a7da-8e9d-49df-90a6-e8b1b7f57927",
       "name": "S.Raju Bharathi",
       "nameTamil": "S.சுந்தரம் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_33.jpg"
     },
     {
+      "slno": "7",
       "recid": "93071c98-de98-4689-8056-0a1546e4482f",
       "name": "JAGADESH JAYAKUMAR",
       "nameTamil": "ஜெகதீஷ் ஜெயக்குமார் ",
@@ -206,8 +213,8 @@
       "totalAssetTamil": "12500",
       "liability": "1 lacs",
       "liabilityTamil": "1 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 87500",
+      "netAssetTamil": " - 87500",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JagadeshJayakumar_Villivakkam.jpg"
     },
     {
+      "slno": "8",
       "recid": "930120fe-8412-4697-840c-5fe4664fcc7b",
       "name": "R.Sridhar",
       "nameTamil": "R.ஸ்ரீதர் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_44.jpg"
     },
     {
+      "slno": "9",
       "recid": "92faa452-bf31-4089-b659-e76d5a2de003",
       "name": "T.Sriharan",
       "nameTamil": "T.ஸ்ரீஹரன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_13.jpg"
     },
     {
+      "slno": "10",
       "recid": "9305042d-247a-45c5-bf26-ee9706617c29",
       "name": "C.A.Ashok Kumar",
       "nameTamil": "C.A.அசோக் குமார் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/C_A_AshokKumar_Villivakkam.jpg"
     },
     {
+      "slno": "11",
       "recid": "92f33021-def1-4bde-a04a-1e5d794d375c",
       "name": "A.Ajith kumar",
       "nameTamil": "A.அஜித் குமார்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_2.jpg"
     },
     {
+      "slno": "12",
       "recid": "9300a409-22f1-48e7-be22-047a30e64a28",
       "name": "G.Iyyanar",
       "nameTamil": "G.ஐயனார் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_24.jpg"
     },
     {
+      "slno": "13",
       "recid": "92f32d99-c5cf-4ec6-ac18-c15ea73d590f",
       "name": "S.Kandasamy",
       "nameTamil": "S.கந்தசாமி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_1.jpg"
     },
     {
+      "slno": "14",
       "recid": "9300ade7-c10a-4ca3-8564-4b53407d85b6",
       "name": "M.Gunsekaran",
       "nameTamil": "M.குணசேகரன் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_32.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fd5734-e9d2-4e70-85ea-1a3b65dc29c5",
       "name": "A.S.Kumar",
       "nameTamil": "A.S.குமார் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_17.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fd62fa-a505-4d10-a657-8af1eb08b5e4",
       "name": "S.Chandrika",
       "nameTamil": "S.சந்திரிகா ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_20.jpg"
     },
     {
+      "slno": "17",
       "recid": "9300a800-f764-4e42-a2e2-ae155dae1aea",
       "name": "M.Syed Rayhan",
       "nameTamil": "M.சயத் ரேஹான் ",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_28.jpg"
     },
     {
+      "slno": "18",
       "recid": "93011e51-725a-4671-a302-e28456ba1908",
       "name": "G.Devapriyan",
       "nameTamil": "G.தேவபிரியன் ",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_42.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fd5b16-0746-4a26-a7a3-6c09bf3b1e20",
       "name": "S.Baskar",
       "nameTamil": "S.பாஸ்கர் ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_18.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fd6532-d3f7-4d1d-9d69-90ecc3a68cf4",
       "name": "M.Murali Vinodh",
       "nameTamil": "M.முரளி வினோத் ",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_23.jpg"
     },
     {
+      "slno": "21",
       "recid": "9300aa1f-6915-4894-a1c2-9e3c8e7d7be5",
       "name": "C.Mohan",
       "nameTamil": "C.மோகன் ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_34.jpg"
     },
     {
+      "slno": "22",
       "recid": "92f895ea-1f26-4fa6-bd33-4badfbc200fa",
       "name": "C.Raghul",
       "nameTamil": "C.ராகுல் ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VILLIVAKKAM_9.jpg"
     },
     {
+      "slno": "23",
       "recid": "9300ad1d-3f80-4836-aac1-0c3280fcd16d",
       "name": "M.Jalal",
       "nameTamil": "M.ஜலால் ",

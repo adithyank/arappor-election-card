@@ -2,6 +2,7 @@
   "name": "CHEPAUK_THIRUVALLIKENI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f59080-4722-408b-9635-b07ce272f5fb",
       "name": "S.Udayanidhi",
       "nameTamil": "S.உதயநிதி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fb15a1-2381-4c34-acd0-c6a84a1e275f",
       "name": "C.RAGHU",
       "nameTamil": "C.ரகு",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_8.jpg"
     },
     {
+      "slno": "3",
       "recid": "93052177-018c-479b-996e-f82f562e769c",
       "name": "B.ABID BAKSHQH HUSSAIN",
       "nameTamil": "B.அபித் பக்ஷிக் ஹுசைன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ABIDBAKSHQHHUSSAIN_Chepauk-Thiruvallikeni.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fefa50-83a5-4bd6-92bc-59f2f6a3dd61",
       "name": "ML.Ravi",
       "nameTamil": "ML.ரவி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_18.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fe6a50-4ff8-4027-bb45-994eb4055bc4",
       "name": "L.RAJENDRAN",
       "nameTamil": "L.ராஜேந்திரன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_11.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fabff4-3f65-435e-bd7f-2bf6dfdd5fee",
       "name": "A.V.A.Kassali",
       "nameTamil": "A.V.A.கஸ்ஸாலி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_7.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f89b6b-dff4-43e5-87a2-0a977b43f692",
       "name": "A.TABREZ",
       "nameTamil": "A.தப்ரேஸ் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_2.jpg"
     },
     {
+      "slno": "8",
       "recid": "930510b0-d6f7-4d9e-810a-b2f9346a1c33",
       "name": "K.MOHAMMED IDRIS",
       "nameTamil": "K.முகமது இதிரிஸ்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MOHAMMEDIDRISK_Chepauk-Thiruvallikeni.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fefcdf-e3f4-4033-b459-f17d469b7a73",
       "name": "M.Mohamed Riyaz",
       "nameTamil": "M.முகம்மது ரியாஸ்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_19.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f96bc2-04ed-4e86-8142-8ac1f59578c7",
       "name": "M.JAYASIMMARAJA",
       "nameTamil": "M.ஜெயசிம்மராஜா ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_3.jpg"
     },
     {
+      "slno": "11",
       "recid": "930518ac-8300-4e54-9f9d-d9bf48627daf",
       "name": "K.ANANDHAN",
       "nameTamil": "K.ஆனந்தன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANANDANK_Chepauk-Thiruvallikeni.jpg"
     },
     {
+      "slno": "12",
       "recid": "930524a4-cab8-4352-8412-872b1c22ccd9",
       "name": "C.KANNAN",
       "nameTamil": "C.கண்ணன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNANC_Chepauk-Thiruvallikeni.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe6d5e-fd7c-4624-9b4e-15fe19a7ee54",
       "name": "P.GANESAN",
       "nameTamil": "P.கணேசன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_12.jpg"
     },
     {
+      "slno": "14",
       "recid": "93051ef1-dcfd-4c88-9665-845a872e5251",
       "name": "S.KRISHNADHASAN",
       "nameTamil": "S.கிருஷ்ணதாசன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KRISHNADASANS_Chepauk-Thiruvallikeni.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fe38da-80d9-4b4d-af6d-777890a970df",
       "name": "S.CHANDRANATHAN",
       "nameTamil": "S.சந்திரநாதன்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_10.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fefdef-a722-44a9-b0b2-b6394e7ea6d5",
       "name": "K.Srinivasan",
       "nameTamil": "K.ஸ்ரீனிவாசன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_20.jpg"
     },
     {
+      "slno": "17",
       "recid": "93010134-da01-403c-986b-e7185a4b3d40",
       "name": "H.Senthilkumar",
       "nameTamil": "H.செந்தில்குமார்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SENTHILKUMARH_Chepauk-Thiruvallikeni.jpg"
     },
     {
+      "slno": "18",
       "recid": "9305154d-adaa-47b9-a783-98dabd4a0658",
       "name": "P.DILLIRAJ",
       "nameTamil": "P.டில்லிராஜ்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DILLIRAJP_Chepauk-Thiruvallikeni.jpg"
     },
     {
+      "slno": "19",
       "recid": "92f96da9-8378-4f25-a42b-164f7aaa5c88",
       "name": "B.NAGARAJAN",
       "nameTamil": "B.நாகராஜன்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_4.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fefff8-62d5-481f-9ba2-56e9e46af8a1",
       "name": "K.Balaji",
       "nameTamil": "K.பாலாஜி",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_21.jpg"
     },
     {
+      "slno": "21",
       "recid": "92fe72b2-5b3e-4ec3-8550-a203d9d4c456",
       "name": "C.BALAJI",
       "nameTamil": "C.பாலாஜி",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_16.jpg"
     },
     {
+      "slno": "22",
       "recid": "92ff01b0-c656-413c-a104-9a59eb6ec02a",
       "name": "E.Manikandan",
       "nameTamil": "E.மணிகண்டன்",
@@ -671,8 +693,8 @@
       "totalAssetTamil": "89000",
       "liability": "1 lacs",
       "liabilityTamil": "1 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 51000",
+      "netAssetTamil": " - 51000",
       "criminalCase": "1",
       "caseDetailEnglish": "1.Procedure where dispute concerning land or water is likely to cause breach of peace.. ",
       "caseDetailTamil": "நிலம் அல்லது நீர் தொடர்பான தகராறு அமைதி மீறலை ஏற்படுத்தும் நடைமுறை.. ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_22.jpg"
     },
     {
+      "slno": "23",
       "recid": "92fe7182-f071-4020-807d-fc77b89dd537",
       "name": "T.MADHANAGOPAL",
       "nameTamil": "T.மதனகோபால்",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_15.jpg"
     },
     {
+      "slno": "24",
       "recid": "93051aa9-aa77-4d10-8048-0e36d139dc79",
       "name": "N.MOHAMMED HUSSAIN",
       "nameTamil": "N.முகமது ஹுசைன்",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MOHAMMEDHUSSAIN_Chepauk-Thiruvallikeni.jpg"
     },
     {
+      "slno": "25",
       "recid": "92fe3781-e424-44c0-a172-cdd77f7b6960",
       "name": "S.MUNIYANDI",
       "nameTamil": "S.முனியாண்டி",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEPAUK_THIRUVALLIKENI_9.jpg"
     },
     {
+      "slno": "26",
       "recid": "930efd2b-4454-4ba6-b361-829337d80986",
       "name": "E.Ravi",
       "nameTamil": "E.E.Ravi",

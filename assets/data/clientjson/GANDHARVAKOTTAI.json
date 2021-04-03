@@ -2,6 +2,7 @@
   "name": "GANDHARVAKOTTAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9300f233-0b88-4a96-8133-12891daab35b",
       "name": "M.CHINNADURAI",
       "nameTamil": "M.சின்னதுரை",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANDHARVAKOTTAI_11.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304a9af-9f49-4501-beea-c558050af536",
       "name": "S.JAYABHARATHI",
       "nameTamil": "S.ஜெயபாரதி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_Jayabharathi_Gandarvakkottai.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304da95-b58e-4a7e-9e0b-0e078b4f5d7f",
       "name": "P.ASAITHAMBI",
       "nameTamil": "P.ஆசைத்தம்பி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/P_Asaithambi_Gandarvakkottai.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fc9df2-2242-4b4e-b772-fafe598df9b2",
       "name": "KRM.Adhidravidar",
       "nameTamil": "KRM.ஆதிதிராவிடர்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANDHARVAKOTTAI_4.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304d3fb-e53a-4d9c-9c6b-2369e9b3f702",
       "name": "M.THANARAJ",
       "nameTamil": "M.தனராஜ்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_Thanaraj_Gandarvakkottai.jpg"
     },
     {
+      "slno": "6",
       "recid": "9300e7e4-00d0-43f9-8bd0-4987bff62c2f",
       "name": "S.MALARVIZHI",
       "nameTamil": "S.மலர்விழி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANDHARVAKOTTAI_7.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f6938f-b85d-4b87-b5da-01a575ca66cd",
       "name": "M.Ramila",
       "nameTamil": "M..ரமிளா",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANDHARVAKOTTAI_1.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f91824-a74e-49c6-9074-9e269e5da4ea",
       "name": "P.Lenin",
       "nameTamil": "P.லெனின்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANDHARVAKOTTAI_2.jpg"
     },
     {
+      "slno": "9",
       "recid": "9300f01e-80cc-4206-a96b-63a27adf3630",
       "name": "V.Ilaiyaraja",
       "nameTamil": "V.இளையராஜா",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANDHARVAKOTTAI_10.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300ee5b-5e20-44ba-a029-dbd0ec7d7cef",
       "name": "B.KARTHIKEYAN",
       "nameTamil": "B.கார்த்திகேயன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANDHARVAKOTTAI_9.jpg"
     },
     {
+      "slno": "11",
       "recid": "9300f4d8-d5be-48ae-a502-ec8cc2aea6c8",
       "name": "A.T.KEERAI CHINNAPPA",
       "nameTamil": "A.T..சின்னப்பா",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANDHARVAKOTTAI_12.jpg"
     },
     {
+      "slno": "12",
       "recid": "9300eae7-95ac-4ba6-ba83-9505a23e556c",
       "name": "K.MANIMUTHU",
       "nameTamil": "K.மணிமுத்து",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANDHARVAKOTTAI_8.jpg"
     },
     {
+      "slno": "13",
       "recid": "9300f804-2c36-4339-a41c-468115fb58a0",
       "name": "P.RENGASAMY",
       "nameTamil": "P.ரெங்கசாமி",
@@ -392,8 +405,8 @@
       "totalAssetTamil": "73500",
       "liability": "3 lacs",
       "liabilityTamil": "3 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GANDHARVAKOTTAI_13.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fca12e-531d-4c7c-b9ea-869459b61d1f",
       "name": "V.RETHINAM",
       "nameTamil": "V.ரெத்தினம்",

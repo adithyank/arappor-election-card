@@ -2,6 +2,7 @@
   "name": "ARANI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93055abd-608d-49ad-8333-aceaad7602af",
       "name": "S.S.ANBALAGAN",
       "nameTamil": "S.S.அன்பழகன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_S_ANBALAGAN_Arani.jpg"
     },
     {
+      "slno": "2",
       "recid": "930557b4-9444-4350-8007-c968de5078fb",
       "name": "K.ANBU",
       "nameTamil": "K.அன்பு",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_ANBU_Arani.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fee606-232f-479a-a1e8-c045f00a6e95",
       "name": "G.Baskaran",
       "nameTamil": "G.பாஸ்கரன்",
@@ -82,8 +85,8 @@
       "totalAssetTamil": "4 லட்சம்",
       "liability": "6 lacs",
       "liabilityTamil": "6 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANI_13.jpg"
     },
     {
+      "slno": "4",
       "recid": "93056442-05f0-4b13-84b9-c31a02c9df72",
       "name": "S.RAMACHANDRAN",
       "nameTamil": "S.இராமச்சந்திரன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_RAMACHANDRAN_Arani.jpg"
     },
     {
+      "slno": "5",
       "recid": "930569e6-70b5-47c4-98ac-775e67f3ac04",
       "name": "S.THANIGAIVEL",
       "nameTamil": "S.தணிகைவேல் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_THANIGAIVEL_Arani.jpg"
     },
     {
+      "slno": "6",
       "recid": "9305717f-059e-4af2-849f-dda4101d1ac7",
       "name": "D.PRAKALATHA",
       "nameTamil": "D.பிரகலதா ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/D_PRAKALATHA_Arani.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fee236-3827-494a-a66c-1acc6f1bc4f8",
       "name": "V.Manigandan",
       "nameTamil": "V. மணிகண்டன்",
@@ -206,8 +213,8 @@
       "totalAssetTamil": "8 லட்சம்",
       "liability": "8 lacs",
       "liabilityTamil": "8 லட்சம்",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 38000",
+      "netAssetTamil": " - 38000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANI_11.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fcbbae-bed9-4154-89de-421a9cb01158",
       "name": "A.Arunkumar",
       "nameTamil": "A.அருண்குமார்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_ARUNKUMAR_Arani.jpg"
     },
     {
+      "slno": "9",
       "recid": "9305549a-aa86-4bb5-8985-9b9d08d412ef",
       "name": "K.ANBALAGAN",
       "nameTamil": "K.அன்பழகன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_ANBALAGAN_Arani.jpg"
     },
     {
+      "slno": "10",
       "recid": "93055272-a046-48cc-8422-937687bd53b4",
       "name": "M.ANBALAGAN",
       "nameTamil": "M.அன்பழகன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_ANBALAGAN_Arani.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fee45f-f227-472f-b133-853945f53451",
       "name": "N.Karthikeyan",
       "nameTamil": "N.கார்த்திகேயன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANI_12.jpg"
     },
     {
+      "slno": "12",
       "recid": "92f2a2e6-e384-4ecb-bcd4-1735f7765f1a",
       "name": "S.SAKTHIVEL",
       "nameTamil": "S.சக்திவேல்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANI_1.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fedec5-065b-41ca-8812-f032d28a8e35",
       "name": "R.Dhakshanamoorthy",
       "nameTamil": "R.தட்சணாமூர்த்தி ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANI_10.jpg"
     },
     {
+      "slno": "14",
       "recid": "92f8cb3c-b7a8-486e-b708-7d981c519266",
       "name": "S.Murali",
       "nameTamil": "S.முரளி",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARANI_2.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fedc41-f1a3-4acb-b9a9-c8b0d1f7356a",
       "name": "S.Ramachandran",
       "nameTamil": "S.இராமச்சந்திரன் ",

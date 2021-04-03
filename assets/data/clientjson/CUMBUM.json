@@ -2,6 +2,7 @@
   "name": "CUMBUM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93049f4a-12ae-493f-87b4-4d84249300c4",
       "name": "N.RAMAKRISHNAN",
       "nameTamil": "N.இராமகிருஷ்ணன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/N_Ramakrishnan_Cumbum.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304a158-8ae0-4007-8a35-6371c03c9e70",
       "name": "S.P.M.SYEDUKHAN",
       "nameTamil": "S.P.M.சையதுகான்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Syedukhan_S_P_M_Cumbum.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f4e33b-862f-4273-be47-bcbae3a1e20b",
       "name": "A.ANISHFATIMA",
       "nameTamil": "A.அனீஷ்பாத்திமா",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUMBUM_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fe82fc-6bb9-4ab0-bc8e-7adf4b010d46",
       "name": "S.KATHIRAVAN",
       "nameTamil": "S.கதிரவன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUMBUM_26.jpg"
     },
     {
+      "slno": "5",
       "recid": "93049a9f-74c8-4cda-b026-07d02982ba4a",
       "name": "P.SURESH",
       "nameTamil": "P.சுரேஷ்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Suresh_P_Cumbum.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fb19aa-b40a-4e57-86bc-e278e47ee23f",
       "name": "R.PANDISELVAM",
       "nameTamil": "R.பாண்டிசெல்வம்   ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUMBUM_13.jpg"
     },
     {
+      "slno": "7",
       "recid": "93049571-0ab6-4afe-ac8e-6c7b5ee656af",
       "name": "K.RADHAKRISHAN",
       "nameTamil": "K.ராதாகிருஷ்ணன்",
@@ -206,8 +213,8 @@
       "totalAssetTamil": "4 லட்சம்",
       "liability": "6 lacs",
       "liabilityTamil": "6 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "1",
       "caseDetailEnglish": "obscene, Fraud, voluntarily causing hurt, criminal intimidation, SC/ST prevention of atrocities. . ",
       "caseDetailTamil": "ஆபாசமான வார்த்தைகள் பயன்படுத்துவது, மோசடி செய்தல், தண்ணியை காயப்படுத்திக் கொள்வது, மிரட்டுதல், எஸ்சி/ எஸ்டி வன்கொடுமை சட்டம்.. ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RADHAKRISHNAN_K_Cumbum.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fc728f-7df6-4bc0-8a62-c31f4859a941",
       "name": "V.LALBAHDURSASTHRI",
       "nameTamil": "V.லால்பதூர்சாஸ்த்ரி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUMBUM_12.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fcc321-8b4d-462c-8fa4-8d6456f075f0",
       "name": "N.VENKIDESH",
       "nameTamil": "N.வெங்கிதேஷ் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUMBUM_22.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fd01af-20a9-478b-a339-f2e09e5ec66b",
       "name": "S.R.SARAVANAN",
       "nameTamil": "S.R.சரவணன்\t",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUMBUM_19.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe80b3-21b6-4666-a8ce-92f4cbff1f08",
       "name": "A.THAVIDHU RAJA",
       "nameTamil": "A.தவீதுராஜா",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUMBUM_29.jpg"
     },
     {
+      "slno": "12",
       "recid": "9304a3a8-4738-4a46-8304-0c9e165cf371",
       "name": "P.PRAKASH",
       "nameTamil": "P.பிரகாஷ்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Prakash_P_Cumbum.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe8501-c2bd-4658-80e7-c37d65a971a0",
       "name": "G.MARIMUTHU",
       "nameTamil": "G.மாரிமுத்து",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUMBUM_28.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fce616-af1b-4ea0-95e3-ab9f42c34557",
       "name": "G.MuthuSelvam",
       "nameTamil": "G.முத்துசெல்வம்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CUMBUM_21.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fe7e0c-69d0-4335-b8a0-496dda8912de",
       "name": "M.MUTHUMUNEESWARAN",
       "nameTamil": "M.முத்துமுனீஸ்வரன்",

@@ -2,6 +2,7 @@
   "name": "MANAPPARAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fe90c9-202f-48d5-ac42-785b30512323",
       "name": "P.ABDUL SAMAD",
       "nameTamil": "P.அப்துல் சமது",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_29.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f8c66b-2914-48bf-a2aa-f5956f53996d",
       "name": "P.KRISHNAGOPAL",
       "nameTamil": "P.கிருஷ்ணகோபால்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_7.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f679fc-27d9-40d1-b4ae-9ec76ae46857",
       "name": "R.Chandrasekar",
       "nameTamil": "R.சந்திரசேகர்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHANDRASEKAR_R_Manapparai.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fb1dd0-ea62-41a1-b40e-e02f48d90d7a",
       "name": "K.UMA RANI",
       "nameTamil": "K.உமா ராணி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_12.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f67fae-2c56-4251-907c-2e4fca7d3e73",
       "name": "P.Kanimozhli",
       "nameTamil": "P.கனிமொழி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_5.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f8bce1-6b2d-448c-aa36-5a6a8d61d97d",
       "name": "M.Sakthivel",
       "nameTamil": "M.சக்திவேல்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SAKTHIVEL_M_Manapparai.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fe9a4d-9c06-4c1e-85bf-354f02eddb04",
       "name": "V.PANDIAN",
       "nameTamil": "V.பாண்டியன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_33.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fe92fa-6048-4937-9ada-a519b211b173",
       "name": "M.VARADAN",
       "nameTamil": "M.வரதன்",
@@ -237,8 +245,8 @@
       "totalAssetTamil": "4 லட்சம்",
       "liability": "5 lacs",
       "liabilityTamil": "5 லட்சம்",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 19000",
+      "netAssetTamil": " - 19000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை . ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_30.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fb1fcd-d4fb-4a00-89aa-06e29e6c6055",
       "name": "V.ARPUTHASAMY",
       "nameTamil": "V.அற்புதசாமி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_13.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fe894d-6d63-4e68-9f20-7044656613b8",
       "name": "S.ILANGOVAN",
       "nameTamil": "S.இளங்கோவன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_24.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe9848-22df-4324-9a1b-e50ac758999e",
       "name": "C.ELAYARAJA",
       "nameTamil": "C.இளையராஜா",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_32.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fcbfeb-2063-42a9-bc7a-54bdb722d3fd",
       "name": "P.KARTHICK KRISHNA",
       "nameTamil": "P.கார்த்திக் கிருஷ்ணா",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_15.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe8513-cd90-4e16-be07-f60f5ed641ae",
       "name": "A.SATHYAPRIYA",
       "nameTamil": "A.சத்யபிரியா",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_21.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fe8378-3625-41f4-ba51-36bdfb9c89d9",
       "name": "V.CHANDRASEKAR",
       "nameTamil": "V.சந்திரசேகர்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_20.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fe866f-e71e-4cf8-9433-e7739e9fc0cd",
       "name": "T.CHITHAIYAN",
       "nameTamil": "T.சைதன்யன் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_22.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fe8ad7-7046-4ce7-b74f-2670fe83bb1b",
       "name": "P.CHINNAN",
       "nameTamil": "P.சின்னான்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_25.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fcc196-9ed8-422a-9f32-4732bbebfa4a",
       "name": "P.SUBRAMANIYAN",
       "nameTamil": "P.சுப்ரமணியன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_16.jpg"
     },
     {
+      "slno": "18",
       "recid": "92fe8bf6-aae0-4344-826f-4d2af708df7f",
       "name": "P.DAVID",
       "nameTamil": "P.டேவிட்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_26.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fe8dfa-3c66-42bc-b34d-76af774b4f30",
       "name": "M.NIRMAL KUMAR",
       "nameTamil": "M.நிர்மல் குமார்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_27.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fe881f-d629-446f-880e-3f0adb70dbf1",
       "name": "P.PRASANNA KUMAR",
       "nameTamil": "P.பிரசன்ன குமார்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANAPPARAI_23.jpg"
     },
     {
+      "slno": "21",
       "recid": "93058656-0b1f-4d43-ad27-fad675ee16fe",
       "name": "P.Rasu",
       "nameTamil": "P.ராசு ",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RASUP_Manapparai.jpg"
     },
     {
+      "slno": "22",
       "recid": "92fe9d11-2ce0-47c0-8757-aee37342243c",
       "name": "D.JEYAPANDIYAN",
       "nameTamil": "D.ஜெயபாண்டியன்",

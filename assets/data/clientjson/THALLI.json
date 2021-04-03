@@ -2,6 +2,7 @@
   "name": "THALLI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fd1f15-e8d9-4ef2-81f8-e2bed481956c",
       "name": "T.RAMACHANDRAN",
       "nameTamil": "T.ராமச்சந்திரன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAMACHANDRAN_T_Thalli.jpg"
     },
     {
+      "slno": "2",
       "recid": "92ff7562-cca9-4dd3-a67f-6130be5df07c",
       "name": "C.Nageshwar kumar",
       "nameTamil": "C.நாகேஷ் குமார் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THALLI_14.jpg"
     },
     {
+      "slno": "3",
       "recid": "92ff6b66-9dc5-4b3b-b95f-d1edd3556e78",
       "name": "v.Ashok Kumar",
       "nameTamil": "v.அசோக்குமார்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THALLI_18.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff7af5-9680-4196-a77d-335eae7ab482",
       "name": "M.Usha",
       "nameTamil": "M.உஷா ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THALLI_17.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fcdc21-e26b-4d41-ad42-ad3964489df9",
       "name": "M.V.Sekar",
       "nameTamil": "M.V.சேகர் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THALLI_11.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fa7f65-046c-497a-bac6-5d3e9f4dfa5f",
       "name": "R.Maryselvarani",
       "nameTamil": "R.மேரிசெல்வராணி ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THALLI_2.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff78db-2f5d-4ca2-84a7-a794f262dec8",
       "name": "G.Ravi",
       "nameTamil": "G.ரவி  ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THALLI_15.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fcc407-f806-405f-866f-ba80cabab3dc",
       "name": "G.Janaki",
       "nameTamil": "G.ஜானகி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THALLI_7.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fcd537-4804-4d5b-bfaa-c7ac294da1ce",
       "name": "M.Kumar",
       "nameTamil": "M.குமார் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THALLI_10.jpg"
     },
     {
+      "slno": "10",
       "recid": "9304cdbe-9c2a-4611-a920-9454a509b321",
       "name": "Y.Devappa @ devagowda",
       "nameTamil": "Y.தேவப்பா ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DEVAPPA@DEVAGOWDA_Y_Thalli.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fcbfa1-55d4-45c1-98ca-a0a68f5e0aa6",
       "name": "I.Ravi Muniswamy",
       "nameTamil": "I.ரவி முனுசாமி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THALLI_6.jpg"
     },
     {
+      "slno": "12",
       "recid": "9304ca02-bf10-45a9-89d4-79aaf2528fbd",
       "name": "N.Vasanthamma",
       "nameTamil": "N.வசந்தம்மா ",

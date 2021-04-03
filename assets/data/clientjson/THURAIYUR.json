@@ -2,6 +2,7 @@
   "name": "THURAIYUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f696ef-57a1-4654-bda1-1273185d9b41",
       "name": "T.INDRAGANDHI",
       "nameTamil": "T.இந்திராகாந்தி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THURAIYUR_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fee61b-9a83-426d-a8c5-7a4f6cea2728",
       "name": "S.ESWARAMOORTHY",
       "nameTamil": "S.ஈஸ்வரமூர்த்தி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THURAIYUR_14.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f69fc6-a107-4093-9a85-8f187a1ee8e5",
       "name": "S.STALINKUMAR",
       "nameTamil": "S.ஸ்டாலின்குமார்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THURAIYUR_2.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fc899c-b78c-4012-a6d5-bce9a277df18",
       "name": "K.Gunasekaran",
       "nameTamil": "K.குணசேகரன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THURAIYUR_7.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fc97e1-0e61-4554-b172-4df42dbdeb3e",
       "name": "K.SUBRAMANIYAN",
       "nameTamil": "K.சுப்ரமணியன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THURAIYUR_10.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fa9140-857e-4558-acac-03b91ccfac7e",
       "name": "R.Tamilselvi",
       "nameTamil": "R.தமிழ்ச்செல்வி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THURAIYUR_5.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fe6121-2f34-423b-861b-5320aa52037b",
       "name": "M.Malarmannan",
       "nameTamil": "M.மலர்மன்னன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THURAIYUR_9.jpg"
     },
     {
+      "slno": "8",
       "recid": "9304df22-a7f6-4b82-82c1-f50c60b7b45b",
       "name": "T.N. YUVARAJAN",
       "nameTamil": "T.N.யுவராஜன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/T_N_YUVARAJAN_Thuraiyur.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304e5bc-b9e2-439a-8711-36d2f0bda042",
       "name": "K.JAYAKANNAN",
       "nameTamil": "K.ஜெயக்கண்ணன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_JAYAKKANNAN_Thuraiyur.jpg"
     },
     {
+      "slno": "10",
       "recid": "9304eb65-bfb9-4ca6-bdf2-b115ea970fa0",
       "name": "S.KARUPPIAH",
       "nameTamil": "S.கருப்பையா ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_KARUPPIAH_Thuraiyur.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fedc83-3a35-4a38-8173-a1f8273da72d",
       "name": "A.Seerangan",
       "nameTamil": "A.சீரங்கன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THURAIYUR_13.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff09be-8b97-40cb-81c5-650bbcb52b0d",
       "name": "J.SRINIVASAN",
       "nameTamil": "J.சீனிவாசன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THURAIYUR_12.jpg"
     },
     {
+      "slno": "13",
       "recid": "92f9cde3-324e-4b6c-ba01-5af8ea8b730e",
       "name": "K.Sundararajan",
       "nameTamil": "K.சுந்தரராஜன்",

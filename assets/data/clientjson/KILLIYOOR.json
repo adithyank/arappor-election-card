@@ -2,6 +2,7 @@
   "name": "KILLIYOOR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304daba-0d1e-4255-b881-05c9fb6cb2f6",
       "name": "V.SIVAKUMAR",
       "nameTamil": "V.வி சிவகுமார்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SIVAKUMARV_Killiyoor.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fe854c-d41c-482d-93d1-ba308e6ef7a5",
       "name": "S.RAJESH KUMAR",
       "nameTamil": "S.இராஜேஷ் குமார்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILLIYOOR_8.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fd1a26-b6c5-4723-a0b2-03568d176ddd",
       "name": "K.V.JUDEDEV",
       "nameTamil": "K.V..ஜூடு தேவ்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILLIYOOR_5.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fe7647-b0d9-41f3-a51b-5fd67bb1a3d9",
       "name": "A.ANTONY",
       "nameTamil": "A.அந்தோணி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILLIYOOR_7.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fd1d6e-1699-4e8a-96f3-ad8346d83d73",
       "name": "A.SEEMA",
       "nameTamil": "A.சீமா",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILLIYOOR_6.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304d653-f6ab-484a-9d0c-e2cbcc919b5b",
       "name": "C.THANKAPPAN",
       "nameTamil": "C.சி தங்கப்பன் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANKAPPANC_Killiyoor.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fac40d-a9d4-4769-b6ed-1006ec473e1f",
       "name": "H.Peter",
       "nameTamil": "H.பீட்டர் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILLIYOOR_1.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff541b-04bc-4cd1-b3b9-8f3106e9adfc",
       "name": "K.VIJIKUMAR",
       "nameTamil": "K.விஜிக்குமார்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILLIYOOR_13.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff1eef-5b82-46d4-b1fc-b8642f990585",
       "name": "E.Jayaraj",
       "nameTamil": "E.ஜெயராஜ்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILLIYOOR_9.jpg"
     },
     {
+      "slno": "10",
       "recid": "9304d898-653a-48d2-83d5-5b4351ae9f75",
       "name": "R.ANCHALOSE",
       "nameTamil": "R.ஆஞ்சலுஸ் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANCHALOSER_Killiyoor.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fd1399-af37-4e66-a171-a2264570d968",
       "name": "K.SIVANRAJ",
       "nameTamil": "K.சிவன்ராஜி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILLIYOOR_3.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff237c-1c6c-4c8f-a651-1b10d72d2d2b",
       "name": "C.Ramesh Rajakumar",
       "nameTamil": "C.இரமேஷ் இராஜக்குமார்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILLIYOOR_10.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff27b2-c0a9-4b4f-b7b0-a3a7c0d141a6",
       "name": "G.John Benadict",
       "nameTamil": "G.ஜான் பெனடிக்ட்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILLIYOOR_11.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff4e2f-7d48-4da9-90ff-42646b3e536b",
       "name": "MR.SHAJU SINGH",
       "nameTamil": "MR.ஷாஜு சிங்",

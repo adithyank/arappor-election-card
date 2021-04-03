@@ -2,6 +2,7 @@
   "name": "VEERAPANDI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fcadf2-987f-4470-946f-92dc6bdee922",
       "name": "M.CHINNANANN",
       "nameTamil": "M.சின்னண்ணன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_17.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fcc9d2-f90c-4c65-9264-59a4efc18603",
       "name": "A.K.THARUN",
       "nameTamil": "A.K.தருண்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_20.jpg"
     },
     {
+      "slno": "3",
       "recid": "92ff44a7-6f21-497e-a786-bf811164e8bd",
       "name": "M.RAJAMUTHU",
       "nameTamil": "M.ராஜமுத்து",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_26.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ff5dd4-7cab-4857-b802-c88af2771002",
       "name": "R.AMUTHA",
       "nameTamil": "R.அமுதா ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_33.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff524b-c92b-4375-9e2d-416e03b364ad",
       "name": "S.SATHIYAVANI",
       "nameTamil": "S.சத்தியவாணி ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_31.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f6bb0f-2c36-487c-8132-57758feb8ee4",
       "name": "S.K.SELVAM",
       "nameTamil": "S.K.செல்வம் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_5.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff6edd-81a2-450d-b8b4-6f1b32084b2b",
       "name": "P.PRABAKARAN",
       "nameTamil": "P.பிரபாகரன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_35.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff7079-40d1-4eae-adf0-051cca5d2fcd",
       "name": "M.MANI",
       "nameTamil": "M.மணி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_36.jpg"
     },
     {
+      "slno": "9",
       "recid": "93053e19-fc38-4afa-846d-a9ea73550232",
       "name": "S.MANIKANDAN",
       "nameTamil": "S.மணிகண்டன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MANIKANDAN_S__Veerapandi.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f6b3b9-e1a5-43f6-9368-ac3806e19ae2",
       "name": "P.MOHAN",
       "nameTamil": "P. மோகன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MOHAN_P__Veerapandi.jpg"
     },
     {
+      "slno": "11",
       "recid": "93054009-b399-49b4-9e7e-56f3fe643e66",
       "name": "S.RAJESHKUMAR",
       "nameTamil": "S. ராஜேஷ்குமார் ",
@@ -330,8 +341,8 @@
       "totalAssetTamil": "1 லட்சம்",
       "liability": "9 lacs",
       "liabilityTamil": "9 லட்சம்",
-      "netAsset": "-7 lacs",
-      "netAssetTamil": "-7 லட்சம்",
+      "netAsset": " - 7 lacs",
+      "netAssetTamil": " - 7 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJESHKUMAR_S__Veerapandi.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff7133-068f-44fb-bfb2-f41506f06700",
       "name": "G.INDRJITHGUPTHA",
       "nameTamil": "G.இந்திரஜீத்குப்தா ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_40.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff746e-5f7e-4c27-8495-0e001961f6c3",
       "name": "J.SENTHIL KUMAR",
       "nameTamil": "J.செந்தில்குமார்   ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_38.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff1e07-3d5c-45cf-b45c-b91fb7ba3b70",
       "name": "E.SENTHILMURUGAN",
       "nameTamil": "E.செந்தில்முருகன் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_23.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff1b68-0797-40e1-b604-18e7f5d9293f",
       "name": "M.SEKAR",
       "nameTamil": "M.சேகர்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_22.jpg"
     },
     {
+      "slno": "16",
       "recid": "92ff72c0-1276-4fc1-9ef1-e12043bd6cdc",
       "name": "V.MOHAN",
       "nameTamil": "V. மோகன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_37.jpg"
     },
     {
+      "slno": "17",
       "recid": "92ff224f-f004-48af-8ee4-7f2f15fd2f1c",
       "name": "C.RAMESH",
       "nameTamil": "C.ரமேஷ்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_25.jpg"
     },
     {
+      "slno": "18",
       "recid": "92ff2064-648c-4103-ac7a-7c72d349fa07",
       "name": "K.RAJARATHINAM",
       "nameTamil": "K.ராஜரத்தினம்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_24.jpg"
     },
     {
+      "slno": "19",
       "recid": "92ff7660-5730-455a-85fd-c909f7ea6f17",
       "name": "A.VENKAT",
       "nameTamil": "A. வெங்கட்  ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_39.jpg"
     },
     {
+      "slno": "20",
       "recid": "92ff18e7-25b6-40dd-9ffa-6191a3230add",
       "name": "M.VAITHI",
       "nameTamil": "M.வைத்தி",

@@ -2,6 +2,7 @@
   "name": "SANKARAPURAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "930511b6-dace-4010-aa2a-e985fe9130e4",
       "name": "T.UDHAYASURIYAN",
       "nameTamil": "T.உதயசூரியன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UDHAYASURIYANT_Sankarapuram.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fa7849-d0fb-4ca3-96e4-6b655a9e878f",
       "name": "S.Sakthivel",
       "nameTamil": "S.சக்திவேல்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARAPURAM_6.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa74b5-241f-4250-ad6f-52a6ad7347b3",
       "name": "A.ARUNKENNADI",
       "nameTamil": "A.அருண்கென்னடி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARAPURAM_5.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fc86f5-5dc2-4a57-b68d-a156db222d6b",
       "name": "C.OVIYAR ANANTH",
       "nameTamil": "C.ஓவியர் ஆனந்த்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARAPURAM_16.jpg"
     },
     {
+      "slno": "5",
       "recid": "930566d5-518f-4d47-8fc9-cdca0ce015c1",
       "name": "M.Mujibur Ragiman",
       "nameTamil": "M.முஜிபுர் ரகிமான்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MUJIBURRAGIMANM_Sankarapuram.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fc9182-b54c-4903-a65e-849ae1e6ee7b",
       "name": "G.Ramesh",
       "nameTamil": "G.ரமேஷ்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARAPURAM_17.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f6bc69-7a8a-461a-bfba-4a05cf1c1e58",
       "name": "B.Rajiyama",
       "nameTamil": "B.ரஜியாமா",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARAPURAM_2.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fa7f80-0ad6-4219-8284-38de786c2cd3",
       "name": "G.Raja",
       "nameTamil": "G.ராஜா",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARAPURAM_8.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fa7aa6-d313-452f-90fa-8dad7418bff1",
       "name": "S.VIMALAMARY",
       "nameTamil": "S.விமலாமேரி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARAPURAM_7.jpg"
     },
     {
+      "slno": "10",
       "recid": "93010a98-b637-4969-8733-840e3d37d2a9",
       "name": "P.Arul",
       "nameTamil": "P.அருள்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARAPURAM_23.jpg"
     },
     {
+      "slno": "11",
       "recid": "93056499-eddf-4dca-bed9-aa9109b25995",
       "name": "A.Uthayakumar",
       "nameTamil": "A.உதயகுமார்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/UTHAYAKUMARA_Sankarapuram.jpg"
     },
     {
+      "slno": "12",
       "recid": "930569ce-4e42-42f7-ba30-3154fcec2790",
       "name": "A.Kubendiran",
       "nameTamil": "A.குபேந்திரன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KUBENDIRANA_Sankarapuram.jpg"
     },
     {
+      "slno": "13",
       "recid": "93056bab-425e-49a8-ac96-320ec2e987c1",
       "name": "E.Gopinath",
       "nameTamil": "E.கோபிநாத்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GOPINATHE_Sankarapuram.jpg"
     },
     {
+      "slno": "14",
       "recid": "93056e33-b833-4bbc-8b58-4bfd5206f47e",
       "name": "K.Dhanam",
       "nameTamil": "K.தனம்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DHANAMK_Sankarapuram.jpg"
     },
     {
+      "slno": "15",
       "recid": "9305626a-9deb-4d14-9062-661bb3c6bcfc",
       "name": "S.Babuganesh",
       "nameTamil": "S.பாபுகணேஷ்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BABUGANESHS_Sankarapuram.jpg"
     },
     {
+      "slno": "16",
       "recid": "92f68be1-752f-4746-ba8e-3f238fb5d2b8",
       "name": "P.Mannan",
       "nameTamil": "P.மன்னன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARAPURAM_1.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fa8d5e-a03b-43e2-bedf-aad9c56ed025",
       "name": "A.Mayilamparaimari",
       "nameTamil": "A.மயிலாம்பாரைமாரி",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SANKARAPURAM_10.jpg"
     },
     {
+      "slno": "18",
       "recid": "93056fd2-6f30-4f75-8721-5ca78fa1dae1",
       "name": "E.Rajkumar",
       "nameTamil": "E.ராஜ்குமார்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RAJKUMARE_Sankarapuram.jpg"
     },
     {
+      "slno": "19",
       "recid": "92fc8351-8abd-4c5f-a0a9-8ae093d21501",
       "name": "K.Jayaprakash",
       "nameTamil": "K.ஜெயபிரகாஷ்",

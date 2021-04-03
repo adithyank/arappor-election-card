@@ -2,6 +2,7 @@
   "name": "ARIYALUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fc9d3f-610e-40ad-9eb9-13888d820bf1",
       "name": "V.SAVARI ANANDHAM",
       "nameTamil": "V.சவரிஆனந்தம் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARIYALUR_7.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fa837e-9448-453b-a298-61e79b591fdd",
       "name": "K.CHINNAPPA",
       "nameTamil": "K.சின்னப்பா",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARIYALUR_4.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6cdf5-cd47-4b77-ac53-a39e8681a916",
       "name": "S.Rajendiran",
       "nameTamil": "S.ராஜேந்திரன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARIYALUR_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304fa24-b035-45e7-ade9-07cecbbb3df9",
       "name": "THANGA.SHANMUGA SUNDARAM",
       "nameTamil": "தங்க.சண்முக சுந்தரம் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THANGA_SHANMUGASUNDARAM_Ariyalur.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304f567-66ba-47ca-8924-d81b680fe575",
       "name": "K.SUGUNA KUMAR",
       "nameTamil": "K.சுகுணா குமார் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SUGUNAKUMAR_Ariyalur.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fa885f-754f-4587-8b7f-7923466e375e",
       "name": "DURAI.MANIVEL",
       "nameTamil": "DURAI.மணிவேல்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARIYALUR_6.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fea006-19f9-41c2-bb93-025f75285ef2",
       "name": "P.Jawahar",
       "nameTamil": "P.ஜவகர்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARIYALUR_14.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fa8566-503d-4bfe-a97e-9128e5827821",
       "name": "J.KUMAR",
       "nameTamil": "J.குமார்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARIYALUR_5.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fe9aaf-740b-471f-8ae2-5d0d2045e5f9",
       "name": "V.Sivathasan",
       "nameTamil": "V.சிவதாசன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARIYALUR_11.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fca378-05f7-4f95-a404-5ddb757a630a",
       "name": "P.Deva",
       "nameTamil": "P.தேவா ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARIYALUR_10.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fca256-ce7c-41ea-b2d0-1a43d2073add",
       "name": "M.Manikannnan",
       "nameTamil": "M.மணிகண்ணன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARIYALUR_9.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fe9d94-2166-43a3-a9ee-71f0d585740a",
       "name": "K.Ramesh",
       "nameTamil": "K.ரமேஷ்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ARIYALUR_13.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe9c2e-1f0e-4adc-868a-e35ec79b9d24",
       "name": "S.Ravichandran",
       "nameTamil": "S.ரவிச்சந்திரன்",

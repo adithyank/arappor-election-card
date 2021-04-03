@@ -2,6 +2,7 @@
   "name": "BHAVANISAGAR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "930537b7-e400-4f3e-b14c-0b1da957d4e3",
       "name": "G.SAKTHIVEL",
       "nameTamil": "G.கோ. சக்திவேல் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/G_SAKTHIVEL_Bhavanisagar.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fb8256-a225-4070-b86a-3e0325cac373",
       "name": "P.L.SUNDARAM",
       "nameTamil": "P.L.சுந்தரம் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BHAVANISAGAR_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "93053a1b-59da-4e99-8df2-18aba424cea0",
       "name": "A.BANNARI",
       "nameTamil": "A.பண்ணாரி ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_Bannari_Bhavanisagar.jpg"
     },
     {
+      "slno": "4",
       "recid": "93014ed6-3fb5-4f57-b509-f90dd95b2a24",
       "name": "K.Karthikkumar",
       "nameTamil": "K.கார்த்திக்குமார் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/BHAVANISAGAR_3.jpg"
     },
     {
+      "slno": "5",
       "recid": "930150fa-1bfc-48f5-aea1-7c2c3e1bbcb7",
       "name": "G.Ramesh",
       "nameTamil": "G.ரமேஷ் ",

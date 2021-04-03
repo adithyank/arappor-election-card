@@ -2,6 +2,7 @@
   "name": "ANNA_NAGAR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f7017c-eb26-482e-9c82-9412d09f8929",
       "name": "S.GOKULA INDIRA",
       "nameTamil": "S.கோகுல இந்திரா",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_5.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f711b6-7ee3-48c8-a080-fb30d8110449",
       "name": "M.K.MOHAN",
       "nameTamil": "M.K.மோகன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_3.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fe32af-4d70-4b13-8249-776cf3543a19",
       "name": "D.JeevithKumar",
       "nameTamil": "D.ஜீவித் குமார்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_11.jpg"
     },
     {
+      "slno": "4",
       "recid": "9300829d-cdcf-47ed-8d2e-9f2c6d1a76e9",
       "name": "Ansar Ahmed",
       "nameTamil": "அன்சார் அகமது",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "51 லட்சம்",
       "liability": "75 lacs",
       "liabilityTamil": "75 லட்சம்",
-      "netAsset": "- crore 24 lacs",
-      "netAssetTamil": "- கோடி 24 லட்சம்",
+      "netAsset": " - 25 lacs",
+      "netAssetTamil": " - 25 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_25.jpg"
     },
     {
+      "slno": "5",
       "recid": "93008e00-654f-4b86-b3c9-18bf3dc009ad",
       "name": "K.N.Gunasekaran",
       "nameTamil": "K.N.குனசேகரன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_26.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f589a3-8ea8-4de5-8e1b-761b67a301d2",
       "name": "S.Shankar",
       "nameTamil": "S.ஷங்கர்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_1.jpg"
     },
     {
+      "slno": "7",
       "recid": "93007e6e-3084-47a5-b52a-601dea5987fd",
       "name": "P.DHANASEKAR",
       "nameTamil": "P.தனசேகர்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_24.jpg"
     },
     {
+      "slno": "8",
       "recid": "9304ea33-06cc-4986-b127-a7ba14c71c79",
       "name": "J.NAGARAJ",
       "nameTamil": "J.நாகராஜ்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/J_Nagaraj_AnnaNagar.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304eeb8-362e-4ac3-95da-af31e1c07042",
       "name": "V.PAULRAJ GUNA ",
       "nameTamil": "V.பால்ராஜ்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/V_PaulrajGuna_AnnaNagar.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300707d-f3c4-44d8-b20e-a1851109ed2b",
       "name": "S.D.Prabhakar",
       "nameTamil": "S.D.பிரபாகர்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_18.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fe312c-83c0-4240-8187-072b7169e2c8",
       "name": "V.PONRAJ",
       "nameTamil": "V.பொன்ராஜ்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_10.jpg"
     },
     {
+      "slno": "12",
       "recid": "93010c8f-05e6-467d-9234-18e5b4b3e539",
       "name": "S.Yuvaraja",
       "nameTamil": "S.யுவராஜா",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_35.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fe2d00-ee0f-419f-a023-432fdabdc252",
       "name": "M.Veriyandi",
       "nameTamil": "M.வெறியாண்டி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_9.jpg"
     },
     {
+      "slno": "14",
       "recid": "93006949-1f70-4d82-ac22-424902b13161",
       "name": "L.KASINATHAN",
       "nameTamil": "L.காசிநாதன்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_16.jpg"
     },
     {
+      "slno": "15",
       "recid": "9304ec35-d46d-4ab7-8f27-9854c3e4fedb",
       "name": "P.E.GOPINATH",
       "nameTamil": "P.E..கோபிநாத்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/P_E_Gopinath_AnnaNagar.jpg"
     },
     {
+      "slno": "16",
       "recid": "93006d72-94c9-4c23-8f47-d7362270738f",
       "name": "S.SATHYANARAYANAN",
       "nameTamil": "S.சத்ய நாராயணன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_17.jpg"
     },
     {
+      "slno": "17",
       "recid": "93005bc3-8b6d-4da4-a483-1dd7251b9346",
       "name": "K.Sathish Kumar",
       "nameTamil": "K.சதிஷ் குமார்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_13.jpg"
     },
     {
+      "slno": "18",
       "recid": "93009ea7-4f3f-42f7-8a0e-0085121e74dd",
       "name": "R.Saravanan",
       "nameTamil": "R.சரவணன்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_32.jpg"
     },
     {
+      "slno": "19",
       "recid": "93009cc3-2725-4e28-a218-6d3bda43f605",
       "name": "V.M.Nagarajan",
       "nameTamil": "V.M.நாகராஜன்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_31.jpg"
     },
     {
+      "slno": "20",
       "recid": "93007592-3c6c-4bb9-b427-75be8658ab9d",
       "name": "P.Manimaran",
       "nameTamil": "P.மணிமாறன்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_21.jpg"
     },
     {
+      "slno": "21",
       "recid": "93007483-70b3-467d-9edb-eff38d83c82c",
       "name": "M.Manoharan",
       "nameTamil": "M.மனோகரன்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_20.jpg"
     },
     {
+      "slno": "22",
       "recid": "93007300-9724-4502-ba8c-eeb1edaf15c0",
       "name": "A.JEYAPRAKASH",
       "nameTamil": "A.ஜெயபிரகாஷ்",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANNA_NAGAR_19.jpg"
     },
     {
+      "slno": "23",
       "recid": "9300784d-86d7-40dd-a968-02f49d2c4691",
       "name": "M.HARISHANKAR",
       "nameTamil": "M.ஹரிசங்கர்",

@@ -2,6 +2,7 @@
   "name": "TIRUPPATTUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9302795b-b4a1-4024-860e-7d6570277195",
       "name": "M.ALAGURAJ",
       "nameTamil": "M.அழகுராஜ்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_11.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fce96e-40d9-4d56-8163-b5f20788aa95",
       "name": "KR.PERIYAKARUPPAN",
       "nameTamil": "KR.பெரியகருப்பன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_22.jpg"
     },
     {
+      "slno": "3",
       "recid": "9302e0ee-daed-40b8-877f-f700720060a1",
       "name": "A.AMALANSAVARIMUTHU",
       "nameTamil": "A.அமலன் சவரிமுத்து ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_34.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304d3ee-e555-423f-aa74-43bd8d88d89a",
       "name": "K K.UMADHEVAN",
       "nameTamil": "K K.உமாதேவன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_K_UMADHEVAN_Tiruppattur.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f6c550-594f-404a-818c-e55e66e08213",
       "name": "R. KOTTAIKUMAR",
       "nameTamil": "R.கோட்டைகுமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_1.jpg"
     },
     {
+      "slno": "6",
       "recid": "9302dd3c-e950-46b6-9965-7630c53f5f96",
       "name": "M.SARASWATHI",
       "nameTamil": "M.சரஸ்வதி ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_33.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fcf57a-e054-4f1f-860b-4d8a3ad874d9",
       "name": "S.MURUGAN",
       "nameTamil": "S.முருகன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_25.jpg"
     },
     {
+      "slno": "8",
       "recid": "9304cf2e-5e57-4164-9541-2e673ac0e880",
       "name": "K.VEERAPANDIAN",
       "nameTamil": "K.வீரபாண்டியன் ",
@@ -237,8 +245,8 @@
       "totalAssetTamil": "1 லட்சம்",
       "liability": "1 lacs",
       "liabilityTamil": "1 லட்சம்",
-      "netAsset": "-8000",
-      "netAssetTamil": "-8000",
+      "netAsset": " - 8000",
+      "netAssetTamil": " - 8000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை . ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_VEERAPANDIAN_Tiruppattur.jpg"
     },
     {
+      "slno": "9",
       "recid": "9302cbbb-63fd-49d4-baad-2f0451b9437b",
       "name": "G.ABDULKISHOREBABU",
       "nameTamil": "G.அப்துல்கிஷோர்பாபு ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_32.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f87a2c-7694-4736-89e3-29950dbdfe52",
       "name": "K.Anandhan",
       "nameTamil": "K.ஆனந்தன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANANDHANK_Tiruppattur.jpg"
     },
     {
+      "slno": "11",
       "recid": "9304e445-32ef-47f5-9453-c2f706e3a69f",
       "name": "C.KANNAN",
       "nameTamil": "C.கண்ணன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/C_KANNAN_Tiruppattur.jpg"
     },
     {
+      "slno": "12",
       "recid": "9304d5c0-defa-4b64-a04b-f053b5c0fb4e",
       "name": "A.KARTHIKA",
       "nameTamil": "A.கார்த்திகா ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_41.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fcd8b6-7871-4a9a-bec9-c400f6e28731",
       "name": "P.SELVARAJ",
       "nameTamil": "P.செல்வராஜ்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_19.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fcdcac-cc04-4721-bc79-330e653690e3",
       "name": "C.PARAMASIVAM",
       "nameTamil": "C.பரமசிவம்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_20.jpg"
     },
     {
+      "slno": "15",
       "recid": "930276d1-0259-4990-9d03-4a638d9051d2",
       "name": "K.PALANIAPPAN",
       "nameTamil": "K.K.PALANIAPPAN",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PALANIAPPAN_Tiruppattur.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fad8c0-43f4-411d-b6cb-163830d7a3d6",
       "name": "A.PARTHASARATHY",
       "nameTamil": "A.பார்த்தசாரதி",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_14.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fcdfc1-0478-4d0d-9f57-42de373dd1aa",
       "name": "N.PERIYASAMY",
       "nameTamil": "N.பெரியசாமி",
@@ -516,8 +533,8 @@
       "totalAssetTamil": "1 லட்சம்",
       "liability": "40 lacs",
       "liabilityTamil": "40 லட்சம்",
-      "netAsset": "- crore 38 lacs",
-      "netAssetTamil": "- கோடி 38 லட்சம்",
+      "netAsset": " - 39 lacs",
+      "netAssetTamil": " - 39 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_21.jpg"
     },
     {
+      "slno": "18",
       "recid": "92f8692d-7c80-494d-9e8c-459a42039ce3",
       "name": "A.MALLIKA",
       "nameTamil": "A.மல்லிகா",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_MALLIKA_Tiruppattur.jpg"
     },
     {
+      "slno": "19",
       "recid": "9302e377-e36f-4211-8bbf-0ed9fb3fbfb2",
       "name": "M.MOHAMEDRABEEK",
       "nameTamil": "M.முகமது ரபீக் ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_36.jpg"
     },
     {
+      "slno": "20",
       "recid": "9302b2b5-5d36-4ab6-9067-b59c189715e9",
       "name": "K.MUTHULAKSHMI",
       "nameTamil": "K.முத்துலெட்சுமி ",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_28.jpg"
     },
     {
+      "slno": "21",
       "recid": "92fa8ee6-5a9f-4a95-8c36-c89a673ba7f5",
       "name": "RM.MURUGESAN",
       "nameTamil": "RM.முருகேசன்",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RM_MURUGESAN_Tiruppattur.jpg"
     },
     {
+      "slno": "22",
       "recid": "92f86ee8-3d04-459d-8663-a46588e08215",
       "name": "K S K.RAJESH",
       "nameTamil": "K S K.ராஜேஷ்",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_9.jpg"
     },
     {
+      "slno": "23",
       "recid": "92fa825d-c3aa-423c-a2dc-a75481874059",
       "name": "P.Rajeswari",
       "nameTamil": "P.ராஜேஸ்வரி",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_16.jpg"
     },
     {
+      "slno": "24",
       "recid": "92fa9163-4486-4fd9-96a7-f698e5ff1758",
       "name": "M.RENUKA",
       "nameTamil": "M.ரேணுகா",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_18.jpg"
     },
     {
+      "slno": "25",
       "recid": "92f86d08-fbf9-4820-8948-be98aa45340a",
       "name": "J.Veerayi",
       "nameTamil": "J.வீராய்",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPATTUR_7.jpg"
     },
     {
+      "slno": "26",
       "recid": "9302c8ed-0efb-49b7-aa7d-27a749f19024",
       "name": "P.JEYACHANDRAN",
       "nameTamil": "P.ஜெயச்சந்திரன் ",

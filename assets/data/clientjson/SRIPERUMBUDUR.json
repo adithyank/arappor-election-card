@@ -2,6 +2,7 @@
   "name": "SRIPERUMBUDUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fec0e9-d0b2-4819-9379-f7b1d5955a37",
       "name": "K.SELVAPERUNTHAGAI",
       "nameTamil": "K. செல்வபெருந்தகை",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIPERUMBUDUR_13.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6c924-f800-47ed-9e34-1a6c085a5d56",
       "name": "K.PALANI",
       "nameTamil": "K.K . பழனி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIPERUMBUDUR_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa7f54-3196-4529-9a02-0ccc62aeaff2",
       "name": "E.VINOTH",
       "nameTamil": "E.வினோத்",
@@ -82,8 +85,8 @@
       "totalAssetTamil": "16 லட்சம்",
       "liability": "29 lacs",
       "liabilityTamil": "29 லட்சம்",
-      "netAsset": "- crore 13 lacs",
-      "netAssetTamil": "- கோடி 13 லட்சம்",
+      "netAsset": " - 13 lacs",
+      "netAssetTamil": " - 13 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIPERUMBUDUR_4.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fcbe0f-0def-4041-8264-b6ff9f84c34d",
       "name": "M.Thanigaivel",
       "nameTamil": "M.M.தணிகைவேல் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIPERUMBUDUR_8.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f8be4e-f17c-42d1-8d74-a1df89519695",
       "name": "D.Pushparaj",
       "nameTamil": "D.புஷ்பராஜ் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIPERUMBUDUR_3.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304dae2-f4b5-48ad-8eba-fe91ceed3608",
       "name": "R.Perumal",
       "nameTamil": "R.பெருமாள் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PERUMAL_Sriperumbudur.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304dc13-b0b4-4aa1-ba48-060d92969e46",
       "name": "E.Lokesh",
       "nameTamil": "E.லோகேஷ் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/LOKESH_Sriperumbudur.jpg"
     },
     {
+      "slno": "8",
       "recid": "930323ce-5328-4182-b140-12c33c506d7f",
       "name": "S.Saroja",
       "nameTamil": "S.சரோஜா",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIPERUMBUDUR_23.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fecc4b-1678-404c-9ba9-e92bae1d3195",
       "name": "P.SUDHAKAR",
       "nameTamil": "P.சுதாகர்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIPERUMBUDUR_17.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fece83-c735-49bc-aadb-f0dd8afc82a0",
       "name": "K.DEVARAJAN",
       "nameTamil": "K.தேவராஜன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIPERUMBUDUR_18.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fcbbbb-e862-4bce-a366-34f9c14b8ebf",
       "name": "M.Parthiban",
       "nameTamil": "M.பார்த்திபன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIPERUMBUDUR_6.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fec96a-ee45-460e-98b5-9784bafd69ee",
       "name": "V.LEENA",
       "nameTamil": "V.லீனா",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIPERUMBUDUR_16.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff6fbb-6bfc-44a9-8735-8035a0f44bfd",
       "name": "E.Vasanthi",
       "nameTamil": "E.வசந்தி",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIPERUMBUDUR_22.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fec14e-7fdd-49a8-bcfc-d6d008fdcc97",
       "name": "R.Vedhagiri",
       "nameTamil": "R.வேதகிரி",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIPERUMBUDUR_19.jpg"
     },
     {
+      "slno": "15",
       "recid": "9304e080-09de-4642-b9cd-30673fcf2d66",
       "name": "D.Vairamuthu",
       "nameTamil": "D.வைரமுத்து ",

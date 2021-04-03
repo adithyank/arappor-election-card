@@ -2,6 +2,7 @@
   "name": "RANIPET",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92ff0810-a4af-4c78-a097-7df5882aead0",
       "name": "R.Gandhi",
       "nameTamil": "R.காந்தி ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANIPET_15.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6e306-8afd-4a30-80f7-bbfb9e7b842a",
       "name": "S.M.Sugumar",
       "nameTamil": "S.M.சுகுமார் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANIPET_4.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa974b-6704-465e-9aa3-c4a523fa0c5b",
       "name": "A.Yuvaraj",
       "nameTamil": "A.யுவராஜ் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANIPET_7.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fc789b-32a4-49eb-8b46-17b44e9f442e",
       "name": "M.Athambasha",
       "nameTamil": "M.ஆதம்பாஷா ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANIPET_8.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff2046-5d71-46d4-ad31-8a6617a6b88a",
       "name": "K.Sathiyaraj",
       "nameTamil": "K.சத்யராஜ் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANIPET_19.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304a80a-0bd2-467e-8c69-02ccf69b1b44",
       "name": "V.Shylaja",
       "nameTamil": "V.சைலஜா",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/V_SHYLAJA_Ranipet.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fef0be-b3bd-4e24-9e12-2db8129bd11f",
       "name": "G.Veeramani",
       "nameTamil": "G.வீரமணி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANIPET_10.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff21b1-d2e0-4019-81c1-cd1db743e07a",
       "name": "S.Gandhi",
       "nameTamil": "S.காந்தி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANIPET_20.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff099d-a291-44a8-b68b-a149e3bfbf63",
       "name": "K.Sakthivel nathan",
       "nameTamil": "K.சக்திவேல் நாதன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANIPET_16.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff0ba6-d79d-4a6c-b95c-0cfc91de517f",
       "name": "N.Sugumar",
       "nameTamil": "N.சுகுமார் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANIPET_17.jpg"
     },
     {
+      "slno": "11",
       "recid": "92f6fef9-90b2-4b56-ae27-06a1f3c8d233",
       "name": "A.Manikandan",
       "nameTamil": "A.மணிகண்டன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANIPET_6.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff12e4-b12c-42b0-899a-2eade900123f",
       "name": "A.Mansur basha",
       "nameTamil": "A.மன்சுர் பாஷா ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANIPET_18.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fef705-4033-4ce2-a4dc-44ede9711f3d",
       "name": "S.Yuvaraj",
       "nameTamil": "S.யுவராஜ் ",
@@ -392,8 +405,8 @@
       "totalAssetTamil": "3000",
       "liability": "39000",
       "liabilityTamil": "39000",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 36000",
+      "netAssetTamil": " - 36000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/RANIPET_12.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fef4bd-1a3a-4e60-bd94-c70b37535065",
       "name": "S.Jayakumar",
       "nameTamil": "S.ஜெயகுமார் ",

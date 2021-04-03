@@ -2,6 +2,7 @@
   "name": "TIRUVANNAMALAI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f89027-dfd0-4c0b-8eae-50b6efd8d693",
       "name": "B.Kothandapani",
       "nameTamil": "B.கோதண்டபாணி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_11.jpg"
     },
     {
+      "slno": "2",
       "recid": "92ff686e-9ba4-4a14-b715-4c2b375bc3f5",
       "name": "S.THANIGAIVEL",
       "nameTamil": "S.தணிகைவேல்",
@@ -51,8 +53,8 @@
       "totalAssetTamil": "16 கோடி 22 லட்சம்",
       "liability": "16 crore 26 lacs",
       "liabilityTamil": "16 கோடி 26 லட்சம்",
-      "netAsset": "-4 lacs",
-      "netAssetTamil": "-4 லட்சம்",
+      "netAsset": " - 5 lacs",
+      "netAssetTamil": " - 5 லட்சம்",
       "criminalCase": "6",
       "caseDetailEnglish": "causing by Abusive language, cheque bounce case, House trespass,  Sings, utters any obscene, rioting, criminal intimidation. ",
       "caseDetailTamil": "காசோலை சம்பந்தமான வழக்கு, தகாத வார்த்தைகள் உபயோகித்ததாக வழக்கு, தனி நபர் தாக்குதல் அதற்கான வழக்கு ,வங்கி கடன் மறைகேட்டிற்கான வழக்கு. ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_36.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6762f-ce55-4996-932c-999631cf5948",
       "name": "E.V.Velu",
       "nameTamil": "E.V.. வேலு",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_5.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fd1db1-25b9-4059-a835-34e7282f44c0",
       "name": "J.Agniselvarasu",
       "nameTamil": "J.அக்னி செல்வராசு",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_23.jpg"
     },
     {
+      "slno": "5",
       "recid": "92faecc8-c649-4278-9d4e-3afaf6526a9b",
       "name": "R.Arul",
       "nameTamil": "R..அருள்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_19.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fb7106-0ae4-4537-958e-b4f61a7a26a4",
       "name": "J.Kamalakkannan",
       "nameTamil": "J.கமலக்கண்ணன் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_3.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff6242-92c1-4582-bb0d-b6bd38385a9a",
       "name": "R.CHANDRAKANTH PILLAI",
       "nameTamil": "R.சந்திரகாந்த் பிள்ளை",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_35.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f4845f-923f-4745-80c8-9bb4691f779a",
       "name": "K.Selvam",
       "nameTamil": "K.செல்வம்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_2.jpg"
     },
     {
+      "slno": "9",
       "recid": "92faeabb-5777-4254-aac2-6d02557110e5",
       "name": "A. G.Panchatcharam",
       "nameTamil": "A. G..பஞ்சாட்சரம்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_13.jpg"
     },
     {
+      "slno": "10",
       "recid": "92f2b204-a9a3-45d1-a33a-69c4c5b0c308",
       "name": "A.NAKKEERAN",
       "nameTamil": "A.நக்கீரன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_1.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fd20ec-232c-4b24-85ff-4b030d5b180b",
       "name": "N.Palani",
       "nameTamil": "N.பழனி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_24.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff5e0c-09e7-4e82-ba91-6cfe84bb9186",
       "name": "D.MANIMARAN",
       "nameTamil": "D.மணிமாறன்",
@@ -361,8 +373,8 @@
       "totalAssetTamil": "5 லட்சம்",
       "liability": "11 lacs",
       "liabilityTamil": "11 லட்சம்",
-      "netAsset": "-6 lacs",
-      "netAssetTamil": "-6 லட்சம்",
+      "netAsset": " - 6 lacs",
+      "netAssetTamil": " - 6 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_32.jpg"
     },
     {
+      "slno": "13",
       "recid": "92ff60ab-2de4-4422-a138-153200173955",
       "name": "R.G.Vasudevan",
       "nameTamil": "R.G.வாசுதேவன்  ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_34.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff5f2c-e4dc-4de8-a69c-fd670da87082",
       "name": "K.VINAYAGAM",
       "nameTamil": "K.விநாயகம்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUVANNAMALAI_33.jpg"
     },
     {
+      "slno": "15",
       "recid": "92faf12c-b8cc-459a-94a9-75e900a172e9",
       "name": "J.Jameel Basha",
       "nameTamil": "J.ஜமீல் பாட்ஷா",
@@ -454,8 +469,8 @@
       "totalAssetTamil": "55 லட்சம்",
       "liability": "76 lacs",
       "liabilityTamil": "76 லட்சம்",
-      "netAsset": "- crore 21 lacs",
-      "netAssetTamil": "- கோடி 21 லட்சம்",
+      "netAsset": " - 22 lacs",
+      "netAssetTamil": " - 22 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை. ",

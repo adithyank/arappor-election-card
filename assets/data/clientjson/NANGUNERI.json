@@ -2,6 +2,7 @@
   "name": "NANGUNERI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6d5d3-8725-43e9-a328-e7362588785e",
       "name": "N.GANESARAJA",
       "nameTamil": "N..கணேஷ்ராஜா",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fef07d-ffcb-40b4-98af-1f5b93e60a13",
       "name": "R.SUBBULAKSHMI",
       "nameTamil": "R.சுப்புலட்சுமி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_36.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcc5ad-5507-4d82-83ba-d5bcc562e2f6",
       "name": "R.MANOHARAN",
       "nameTamil": "R.மனோகரன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_21.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fcc96f-8b1f-4e96-a624-9aee39ef48e4",
       "name": "M.KANDHAN",
       "nameTamil": "M.கந்தன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_22.jpg"
     },
     {
+      "slno": "5",
       "recid": "92feebcd-1f34-4bad-a6e9-0f6a21d8156c",
       "name": "S.SHUNMUGASUNDARAM",
       "nameTamil": "S.சண்முகசுந்தர்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_34.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff05a1-8e1a-4d9c-80ab-515b037f3295",
       "name": "S.PARAMASIVAIYYAPPAN",
       "nameTamil": "S.பரமசிவ ஐயப்பன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_42.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304b56a-6197-4289-bd8f-aa90c134040d",
       "name": "A.PRABAKARAN",
       "nameTamil": "A.பிரபாகரன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/J_AlldrinAirmarshalThayaram_Thoothukkudi.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fa912c-be60-4f92-ad39-f1894f9948ec",
       "name": "P.VEERAPANDI",
       "nameTamil": "P.வீரபாண்டி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_14.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fcd5cc-39cd-401a-b89c-3de0cfd5dbda",
       "name": "N.ASHOK KUMAR",
       "nameTamil": "N.அசோக் குமார்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_25.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fcd15c-496c-4178-927f-6af8c8ce94e7",
       "name": "T.KATHIRAVAN",
       "nameTamil": "T.கதிரவன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_24.jpg"
     },
     {
+      "slno": "11",
       "recid": "92ff0815-8b95-4291-b409-61eb03ba92e4",
       "name": "T.KANDASAMY",
       "nameTamil": "T.கந்தசாமி",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_43.jpg"
     },
     {
+      "slno": "12",
       "recid": "92f6dcfa-8646-40f4-91c5-896c8485b7e9",
       "name": "D.GNANABALAJI",
       "nameTamil": "D.ஞானபாலாஜி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_5.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fef229-1df9-4f41-864d-7d1f1b840179",
       "name": "S.MUTHUDURAI",
       "nameTamil": "S.முத்துதுரை",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_37.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fee6ad-a459-4e33-a34e-dd0ebf0beb32",
       "name": "H.MUTHURAJ",
       "nameTamil": "H.முத்துராஜ்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NANGUNERI_32.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fa8d16-b092-49fa-8f8d-eca682df8cb2",
       "name": "K.LENIN",
       "nameTamil": "K.லெனின்",

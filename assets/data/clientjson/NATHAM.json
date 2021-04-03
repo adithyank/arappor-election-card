@@ -2,6 +2,7 @@
   "name": "NATHAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "93069132-9306-414c-ae11-3aad4c91e38c",
       "name": "M.A.ANDIAMBALAM",
       "nameTamil": "M.A.ஆண்டியம்பலம்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_A_ANDIAMBALAM_Natham.jpg"
     },
     {
+      "slno": "2",
       "recid": "93009a3e-8342-4f86-942a-fbadffa235eb",
       "name": "P.Andisamy",
       "nameTamil": "P.ஆண்டிச்சாமி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATHAM_47.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fd0d60-d92f-4158-ad7a-9eab00bd8db2",
       "name": "NATHAM R VISWANATHAN",
       "nameTamil": "NATHAM R VISWANATHAN",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATHAM_42.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fef812-5df4-4422-b497-a23f144e36cd",
       "name": "R.A.SARANRAJ",
       "nameTamil": "R.A.சரண்ராஜ் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATHAM_50.jpg"
     },
     {
+      "slno": "5",
       "recid": "930696bc-9be4-4f90-b304-4b7ddbf7c5e2",
       "name": "V.SIVASANKARAN",
       "nameTamil": "V.சிவசங்கரன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/DOCTOR_V_SIVASANKARAN_Natham.jpg"
     },
     {
+      "slno": "6",
       "recid": "93051fc9-702d-4ce2-944a-9d03893f4596",
       "name": "N.RAJA",
       "nameTamil": "N.ராஜா ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/N_RAJA_Natham.jpg"
     },
     {
+      "slno": "7",
       "recid": "9300d380-13b1-483d-b32b-f0559cbec567",
       "name": "V.VEMBARASAN",
       "nameTamil": "V.வேம்பரசன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATHAM_54.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fb7eeb-f831-4d0a-86f2-92f8f5c41b01",
       "name": "A.Karnan",
       "nameTamil": "A.கர்ணன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATHAM_20.jpg"
     },
     {
+      "slno": "9",
       "recid": "93068928-b013-40a9-80fb-185141d5ded0",
       "name": "C.GURUSAMY",
       "nameTamil": "C.குருசாமி ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/C_GURUSAMY_Natham.jpg"
     },
     {
+      "slno": "10",
       "recid": "9304b939-7b7c-4033-a063-40fe4149a45d",
       "name": "M.XAVIER JOSEPH KENNEDY",
       "nameTamil": "M.சேவியர் ஜோசப் கென்னடி ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATHAM_35.jpg"
     },
     {
+      "slno": "11",
       "recid": "9304b301-2793-4c61-8000-9f8ea8d0f65f",
       "name": "K.DHANDAPANI",
       "nameTamil": "K.தண்டபாணி ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATHAM_41.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fb0eb5-6162-404a-b676-c646f009e20b",
       "name": "A.BALASUBRAMANI",
       "nameTamil": "A.A.BALASUBRAMANI",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATHAM_21.jpg"
     },
     {
+      "slno": "13",
       "recid": "9304b5cb-c743-4d23-8cc6-f6ba848ac8f9",
       "name": "K.MURUGESAN",
       "nameTamil": "K.முருகேசன் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATHAM_40.jpg"
     },
     {
+      "slno": "14",
       "recid": "92f98181-f0ce-4edc-b37c-e5aa16db9998",
       "name": "S.Jeyakumar",
       "nameTamil": "S.ஜெயகுமார்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NATHAM_18.jpg"
     },
     {
+      "slno": "15",
       "recid": "92f8e559-c2b9-42de-b62d-07e47598b4da",
       "name": "R.JEYAPAUL",
       "nameTamil": "R.ஜெயபால்",

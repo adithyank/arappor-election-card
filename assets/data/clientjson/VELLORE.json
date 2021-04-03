@@ -2,6 +2,7 @@
   "name": "VELLORE",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f6533a-4cce-468f-832c-ec29bc5eb912",
       "name": "S.R.K.Appu",
       "nameTamil": "S.R.K.அப்பு",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VELLORE_4.jpg"
     },
     {
+      "slno": "2",
       "recid": "92faf6af-2edb-48e3-b229-8b69d3414894",
       "name": "P.Karthikeyan",
       "nameTamil": "P.கார்த்திகேயன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VELLORE_10.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fb0ba7-26a6-446b-aef6-dcd8683e3111",
       "name": "P.Senthilkumar",
       "nameTamil": "P. செந்தில்குமார்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VELLORE_14.jpg"
     },
     {
+      "slno": "4",
       "recid": "9306b262-c033-459a-becc-d739fe6aec6a",
       "name": "M.Syed Jalaludeen",
       "nameTamil": "M.சையத் ஜலாலுதீன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SyedJalaluddin_M_Vellore.jpg"
     },
     {
+      "slno": "5",
       "recid": "9306abe2-d268-4f6d-9f08-6402f7598254",
       "name": "D.Dharmalingam",
       "nameTamil": "D.தர்மலிங்கம் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Dharmalingam_V_D_Vellore.jpg"
     },
     {
+      "slno": "6",
       "recid": "930903a8-5780-4c62-98c6-ff21e7304021",
       "name": "R.NARESH KUMAR",
       "nameTamil": "R.நரேஷ் குமார் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NareshKumar_R_Vellore.jpg"
     },
     {
+      "slno": "7",
       "recid": "9305025c-2326-469a-ba73-89bb0cdb6e3f",
       "name": "N.Poonkundran",
       "nameTamil": "N..பூங்குன்றன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Poonkundran_N_Vellore.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f64cf7-05fa-41a9-a2e3-b26ceede0aee",
       "name": "S.Manoharan",
       "nameTamil": "S.மனோகரன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VELLORE_3.jpg"
     },
     {
+      "slno": "9",
       "recid": "9306590e-8421-4715-819f-61f9c6df3d94",
       "name": "G.Vikram Chakravarthy",
       "nameTamil": "G.விக்ரம் சக்ரவர்த்தி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VikramChakravarthy_G_Vellore.jpg"
     },
     {
+      "slno": "10",
       "recid": "930698cb-8996-4790-8861-7ba28353b27c",
       "name": "E.Karthick",
       "nameTamil": "E.கார்த்திக் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Karthick_E_Vellore.jpg"
     },
     {
+      "slno": "11",
       "recid": "93068dd7-9c9b-4f13-9126-2bb6f4c14c6d",
       "name": "R.Karthikeyan",
       "nameTamil": "R.கார்த்திகேயன் ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Karthikeyan_R_Vellore.jpg"
     },
     {
+      "slno": "12",
       "recid": "9306a598-7304-4f25-af22-23867bd14806",
       "name": "S.Sathishkumar",
       "nameTamil": "S.சத்தீஷ்குமார் ",
@@ -361,8 +373,8 @@
       "totalAssetTamil": "10000",
       "liability": "11000",
       "liabilityTamil": "11000",
-      "netAsset": "-1000",
-      "netAssetTamil": "-1000",
+      "netAsset": " - 1000",
+      "netAssetTamil": " - 1000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை . ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Sathishkumar_S_Vellore.jpg"
     },
     {
+      "slno": "13",
       "recid": "9306a39e-9f96-4597-afc7-9b38eed821d7",
       "name": "N.Srinivasan",
       "nameTamil": "N.சீனிவாசன் ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Srinivasan_N_Vellore.jpg"
     },
     {
+      "slno": "14",
       "recid": "92f4c25a-e361-48c2-b651-860bbdc5f740",
       "name": "K.Naseer",
       "nameTamil": "K.நாசீர் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VELLORE_1.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fcf4d6-bb87-4f29-a0fa-66afc6766c56",
       "name": "N.Panneerselvan",
       "nameTamil": "N.பன்னீர்செல்வன்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VELLORE_19.jpg"
     },
     {
+      "slno": "16",
       "recid": "930694ad-67d7-4881-9303-62f5419a4875",
       "name": "K.Vijayaraj",
       "nameTamil": "K.விஜயராஜ் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Vijayaraj_K_Vellore.jpg"
     },
     {
+      "slno": "17",
       "recid": "92fcf25b-9167-4cfe-8f4c-4d18cdec78c0",
       "name": "E.Vishnumohan",
       "nameTamil": "E.விஷ்ணுமோகன்",

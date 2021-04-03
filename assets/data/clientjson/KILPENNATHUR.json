@@ -2,6 +2,7 @@
   "name": "KILPENNATHUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fc98ca-1687-49e1-a30b-9c949f9ee894",
       "name": "R.Subashchandrabose",
       "nameTamil": "R.சுபாஷ் சந்திர போஸ்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_7.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fd253c-a665-44da-a4e6-fdd862705280",
       "name": "K.Pitchandi",
       "nameTamil": "K.பிச்சாண்டி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_19.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f70414-11e2-4f8d-b7d7-7d2870c5e042",
       "name": "A.R.Elumalai",
       "nameTamil": "A.R.ஏழுமலை",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_3.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304bb2c-2e8a-4d45-ab1c-27aadf917b63",
       "name": "P.Kathikeyan",
       "nameTamil": "P.கார்த்திகேயன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/P_Kathikeyan_Kilpennathur.jpg"
     },
     {
+      "slno": "5",
       "recid": "9301a029-5e12-42b2-8a43-a6cff2f005ac",
       "name": "V.Suganantham",
       "nameTamil": "V.சுகனானந்தம்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_35.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fcac1a-5871-4d3a-8f49-6cefc760776d",
       "name": "K.Selvakumar",
       "nameTamil": "K.செல்வகுமார்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_Selvakumar_Kilpennathur.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fd1ed6-e2fe-40e8-9384-f8ddbf330e81",
       "name": "N.Thangaraj",
       "nameTamil": "N. தங்கராஜ்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_16.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f6ef9f-3a43-49cc-b374-3cd7fe5c5d93",
       "name": "R.Rameshbabu",
       "nameTamil": "R.ரமேஷ்பாபு",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_1.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fc8731-8d6f-4584-ad50-2dc05004717a",
       "name": "A.Venkatesan",
       "nameTamil": "A.வெங்கடேசன்",
@@ -268,8 +277,8 @@
       "totalAssetTamil": "29000",
       "liability": "2 lacs",
       "liabilityTamil": "2 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_12.jpg"
     },
     {
+      "slno": "10",
       "recid": "9306cd42-d76a-4a64-9678-2c34934e743d",
       "name": "K.Jayaraman",
       "nameTamil": "K.K.Jayaraman",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/FarmerJayaraman_Kilpennathur.jpg"
     },
     {
+      "slno": "11",
       "recid": "9304a7a4-135e-4c94-903a-f5354bbdffa0",
       "name": "M.Adhiyaman",
       "nameTamil": "M.M.Adhiyaman",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_21.jpg"
     },
     {
+      "slno": "12",
       "recid": "93018e6a-43fc-4119-a6fe-b962989b9ca1",
       "name": "P.Ganeshraja",
       "nameTamil": "P.கணேஷ்ராஜா",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_28.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fc7d72-2c7c-4a5d-8352-f22d67f36f32",
       "name": "G.Krishnamurthy",
       "nameTamil": "G.கிருஷ்ணமூர்த்தி",
@@ -392,8 +405,8 @@
       "totalAssetTamil": "10500",
       "liability": "5 lacs",
       "liabilityTamil": "5 லட்சம்",
-      "netAsset": "-5 lacs",
-      "netAssetTamil": "-5 லட்சம்",
+      "netAsset": " - 5 lacs",
+      "netAssetTamil": " - 5 லட்சம்",
       "criminalCase": "2",
       "caseDetailEnglish": "For disgracing central government order by hitting it with slippers and burnt it.. For kicking a central government official with slippers",
       "caseDetailTamil": "மத்திய அரசின் அரசாணையை செருப்புகளால் அடித்து எரித்ததன் மூலம் அவமானப்படுத்தியதற்காக. ஒரு மத்திய அரசு அதிகாரியை செருப்புகளால் உதைத்ததற்காக",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_4.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fc8498-1e7d-415b-98ab-0000a1eb826c",
       "name": "M.Sakthivel",
       "nameTamil": "M.சக்திவேல்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_13.jpg"
     },
     {
+      "slno": "15",
       "recid": "930195b8-45ac-4e25-9f12-5e6ce1afe000",
       "name": "S.Sasikumar",
       "nameTamil": "S.சசிகுமார்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_33.jpg"
     },
     {
+      "slno": "16",
       "recid": "930191d5-5dda-467f-9b57-976291f8a4e7",
       "name": "M.Sampathraj",
       "nameTamil": "M.சம்பத்ராஜ்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_30.jpg"
     },
     {
+      "slno": "17",
       "recid": "93018a1d-6bd4-4933-a8a2-316d35619f97",
       "name": "M.Dinakaran",
       "nameTamil": "M.தினகரன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_26.jpg"
     },
     {
+      "slno": "18",
       "recid": "9304b37d-aa9e-410c-978e-c0b77799ff95",
       "name": "M.Murugan",
       "nameTamil": "M.M.Murugan",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_31.jpg"
     },
     {
+      "slno": "19",
       "recid": "93019cea-0cdd-4d2a-8438-175d86489057",
       "name": "M.Mohanraja",
       "nameTamil": "M.மோகன்ராஜா",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_34.jpg"
     },
     {
+      "slno": "20",
       "recid": "92fc8225-1133-4a23-9a0c-a0fb926b5b34",
       "name": "Lourdammal",
       "nameTamil": "லூர்தம்மாள்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILPENNATHUR_14.jpg"
     },
     {
+      "slno": "21",
       "recid": "93018c24-bbb0-451e-a97d-da5b2d84f352",
       "name": "C.Jothi",
       "nameTamil": "C.ஜோதி",

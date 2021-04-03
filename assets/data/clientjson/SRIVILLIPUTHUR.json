@@ -2,6 +2,7 @@
   "name": "SRIVILLIPUTHUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9303b5c7-10a6-4b16-be51-5663db22b611",
       "name": "PSW.MADHAVA RAO",
       "nameTamil": "PSW.மாதவ ராவ்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVILLIPUTHUR_10.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f78925-3315-4f58-b81a-973ffdc14d23",
       "name": "E.M.MANRAJ",
       "nameTamil": "E.M..மான்ராஜ்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVILLIPUTHUR_5.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f7850d-a25b-44ed-85d1-f40cf077b4e2",
       "name": "B.ABINAYA",
       "nameTamil": "B.அபினயா",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVILLIPUTHUR_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "9303bb82-67ff-4dd7-9a9e-93831a213cfc",
       "name": "V.IRULANDI",
       "nameTamil": "V.இருளாண்டி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVILLIPUTHUR_45.jpg"
     },
     {
+      "slno": "5",
       "recid": "9303b7df-15ab-48fb-b9a6-a93879aeaa3a",
       "name": "K.GURUVAIYA",
       "nameTamil": "K.குருவையா",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVILLIPUTHUR_32.jpg"
     },
     {
+      "slno": "6",
       "recid": "9303accf-8efc-44c0-af37-69f3136c4ab3",
       "name": "S .SANGEETHAPRIYA",
       "nameTamil": "S .சங்கீதா பிரியா",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVILLIPUTHUR_9.jpg"
     },
     {
+      "slno": "7",
       "recid": "93032c5b-759a-4a52-9c64-b028b0a35bac",
       "name": "S.SHANTHI",
       "nameTamil": "S.சாந்தி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVILLIPUTHUR_42.jpg"
     },
     {
+      "slno": "8",
       "recid": "9303b8ec-0a5e-40ba-9536-c0551958d7b7",
       "name": "K.PANDIYARAJ",
       "nameTamil": "K.பாண்டியராஜ்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVILLIPUTHUR_33.jpg"
     },
     {
+      "slno": "9",
       "recid": "93132a08-638a-4273-a2bc-0bce3ef8872d",
       "name": "K.VEERAPANDI",
       "nameTamil": "K.வீரபாண்டி",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VEERAPANDI_K__Srivilliputhur.jpg"
     },
     {
+      "slno": "10",
       "recid": "93031e42-fea6-483f-a420-43286f3f99e2",
       "name": "A.KANNAN",
       "nameTamil": "A.கண்ணன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVILLIPUTHUR_19.jpg"
     },
     {
+      "slno": "11",
       "recid": "9304eeed-2ddb-40c4-9a9b-f5b83f080cbf",
       "name": "G.GURUVAIYA",
       "nameTamil": "G.குருவையா",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/GURUVAIYA_G__Srivilliputhur.jpg"
     },
     {
+      "slno": "12",
       "recid": "9303215f-eb95-478b-8889-f174683a64be",
       "name": "K.THAMARAISELVAM",
       "nameTamil": "K.தாமரைசெல்வம்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVILLIPUTHUR_25.jpg"
     },
     {
+      "slno": "13",
       "recid": "93032f65-de89-4ce2-863e-6b9d8f7e5645",
       "name": "P.PRABAKARAN",
       "nameTamil": "P.பிரபாகரன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVILLIPUTHUR_44.jpg"
     },
     {
+      "slno": "14",
       "recid": "930326a9-5535-4aaf-8066-d24e9694df10",
       "name": "M.MAHALAKSHMI",
       "nameTamil": "M.மஹாலக்ஷ்மி",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRIVILLIPUTHUR_40.jpg"
     },
     {
+      "slno": "15",
       "recid": "93032425-3e53-44d2-8bd1-536fbe505d9d",
       "name": "R.MUTHULAKSHMI",
       "nameTamil": "R.முத்துலட்சுமி",

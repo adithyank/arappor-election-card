@@ -2,6 +2,7 @@
   "name": "THIRUPORUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304f8eb-6a36-4b46-8a56-586ab1c9d4b6",
       "name": "V.K.Pakkiri Ambadkar",
       "nameTamil": "V.K.பக்கிரி அம்பேத்கர்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/V_K_PakkiriAmbadkar_Thiruporur.jpg"
     },
     {
+      "slno": "2",
       "recid": "93050101-a565-4e60-ac8b-bec8d11a19f4",
       "name": "K.Arumugam",
       "nameTamil": "K.ஆறுமுகம்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Arumugam_K_Thiruporur.jpg"
     },
     {
+      "slno": "3",
       "recid": "93050699-9c20-4bbd-86ea-70175bab59ce",
       "name": "M.Kothandapani",
       "nameTamil": "M.கோதண்டபாணி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Kothandapani_M_Thiruporur.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fac788-004e-4a84-8980-abdad833d486",
       "name": "S.S.Balaji",
       "nameTamil": "S.S.S.S.பாலாஜி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUPORUR_8.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f56a80-dcc7-499e-a2bc-9c0ae23aa453",
       "name": "S.Mohanasundari",
       "nameTamil": "S.மோகனசுந்தரி ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUPORUR_1.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fa9c90-b9f0-4957-8041-ba9fdcc3eddf",
       "name": "N.Lavanya",
       "nameTamil": "N.லாவண்யா ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUPORUR_6.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff2339-e914-493b-b1e0-bec0faca98f5",
       "name": "U.Akbar Bhasha",
       "nameTamil": "U.அக்பர் பாஷா ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUPORUR_18.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff2211-2c87-472e-8fdb-199ad53c0c03",
       "name": "M.Duraisamy",
       "nameTamil": "M.துரைசாமி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUPORUR_17.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fee248-afa2-44af-8578-5e5ebd9b251c",
       "name": "S.Nataraj",
       "nameTamil": "S.நடராஜ் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUPORUR_14.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fd01f7-cd0d-4569-86be-adba80d347ca",
       "name": "D.Ravi",
       "nameTamil": "D.ரவி ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUPORUR_11.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fcebb1-9f57-4ff2-b411-a5f902b230b1",
       "name": "A.Joshva",
       "nameTamil": "A.ஜோசுவா ",

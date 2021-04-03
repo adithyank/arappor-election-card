@@ -2,6 +2,7 @@
   "name": "TIRUPATTUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f98f4d-f925-476f-b27c-85db7e2f38c3",
       "name": "A.NALLATHAMBI",
       "nameTamil": "A.நல்லதம்பி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPATTUR_6.jpg"
     },
     {
+      "slno": "2",
       "recid": "92faa988-4447-4712-9980-ec4e25729b56",
       "name": "S.Kalasthri",
       "nameTamil": "S.காளஸ்திரி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPATTUR_9.jpg"
     },
     {
+      "slno": "3",
       "recid": "92ff9b08-7ed1-4201-bce1-00fcd09b5dfc",
       "name": "S.SATHIYAMOORTHY",
       "nameTamil": "S.சத்தியமூர்த்தி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPATTUR_26.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fa68e6-a31b-4233-9774-b1bb99b017ec",
       "name": "M.Sumathi",
       "nameTamil": "M.சுமதி",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPATTUR_4.jpg"
     },
     {
+      "slno": "5",
       "recid": "930503cd-8d9e-4b38-a9ae-630f28db4f77",
       "name": "A.Gnanasekar",
       "nameTamil": "A.ஞானசேகர்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_GNANASEKAR_Tirupattur.jpg"
     },
     {
+      "slno": "6",
       "recid": "93053fad-5cb2-4c6e-b2b2-cf0dc5fb60af",
       "name": "T K .RAJA",
       "nameTamil": "T K .ராஜா",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/T_K_RAJA_Tirupattur.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fb9955-4dab-489c-88f7-8ac33abf6169",
       "name": "I.ROSELINJEEVA",
       "nameTamil": "I.ரோஸ்லின்ஜீவா",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPATTUR_16.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ffa4a1-ca31-458b-886b-526599c1060e",
       "name": "A.JEYAMMA",
       "nameTamil": "A.ஜெயம்மா",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPATTUR_28.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff9103-932a-475c-a3d7-92571b2010db",
       "name": "R.AROCKIA JOE PRABU",
       "nameTamil": "R.ஆரோக்கிய ஜோ பிரபு",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPATTUR_25.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff899d-0c7a-4763-b636-c035f02d3c3b",
       "name": "I.Goivndaraji",
       "nameTamil": "I.கோவிந்தராஜி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPATTUR_23.jpg"
     },
     {
+      "slno": "11",
       "recid": "92f98792-72ba-45e7-b2ad-62a2d09a5297",
       "name": "M.NALLASIVAM",
       "nameTamil": "M.நல்லசிவம்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPATTUR_5.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fb9f61-ea6d-4c81-b85d-90d3bde52d92",
       "name": "R.PALANI",
       "nameTamil": "R.பழனி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPATTUR_17.jpg"
     },
     {
+      "slno": "13",
       "recid": "92f4bb6e-afcf-4c35-b06b-21217709cd5e",
       "name": "A.Manithan",
       "nameTamil": "A.மனிதன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPATTUR_2.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff9fd8-f36d-4b62-ac2c-50a0d016ed7c",
       "name": "G.RAJA",
       "nameTamil": "G.ராஜா",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPATTUR_27.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ffb4df-d02e-4474-9fdc-c0c3b20e6eee",
       "name": "B.VIJAYKUMAR",
       "nameTamil": "B.விஜயகுமார்",

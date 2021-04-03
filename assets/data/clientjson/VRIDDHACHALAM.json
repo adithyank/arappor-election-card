@@ -2,6 +2,7 @@
   "name": "VRIDDHACHALAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9300a249-20cd-4f3f-8a48-8bef1d0893e9",
       "name": "A.Ayyasamy",
       "nameTamil": "A.அய்யாசாமி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_Ayyasamy_Vriddhachalam.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fcbe56-a5f3-49a8-b6a1-f42a008a5a9f",
       "name": "Premalatha Vijayakanth",
       "nameTamil": "பிரேமலதா விஜயகாந்த்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_11.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcaa55-b9ea-4852-aca4-814d866fa0bc",
       "name": "P.Radhakrishnan",
       "nameTamil": "P.ராதாகிருஷ்ணன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_8.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f87901-72aa-4f35-8b01-9925a6066124",
       "name": "N.Amutha",
       "nameTamil": "N.அமுதா",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_4.jpg"
     },
     {
+      "slno": "5",
       "recid": "930099dd-96dd-45ad-8f39-f36c529e6429",
       "name": "B.Arasi",
       "nameTamil": "B.அரசி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_23.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f8f1c4-00df-43e8-a36d-fe34fb9a97cc",
       "name": "J.Karthikeyan",
       "nameTamil": "J.கார்த்திகேயன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_1.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304e46f-f7f4-4d68-8808-6c3d5d8d8414",
       "name": "R.Kesavaperumal",
       "nameTamil": "R.கேசவபெருமல்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_Kesavaperumal_Vriddhachalam.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fadc34-048d-43ba-bd24-956a104cbffb",
       "name": "G.Sathiyanathan",
       "nameTamil": "G.சத்தியநாதன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_7.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fcd201-f5e9-454d-a733-e8a0cec819f6",
       "name": "R.Sivasankar",
       "nameTamil": "R.சிவசங்கர்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_14.jpg"
     },
     {
+      "slno": "10",
       "recid": "930090db-a7a8-46fb-8997-fe953a30b946",
       "name": "R.Parthasarathi",
       "nameTamil": "R.பார்த்தசாரதி",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_18.jpg"
     },
     {
+      "slno": "11",
       "recid": "930532c1-0377-440f-a389-7e49390ac19a",
       "name": "G.Pichamuthu",
       "nameTamil": "G.பிச்சமுத்து",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/G_Pichamuthu_Vriddhachalam.jpg"
     },
     {
+      "slno": "12",
       "recid": "9300a694-3014-402f-b80a-9d583e107074",
       "name": "S.Aruljothi",
       "nameTamil": "S.அருல்ஜோதி",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_27.jpg"
     },
     {
+      "slno": "13",
       "recid": "930087fa-78f7-4d62-adcd-1772d655ce33",
       "name": "M.AnwarBasha",
       "nameTamil": "M.அன்வர்பாஷா",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_40.jpg"
     },
     {
+      "slno": "14",
       "recid": "930092ff-8b80-4974-b37b-31e70c12a375",
       "name": "S.Sadhasivam",
       "nameTamil": "S.சதாசிவம்",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_44.jpg"
     },
     {
+      "slno": "15",
       "recid": "9304d209-1857-4d10-b731-401600c6efa3",
       "name": "M.Sathiyaseelan",
       "nameTamil": "M.சதாசிவம்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_Sathiyaseelan_Vriddhachalam.jpg"
     },
     {
+      "slno": "16",
       "recid": "93008e1b-75df-406b-bf60-016e9b2c3685",
       "name": "R.Saravanan",
       "nameTamil": "R.சரவணன்",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_17.jpg"
     },
     {
+      "slno": "17",
       "recid": "9300a117-fddf-431e-985f-1df80a18c64d",
       "name": "K.P.Senthilmurugan",
       "nameTamil": "K.P.செந்தில்முருகன்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_24.jpg"
     },
     {
+      "slno": "18",
       "recid": "9300842d-66e4-4542-8ae7-b49f41ed1f7d",
       "name": "C.Dhanasekar",
       "nameTamil": "C.தனசேகர்",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_39.jpg"
     },
     {
+      "slno": "19",
       "recid": "9304ea91-1213-4e7b-a33c-771681ce0e50",
       "name": "C.Perumal",
       "nameTamil": "C.பெருமாள்",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/Perumal_Vriddhachalam.jpg"
     },
     {
+      "slno": "20",
       "recid": "9300a526-5d6e-4d96-8d9d-4534add2b91b",
       "name": "S.Mahaveer Chand",
       "nameTamil": "S.மகாவீர் சந்த்",
@@ -622,6 +642,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_26.jpg"
     },
     {
+      "slno": "21",
       "recid": "9300958f-d33b-4bc7-91b2-ab3fbc55f71c",
       "name": "A.Manikandan",
       "nameTamil": "A.மணிகண்டன் ",
@@ -640,8 +661,8 @@
       "totalAssetTamil": "4 லட்சம்",
       "liability": "6 lacs",
       "liabilityTamil": "6 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -653,6 +674,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_21.jpg"
     },
     {
+      "slno": "22",
       "recid": "930530cf-daa1-45cf-bc0d-0e246bd3a9eb",
       "name": "S.Muruganantham",
       "nameTamil": "S.முருகானந்தம்",
@@ -671,8 +693,8 @@
       "totalAssetTamil": "3 லட்சம்",
       "liability": "4 lacs",
       "liabilityTamil": "4 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 53000",
+      "netAssetTamil": " - 53000",
       "criminalCase": "1",
       "caseDetailEnglish": "rioting,\nObscene acts,\nCausing voluntary hurt.. ",
       "caseDetailTamil": "கலவரம் உண்டுபடுத்துதல்,\nஆபாசமான செயல்கள்,\nதானாக முன்வந்து புண்படுத்தும் தண்டனை.. ",
@@ -684,6 +706,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_Muruganantham_Vriddhachalam.jpg"
     },
     {
+      "slno": "23",
       "recid": "930091fd-feef-4c1c-b0e3-6704674d01e8",
       "name": "S.Radhakrishnan",
       "nameTamil": "S.ராதாகிருஷ்ணன்",
@@ -715,6 +738,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_19.jpg"
     },
     {
+      "slno": "24",
       "recid": "93009653-225e-4af0-87d9-2e28a4fb8b50",
       "name": "N.Radhika",
       "nameTamil": "N.ராதிகா",
@@ -746,6 +770,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_47.jpg"
     },
     {
+      "slno": "25",
       "recid": "93009408-53a9-4e8a-aa69-85a4520e2cdd",
       "name": "P.Ramasamy",
       "nameTamil": "P.ராமசாமி",
@@ -777,6 +802,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_20.jpg"
     },
     {
+      "slno": "26",
       "recid": "92f6f4af-3a11-4e8d-93ae-df005eebbbef",
       "name": "S.Ramadoss",
       "nameTamil": "S.இராமதாஸ்",
@@ -808,6 +834,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_2.jpg"
     },
     {
+      "slno": "27",
       "recid": "9300985d-d038-4ded-a54a-221aa7123cde",
       "name": "K.Ravichandiran",
       "nameTamil": "K.ரவிச்சந்திரன்",
@@ -839,6 +866,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_49.jpg"
     },
     {
+      "slno": "28",
       "recid": "92fcba25-264f-48d4-a27e-1816d3fc2feb",
       "name": "T.Veeramani",
       "nameTamil": "T.வீரமணி",
@@ -857,8 +885,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "3 lacs",
       "liabilityTamil": "3 லட்சம்",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 10000",
+      "netAssetTamil": " - 10000",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -870,6 +898,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/VRIDDHACHALAM_10.jpg"
     },
     {
+      "slno": "29",
       "recid": "93009103-46d1-4acb-8e25-4d1e3cd40b3a",
       "name": "K.Stalin",
       "nameTamil": "K.ஸ்டாலின்",

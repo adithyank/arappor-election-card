@@ -2,6 +2,7 @@
   "name": "NEYVELI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fedb3d-a617-42d2-8396-774e72b40d00",
       "name": "S.Kanagaraji",
       "nameTamil": "S.கனகராஜி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NEYVELI_9.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6fc4d-e0b6-4a6f-996c-ab3d4a1e070a",
       "name": "SABA.Rajendran",
       "nameTamil": "SABA.ராஜேந்திரன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NEYVELI_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fed785-f0c5-4c17-b859-6c485c64f13b",
       "name": "R.Ilangovan",
       "nameTamil": "R.இளங்கோவன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NEYVELI_7.jpg"
     },
     {
+      "slno": "4",
       "recid": "92faccbb-73f1-44a2-ab2b-ad4a0ab616dd",
       "name": "R.BAKTHARATCHAGAN",
       "nameTamil": "R..பக்தரட்சகன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NEYVELI_3.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fed9f3-7782-4ce8-a3fc-c00320b21a24",
       "name": "K.Ramesh",
       "nameTamil": "K.ரமேஷ்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NEYVELI_8.jpg"
     },
     {
+      "slno": "6",
       "recid": "9304ee2f-5988-45f1-acbe-f29eb391076c",
       "name": "K.Jagan",
       "nameTamil": "K.ஜெகன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JAGAN_K_Neyveli.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fee02f-fec5-4316-b413-065224343e08",
       "name": "S.Dhanasekaran",
       "nameTamil": "S.தனசேகரன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NEYVELI_10.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fee44b-8399-4574-8c68-222706c8a5d2",
       "name": "U.Dhilipan",
       "nameTamil": "U.திலிபன்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NEYVELI_12.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fee2fa-59a3-418d-af10-e61ba5c42b43",
       "name": "K.Dhurga",
       "nameTamil": "K.துர்கா",
@@ -268,8 +277,8 @@
       "totalAssetTamil": "80500",
       "liability": "2 lacs",
       "liabilityTamil": "2 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NEYVELI_11.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fee948-dfd1-44d3-afc8-ad7565b633dd",
       "name": "E.Boobalan",
       "nameTamil": "E.பூபாலன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NEYVELI_14.jpg"
     },
     {
+      "slno": "11",
       "recid": "92fee693-5f78-4f23-a1e5-c2c413296555",
       "name": "B.Rajendran",
       "nameTamil": "B.ராஜேந்திரன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/NEYVELI_13.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fb7297-6fa7-40a2-8d09-05372a2b699a",
       "name": "R.VADUGANATHAN",
       "nameTamil": "R.வடுகநாதன்",

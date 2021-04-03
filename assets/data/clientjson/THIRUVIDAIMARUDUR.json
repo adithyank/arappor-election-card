@@ -2,6 +2,7 @@
   "name": "THIRUVIDAIMARUDUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f69c3b-7648-48dc-8b70-d7c3f1e13491",
       "name": "GOVI.CHEZHIYAAN",
       "nameTamil": "GOVI.செழியன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVIDAIMARUDUR_6.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fc77fc-0548-44cb-bc36-7bc23e2e1ab0",
       "name": "M.PURATCHIMANI",
       "nameTamil": "M.புரட்சிமணி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVIDAIMARUDUR_13.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fa9f3b-dc5a-472b-9c0d-60e3c5e6ba62",
       "name": "S.VEERAMANI",
       "nameTamil": "S.வீரமணி",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVIDAIMARUDUR_11.jpg"
     },
     {
+      "slno": "4",
       "recid": "9304dd2a-0e65-4523-8ec7-ce76e5707d76",
       "name": "T.KANNAIYAN",
       "nameTamil": "T.கண்ணயன்",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "2 lacs",
       "liabilityTamil": "2 லட்சம்",
-      "netAsset": "0 lacs",
-      "netAssetTamil": "0 லட்சம்",
+      "netAsset": " - 20500",
+      "netAssetTamil": " - 20500",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNAIYAN_T__Thiruvidaimarudur.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fa9c5e-c8ca-4009-96ac-a6d460fefa81",
       "name": "J.KUDANTHAI ARASAN",
       "nameTamil": "J.குடந்தை அரசன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVIDAIMARUDUR_10.jpg"
     },
     {
+      "slno": "6",
       "recid": "92feff45-14d4-4de1-b0ac-5a1d07b86fae",
       "name": "R.SURESH",
       "nameTamil": "R.சுரேஷ்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVIDAIMARUDUR_15.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fe994c-554a-4573-b921-96b04a861553",
       "name": "M.DIVYABHARATHI",
       "nameTamil": "M.திவ்யபாரதி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVIDAIMARUDUR_7.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff1693-4975-4f7f-bc5e-805135c5d6df",
       "name": "  R.MADHAN KUMAR",
       "nameTamil": "  R.மதன்குமார்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVIDAIMARUDUR_21.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fd4dd6-e97c-4695-9cb2-81d013aa3528",
       "name": "N.KANNAIYAN",
       "nameTamil": "N.கண்ணயன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KANNAIYAN_N__Thiruvidaimarudur.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff07db-76e7-491c-8749-dcffb93ff6ef",
       "name": "V.DHANASEKAR",
       "nameTamil": "V.தனசேகர்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVIDAIMARUDUR_17.jpg"
     },
     {
+      "slno": "11",
       "recid": "930289cb-87be-4234-8d3d-bc88a94a4cf5",
       "name": "S.NEDUMARAN",
       "nameTamil": "S.நெடுமாறன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVIDAIMARUDUR_18.jpg"
     },
     {
+      "slno": "12",
       "recid": "92ff181f-a066-457e-b64f-f086eb9b19e3",
       "name": "M.MATHI",
       "nameTamil": "M.மதி ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THIRUVIDAIMARUDUR_22.jpg"
     },
     {
+      "slno": "13",
       "recid": "9304da0b-153b-4e63-8edb-81b758b9301f",
       "name": "G.MARIMUTHU",
       "nameTamil": "G.மாரிமுத்து",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MARIMUTHU_G__Thiruvidaimarudur.jpg"
     },
     {
+      "slno": "14",
       "recid": "92ff016d-fcfd-4ea6-8710-bf988025d510",
       "name": "N .MARIYAPPAN",
       "nameTamil": "N .மாரியப்பன் ",

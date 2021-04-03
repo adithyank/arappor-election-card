@@ -2,6 +2,7 @@
   "name": "PAPPIREDDIPPATTI",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fee057-bc11-4ab3-a387-5809d7a86d9e",
       "name": "K.GOPI",
       "nameTamil": "K.கோபி",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPPIREDDIPPATTI_34.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304c0e3-73cf-45f8-989b-847ef572b302",
       "name": "A.GOVINDASAMY",
       "nameTamil": "A.கோவிந்தசாமி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_GOVINDASAMY_Pappireddipatti.jpg"
     },
     {
+      "slno": "3",
       "recid": "9304b8b2-10c5-4727-8344-d0d4c358f245",
       "name": "M.PRABHU RAJASEKAR",
       "nameTamil": "M.பிரபு ராஜசேகர் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/M_PRABHURAJASEKAR_Pappireddipatti.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fb1611-452d-40aa-8e29-88c33ae6c22b",
       "name": "N.SRINIVASAN",
       "nameTamil": "N.சீனிவாசன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SRINIVASAN_Pappireddipatti.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f67883-b960-48dd-8a02-bfa2d023cb7c",
       "name": "P.PALANIYAPPAN",
       "nameTamil": "P.பழனியப்பன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPPIREDDIPPATTI_2.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fb0fad-6987-4971-a550-4a3efcc75a74",
       "name": "R.MURUGAN",
       "nameTamil": "R.முருகன் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_MURUGAN_Pappireddipatti.jpg"
     },
     {
+      "slno": "7",
       "recid": "9304bd96-f084-47c9-a628-af2ce9c49ef7",
       "name": "R.RAMESH",
       "nameTamil": "R.ரமேஷ் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/R_RAMESH_Pappireddipatti.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f8744d-f747-473a-b0de-db4a0de5331f",
       "name": "K.ANANDKUMAR",
       "nameTamil": "K.ஆனந்த் குமார் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPPIREDDIPPATTI_13.jpg"
     },
     {
+      "slno": "9",
       "recid": "9304b075-aeb7-47bd-ae31-f2aec0c296c4",
       "name": "S.ELANGO",
       "nameTamil": "S.இளங்கோ ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/S_ELANGO_Pappireddipatti.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fe986e-7a76-4323-a2b9-cfb776c3041d",
       "name": "R.GOVINDASAMY",
       "nameTamil": "R.கோவிந்தசாமி ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPPIREDDIPPATTI_28.jpg"
     },
     {
+      "slno": "11",
       "recid": "9304bac7-e7d4-4fe8-9fbd-5954c33ef44b",
       "name": "P.SELVAM",
       "nameTamil": "P.செல்வம்  ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPPIREDDIPPATTI_42.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fee455-df3e-4b03-8a01-1dd950fa2ff5",
       "name": "R.PALANIYAPPAN",
       "nameTamil": "R.பழனியப்பன் ",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPPIREDDIPPATTI_37.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fee28e-3b7a-47d8-a79d-f84bebc824eb",
       "name": "K.MANIVANNAN",
       "nameTamil": "K.மணிவண்ணன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPPIREDDIPPATTI_36.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fc7de2-93b2-42e6-a6b5-5ab9efa3ba83",
       "name": "S.MURUGAN",
       "nameTamil": "S.முருகன் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPPIREDDIPPATTI_25.jpg"
     },
     {
+      "slno": "15",
       "recid": "92fedc10-2ece-4edd-ad94-05f0143fef6d",
       "name": "T.VEERAMANI",
       "nameTamil": "T.வீரமணி ",

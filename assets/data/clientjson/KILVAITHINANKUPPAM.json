@@ -2,6 +2,7 @@
   "name": "KILVAITHINANKUPPAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f5664e-be7b-4f97-9ce1-dc71fdde9ce4",
       "name": "K.Seetharaman",
       "nameTamil": "K.சீதாராமன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KSeetharaman_Kilvaithinankuppam.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fec9bb-a522-4891-b4d4-7ccd3ac9a9fd",
       "name": "P.DHANASEELAN",
       "nameTamil": "P.தனசீலன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVAITHINANKUPPAM_14.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fc8952-e404-428e-a930-6b333e047490",
       "name": "D.Pushpalatha",
       "nameTamil": "D.புஷ்பலதா ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVAITHINANKUPPAM_8.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f943cf-352d-4903-9395-85c3d11bf607",
       "name": "M.Jagan Moorthy",
       "nameTamil": "M.ஜெகன் மூர்த்தி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVAITHINANKUPPAM_7.jpg"
     },
     {
+      "slno": "5",
       "recid": "93069035-41ba-43a7-84c9-58b820ec55b2",
       "name": "K.Elavarasan",
       "nameTamil": "K.இளவரசன்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KELAVARASAN_Kilvaithinankuppam.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fef7a2-48b7-49bc-95b6-55c667aa16fb",
       "name": "K.SATHU",
       "nameTamil": "K.சாது ",
@@ -175,8 +181,8 @@
       "totalAssetTamil": "6 லட்சம்",
       "liability": "61 lacs",
       "liabilityTamil": "61 லட்சம்",
-      "netAsset": "- crore 55 lacs",
-      "netAssetTamil": "- கோடி 55 லட்சம்",
+      "netAsset": " - 55 lacs",
+      "netAssetTamil": " - 55 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை . ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVAITHINANKUPPAM_20.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f56212-72d5-44a5-91e9-f043beb22c25",
       "name": "J.Divya Rani",
       "nameTamil": "J.திவ்யா ராணி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVAITHINANKUPPAM_3.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fecf92-58c6-4120-a459-1cf9c47dde8e",
       "name": "K.VENKATASAMY",
       "nameTamil": "K.வேங்கடசாமி ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVAITHINANKUPPAM_15.jpg"
     },
     {
+      "slno": "9",
       "recid": "92feedf6-762f-4333-8dc2-2057a3535804",
       "name": "E.P.ELANCHEZHIYAN",
       "nameTamil": "E.P.இளஞ்செழியன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KILVAITHINANKUPPAM_18.jpg"
     },
     {
+      "slno": "10",
       "recid": "92fee1e9-a53a-450e-8497-b4e4cb4c4ad0",
       "name": "S.SELVA CHENGUTTUVAN",
       "nameTamil": "S.செல்வ செங்குட்டுவன் ",

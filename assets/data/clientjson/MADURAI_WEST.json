@@ -2,6 +2,7 @@
   "name": "MADURAI_WEST",
   "candidates": [
     {
+      "slno": "1",
       "recid": "930518c9-e5fb-4420-a765-cdc71c62227c",
       "name": "C.CHINNAMMAL",
       "nameTamil": "C.சின்னம்மாள்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHINNAMMAL_C_MaduraiWest.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fb39e9-a497-43d5-8d74-0ce5286bc428",
       "name": "P.BALACHANDRAN",
       "nameTamil": "P.பாலசந்திரன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_WEST_19.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f6e1bb-0241-44cc-b435-a9c36ff02906",
       "name": "K.Raju",
       "nameTamil": "K.ராஜு ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_WEST_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "93051a2c-0e9e-4b47-aa30-d4f00d698539",
       "name": "R.KARTHIKEYAN",
       "nameTamil": "R.கார்த்திகேயன்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/KARTHIKEYAN_R_MaduraiWest.jpg"
     },
     {
+      "slno": "5",
       "recid": "930104a7-23e2-431c-a8a2-f1f3d0c0ca6a",
       "name": "J.SULTHAN BADUSHA",
       "nameTamil": "J.சுல்தான்பாதுஷா",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_WEST_41.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fc767e-e4c6-4907-83f6-2a10747470bb",
       "name": "K.NAGAJOTHI",
       "nameTamil": "K.நாகஜோதி",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_WEST_18.jpg"
     },
     {
+      "slno": "7",
       "recid": "92feba92-bce6-42e0-918a-7cd295aa014f",
       "name": "V.Muniyasamy",
       "nameTamil": "V.முனியசாமி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_WEST_24.jpg"
     },
     {
+      "slno": "8",
       "recid": "92f6e41c-fe74-4ce9-8673-7de0402bde99",
       "name": "S.Vetrikumaran",
       "nameTamil": "S.வெற்றிக்குமரன்",
@@ -237,8 +245,8 @@
       "totalAssetTamil": "2 கோடி 21 லட்சம்",
       "liability": "4 crore 92 lacs",
       "liabilityTamil": "4 கோடி 92 லட்சம்",
-      "netAsset": "-2 crore 71 lacs",
-      "netAssetTamil": "-2 கோடி 71 லட்சம்",
+      "netAsset": " - 2 crore 71 lacs",
+      "netAssetTamil": " - 2 கோடி 71 லட்சம்",
       "criminalCase": "1",
       "caseDetailEnglish": "Rioting, armed with deadly weapons, Dacoity with  attempt to cause murder/ grievous hurt, Obscene act/language in public, Criminal intimidation,  possession prohibited arms or prohibited ammunition in contravention.. ",
       "caseDetailTamil": "கொடிய ஆயுதங்களுடன் கலகம் உண்டுபண்ணுதல், வழிப்பறி மற்றும் கொலைசெய்யும் நோக்கத்துடன் தாக்க முயற்சித்தல், பொதுவிடத்தில் ஆபாசமாக செயல்/பேசியது, கொலை மிரட்டல், விதிமீறி தடைசெய்யப்பட்ட ஆயுதம்/வெடிபொருட்கள் வைத்திருந்தது.. ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_WEST_2.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fefc3d-3bd0-4778-946b-a476bdda328a",
       "name": "K.K.Arasu Thiruvalavan",
       "nameTamil": "K.K..அரசு திருவளவன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_WEST_42.jpg"
     },
     {
+      "slno": "10",
       "recid": "9302b327-bfaf-44ae-b063-594635dc241c",
       "name": "K.ANBUMANIKANDANTAMILSOORIYAN",
       "nameTamil": "K.அன்புமணிகண்டன் தமிழ்சூரியன்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_WEST_22.jpg"
     },
     {
+      "slno": "11",
       "recid": "93051758-dcff-492c-b948-03724093fa5e",
       "name": "K.SULTHANBASHA",
       "nameTamil": "K.சுல்தான் பாஷா",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SULTHANBASHA_K_MaduraiWest.jpg"
     },
     {
+      "slno": "12",
       "recid": "93051fb7-0c23-4f6d-8dff-ab259d62397d",
       "name": "B.SEBASTHIYAN",
       "nameTamil": "B.செபஸ்தியான்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/SEBASTHIYAN_B_MaduraiWest.jpg"
     },
     {
+      "slno": "13",
       "recid": "93051559-4d2d-425f-b29f-dde910e9232a",
       "name": "M.PREMKUMAR",
       "nameTamil": "M.பிரேம்குமார்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PREMKUMAR_M_MaduraiWest.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fefa0b-059e-4541-a29b-82324bac01ca",
       "name": "N.Ramu",
       "nameTamil": "N.ராமு",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADURAI_WEST_37.jpg"
     },
     {
+      "slno": "15",
       "recid": "93090018-cc3f-4609-96bc-27c7cf841c1c",
       "name": "M.VENKATESAN",
       "nameTamil": "M.வெங்கடேசன் ",

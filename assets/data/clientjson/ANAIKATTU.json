@@ -2,6 +2,7 @@
   "name": "ANAIKATTU",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9304d7a2-a3e5-4ce4-8993-3bdc97466a0b",
       "name": "A.P.Nandhakumar",
       "nameTamil": "A.P.நந்தகுமார்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/A_P_Nandakumar_Anaikattu.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304d048-8d11-47e5-8093-1cf20a5ea34b",
       "name": "D.Velazhagan",
       "nameTamil": "D.வேலழகன் ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/D_Velazhagan_Anaikattu.jpg"
     },
     {
+      "slno": "3",
       "recid": "93049c87-4856-465e-84fd-780b8a84f087",
       "name": "V.D.Sathishkumar",
       "nameTamil": "V.D..சத்தீஷ்குமார் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANAIKATTU_24.jpg"
     },
     {
+      "slno": "4",
       "recid": "930197c8-ea2e-46b8-8538-407e6c66af52",
       "name": "A.Sumithra",
       "nameTamil": "A.சுமித்ரா ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANAIKATTU_15.jpg"
     },
     {
+      "slno": "5",
       "recid": "9304c936-0be7-4f11-9f9e-80b85920b112",
       "name": "K.Rajasekar",
       "nameTamil": "K.ராஜா சேகர் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_Rajasekar_Anaikattu.jpg"
     },
     {
+      "slno": "6",
       "recid": "92ff720f-e26b-4b09-8232-bb50db86f438",
       "name": "M.ARUN",
       "nameTamil": "M.அருண் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANAIKATTU_21.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fb1854-83e1-4713-99ec-2711b6e25825",
       "name": "R.Karunamoorthy",
       "nameTamil": "R.கருணாமூர்த்தி ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANAIKATTU_6.jpg"
     },
     {
+      "slno": "8",
       "recid": "93049609-cf2e-48d2-89e1-4f3aff0dfc72",
       "name": "N.Kirubakaran",
       "nameTamil": "N.கிருபாகரன் ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANAIKATTU_13.jpg"
     },
     {
+      "slno": "9",
       "recid": "92ff6cbc-d6bf-4395-8586-76146e2fccc9",
       "name": "M.SENTHILKUMAR",
       "nameTamil": "M.செந்தில்குமார் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANAIKATTU_19.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ff6541-3c80-4011-86b2-2b3d54dfe180",
       "name": "K.NAVEENKUMAR",
       "nameTamil": "K.நவீன்குமார் ",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANAIKATTU_18.jpg"
     },
     {
+      "slno": "11",
       "recid": "93019b3f-8c33-433a-91a0-77714457d9c5",
       "name": "T.MathanKumar",
       "nameTamil": "T.மதன் குமார்  ",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANAIKATTU_22.jpg"
     },
     {
+      "slno": "12",
       "recid": "92f7670e-7ace-414b-871d-0e65a7ee2f43",
       "name": "M.RAJBABU",
       "nameTamil": "M.ராஜ்பாபு",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/ANAIKATTU_2.jpg"
     },
     {
+      "slno": "13",
       "recid": "9304929d-2b54-4e58-a2c0-50be48edcd87",
       "name": "P.Venkatesan",
       "nameTamil": "P.வெங்கடேசன் ",

@@ -2,6 +2,7 @@
   "name": "TIRUPPUR_SOUTH",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92ff9b55-0d50-4abe-8203-bb9d4381ed38",
       "name": "S.Gunasekaran",
       "nameTamil": "S.குணசேகரன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_26.jpg"
     },
     {
+      "slno": "2",
       "recid": "9305b43c-ae93-4ff8-b0ef-df64675b02b4",
       "name": "P.CHELLAPANDI",
       "nameTamil": "P.செல்லப்பாண்டி ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHELLAPANDY_P__Tiruppur(South).jpg"
     },
     {
+      "slno": "3",
       "recid": "92f63991-ef96-4725-8532-1f6f2083feda",
       "name": "K.Selvaraj",
       "nameTamil": "K.செல்வராஜ்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_1.jpg"
     },
     {
+      "slno": "4",
       "recid": "93002c3f-4429-4419-be9f-9ef379e53309",
       "name": "G.Arunkumar",
       "nameTamil": "G.அருண்குமார்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_41.jpg"
     },
     {
+      "slno": "5",
       "recid": "930022e8-3600-45a6-9f90-8b26976c8e60",
       "name": "R.Anusha Ravi",
       "nameTamil": "R.அனுஷா ரவி",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_38.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fb0cb4-290e-45ec-9a80-f80cb9414fff",
       "name": "K.SHANMUGASUNDARAM",
       "nameTamil": "K.சண்முகசுந்தரம்   ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_8.jpg"
     },
     {
+      "slno": "7",
       "recid": "92ff9453-7e5a-4cbe-856a-50487233038a",
       "name": "K.Deiveegan",
       "nameTamil": "K.தெய்வீகன்",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_24.jpg"
     },
     {
+      "slno": "8",
       "recid": "92ff9702-cf02-4184-9f6d-05c9c3052dd4",
       "name": "A.Visalatchi",
       "nameTamil": "A.விசாலாட்சி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_25.jpg"
     },
     {
+      "slno": "9",
       "recid": "93001849-b553-47ec-9446-e43cb10af644",
       "name": "J.Aslam",
       "nameTamil": "J.அஸ்லம்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_33.jpg"
     },
     {
+      "slno": "10",
       "recid": "9301a036-3abc-48c8-9b75-21aff76ff222",
       "name": "E.GANESH",
       "nameTamil": "E.கணேஷ்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_36.jpg"
     },
     {
+      "slno": "11",
       "recid": "93001b4c-5f0b-4099-b7a1-ac4909aba84b",
       "name": "A.Kadar Basha",
       "nameTamil": "A.காதர் பாஷா",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_35.jpg"
     },
     {
+      "slno": "12",
       "recid": "930019fb-a832-4c37-85a7-3f7def18e088",
       "name": "I.Gunasekaran",
       "nameTamil": "I.குணசேகரன்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_34.jpg"
     },
     {
+      "slno": "13",
       "recid": "9300136f-d957-4ed2-8120-b8c9c6e79d3c",
       "name": "M.Gunasekar",
       "nameTamil": "M. குணசேகரன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_30.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fb0522-5382-4de2-a49c-dea2a93ef3ac",
       "name": "M.A.SARVALOGADAYABARAN",
       "nameTamil": "M.A.சர்வலோகதயாபரன் ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_7.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ffaaee-15b3-4ab7-a135-6109a8397b9f",
       "name": "A.Selvaraj",
       "nameTamil": "A.செல்வராஜ்",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_29.jpg"
     },
     {
+      "slno": "16",
       "recid": "9300290c-c226-44ad-b6df-96e4afa7f5d4",
       "name": "K.Selvan",
       "nameTamil": "K.செல்வன் ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_39.jpg"
     },
     {
+      "slno": "17",
       "recid": "93001622-12fe-4be0-82a1-0aca849389ef",
       "name": "R.Prakash",
       "nameTamil": "R.பிரகாஷ்",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_32.jpg"
     },
     {
+      "slno": "18",
       "recid": "92ff921e-cc23-46bc-bf35-4678c009d16d",
       "name": "G.Malarvizhi",
       "nameTamil": "G.மலர்விழி",
@@ -560,6 +578,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_23.jpg"
     },
     {
+      "slno": "19",
       "recid": "93002afa-009c-45ea-9c7e-d15edf8e01b2",
       "name": "K.Muthusamy",
       "nameTamil": "K.முத்துசாமி ",
@@ -591,6 +610,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/TIRUPPUR_SOUTH_40.jpg"
     },
     {
+      "slno": "20",
       "recid": "93072192-4802-4e88-9a04-a9a5cef65992",
       "name": "A.VIJAYAKUMAR",
       "nameTamil": "A.விஜயகுமார்",

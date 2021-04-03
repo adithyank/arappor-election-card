@@ -2,6 +2,7 @@
   "name": "PAPANASAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92faad1e-2899-4b17-8699-9b350c1bae6d",
       "name": "k.GOPINATHAN",
       "nameTamil": "k.கோபிநாதன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPANASAM_2.jpg"
     },
     {
+      "slno": "2",
       "recid": "92fcab06-cb19-4c1c-a037-5887b42a7ad4",
       "name": "M.H.JAWAHIRULLAH",
       "nameTamil": "M.H.ஜவாஹிருல்லா",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPANASAM_9.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fcbd45-b199-4931-ad0d-02a7ff9beca1",
       "name": "N.KRISHNA KUMAR",
       "nameTamil": "N.கிருஷ்ணகுமார்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPANASAM_11.jpg"
     },
     {
+      "slno": "4",
       "recid": "92ffbf97-ac83-405e-8e7e-bf35e4138e9c",
       "name": "K.SHANTA",
       "nameTamil": "K.சாந்தா",
@@ -113,8 +117,8 @@
       "totalAssetTamil": "3 லட்சம்",
       "liability": "7 lacs",
       "liabilityTamil": "7 லட்சம்",
-      "netAsset": "-4 lacs",
-      "netAssetTamil": "-4 லட்சம்",
+      "netAsset": " - 4 lacs",
+      "netAssetTamil": " - 4 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPANASAM_27.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fbb6cd-efb4-468f-ab5c-24493daa9176",
       "name": "R.MUTHUKUMAR",
       "nameTamil": "R.முத்துகுமார்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPANASAM_7.jpg"
     },
     {
+      "slno": "6",
       "recid": "9300c57b-9943-41c5-a36f-db83958027e9",
       "name": "N.MEHRAJBANU",
       "nameTamil": "N.மெஹராஜ்பானு",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPANASAM_16.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f71403-bed0-4275-95ac-90213a0073c2",
       "name": "M.RENGASAMY",
       "nameTamil": "M.ரெங்கசாமி",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPANASAM_1.jpg"
     },
     {
+      "slno": "8",
       "recid": "930261fd-5a27-4179-8f23-2cf272880c1f",
       "name": "N.GOPI",
       "nameTamil": "N.கோபி",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPANASAM_29.jpg"
     },
     {
+      "slno": "9",
       "recid": "93004f90-aa98-4818-8e00-44984dec3608",
       "name": "R.GOPINATHAN",
       "nameTamil": "R.கோபிநாதன்",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPANASAM_30.jpg"
     },
     {
+      "slno": "10",
       "recid": "92ffbcc0-8f9b-4532-86d2-d50fdbc3d4ec",
       "name": "S.XAVIER",
       "nameTamil": "S.சேவியர்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPANASAM_26.jpg"
     },
     {
+      "slno": "11",
       "recid": "930052a2-dd29-4118-a387-8cea662abfa8",
       "name": "V.THIYAGARAJAN",
       "nameTamil": "V.தியாகராஜன்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPANASAM_31.jpg"
     },
     {
+      "slno": "12",
       "recid": "92fbb3df-1215-4614-b9c4-965541a97ebd",
       "name": "A.RAJA",
       "nameTamil": "A.ராஜா",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PAPANASAM_6.jpg"
     },
     {
+      "slno": "13",
       "recid": "9300c8ef-5595-4f0c-9b2b-b4b4b2153738",
       "name": "A.RAJA",
       "nameTamil": "A.ராஜா",

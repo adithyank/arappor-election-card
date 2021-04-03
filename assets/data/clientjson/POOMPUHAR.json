@@ -2,6 +2,7 @@
   "name": "POOMPUHAR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92fb012a-2853-480f-976d-433fa0390b33",
       "name": "T.ILANCHEZHIAN",
       "nameTamil": "T.இளஞ்செழியன்",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POOMPUHAR_13.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f5900a-3e1f-4dd2-98c0-5eee05c02044",
       "name": "S.PAVUNRAJ",
       "nameTamil": "S.பவுன்ராஜ்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POOMPUHAR_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92f64177-0f9c-46ed-925c-2a8814f5516b",
       "name": "M.NIVEDHA M MURUGAN",
       "nameTamil": "M.நிவேதா எம். முருகன்",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POOMPUHAR_4.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f636c5-d232-427c-9577-82e31e11c68d",
       "name": "P.KALIYAMMAL",
       "nameTamil": "P.காளியம்மாள்",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POOMPUHAR_3.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fcd421-6ed6-4d4f-88ba-dce60c20459d",
       "name": "S.SENTHAMIZHAN",
       "nameTamil": "S.செந்தமிழன் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POOMPUHAR_18.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fccb3d-de43-4c4c-9443-600725812453",
       "name": "M.H.MEHARAJDEEN",
       "nameTamil": "M.H..மெஹாராஜ்தீன்",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POOMPUHAR_17.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fe9113-6231-4916-8f7f-cb24d5e27217",
       "name": "A.KALAIVANAN",
       "nameTamil": "A.கலைவாணன் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POOMPUHAR_22.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fe96fe-11aa-4cb0-bb94-cb8b8378b887",
       "name": "S.Pandiyarajan",
       "nameTamil": "S.பாண்டியராஜன் ",
@@ -237,8 +245,8 @@
       "totalAssetTamil": "22093",
       "liability": "2 lacs",
       "liabilityTamil": "2 லட்சம்",
-      "netAsset": "-2 lacs",
-      "netAssetTamil": "-2 லட்சம்",
+      "netAsset": " - 2 lacs",
+      "netAssetTamil": " - 2 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "ஏதுமில்லை . ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/POOMPUHAR_25.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fce0f4-cfb7-4f2a-81cf-06feb99729d7",
       "name": "S.Murugan",
       "nameTamil": "S.முருகன்",
@@ -268,8 +277,8 @@
       "totalAssetTamil": "2 லட்சம்",
       "liability": "5 lacs",
       "liabilityTamil": "5 லட்சம்",
-      "netAsset": "-3 lacs",
-      "netAssetTamil": "-3 லட்சம்",
+      "netAsset": " - 3 lacs",
+      "netAssetTamil": " - 3 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "ஏதுமில்லை . ",

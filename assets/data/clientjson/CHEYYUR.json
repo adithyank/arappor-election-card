@@ -2,6 +2,7 @@
   "name": "CHEYYUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f68a9e-cf20-4c47-bcb8-ff41c35688d1",
       "name": "S.Ilayaraja",
       "nameTamil": "S.S.இளையராஜா ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYUR_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f69053-0499-4fdf-b534-34b22eb84b2c",
       "name": "S.Kanitha",
       "nameTamil": "S.S.கணிதா ",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYUR_2.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fec38a-5809-4d6b-96ce-3926695a24c0",
       "name": "A.Siva",
       "nameTamil": "A.சிவா ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYUR_10.jpg"
     },
     {
+      "slno": "4",
       "recid": "92feb1fe-5621-48df-b9e2-7113caf09400",
       "name": "P.Anbu tamilsekaran",
       "nameTamil": "P.அன்பு தமிழ்ச்சேகரன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYUR_8.jpg"
     },
     {
+      "slno": "5",
       "recid": "92fcd79d-bfcf-47dc-8bb5-257b5ddb096c",
       "name": "M.Babu",
       "nameTamil": "M.பாபு ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYAR_17.jpg"
     },
     {
+      "slno": "6",
       "recid": "92feca5f-9960-475e-86a8-7c71760b2e78",
       "name": "R.Rajesh",
       "nameTamil": "R.ராஜேஷ் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYUR_14.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fec88f-08d9-41c3-9d35-dd33a03b4729",
       "name": "B.Amarnath",
       "nameTamil": "B.அமர்நாத் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYUR_13.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fec574-aa52-4bf9-9c8e-0940de47d464",
       "name": "E.Babu",
       "nameTamil": "E.பாபு ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/CHEYYUR_11.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fecce8-3fbe-4582-9a95-1c3a8641cb4f",
       "name": "M.Vinoth",
       "nameTamil": "M.வினோத் ",

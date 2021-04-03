@@ -2,6 +2,7 @@
   "name": "MADATHUKULAM",
   "candidates": [
     {
+      "slno": "1",
       "recid": "9300dac7-061e-4bb2-9e0a-74b6bc07d56c",
       "name": "J.Benjamin Kirubakaran",
       "nameTamil": "J.பெஞ்சமின் கிருபாகரன் ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_31.jpg"
     },
     {
+      "slno": "2",
       "recid": "92f6489a-8fcb-4eb1-87dd-c36673ffec0b",
       "name": "C.Mahendran",
       "nameTamil": "C.C. மஹேந்திரன்",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_1.jpg"
     },
     {
+      "slno": "3",
       "recid": "92ff70bc-5b76-465b-9d3f-aba142e8a9ad",
       "name": "R.Jayaramakrishnan",
       "nameTamil": "R.R.Jayaramakrishnan",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_17.jpg"
     },
     {
+      "slno": "4",
       "recid": "92fd68a4-214f-4a86-9759-1feb65566230",
       "name": "K.Kumaresan",
       "nameTamil": "K.குமரேசன் ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_11.jpg"
     },
     {
+      "slno": "5",
       "recid": "92ff7953-1f2a-4d8d-8ffe-307d1316c43b",
       "name": "K.Sakthivel",
       "nameTamil": "K.சக்திவேல்",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_26.jpg"
     },
     {
+      "slno": "6",
       "recid": "92f6baaf-963f-402e-945a-689243922909",
       "name": "C.Shanmugavelu",
       "nameTamil": "C.சண்முகவேலு ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_6.jpg"
     },
     {
+      "slno": "7",
       "recid": "92f9671b-8941-4ca8-84ca-99df057a5e68",
       "name": "U.Sanuja",
       "nameTamil": "U.சனுஜா  ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_7.jpg"
     },
     {
+      "slno": "8",
       "recid": "9300e0e6-2cc9-41a1-8ac7-8304dc836318",
       "name": "M.Shanmugavel",
       "nameTamil": "M.சண்முகவேல்",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_32.jpg"
     },
     {
+      "slno": "9",
       "recid": "92fd7448-bf9b-481b-9165-8d4f894b7495",
       "name": "P.Subramanian",
       "nameTamil": "P.சுப்ரமணியன்   ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_14.jpg"
     },
     {
+      "slno": "10",
       "recid": "9300d598-3ca4-4d17-a469-d8d0f97708d3",
       "name": "P.Thangaraj",
       "nameTamil": "P.தங்கராஜ்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_27.jpg"
     },
     {
+      "slno": "11",
       "recid": "93059a63-49ad-465d-833c-530d34b56917",
       "name": "K.Mahalingam",
       "nameTamil": "K.மகாலிங்கம்",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/K_MAHALINGAM_Madathukulam.jpg"
     },
     {
+      "slno": "12",
       "recid": "9300d735-891e-4c19-9bf3-88677a90d012",
       "name": "K.Mahendrakumar",
       "nameTamil": "K.மகேந்திரகுமார்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_29.jpg"
     },
     {
+      "slno": "13",
       "recid": "92fd6ffa-d94e-4d9c-bd31-91e4453b13e9",
       "name": "P.Mahendran",
       "nameTamil": "P.மகேந்திரன்",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/PMAHENDRAN_Madathukulam.jpg"
     },
     {
+      "slno": "14",
       "recid": "92fea251-e393-4a4d-96a3-a677834c7b40",
       "name": "K.Manickasamy",
       "nameTamil": "K.மாணிக்கசாமி ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/MADATHUKULAM_35.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff73d1-54ba-43fe-a137-5243648fe8bc",
       "name": "G.Ramakrishnan",
       "nameTamil": "G.ராமகிருஷ்ணன்",

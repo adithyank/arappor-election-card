@@ -2,6 +2,7 @@
   "name": "HOSUR",
   "candidates": [
     {
+      "slno": "1",
       "recid": "92f87164-ed86-4ca3-af3e-213089d96dda",
       "name": "Y.Prakaash",
       "nameTamil": "Y.பிரகாஷ் ",
@@ -20,8 +21,8 @@
       "totalAssetTamil": "7 கோடி 85 லட்சம்",
       "liability": "7 crore 86 lacs",
       "liabilityTamil": "7 கோடி 86 லட்சம்",
-      "netAsset": "-1 lacs",
-      "netAssetTamil": "-1 லட்சம்",
+      "netAsset": " - 1 lacs",
+      "netAssetTamil": " - 1 லட்சம்",
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "இல்லை . ",
@@ -33,6 +34,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_1.jpg"
     },
     {
+      "slno": "2",
       "recid": "9304db9b-35db-48ac-9495-1df2ea49e3af",
       "name": "S.Jyothi",
       "nameTamil": "S.ஜோதி",
@@ -64,6 +66,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/JYOTHIS_Hosur.jpg"
     },
     {
+      "slno": "3",
       "recid": "92fd1b61-463a-4e5f-b3fe-0e3c39652790",
       "name": "S.EZHILAN",
       "nameTamil": "S.எழிலன் ",
@@ -95,6 +98,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_14.jpg"
     },
     {
+      "slno": "4",
       "recid": "92f8fbfe-09f0-4e24-8c92-c01709ce7a7a",
       "name": "S.Geethalakshmi",
       "nameTamil": "S.கீதாலட்சுமி ",
@@ -126,6 +130,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_7.jpg"
     },
     {
+      "slno": "5",
       "recid": "92f875df-ef91-4c6b-a2c1-560ee4f2ef3b",
       "name": "L.Sundar",
       "nameTamil": "L.சுந்தர் ",
@@ -157,6 +162,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_2.jpg"
     },
     {
+      "slno": "6",
       "recid": "92fd1e53-796b-4370-9cc9-8e4d37463d01",
       "name": "G.SELVAM",
       "nameTamil": "G.செல்வம் ",
@@ -188,6 +194,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_16.jpg"
     },
     {
+      "slno": "7",
       "recid": "92fd205b-b642-4767-85b1-3afbcaeab3b6",
       "name": "S.MASOOD",
       "nameTamil": "S.மசூத் ",
@@ -219,6 +226,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_17.jpg"
     },
     {
+      "slno": "8",
       "recid": "92fafb81-630a-4c73-b106-1e9ff5251b50",
       "name": "M.MAREGOWDU",
       "nameTamil": "M.மாரேகவுடு ",
@@ -250,6 +258,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_9.jpg"
     },
     {
+      "slno": "9",
       "recid": "93008f1f-1afd-4fe7-bbd8-5b04de9ddc6b",
       "name": "G.Jayaseelan",
       "nameTamil": "G.ஜெயசீலன் ",
@@ -281,6 +290,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_28.jpg"
     },
     {
+      "slno": "10",
       "recid": "930089b5-8c53-499d-97b2-20498e3ed3bb",
       "name": "R.Kishore Kumar",
       "nameTamil": "R.கிஷோர் குமார்",
@@ -312,6 +322,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_27.jpg"
     },
     {
+      "slno": "11",
       "recid": "93009bf0-ac7c-49b3-a13d-d0cd168e56d7",
       "name": "V.Geetha",
       "nameTamil": "V.கீதா",
@@ -343,6 +354,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_31.jpg"
     },
     {
+      "slno": "12",
       "recid": "92f88895-a509-4518-ba34-e75cc35b6f4e",
       "name": "R.Shanmugam",
       "nameTamil": "R.இரா .சண்முகம்",
@@ -374,6 +386,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_3.jpg"
     },
     {
+      "slno": "13",
       "recid": "92f8f6a1-97f0-40e4-bac2-247fc3abd60d",
       "name": "Y.Devappa",
       "nameTamil": "Y.தேவப்பா என்கிற  தேவுடா ",
@@ -405,6 +418,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_6.jpg"
     },
     {
+      "slno": "14",
       "recid": "9300931c-1db9-4b48-99a4-419dec9afc9a",
       "name": "N.Balaraju",
       "nameTamil": "N.பாலராஜு ",
@@ -436,6 +450,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_29.jpg"
     },
     {
+      "slno": "15",
       "recid": "92ff8d40-2f32-49e9-ba55-dfea6de63324",
       "name": "S.MUTHAMIZH MUDHALVAN",
       "nameTamil": "S.முத்தமிழ் முதல்வன் ",
@@ -467,6 +482,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_25.jpg"
     },
     {
+      "slno": "16",
       "recid": "92fd1d0f-9cef-4402-9a11-7992bb2fee01",
       "name": "R.K.MUTHU",
       "nameTamil": "R.K.முத்து ",
@@ -498,6 +514,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_15.jpg"
     },
     {
+      "slno": "17",
       "recid": "93009791-0d4f-4086-ae0d-d0bf19d0fd2f",
       "name": "G.C.Ramasamy",
       "nameTamil": "G.C.ராமசாமி",
@@ -529,6 +546,7 @@
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/HOSUR_30.jpg"
     },
     {
+      "slno": "18",
       "recid": "930085f0-77de-4fed-bc29-9a620b33ca43",
       "name": "V.Lokesh Kumar",
       "nameTamil": "V.லோகேஷ் குமார் ",
