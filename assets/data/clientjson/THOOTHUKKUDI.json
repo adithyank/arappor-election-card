@@ -250,9 +250,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "null",
+      "symbolName": "PASTEL_AND_MORTAR",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/PASTEL_AND_MORTAR.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THOOTHUKKUDI_23.jpg",
       "photoName": "THOOTHUKKUDI_23",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/PASTEL_AND_MORTAR.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOOTHUKKUDI_23.jpg"
     },
     {
@@ -568,9 +570,11 @@
       "criminalCase": "0",
       "caseDetailEnglish": "",
       "caseDetailTamil": "",
-      "symbolUrl": "",
+      "symbolName": "BALLOON",
+      "symbolUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/symbols/BALLOON.JPG",
       "photoUrl": "https://candidacy.s3.ap-south-1.amazonaws.com/candidates/THOOTHUKKUDI_1.jpg",
       "photoName": "THOOTHUKKUDI_1",
+      "soSymbolUrl": "assets/data/retrieved-imgs/symbol/BALLOON.JPG",
       "soPhotoUrl": "assets/data/retrieved-imgs/candidates/THOOTHUKKUDI_1.jpg"
     },
     {
