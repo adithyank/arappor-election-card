@@ -28,21 +28,23 @@ public class Util
 
         boolean positive = amount > 0;
 
+        String prefix = positive ? "" : " - ";
+
         String str = "" + amount;
 
         str = str.replaceAll("-", "");
 
         if (str.length() <= 5)
-            return str;
+            return prefix + str;
         else if (str.length() == 6) //456789
-            return getFormatted(str, 1, false, lang, positive);
+            return getFormatted(str, 1, false, lang, prefix);
         else if (str.length() == 7) //1234567
-            return getFormatted(str, 2, false, lang, positive);
+            return getFormatted(str, 2, false, lang, prefix);
         else // > 7 : 1234,56,78,909
-            return getFormatted(str, str.length() - 7, true, lang, positive);
+            return getFormatted(str, str.length() - 7, true, lang, prefix);
     }
 
-    private static String getFormatted(String chars, int leftChars, boolean crore, String lang, boolean positive)
+    private static String getFormatted(String chars, int leftChars, boolean crore, String lang, String prefix)
     {
         String croreString = lang.equals("en") ? "crore" : "\u0B95\u0BCB\u0B9F\u0BBF";
         String lacString   = lang.equals("en") ? "lacs" : "\u0BB2\u0B9F\u0BCD\u0B9A\u0BAE\u0BCD";
@@ -50,8 +52,6 @@ public class Util
         String left = chars.substring(0, leftChars);
         String right = chars.substring(leftChars, leftChars + 2);
         String res = left + "." + right;
-
-        String prefix = positive ? "" : " - ";
 
         if (!crore)
             return prefix + ((int) Math.round(Double.parseDouble(res))) + " " + lacString;
