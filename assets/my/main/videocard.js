@@ -30,6 +30,8 @@ var candidatesTableConfig = {
 
                         var tableData = grid.get(sel[0])
 
+                        window.currentCandidate=tableData
+
                         if (viewmode === 'full')
                             sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/fullcard.html", tableData)
                         else
@@ -45,7 +47,9 @@ $(document).on('click', '#btnViewFullCard', function(e) {
     if (sel.length == 0)
        return
 
-    sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/fullcard.html", w2ui.candidatesTable.get(sel[0]))
+    window.currentCandidate=w2ui.candidatesTable.get(sel[0])
+
+    sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/fullcard.html", currentCandidate)
 })
 
 $(document).on('click', '#btnViewVideoCard', function(e) {
@@ -54,7 +58,8 @@ $(document).on('click', '#btnViewVideoCard', function(e) {
     if (sel.length == 0)
        return
 
-    sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/vcdesign.html", w2ui.candidatesTable.get(sel[0]))
+    window.currentCandidate=w2ui.candidatesTable.get(sel[0])
+    sirpi.jsrender.loadContent("videocardcontentdiv", "assets/templates/vcdesign.html", currentCandidate)
 })
 
 var getConstituencyJson = function(constituencyName, obj)
@@ -151,7 +156,7 @@ var saveAllCards = function(cardType)
 
         let candidate = window.currentTableJSON[candidateTableIdx]
         w2ui.candidatesTable.click(candidate.recid)
-        saveDivAsImage(c, candidate.photoName)
+        saveDivAsImage(c, candidate.photoName, candidate.slno)
 
         if (candidateTableIdx == window.currentTableJSON.length - 1)
         {
