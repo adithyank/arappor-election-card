@@ -70,7 +70,7 @@ public class PDFCreator
 
     private Gson gson = new Gson();
 
-    private List<Constituency> resp(boolean remoteCall) throws Exception
+    public List<Constituency> resp(boolean remoteCall) throws Exception
     {
         List<String> constituencies = readFile();
 
@@ -320,6 +320,9 @@ public class PDFCreator
 
     void printCounts(List<Constituency> cs)
     {
+        for (Constituency c : cs)
+            System.out.println(c.name + " : " + c.noOfCandidates() + " candidates");
+
         long count = cs.stream().mapToInt(Constituency::noOfCandidates).sum();
 
         System.out.println("Total candidates : " + count);

@@ -27,6 +27,11 @@ public class AMain
             PDFCreator c = new PDFCreator();
             c.prepareVideoHelperDoc();
         }
+        else if (cmd.equals("printCounts"))
+        {
+            PDFCreator c = new PDFCreator();
+            c.printCounts(c.resp(false));
+        }
     }
 }
 
